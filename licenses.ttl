@@ -6,7 +6,7 @@
 <> a skos:ConceptScheme;
     dct:title "Lizenzen für OEH-Upload"@de;
     dct:title "Licenses for OEH-Upload"@en;
-    dct:description "Eine Wertelliste für Lizenzen."@de;
+    dct:description "Eine Werteliste für Lizenzen."@de;
     dct:creator "<https://wirlernenonline.de>" ;
     dct:created "2020-01-15"^^xsd:date;
     dct:modified "2020-01-15"^^xsd:date;
