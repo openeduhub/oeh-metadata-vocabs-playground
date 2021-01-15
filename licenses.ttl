@@ -1,13 +1,12 @@
-@base <http://w3id.org/openeduhub/vocabs/licenses/> .
+@base <http://openeduhub.github.io/oeh-metadata-vocabs-playground/licenses/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix eduLevel: <http://w3id.org/openeduhub/vocabs/educationalLevel/> .
 
 <> a skos:ConceptScheme;
     dct:title "Lizenzen für OEH-Upload"@de;
     dct:title "Licenses for OEH-Upload"@en;
-    dct:description "Eine Wertelliste für Schultypen im deutschen Schulsystem. Entstanden im Kontext des OpenEduHub."@de;
+    dct:description "Eine Wertelliste für Lizenzen."@de;
     dct:creator "<https://wirlernenonline.de>" ;
     dct:created "2020-01-15"^^xsd:date;
     dct:modified "2020-01-15"^^xsd:date;
