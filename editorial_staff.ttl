@@ -1,0 +1,114 @@
+@base <http://w3id.org/openeduhub/vocabs-playground/editorial_staff/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<> a skos:ConceptScheme;
+    dct:title "Werteliste der OEH-Fachredaktionen"@de;
+    dct:description "Eine Werteliste der OEH-Fachredaktionen."@de;
+    dct:creator "<https://wirlernenonline.de>" ;
+    dct:created "2020-01-19"^^xsd:date;
+    dct:modified "2020-01-19"^^xsd:date;
+    dct:issued "2020-01-19"^^xsd:date;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <GROUP_WLO-OER>, <GROUP_WLO-Theater>, <GROUP_WLO-Informatik>, 
+        <GROUP_WLO-Kunst>, <GROUP_WLO-Redaktionsleitung>, <GROUP_WLO-Redaktion>,
+        <GROUP_WLO-Medienbildung>, <GROUP_WLO-Physik>, <GROUP_WLO-Mathematik>, 
+        <GROUP_WLO-Musik>, <GROUP_WLO-Sport>, <GROUP_WLO-DaZ>, <GROUP_WLO-Deutsch>,
+        <GROUP_WLO-Chemie>, <GROUP_WLO-Fachportalmanager>, <GROUP_WLO-Türkisch>,
+        <GROUP_WLO-Biologie>, <GROUP_WLO-Nachhaltigkeit>, <GROUP_WLO-Englisch>,
+        <GROUP_WLO-Spanisch>, <GROUP_WLO-Religion>, <GROUP_WLO-Geschichte>, 
+        <GROUP_WLO-Doku> ;
+    .
+
+<GROUP_WLO-OER> a skos:Concept ;
+    skos:prefLabel "OER"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Theater> a skos:Concept ;
+    skos:prefLabel "Darstellendes Spie"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Informatik> a skos:Concept ;
+    skos:prefLabel "Informatik"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Kunst> a skos:Concept ;
+    skos:prefLabel "Kuns"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Redaktionsleitung> a skos:Concept ;
+    skos:prefLabel "WLO-Redaktionsleitung"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Redaktion> a skos:Concept ;
+    skos:prefLabel "WLO-Redaktion"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Medienbildung> a skos:Concept ;
+    skos:prefLabel "Medienbildung"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Physik> a skos:Concept ;
+    skos:prefLabel "Physik"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Mathematik> a skos:Concept ;
+    skos:prefLabel "Mathematik"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Musik> a skos:Concept ;
+    skos:prefLabel "Musik"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Sport> a skos:Concept ;
+    skos:prefLabel "Sport"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-DaZ> a skos:Concept ;
+    skos:prefLabel "Deutsch als Zweitsprache"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Deutsch> a skos:Concept ;
+    skos:prefLabel "Deutsch"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Chemie> a skos:Concept ;
+    skos:prefLabel "Chemie"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Fachportalmanager> a skos:Concept ;
+    skos:prefLabel "WLO-Fachportalmanager"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Türkisch> a skos:Concept ;
+    skos:prefLabel "Türkisch"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Biologie> a skos:Concept ;
+    skos:prefLabel "Biologie"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Nachhaltigkeit> a skos:Concept ;
+    skos:prefLabel "Nachhaltigkeit"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Englisch> a skos:Concept ;
+    skos:prefLabel "Englisch"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Spanisch> a skos:Concept ;
+    skos:prefLabel "Spanisch"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Religion> a skos:Concept ;
+    skos:prefLabel "Religion"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Geschichte> a skos:Concept ;
+    skos:prefLabel "Geschichte"@de ;
+    skos:topConceptOf <> .
+
+<GROUP_WLO-Doku> a skos:Concept ;
+    skos:prefLabel ""@de ;
+    skos:topConceptOf <> .
