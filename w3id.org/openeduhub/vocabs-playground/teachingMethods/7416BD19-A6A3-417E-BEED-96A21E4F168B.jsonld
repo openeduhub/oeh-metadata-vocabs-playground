@@ -36,6 +36,12 @@
       "prefLabel": {
         "de": "Talkshow"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/DB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C",
+      "prefLabel": {
+        "de": "Fishbowl"
+      }
     }
   ],
   "inScheme": {

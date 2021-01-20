@@ -1,58 +1,23 @@
 {
-  "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/7416BD19-A6A3-417E-BEED-96A21E4F168B",
+  "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/DB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F7416BD19-A6A3-417E-BEED-96A21E4F168B",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F7416BD19-A6A3-417E-BEED-96A21E4F168B",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FDB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FDB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C",
   "prefLabel": {
-    "de": "Gesprächsorientierte Methoden"
+    "de": "Fishbowl"
   },
-  "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/72F3226C-28D8-47E8-88A8-22F72A7036E1",
-      "prefLabel": {
-        "de": "Blitzlicht"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/87743ADB-9875-4C2F-905D-71B84CB533AA",
-      "prefLabel": {
-        "de": "Placemat"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/7D3C1360-F0F9-4B18-BD23-17D6600C91D9",
-      "prefLabel": {
-        "de": "Prioritätenspiel"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/934D4AAD-D407-455F-8057-5EEA8221415A",
-      "prefLabel": {
-        "de": "Expertenarbeit / Gruppenpuzzle"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/FBF31A89-42D1-4557-9DC6-CBC85AE4BEA0",
-      "prefLabel": {
-        "de": "Talkshow"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/DB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C",
-      "prefLabel": {
-        "de": "Fishbowl"
-      }
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/7416BD19-A6A3-417E-BEED-96A21E4F168B",
+    "prefLabel": {
+      "de": "Gesprächsorientierte Methoden"
     }
-  ],
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/",
     "title": {
       "de": "Werteliste für Unterrichtsmethoden",
       "en": "Value list for teaching methods"
     }
-  },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/"
   },
   "@context": {
     "@version": 1.1,
