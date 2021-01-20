@@ -26,7 +26,8 @@
             <87743ADB-9875-4C2F-905D-71B84CB533AA>,
             <7D3C1360-F0F9-4B18-BD23-17D6600C91D9>,
             <934D4AAD-D407-455F-8057-5EEA8221415A>,
-            <FBF31A89-42D1-4557-9DC6-CBC85AE4BEA0> ;
+            <FBF31A89-42D1-4557-9DC6-CBC85AE4BEA0>,
+            <DB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C> ;
         skos:topConceptOf <> ;
         .
 
@@ -56,6 +57,12 @@
 
 <FBF31A89-42D1-4557-9DC6-CBC85AE4BEA0> a skos:Concept ;
         skos:prefLabel "Talkshow"@de ;
+        skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
+        skos:inScheme <> ;
+        .
+
+<DB9447C6-C8B5-44AF-9FEC-0E2BEEA2D50C> a skos:Concept ;
+        skos:prefLabel "Fishbowl"@de ;
         skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
         skos:inScheme <> ;
         .
@@ -176,6 +183,8 @@
 
 <48F08C9F-4261-4688-ABF7-D15923D373CD> a skos:Concept ;
         skos:prefLabel "Spielorientierte Methoden"@de ;
+        skos:narrower <24868D03-FA27-4820-951A-F42D36BC8A00>,
+            <A81F0602-B972-459A-9F3C-8191757A18FD> ;
         skos:topConceptOf <> ;
         .
 
