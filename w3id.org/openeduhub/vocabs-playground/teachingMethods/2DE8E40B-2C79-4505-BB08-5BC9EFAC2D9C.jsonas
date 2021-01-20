@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/teachingMethods/2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C",
+  "type": "Service",
+  "name": "Erstellung von Materialien zur politischen Teilhabe (Plakat, Flugblatt, Broschüre, Homepage, Blog) ",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732d706c617967726f756e642f7465616368696e674d6574686f64732f32444538453430422d324337392d343530352d424230382d354243394546414332443943",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C",
+  "publicKey": {
+    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/teachingMethods/2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C#main-key",
+    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/teachingMethods/2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}
