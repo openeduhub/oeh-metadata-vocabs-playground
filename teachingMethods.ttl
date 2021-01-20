@@ -12,18 +12,178 @@
     dct:modified "2020-01-20"^^xsd:date;
     dct:issued "2020-01-20"^^xsd:date;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1>, 
-        <6C34F266-421F-4904-8F07-F46AB90B1625> ;
+    skos:hasTopConcept <7416BD19-A6A3-417E-BEED-96A21E4F168B>,
+        <21116F33-8166-413D-9081-D6F86EDA4C1D>,
+        <D4C4F041-018F-4975-A410-582D28D5267B>,
+        <90B9BC6D-33FA-4573-81D8-562317C5EF21>,
+        <48F08C9F-4261-4688-ABF7-D15923D373CD>,
+        <11493350-DC46-415E-8497-372570B1FF99> ;
     .
 
-<6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1> a skos:Concept ;
-    skos:prefLabel "Kollaboratives Arbeiten"@de ;
-    skos:topConceptOf <>
-    .
+<7416BD19-A6A3-417E-BEED-96A21E4F168B> a skos:Concept ;
+        skos:prefLabel "Gesprächsorientierte Methoden"@de ;
+        skos:narrower <72F3226C-28D8-47E8-88A8-22F72A7036E1>,
+            <87743ADB-9875-4C2F-905D-71B84CB533AA>,
+            <7D3C1360-F0F9-4B18-BD23-17D6600C91D9>,
+            <934D4AAD-D407-455F-8057-5EEA8221415A>,
+            <FBF31A89-42D1-4557-9DC6-CBC85AE4BEA0> ;
+        skos:topConceptOf <> ;
+        .
 
-<6C34F266-421F-4904-8F07-F46AB90B1625> a skos:Concept ;
-    skos:prefLabel "Gruppenpuzzle"@de ;
-    skos:relatedMatch <https://de.wikipedia.org/wiki/Gruppenpuzzle> ;
-    skos:topConceptOf <> 
-    .
+<72F3226C-28D8-47E8-88A8-22F72A7036E1> a skos:Concept ;
+        skos:prefLabel "Blitzlicht"@de ;
+        skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
+        skos:inScheme <> ;
+        .
 
+<87743ADB-9875-4C2F-905D-71B84CB533AA> a skos:Concept ;
+        skos:prefLabel "Placemat"@de ;
+        skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
+        skos:inScheme <> ;
+        .
+
+<7D3C1360-F0F9-4B18-BD23-17D6600C91D9> a skos:Concept ;
+        skos:prefLabel "Prioritätenspiel"@de ;
+        skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
+        skos:inScheme <> ;
+        .
+
+<934D4AAD-D407-455F-8057-5EEA8221415A> a skos:Concept ;
+        skos:prefLabel "Expertenarbeit / Gruppenpuzzle"@de ;
+        skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
+        skos:inScheme <> ;
+        .
+
+<FBF31A89-42D1-4557-9DC6-CBC85AE4BEA0> a skos:Concept ;
+        skos:prefLabel "Talkshow"@de ;
+        skos:broader <7416BD19-A6A3-417E-BEED-96A21E4F168B> ;
+        skos:inScheme <> ;
+        .
+
+#####
+
+<21116F33-8166-413D-9081-D6F86EDA4C1D> a skos:Concept ;
+        skos:prefLabel "Textorientierte Methoden"@de ;
+        skos:narrower <819B71D7-6C0D-4474-86DE-755BBDF68C83>,
+            <F121DA6C-2A00-47DC-AE50-0F91ED0BD630>,
+            <478BA17D-35B0-42F4-8F96-83550FE1D459>,
+            <DC17FFBF-9577-4A27-B558-66103C481A96> ;
+        skos:topConceptOf <> ;
+        .
+
+<819B71D7-6C0D-4474-86DE-755BBDF68C83> a skos:Concept ;
+        skos:prefLabel "Schlagzeilencollage / Zitatecollage"@de ;
+        skos:broader <21116F33-8166-413D-9081-D6F86EDA4C1D> ;
+        skos:inScheme <> ;
+        .
+
+<F121DA6C-2A00-47DC-AE50-0F91ED0BD630> a skos:Concept ;
+        skos:prefLabel "Biografische Studien"@de ;
+        skos:broader <21116F33-8166-413D-9081-D6F86EDA4C1D> ;
+        skos:inScheme <> ;
+        .
+
+<478BA17D-35B0-42F4-8F96-83550FE1D459> a skos:Concept ;
+        skos:prefLabel "Songanalyse"@de ;
+        skos:broader <21116F33-8166-413D-9081-D6F86EDA4C1D> ;
+        skos:inScheme <> ;
+        .
+
+<DC17FFBF-9577-4A27-B558-66103C481A96> a skos:Concept ;
+        skos:prefLabel "Erschließung von Sachtexten"@de ;
+        skos:broader <21116F33-8166-413D-9081-D6F86EDA4C1D> ;
+        skos:inScheme <> ;
+        .
+
+#####
+
+<D4C4F041-018F-4975-A410-582D28D5267B> a skos:Concept ;
+        skos:prefLabel "Produktorientierte Methoden"@de ;
+        skos:narrower <001A214B-7374-4F09-A76C-92E5C5BA5410>,
+            <252EC416-6893-4C5D-B3DF-CA02FFF09AD1>,
+            <2900C181-F538-43CA-8C8C-3A0EB9130011>,
+            <2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C> ;
+        skos:topConceptOf <> ;
+        .
+
+<001A214B-7374-4F09-A76C-92E5C5BA5410> a skos:Concept ;
+        skos:prefLabel "Präsentation"@de ;
+        skos:broader <D4C4F041-018F-4975-A410-582D28D5267B> ;
+        skos:inScheme <> ;
+        .
+
+<252EC416-6893-4C5D-B3DF-CA02FFF09AD1> a skos:Concept ;
+        skos:prefLabel "Kommentar / Leserbrief"@de ;
+        skos:broader <D4C4F041-018F-4975-A410-582D28D5267B> ;
+        skos:inScheme <> ;
+        .
+
+<2900C181-F538-43CA-8C8C-3A0EB9130011> a skos:Concept ;
+        skos:prefLabel "Erarbeitung eines Fachwortschatzes"@de ;
+        skos:broader <D4C4F041-018F-4975-A410-582D28D5267B> ;
+        skos:inScheme <> ;
+        .
+
+<2DE8E40B-2C79-4505-BB08-5BC9EFAC2D9C> a skos:Concept ;
+        skos:prefLabel "Erstellung von Materialien zur politischen Teilhabe (Plakat, Flugblatt, Broschüre, Homepage, Blog) "@de ;
+        skos:broader <D4C4F041-018F-4975-A410-582D28D5267B> ;
+        skos:inScheme <> ;
+        .
+
+####
+
+<90B9BC6D-33FA-4573-81D8-562317C5EF21> a skos:Concept ;
+        skos:prefLabel "Visuell orientierte Methoden"@de ;
+        skos:narrower <4FAA6AB0-FD55-4E52-BCE5-F61E0C93BD9E>,
+            <29C980B3-33C0-4616-B2B9-766DFF90FCCC>,
+            <9FAA00D5-4EE5-4BE1-AE16-962F7D967748>,
+            <58A37E1B-0443-49E3-8210-70F108B754F4>,
+            <B87AFA99-6A39-46B8-94D3-AF4422C75276> ;
+        skos:topConceptOf <> ;
+        .
+
+<4FAA6AB0-FD55-4E52-BCE5-F61E0C93BD9E> a skos:Concept ;
+        skos:prefLabel "Fotocollage / Bilderreihe "@de ;
+        skos:broader <90B9BC6D-33FA-4573-81D8-562317C5EF21> ;
+        skos:inScheme <> ;
+        .
+
+<29C980B3-33C0-4616-B2B9-766DFF90FCCC> a skos:Concept ;
+        skos:prefLabel "Mindmap"@de ;
+        skos:broader <90B9BC6D-33FA-4573-81D8-562317C5EF21> ;
+        skos:inScheme <> ;
+        .
+
+<9FAA00D5-4EE5-4BE1-AE16-962F7D967748> a skos:Concept ;
+        skos:prefLabel "Analyse von Karikaturen und Karika-Tour"@de ;
+        skos:broader <90B9BC6D-33FA-4573-81D8-562317C5EF21> ;
+        skos:inScheme <> ;
+        .
+
+<58A37E1B-0443-49E3-8210-70F108B754F4> a skos:Concept ;
+        skos:prefLabel "Analyse von Plakaten und Titelblättern"@de ;
+        skos:broader <90B9BC6D-33FA-4573-81D8-562317C5EF21> ;
+        skos:inScheme <> ;
+        .
+
+<B87AFA99-6A39-46B8-94D3-AF4422C75276> a skos:Concept ;
+        skos:prefLabel "Analyse von statistischen Darstellungen"@de ;
+        skos:broader <90B9BC6D-33FA-4573-81D8-562317C5EF21> ;
+        skos:inScheme <> ;
+        .
+
+####
+
+<48F08C9F-4261-4688-ABF7-D15923D373CD> a skos:Concept ;
+        skos:prefLabel "Spielorientierte Methoden"@de ;
+        skos:topConceptOf <> ;
+        .
+
+
+####
+
+
+<11493350-DC46-415E-8497-372570B1FF99> a skos:Concept ;
+        skos:prefLabel "Forschungsorientierte Methoden"@de ;
+        skos:topConceptOf <> ;
+        .
