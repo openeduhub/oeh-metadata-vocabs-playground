@@ -1,0 +1,569 @@
+@base <http://w3id.org/openeduhub/vocabs-playground/digitalCompetences/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<004998f4-b3ad-11e9-b7fd-0242ac140004> a skos:Concept ;
+    skos:broader <9e0294ea-b3aa-11e9-a9c1-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.1.1 Abrufen (Stufe 1/2)"@de .
+
+<007f45ae-b3ac-11e9-be51-0242ac140004> a skos:Concept ;
+    skos:broader <981c6524-b3aa-11e9-a285-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.5.4 Bewerten (Stufe 6)"@de .
+
+<010c281e-b3ae-11e9-8669-0242ac140004> a skos:Concept ;
+    skos:broader <b6519eba-b3aa-11e9-b1fe-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.1.3 Anwenden (Stufe 5)"@de .
+
+<06d4c4e8-b3ab-11e9-9ae2-0242ac140004> a skos:Concept ;
+    skos:broader <79f2e76c-b3aa-11e9-a389-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.1.5 Generieren (Stufe 7/8)"@de .
+
+<0761abe4-b3ae-11e9-9729-0242ac140004> a skos:Concept ;
+    skos:broader <b6519eba-b3aa-11e9-b1fe-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.1.4 Bewerten (Stufe 6)"@de .
+
+<07d437dc-b3ad-11e9-9662-0242ac140004> a skos:Concept ;
+    skos:broader <9e0294ea-b3aa-11e9-a9c1-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.1.2 Verstehen (Stufe 3/4)"@de .
+
+<0ab05b80-b3ac-11e9-89af-0242ac140004> a skos:Concept ;
+    skos:broader <981c6524-b3aa-11e9-a285-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.5.5 Generieren (Stufe 7/8)"@de .
+
+<0d8b077c-b3ae-11e9-b1c3-0242ac140004> a skos:Concept ;
+    skos:broader <b6519eba-b3aa-11e9-b1fe-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.1.5 Generieren (Stufe 7/8)"@de .
+
+<106fbf06-b3ad-11e9-a9b4-0242ac140004> a skos:Concept ;
+    skos:broader <9e0294ea-b3aa-11e9-a9c1-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.1.3 Anwenden (Stufe 5)"@de .
+
+<11ef1dc4-b3ab-11e9-bb40-0242ac140004> a skos:Concept ;
+    skos:broader <80c8b94a-b3aa-11e9-aa1d-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.2.1 Abrufen (Stufe 1/2)"@de .
+
+<16698b20-b3ae-11e9-b587-0242ac140004> a skos:Concept ;
+    skos:broader <b9eb681c-b3aa-11e9-9b94-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.2.1 Abrufen (Stufe 1/2)"@de .
+
+<17460b64-b3ad-11e9-8ae3-0242ac140004> a skos:Concept ;
+    skos:broader <9e0294ea-b3aa-11e9-a9c1-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.1.4 Bewerten (Stufe 6)"@de .
+
+<1dca3e7e-b3ad-11e9-a7e8-0242ac140004> a skos:Concept ;
+    skos:broader <9e0294ea-b3aa-11e9-a9c1-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.1.5 Generieren (Stufe 7/8)"@de .
+
+<1e4ddd9e-b3ab-11e9-8013-0242ac140004> a skos:Concept ;
+    skos:broader <80c8b94a-b3aa-11e9-aa1d-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.2.2 Verstehen (Stufe 3/4)"@de .
+
+<1fcc39d8-b3ae-11e9-8d3d-0242ac140004> a skos:Concept ;
+    skos:broader <c0805fa2-b3aa-11e9-bc07-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.3.1 Abrufen (Stufe 1/2)"@de .
+
+<271d25ec-b3ab-11e9-b051-0242ac140004> a skos:Concept ;
+    skos:broader <80c8b94a-b3aa-11e9-aa1d-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.2.3 Anwenden (Stufe 5)"@de .
+
+<28ebdf2e-b3ad-11e9-9853-0242ac140004> a skos:Concept ;
+    skos:broader <a29f469c-b3aa-11e9-ab58-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.3.1 Abrufen (Stufe 1/2)"@de .
+
+<297c1070-b3ae-11e9-b6bd-0242ac140004> a skos:Concept ;
+    skos:broader <c4a95c46-b3aa-11e9-b0af-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.4.1 Abrufen (Stufe 1/2)"@de .
+
+<2f4b4604-b3ab-11e9-9b0b-0242ac140004> a skos:Concept ;
+    skos:broader <80c8b94a-b3aa-11e9-aa1d-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.2.4 Bewerten (Stufe 6)"@de .
+
+<305a298c-b3ad-11e9-957a-0242ac140004> a skos:Concept ;
+    skos:broader <a29f469c-b3aa-11e9-ab58-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.3.2 Verstehen (Stufe 3/4)"@de .
+
+<367ae6f0-b3ab-11e9-bcab-0242ac140004> a skos:Concept ;
+    skos:broader <80c8b94a-b3aa-11e9-aa1d-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.2.5 Generieren (Stufe 7/8)"@de .
+
+<379d4562-b3ad-11e9-af53-0242ac140004> a skos:Concept ;
+    skos:broader <a29f469c-b3aa-11e9-ab58-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.3.3 Anwenden (Stufe 5)"@de .
+
+<4055afa2-b3ab-11e9-9cc7-0242ac140004> a skos:Concept ;
+    skos:broader <8540b6da-b3aa-11e9-b8d2-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.3.1 Abrufen (Stufe 1/2)"@de .
+
+<46d86194-b3ab-11e9-9dea-0242ac140004> a skos:Concept ;
+    skos:broader <8540b6da-b3aa-11e9-b8d2-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.3.2 Verstehen (Stufe 3/4)"@de .
+
+<4eaeeba4-b3ab-11e9-b487-0242ac140004> a skos:Concept ;
+    skos:broader <8540b6da-b3aa-11e9-b8d2-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.3.3 Anwenden (Stufe 5)"@de .
+
+<5656fa72-b3ab-11e9-aea4-0242ac140004> a skos:Concept ;
+    skos:broader <8540b6da-b3aa-11e9-b8d2-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.3.4 Bewerten (Stufe 6)"@de .
+
+<5d949a88-b3ab-11e9-930f-0242ac140004> a skos:Concept ;
+    skos:broader <8540b6da-b3aa-11e9-b8d2-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.3.5 Generieren (Stufe 7/8)"@de .
+
+<6d921a50-b3ab-11e9-9e26-0242ac140004> a skos:Concept ;
+    skos:broader <8b33ce92-b3aa-11e9-80ca-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.1.1 Abrufen (Stufe 1/2)"@de .
+
+<78b7faee-b3ab-11e9-b0dc-0242ac140004> a skos:Concept ;
+    skos:broader <8b33ce92-b3aa-11e9-80ca-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.1.2 Verstehen (Stufe 3/4)"@de .
+
+<80d3d0cc-b3ab-11e9-a2e6-0242ac140004> a skos:Concept ;
+    skos:broader <8b33ce92-b3aa-11e9-80ca-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.1.3 Anwenden (Stufe 5)"@de .
+
+<8981d994-b3ab-11e9-9000-0242ac140004> a skos:Concept ;
+    skos:broader <8b33ce92-b3aa-11e9-80ca-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.1.4 Bewerten (Stufe 6)"@de .
+
+<90773e4c-b3ab-11e9-a261-0242ac140004> a skos:Concept ;
+    skos:broader <8b33ce92-b3aa-11e9-80ca-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.1.5 Generieren (Stufe 7/8)"@de .
+
+<9ab39e82-b3ab-11e9-ad4f-0242ac140004> a skos:Concept ;
+    skos:broader <8f4fe66e-b3aa-11e9-aecf-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.2.1 Abrufen (Stufe 1/2)"@de .
+
+<9e7ffb3a-b3ad-11e9-a912-0242ac140004> a skos:Concept ;
+    skos:broader <a29f469c-b3aa-11e9-ab58-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.3.4 Bewerten (Stufe 6)"@de .
+
+<a2b5a008-b3ab-11e9-a278-0242ac140004> a skos:Concept ;
+    skos:broader <8f4fe66e-b3aa-11e9-aecf-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.2.2 Verstehen (Stufe 3/4)"@de .
+
+<a6699c2a-b3ad-11e9-863e-0242ac140004> a skos:Concept ;
+    skos:broader <a29f469c-b3aa-11e9-ab58-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "3.3.5 Generieren (Stufe 7/8)"@de .
+
+<ab18d166-b3ab-11e9-b94e-0242ac140004> a skos:Concept ;
+    skos:broader <8f4fe66e-b3aa-11e9-aecf-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.2.3 Anwenden (Stufe 5)"@de .
+
+<b2642268-b3ab-11e9-8143-0242ac140004> a skos:Concept ;
+    skos:broader <8f4fe66e-b3aa-11e9-aecf-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.2.4 Bewerten (Stufe 6)"@de .
+
+<b50d01a4-b3ad-11e9-a7ad-0242ac140004> a skos:Concept ;
+    skos:broader <a82cb194-b3aa-11e9-b8b4-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.1.1 Abrufen (Stufe 1/2)"@de .
+
+<b9b796c6-b3ab-11e9-b2c8-0242ac140004> a skos:Concept ;
+    skos:broader <8f4fe66e-b3aa-11e9-aecf-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.2.5 Generieren (Stufe 7/8)"@de .
+
+<bbefa01c-b3ad-11e9-a7fb-0242ac140004> a skos:Concept ;
+    skos:broader <a82cb194-b3aa-11e9-b8b4-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.1.2 Verstehen (Stufe 3/4)"@de .
+
+<c386575a-b3ab-11e9-921f-0242ac140004> a skos:Concept ;
+    skos:broader <9311ad6e-b3aa-11e9-9464-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.4.1 Abrufen (Stufe 1/2)"@de .
+
+<c3f86b2c-b3ad-11e9-af01-0242ac140004> a skos:Concept ;
+    skos:broader <a82cb194-b3aa-11e9-b8b4-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.1.3 Anwenden (Stufe 5)"@de .
+
+<c9e91a06-b3ab-11e9-8dcd-0242ac140004> a skos:Concept ;
+    skos:broader <9311ad6e-b3aa-11e9-9464-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.4.2 Verstehen (Stufe 3/4)"@de .
+
+<cba74118-b3ad-11e9-b143-0242ac140004> a skos:Concept ;
+    skos:broader <a82cb194-b3aa-11e9-b8b4-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.1.4 Bewerten (Stufe 6)"@de .
+
+<d0cb10e0-b3ab-11e9-802c-0242ac140004> a skos:Concept ;
+    skos:broader <9311ad6e-b3aa-11e9-9464-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.4.3 Anwenden (Stufe 5)"@de .
+
+<d1906776-b3ad-11e9-b122-0242ac140004> a skos:Concept ;
+    skos:broader <a82cb194-b3aa-11e9-b8b4-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.1.5 Generieren (Stufe 7/8)"@de .
+
+<d2a7e1f0-b3aa-11e9-8328-0242ac140004> a skos:Concept ;
+    skos:broader <79f2e76c-b3aa-11e9-a389-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.1.1 Abrufen  (Stufe 1/2):"@de .
+
+<d7ddf136-b3ab-11e9-8443-0242ac140004> a skos:Concept ;
+    skos:broader <9311ad6e-b3aa-11e9-9464-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.4.4 Bewerten (Stufe 6)"@de .
+
+<dd4aa3f6-b3ad-11e9-89cf-0242ac140004> a skos:Concept ;
+    skos:broader <aca4e606-b3aa-11e9-98a0-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.3.1 Abrufen (Stufe 1/2)"@de .
+
+<df62b5cc-b3ab-11e9-b632-0242ac140004> a skos:Concept ;
+    skos:broader <9311ad6e-b3aa-11e9-9464-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.4.5 Generieren (Stufe 7/8)"@de .
+
+<e6aa07c0-b3ad-11e9-8173-0242ac140004> a skos:Concept ;
+    skos:broader <b15a9d30-b3aa-11e9-b7c9-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "4.4.1 Abrufen (Stufe 1/2)"@de .
+
+<e81fff8a-b3ab-11e9-bca6-0242ac140004> a skos:Concept ;
+    skos:broader <981c6524-b3aa-11e9-a285-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.5.1 Abrufen (Stufe 1/2)"@de .
+
+<e8a3e508-b3aa-11e9-b441-0242ac140004> a skos:Concept ;
+    skos:broader <79f2e76c-b3aa-11e9-a389-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.1.2 Verstehen (Stufe 3/4)"@de .
+
+<efe6a368-b3ab-11e9-a686-0242ac140004> a skos:Concept ;
+    skos:broader <981c6524-b3aa-11e9-a285-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.5.2 Verstehen (Stufe 3/4)"@de .
+
+<f1a839ee-b3ad-11e9-8d86-0242ac140004> a skos:Concept ;
+    skos:broader <b6519eba-b3aa-11e9-b1fe-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.1.1 Abrufen (Stufe 1/2)"@de .
+
+<f3b7c176-b3aa-11e9-855d-0242ac140004> a skos:Concept ;
+    skos:broader <79f2e76c-b3aa-11e9-a389-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.1.3 Anwenden (Stufe 5)"@de .
+
+<f9756cde-b3ab-11e9-9f31-0242ac140004> a skos:Concept ;
+    skos:broader <981c6524-b3aa-11e9-a285-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "2.5.3 Anwenden (Stufe 5)"@de .
+
+<fa582054-b3ad-11e9-b3e6-0242ac140004> a skos:Concept ;
+    skos:broader <b6519eba-b3aa-11e9-b1fe-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "5.1.2 Verstehen (Stufe 3/4)"@de .
+
+<fe735b3e-b3aa-11e9-8f5c-0242ac140004> a skos:Concept ;
+    skos:broader <79f2e76c-b3aa-11e9-a389-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "1.1.4 Bewerten (Stufe 6)"@de .
+
+<aca4e606-b3aa-11e9-98a0-0242ac140004> a skos:Concept ;
+    skos:broader <4fdc2fce-b3aa-11e9-b2be-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <dd4aa3f6-b3ad-11e9-89cf-0242ac140004> ;
+    skos:prefLabel "4.3 Schützen der Gesundheit und des Wohlbefindens"@de .
+
+<b15a9d30-b3aa-11e9-b7c9-0242ac140004> a skos:Concept ;
+    skos:broader <4fdc2fce-b3aa-11e9-b2be-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <e6aa07c0-b3ad-11e9-8173-0242ac140004> ;
+    skos:prefLabel "4.4 Schützen der Umwelt"@de .
+
+<b9eb681c-b3aa-11e9-9b94-0242ac140004> a skos:Concept ;
+    skos:broader <6e74948a-b3aa-11e9-a3d9-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <16698b20-b3ae-11e9-b587-0242ac140004> ;
+    skos:prefLabel "5.2 Anforderungen und die technologische Lösung identifizieren"@de .
+
+<c0805fa2-b3aa-11e9-bc07-0242ac140004> a skos:Concept ;
+    skos:broader <6e74948a-b3aa-11e9-a3d9-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <1fcc39d8-b3ae-11e9-8d3d-0242ac140004> ;
+    skos:prefLabel "5.3 Technologien kreativ nutzen"@de .
+
+<c4a95c46-b3aa-11e9-b0af-0242ac140004> a skos:Concept ;
+    skos:broader <6e74948a-b3aa-11e9-a3d9-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <297c1070-b3ae-11e9-b6bd-0242ac140004> ;
+    skos:prefLabel "5.4 Lücken in der digitalen Kompetenz erkennen"@de .
+
+<4b7e6d70-b3aa-11e9-af49-0242ac140004> a skos:Concept ;
+    skos:definition "None"@de ;
+    skos:narrower <9e0294ea-b3aa-11e9-a9c1-0242ac140004>,
+        <a29f469c-b3aa-11e9-ab58-0242ac140004> ;
+    skos:prefLabel "3. Digitale Inhalte erstellen"@de ;
+    skos:topConceptOf <> .
+
+<39eae692-b3aa-11e9-b49c-0242ac140004> a skos:Concept ;
+    skos:definition "None"@de ;
+    skos:narrower <79f2e76c-b3aa-11e9-a389-0242ac140004>,
+        <80c8b94a-b3aa-11e9-aa1d-0242ac140004>,
+        <8540b6da-b3aa-11e9-b8d2-0242ac140004> ;
+    skos:prefLabel "1. Mit Informationen und Daten umgehen"@de ;
+    skos:topConceptOf <> .
+
+<4fdc2fce-b3aa-11e9-b2be-0242ac140004> a skos:Concept ;
+    skos:definition "None"@de ;
+    skos:narrower <a82cb194-b3aa-11e9-b8b4-0242ac140004>,
+        <aca4e606-b3aa-11e9-98a0-0242ac140004>,
+        <b15a9d30-b3aa-11e9-b7c9-0242ac140004> ;
+    skos:prefLabel "4. Sicherheit"@de ;
+    skos:topConceptOf <> .
+
+<458e12bc-b3aa-11e9-9baa-0242ac140004> a skos:Concept ;
+    skos:definition "None"@de ;
+    skos:narrower <8b33ce92-b3aa-11e9-80ca-0242ac140004>,
+        <8f4fe66e-b3aa-11e9-aecf-0242ac140004>,
+        <9311ad6e-b3aa-11e9-9464-0242ac140004>,
+        <981c6524-b3aa-11e9-a285-0242ac140004> ;
+    skos:prefLabel "2. Kommunizieren und zusammenarbeiten"@de ;
+    skos:topConceptOf <> .
+
+<6e74948a-b3aa-11e9-a3d9-0242ac140004> a skos:Concept ;
+    skos:definition "None"@de ;
+    skos:narrower <b6519eba-b3aa-11e9-b1fe-0242ac140004>,
+        <b9eb681c-b3aa-11e9-9b94-0242ac140004>,
+        <c0805fa2-b3aa-11e9-bc07-0242ac140004>,
+        <c4a95c46-b3aa-11e9-b0af-0242ac140004> ;
+    skos:prefLabel "5. Problemlösen"@de ;
+    skos:topConceptOf <> .
+
+<79f2e76c-b3aa-11e9-a389-0242ac140004> a skos:Concept ;
+    skos:broader <39eae692-b3aa-11e9-b49c-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <06d4c4e8-b3ab-11e9-9ae2-0242ac140004>,
+        <d2a7e1f0-b3aa-11e9-8328-0242ac140004>,
+        <e8a3e508-b3aa-11e9-b441-0242ac140004>,
+        <f3b7c176-b3aa-11e9-855d-0242ac140004>,
+        <fe735b3e-b3aa-11e9-8f5c-0242ac140004> ;
+    skos:prefLabel "1.1 Daten, Informationen und digitale Inhalte suchen und filtern"@de .
+
+<80c8b94a-b3aa-11e9-aa1d-0242ac140004> a skos:Concept ;
+    skos:broader <39eae692-b3aa-11e9-b49c-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <11ef1dc4-b3ab-11e9-bb40-0242ac140004>,
+        <1e4ddd9e-b3ab-11e9-8013-0242ac140004>,
+        <271d25ec-b3ab-11e9-b051-0242ac140004>,
+        <2f4b4604-b3ab-11e9-9b0b-0242ac140004>,
+        <367ae6f0-b3ab-11e9-bcab-0242ac140004> ;
+    skos:prefLabel "1.2 Daten, Informationen und digitale Inhalte beurteilen"@de .
+
+<8540b6da-b3aa-11e9-b8d2-0242ac140004> a skos:Concept ;
+    skos:broader <39eae692-b3aa-11e9-b49c-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <4055afa2-b3ab-11e9-9cc7-0242ac140004>,
+        <46d86194-b3ab-11e9-9dea-0242ac140004>,
+        <4eaeeba4-b3ab-11e9-b487-0242ac140004>,
+        <5656fa72-b3ab-11e9-aea4-0242ac140004>,
+        <5d949a88-b3ab-11e9-930f-0242ac140004> ;
+    skos:prefLabel "1.3 Daten, Informationen und digitale Inhalte verwalten und organisieren"@de .
+
+<8b33ce92-b3aa-11e9-80ca-0242ac140004> a skos:Concept ;
+    skos:broader <458e12bc-b3aa-11e9-9baa-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <6d921a50-b3ab-11e9-9e26-0242ac140004>,
+        <78b7faee-b3ab-11e9-b0dc-0242ac140004>,
+        <80d3d0cc-b3ab-11e9-a2e6-0242ac140004>,
+        <8981d994-b3ab-11e9-9000-0242ac140004>,
+        <90773e4c-b3ab-11e9-a261-0242ac140004> ;
+    skos:prefLabel "2.1 Interagieren mit Hilfe von digitalen Technologien"@de .
+
+<8f4fe66e-b3aa-11e9-aecf-0242ac140004> a skos:Concept ;
+    skos:broader <458e12bc-b3aa-11e9-9baa-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <9ab39e82-b3ab-11e9-ad4f-0242ac140004>,
+        <a2b5a008-b3ab-11e9-a278-0242ac140004>,
+        <ab18d166-b3ab-11e9-b94e-0242ac140004>,
+        <b2642268-b3ab-11e9-8143-0242ac140004>,
+        <b9b796c6-b3ab-11e9-b2c8-0242ac140004> ;
+    skos:prefLabel "2.2 Teilen digitaler Inhalte mit Hilfe von digitalen Technologien"@de .
+
+<9311ad6e-b3aa-11e9-9464-0242ac140004> a skos:Concept ;
+    skos:broader <458e12bc-b3aa-11e9-9baa-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <c386575a-b3ab-11e9-921f-0242ac140004>,
+        <c9e91a06-b3ab-11e9-8dcd-0242ac140004>,
+        <d0cb10e0-b3ab-11e9-802c-0242ac140004>,
+        <d7ddf136-b3ab-11e9-8443-0242ac140004>,
+        <df62b5cc-b3ab-11e9-b632-0242ac140004> ;
+    skos:prefLabel "2.4 Zusammenarbeiten mit Hilfe von digitalen Technologien"@de .
+
+<981c6524-b3aa-11e9-a285-0242ac140004> a skos:Concept ;
+    skos:broader <458e12bc-b3aa-11e9-9baa-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <007f45ae-b3ac-11e9-be51-0242ac140004>,
+        <0ab05b80-b3ac-11e9-89af-0242ac140004>,
+        <e81fff8a-b3ab-11e9-bca6-0242ac140004>,
+        <efe6a368-b3ab-11e9-a686-0242ac140004>,
+        <f9756cde-b3ab-11e9-9f31-0242ac140004> ;
+    skos:prefLabel "2.5 Netiquette"@de .
+
+<9e0294ea-b3aa-11e9-a9c1-0242ac140004> a skos:Concept ;
+    skos:broader <4b7e6d70-b3aa-11e9-af49-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <004998f4-b3ad-11e9-b7fd-0242ac140004>,
+        <07d437dc-b3ad-11e9-9662-0242ac140004>,
+        <106fbf06-b3ad-11e9-a9b4-0242ac140004>,
+        <17460b64-b3ad-11e9-8ae3-0242ac140004>,
+        <1dca3e7e-b3ad-11e9-a7e8-0242ac140004> ;
+    skos:prefLabel "3.1 Digitale Inhalte entwickeln"@de .
+
+<a29f469c-b3aa-11e9-ab58-0242ac140004> a skos:Concept ;
+    skos:broader <4b7e6d70-b3aa-11e9-af49-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <28ebdf2e-b3ad-11e9-9853-0242ac140004>,
+        <305a298c-b3ad-11e9-957a-0242ac140004>,
+        <379d4562-b3ad-11e9-af53-0242ac140004>,
+        <9e7ffb3a-b3ad-11e9-a912-0242ac140004>,
+        <a6699c2a-b3ad-11e9-863e-0242ac140004> ;
+    skos:prefLabel "3.3 Copyright und Lizenzen"@de .
+
+<a82cb194-b3aa-11e9-b8b4-0242ac140004> a skos:Concept ;
+    skos:broader <4fdc2fce-b3aa-11e9-b2be-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <b50d01a4-b3ad-11e9-a7ad-0242ac140004>,
+        <bbefa01c-b3ad-11e9-a7fb-0242ac140004>,
+        <c3f86b2c-b3ad-11e9-af01-0242ac140004>,
+        <cba74118-b3ad-11e9-b143-0242ac140004>,
+        <d1906776-b3ad-11e9-b122-0242ac140004> ;
+    skos:prefLabel "4.1 Schützen der Geräte"@de .
+
+<b6519eba-b3aa-11e9-b1fe-0242ac140004> a skos:Concept ;
+    skos:broader <6e74948a-b3aa-11e9-a3d9-0242ac140004> ;
+    skos:definition "None"@de ;
+    skos:inScheme <> ;
+    skos:narrower <010c281e-b3ae-11e9-8669-0242ac140004>,
+        <0761abe4-b3ae-11e9-9729-0242ac140004>,
+        <0d8b077c-b3ae-11e9-b1c3-0242ac140004>,
+        <f1a839ee-b3ad-11e9-8d86-0242ac140004>,
+        <fa582054-b3ad-11e9-b3e6-0242ac140004> ;
+    skos:prefLabel "5.1 Technische Probleme lösen"@de .
+
+<> a skos:ConceptScheme ;
+    dct:title "Kompetenzen in der digitalen Welt"@de ;
+    skos:hasTopConcept <39eae692-b3aa-11e9-b49c-0242ac140004>,
+        <458e12bc-b3aa-11e9-9baa-0242ac140004>,
+        <4b7e6d70-b3aa-11e9-af49-0242ac140004>,
+        <4fdc2fce-b3aa-11e9-b2be-0242ac140004>,
+        <6e74948a-b3aa-11e9-a3d9-0242ac140004> .
+
