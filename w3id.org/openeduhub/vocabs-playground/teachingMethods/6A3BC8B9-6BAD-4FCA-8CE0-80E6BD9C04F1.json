@@ -1,20 +1,20 @@
 {
-  "id": "http://w3id.org/openeduhub/vocabs-playground/teaching_methods/6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+  "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2Fteaching_methods%2F6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2Fteaching_methods%2F6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
   "prefLabel": {
     "de": "Kollaboratives Arbeiten"
   },
   "inScheme": {
-    "id": "http://w3id.org/openeduhub/vocabs-playground/teaching_methods/",
+    "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/",
     "title": {
       "de": "Werteliste für Unterrichtsmethoden",
       "en": "Value list for teaching methods"
     }
   },
   "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs-playground/teaching_methods/"
+    "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/"
   },
   "@context": {
     "@version": 1.1,
