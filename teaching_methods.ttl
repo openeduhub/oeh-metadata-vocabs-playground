@@ -1,0 +1,29 @@
+@base <http://w3id.org/openeduhub/vocabs-playground/teaching_methods/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<> a skos:ConceptScheme;
+    dct:title "Werteliste für Unterrichtsmethoden"@de;
+    dct:title "Value list for teaching methods"@en;
+    dct:description "Eine Werteliste für Unterrichtsmethoden."@de;
+    dct:creator "<https://wirlernenonline.de>" ;
+    dct:created "2020-01-20"^^xsd:date;
+    dct:modified "2020-01-20"^^xsd:date;
+    dct:issued "2020-01-20"^^xsd:date;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept <6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1>, 
+        <6C34F266-421F-4904-8F07-F46AB90B1625> ;
+    .
+
+<6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1> a skos:Concept ;
+    skos:prefLabel "Kollaboratives Arbeiten"@de ;
+    skos:topConceptOf <>
+    .
+
+<6C34F266-421F-4904-8F07-F46AB90B1625> a skos:Concept ;
+    skos:prefLabel "Gruppenpuzzle"@de ;
+    skos:relatedMatch <https://de.wikipedia.org/wiki/Gruppenpuzzle> ;
+    skos:topConceptOf <> 
+    .
+
