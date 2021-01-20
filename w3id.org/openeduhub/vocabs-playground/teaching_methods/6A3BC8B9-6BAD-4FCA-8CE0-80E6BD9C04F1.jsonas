@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/teaching_methods/6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+  "type": "Service",
+  "name": "Kollaboratives Arbeiten",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732d706c617967726f756e642f7465616368696e675f6d6574686f64732f36413342433842392d364241442d344643412d384345302d383045364244394330344631",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2Fteaching_methods%2F6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2Fteaching_methods%2F6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+  "publicKey": {
+    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/teaching_methods/6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1#main-key",
+    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/teaching_methods/6A3BC8B9-6BAD-4FCA-8CE0-80E6BD9C04F1",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}
