@@ -6,6 +6,26 @@
   "prefLabel": {
     "de": "Forschungsorientierte Methoden"
   },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/F3E5E1DA-096D-4A81-BD26-414044DF9E56",
+      "prefLabel": {
+        "de": "Beobachtungsbogen / Umfrage"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/532DDFFF-B2F7-48B9-976F-8A7750355879",
+      "prefLabel": {
+        "de": "Erkundung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/A2C25087-6099-4DFE-B46D-1E62B19A4F9A",
+      "prefLabel": {
+        "de": "Zeitzeugenbefragung"
+      }
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/",
     "title": {

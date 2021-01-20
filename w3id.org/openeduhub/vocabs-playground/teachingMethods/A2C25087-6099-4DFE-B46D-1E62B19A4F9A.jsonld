@@ -1,40 +1,23 @@
 {
-  "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/11493350-DC46-415E-8497-372570B1FF99",
+  "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/A2C25087-6099-4DFE-B46D-1E62B19A4F9A",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F11493350-DC46-415E-8497-372570B1FF99",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2F11493350-DC46-415E-8497-372570B1FF99",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FA2C25087-6099-4DFE-B46D-1E62B19A4F9A",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FA2C25087-6099-4DFE-B46D-1E62B19A4F9A",
   "prefLabel": {
-    "de": "Forschungsorientierte Methoden"
+    "de": "Zeitzeugenbefragung"
   },
-  "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/F3E5E1DA-096D-4A81-BD26-414044DF9E56",
-      "prefLabel": {
-        "de": "Beobachtungsbogen / Umfrage"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/532DDFFF-B2F7-48B9-976F-8A7750355879",
-      "prefLabel": {
-        "de": "Erkundung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/A2C25087-6099-4DFE-B46D-1E62B19A4F9A",
-      "prefLabel": {
-        "de": "Zeitzeugenbefragung"
-      }
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/11493350-DC46-415E-8497-372570B1FF99",
+    "prefLabel": {
+      "de": "Forschungsorientierte Methoden"
     }
-  ],
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/",
     "title": {
       "de": "Werteliste für Unterrichtsmethoden",
       "en": "Value list for teaching methods"
     }
-  },
-  "topConceptOf": {
-    "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/"
   },
   "@context": {
     "@version": 1.1,
