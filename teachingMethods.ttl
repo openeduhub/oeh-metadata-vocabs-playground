@@ -179,11 +179,42 @@
         skos:topConceptOf <> ;
         .
 
+<24868D03-FA27-4820-951A-F42D36BC8A00> a skos:Concept ;
+        skos:prefLabel "Quiz"@de ;
+        skos:broader <48F08C9F-4261-4688-ABF7-D15923D373CD> ;
+        skos:inScheme <> ;
+        .
+
+<A81F0602-B972-459A-9F3C-8191757A18FD> a skos:Concept ;
+        skos:prefLabel "WebQuest"@de ;
+        skos:broader <48F08C9F-4261-4688-ABF7-D15923D373CD> ;
+        skos:inScheme <> ;
+        .
 
 ####
 
-
 <11493350-DC46-415E-8497-372570B1FF99> a skos:Concept ;
         skos:prefLabel "Forschungsorientierte Methoden"@de ;
+        skos:narrower <F3E5E1DA-096D-4A81-BD26-414044DF9E56>,
+            <532DDFFF-B2F7-48B9-976F-8A7750355879>,
+            <A2C25087-6099-4DFE-B46D-1E62B19A4F9A> ;
         skos:topConceptOf <> ;
+        .
+
+<F3E5E1DA-096D-4A81-BD26-414044DF9E56> a skos:Concept ;
+        skos:prefLabel "Beobachtungsbogen / Umfrage"@de ;
+        skos:broader <11493350-DC46-415E-8497-372570B1FF99> ;
+        skos:inScheme <> ;
+        .
+
+<532DDFFF-B2F7-48B9-976F-8A7750355879> a skos:Concept ;
+        skos:prefLabel "Erkundung"@de ;
+        skos:broader <11493350-DC46-415E-8497-372570B1FF99> ;
+        skos:inScheme <> ;
+        .
+
+<A2C25087-6099-4DFE-B46D-1E62B19A4F9A> a skos:Concept ;
+        skos:prefLabel "Zeitzeugenbefragung"@de ;
+        skos:broader <11493350-DC46-415E-8497-372570B1FF99> ;
+        skos:inScheme <> ;
         .
