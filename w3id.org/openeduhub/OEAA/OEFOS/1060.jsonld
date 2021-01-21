@@ -1,0 +1,506 @@
+{
+  "id": "http://w3id.org/openeduhub/OEAA/OEFOS/1060",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2FOEAA%2FOEFOS%2F1060",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2FOEAA%2FOEFOS%2F1060",
+  "prefLabel": {
+    "de": "Biologie",
+    "en": "Biology"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106001",
+      "prefLabel": {
+        "de": "Allgemeine Biologie",
+        "en": "General biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106002",
+      "prefLabel": {
+        "de": "Biochemie",
+        "en": "Biochemistry"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106003",
+      "prefLabel": {
+        "de": "Biodiversitätsforschung",
+        "en": "Biodiversity research"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106004",
+      "prefLabel": {
+        "de": "Bioethik",
+        "en": "Bioethics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106005",
+      "prefLabel": {
+        "de": "Bioinformatik",
+        "en": "Bioinformatics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106006",
+      "prefLabel": {
+        "de": "Biophysik",
+        "en": "Biophysics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106007",
+      "prefLabel": {
+        "de": "Biostatistik",
+        "en": "Biostatistics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106008",
+      "prefLabel": {
+        "de": "Botanik",
+        "en": "Botany"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106009",
+      "prefLabel": {
+        "de": "Chronobiologie",
+        "en": "Chronobiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106010",
+      "prefLabel": {
+        "de": "Entwicklungsbiologie",
+        "en": "Developmental biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106011",
+      "prefLabel": {
+        "de": "Ersatzmethoden zu Tierversuchen",
+        "en": "Alternatives to animal testing"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106012",
+      "prefLabel": {
+        "de": "Evolutionsforschung",
+        "en": "Evolutionary research"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106013",
+      "prefLabel": {
+        "de": "Genetik",
+        "en": "Genetics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106014",
+      "prefLabel": {
+        "de": "Genomik",
+        "en": "Genomics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106015",
+      "prefLabel": {
+        "de": "Geobotanik",
+        "en": "Geobotany"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106016",
+      "prefLabel": {
+        "de": "Geschichte der Biologie",
+        "en": "History of biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106017",
+      "prefLabel": {
+        "de": "Glykobiologie",
+        "en": "Glycobiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106018",
+      "prefLabel": {
+        "de": "Humanbiologie",
+        "en": "Human biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106019",
+      "prefLabel": {
+        "de": "Hydrobiologie",
+        "en": "Hydrobiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106020",
+      "prefLabel": {
+        "de": "Limnologie",
+        "en": "Limnology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106021",
+      "prefLabel": {
+        "de": "Meeresbiologie",
+        "en": "Marine biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106022",
+      "prefLabel": {
+        "de": "Mikrobiologie",
+        "en": "Microbiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106023",
+      "prefLabel": {
+        "de": "Molekularbiologie",
+        "en": "Molecular biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106024",
+      "prefLabel": {
+        "de": "Mykologie",
+        "en": "Mycology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106025",
+      "prefLabel": {
+        "de": "Neurobiologie",
+        "en": "Neurobiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106026",
+      "prefLabel": {
+        "de": "Ökosystemforschung",
+        "en": "Ecosystem research"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106027",
+      "prefLabel": {
+        "de": "Ökotoxikologie",
+        "en": "Ecotoxicology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106028",
+      "prefLabel": {
+        "de": "Pflanzenanatomie",
+        "en": "Plant anatomy"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106029",
+      "prefLabel": {
+        "de": "Pflanzenmorphologie",
+        "en": "Plant morphology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106030",
+      "prefLabel": {
+        "de": "Pflanzenökologie",
+        "en": "Plant ecology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106031",
+      "prefLabel": {
+        "de": "Pflanzenphysiologie",
+        "en": "Plant physiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106032",
+      "prefLabel": {
+        "de": "Photobiologie",
+        "en": "Photobiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106033",
+      "prefLabel": {
+        "de": "Phylogenie",
+        "en": "Phylogeny"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106034",
+      "prefLabel": {
+        "de": "Phytochemie",
+        "en": "Phytochemistry"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106035",
+      "prefLabel": {
+        "de": "Phytogeographie",
+        "en": "Phytogeography"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106036",
+      "prefLabel": {
+        "de": "Populationsgenetik",
+        "en": "Population genetics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106037",
+      "prefLabel": {
+        "de": "Proteomik",
+        "en": "Proteomics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106038",
+      "prefLabel": {
+        "de": "Reproduktionsbiologie",
+        "en": "Reproductive biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106039",
+      "prefLabel": {
+        "de": "Stammzellenforschung",
+        "en": "Stem cell research"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106040",
+      "prefLabel": {
+        "de": "Strahlenbiologie",
+        "en": "Radiation biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106041",
+      "prefLabel": {
+        "de": "Strukturbiologie",
+        "en": "Structural biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106042",
+      "prefLabel": {
+        "de": "Systematische Botanik",
+        "en": "Systematic botany"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106043",
+      "prefLabel": {
+        "de": "Systematische Zoologie",
+        "en": "Systematic zoology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106044",
+      "prefLabel": {
+        "de": "Systembiologie",
+        "en": "Systems biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106045",
+      "prefLabel": {
+        "de": "Theoretische Biologie",
+        "en": "Theoretical biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106046",
+      "prefLabel": {
+        "de": "Tieranatomie",
+        "en": "Animal anatomy"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106047",
+      "prefLabel": {
+        "de": "Tierökologie",
+        "en": "Animal ecology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106048",
+      "prefLabel": {
+        "de": "Tierphysiologie",
+        "en": "Animal physiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106049",
+      "prefLabel": {
+        "de": "Ultrastrukturforschung",
+        "en": "Ultrastructure research"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106050",
+      "prefLabel": {
+        "de": "Vegetationskunde",
+        "en": "Vegetation science"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106051",
+      "prefLabel": {
+        "de": "Verhaltensbiologie",
+        "en": "Behavioural biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106052",
+      "prefLabel": {
+        "de": "Zellbiologie",
+        "en": "Cell biology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106053",
+      "prefLabel": {
+        "de": "Zoogeographie",
+        "en": "Zoogeography"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106054",
+      "prefLabel": {
+        "de": "Zoologie",
+        "en": "Zoology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106055",
+      "prefLabel": {
+        "de": "Aerobiologie",
+        "en": "Aerobiology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106056",
+      "prefLabel": {
+        "de": "Biologische Anthropologie",
+        "en": "Biological anthropology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106057",
+      "prefLabel": {
+        "de": "Metabolomik",
+        "en": "Metabolomics"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/OEAA/OEFOS/106",
+    "prefLabel": {
+      "de": "Biologie",
+      "en": "Biology"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/OEAA/OEFOS/",
+    "title": {
+      "de": "OEFOS TURTLE format"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

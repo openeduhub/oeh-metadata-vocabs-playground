@@ -1,0 +1,338 @@
+{
+  "id": "http://w3id.org/openeduhub/OEAA/OEFOS/1020",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2FOEAA%2FOEFOS%2F1020",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2FOEAA%2FOEFOS%2F1020",
+  "prefLabel": {
+    "de": "Informatik",
+    "en": "Computer Sciences"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102001",
+      "prefLabel": {
+        "de": "Artificial Intelligence",
+        "en": "Artificial intelligence"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102002",
+      "prefLabel": {
+        "de": "Augmented Reality",
+        "en": "Augmented reality"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102003",
+      "prefLabel": {
+        "de": "Bildverarbeitung",
+        "en": "Image processing"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102004",
+      "prefLabel": {
+        "de": "Bioinformatik",
+        "en": "Bioinformatics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102005",
+      "prefLabel": {
+        "de": "Computer Aided Design (CAD)",
+        "en": "Computer aided design (CAD)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102006",
+      "prefLabel": {
+        "de": "Computer Supported Cooperative Work (CSCW)",
+        "en": "Computer supported cooperative work (CSCW)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102007",
+      "prefLabel": {
+        "de": "Computeranimation",
+        "en": "Computer animation"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102008",
+      "prefLabel": {
+        "de": "Computergraphik",
+        "en": "Computer graphics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102009",
+      "prefLabel": {
+        "de": "Computersimulation",
+        "en": "Computer simulation"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102010",
+      "prefLabel": {
+        "de": "Datenbanksysteme",
+        "en": "Database systems"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102011",
+      "prefLabel": {
+        "de": "Formale Sprachen",
+        "en": "Formal languages"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102012",
+      "prefLabel": {
+        "de": "Geschichte der Informatik",
+        "en": "History of computer science"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102013",
+      "prefLabel": {
+        "de": "Human-Computer Interaction",
+        "en": "Human-computer interaction"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102014",
+      "prefLabel": {
+        "de": "Informationsdesign",
+        "en": "Information design"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102015",
+      "prefLabel": {
+        "de": "Informationssysteme",
+        "en": "Information systems"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102016",
+      "prefLabel": {
+        "de": "IT-Sicherheit",
+        "en": "IT security"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102017",
+      "prefLabel": {
+        "de": "Kryptologie",
+        "en": "Cryptology"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102018",
+      "prefLabel": {
+        "de": "Künstliche Neuronale Netze",
+        "en": "Artificial neural networks"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102019",
+      "prefLabel": {
+        "de": "Machine Learning",
+        "en": "Machine learning"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102020",
+      "prefLabel": {
+        "de": "Medizinische Informatik",
+        "en": "Medical informatics"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102021",
+      "prefLabel": {
+        "de": "Pervasive Computing",
+        "en": "Pervasive computing"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102022",
+      "prefLabel": {
+        "de": "Softwareentwicklung",
+        "en": "Software development"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102023",
+      "prefLabel": {
+        "de": "Supercomputing",
+        "en": "Supercomputing"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102024",
+      "prefLabel": {
+        "de": "Usability Research",
+        "en": "Usability research"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102025",
+      "prefLabel": {
+        "de": "Verteilte Systeme",
+        "en": "Distributed systems"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102026",
+      "prefLabel": {
+        "de": "Virtual Reality",
+        "en": "Virtual reality"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102027",
+      "prefLabel": {
+        "de": "Web Engineering",
+        "en": "Web engineering"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102028",
+      "prefLabel": {
+        "de": "Knowledge Engineering",
+        "en": "Knowledge engineering"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102029",
+      "prefLabel": {
+        "de": "Praktische Informatik",
+        "en": "Practical computer science"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102030",
+      "prefLabel": {
+        "de": "Semantische Technologien",
+        "en": "Semantic technologies"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102031",
+      "prefLabel": {
+        "de": "Theoretische Informatik",
+        "en": "Theoretical computer science"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102032",
+      "prefLabel": {
+        "de": "Computational Intelligence",
+        "en": "Computational intelligence"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102033",
+      "prefLabel": {
+        "de": "Data Mining",
+        "en": "Data mining"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/OEAA/OEFOS/102",
+    "prefLabel": {
+      "de": "Informatik",
+      "en": "Computer Sciences"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/OEAA/OEFOS/",
+    "title": {
+      "de": "OEFOS TURTLE format"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
