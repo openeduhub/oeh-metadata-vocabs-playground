@@ -1,4 +1,4 @@
-@base <http://OEAA/OEFOS/> .
+@base <http://w3id.org/openeduhub/OEAA/OEFOS/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
@@ -9924,9 +9924,9 @@
         "Clinical Medicine"@en .
 
 <> a skos:ConceptScheme ;
-    dct:creator "ZID-UIBK" ;
-    dct:description "OEFOS csv file transformed into TURTLE skos" ;
-    dct:title "OEFOS TURTLE format" ;
+    dct:creator "ZID-UIBK"@de ;
+    dct:description "OEFOS csv file transformed into TURTLE skos"@de ;
+    dct:title "OEFOS TURTLE format"@de ;
     skos:hasTopConcept <1>,
         <2>,
         <3>,
