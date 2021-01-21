@@ -1,0 +1,230 @@
+{
+  "id": "http://OEAA/OEFOS/4020",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=OEAA%2FOEFOS%2F4020",
+  "inbox": "https://test.skohub.io/inbox?target=OEAA%2FOEFOS%2F4020",
+  "prefLabel": {
+    "de": "Tierzucht, Tierproduktion",
+    "en": "Animal Breeding, Animal Production"
+  },
+  "narrower": [
+    {
+      "id": "http://OEAA/OEFOS/402001",
+      "prefLabel": {
+        "de": "Bienenkunde",
+        "en": "Apiology"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402002",
+      "prefLabel": {
+        "de": "Fischkunde",
+        "en": "Ichthyology"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402003",
+      "prefLabel": {
+        "de": "Fleischhygiene",
+        "en": "Meat hygiene"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402004",
+      "prefLabel": {
+        "de": "Fleischproduktion",
+        "en": "Meat production"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402005",
+      "prefLabel": {
+        "de": "Futtermittelanalyse",
+        "en": "Feed analysis"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402006",
+      "prefLabel": {
+        "de": "Haustierzucht",
+        "en": "Pet breeding"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402007",
+      "prefLabel": {
+        "de": "Imkerei",
+        "en": "Apiculture"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402008",
+      "prefLabel": {
+        "de": "Künstliche Besamung",
+        "en": "Artificial insemination"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402009",
+      "prefLabel": {
+        "de": "Lebensmitteluntersuchung",
+        "en": "Food testing"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402010",
+      "prefLabel": {
+        "de": "Milchhygiene",
+        "en": "Milk hygiene"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402011",
+      "prefLabel": {
+        "de": "Milchproduktion",
+        "en": "Milk production"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402012",
+      "prefLabel": {
+        "de": "Nutztierethologie",
+        "en": "Livestock ethology"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402013",
+      "prefLabel": {
+        "de": "Tierernährung",
+        "en": "Animal nutrition"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402014",
+      "prefLabel": {
+        "de": "Tierhaltung",
+        "en": "Animal husbandry"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402015",
+      "prefLabel": {
+        "de": "Tierproduktion",
+        "en": "Animal production"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402016",
+      "prefLabel": {
+        "de": "Tierschutz",
+        "en": "Animal welfare"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402017",
+      "prefLabel": {
+        "de": "Tierzucht",
+        "en": "Animal breeding"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/402018",
+      "prefLabel": {
+        "de": "Versuchstierkunde",
+        "en": "Laboratory animal science"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://OEAA/OEFOS/402",
+    "prefLabel": {
+      "de": "Tierzucht, Tierproduktion",
+      "en": "Animal Breeding, Animal Production"
+    }
+  },
+  "inScheme": {
+    "id": "http://OEAA/OEFOS/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

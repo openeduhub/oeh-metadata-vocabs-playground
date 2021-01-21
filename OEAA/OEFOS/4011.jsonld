@@ -1,0 +1,237 @@
+{
+  "id": "http://OEAA/OEFOS/4011",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=OEAA%2FOEFOS%2F4011",
+  "inbox": "https://test.skohub.io/inbox?target=OEAA%2FOEFOS%2F4011",
+  "prefLabel": {
+    "de": "Ackerbau, Gartenbau",
+    "en": "Cultivation of Land, Horticulture"
+  },
+  "narrower": [
+    {
+      "id": "http://OEAA/OEFOS/401101",
+      "prefLabel": {
+        "de": "Ackerbau",
+        "en": "Cultivation of land"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401102",
+      "prefLabel": {
+        "de": "Bewässerungswirtschaft",
+        "en": "Irrigation management"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401103",
+      "prefLabel": {
+        "de": "Gartenbau",
+        "en": "Horticulture"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401104",
+      "prefLabel": {
+        "de": "Gemüsebau",
+        "en": "Vegetable growing"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401105",
+      "prefLabel": {
+        "de": "Getreidebau",
+        "en": "Grain cultivation"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401106",
+      "prefLabel": {
+        "de": "Landschaftspflege",
+        "en": "Landscape conservation"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401107",
+      "prefLabel": {
+        "de": "Landtechnik",
+        "en": "Agricultural engineering"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401108",
+      "prefLabel": {
+        "de": "Obstbau",
+        "en": "Fruit growing"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401109",
+      "prefLabel": {
+        "de": "Ökologischer Landbau",
+        "en": "Organic farming"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401110",
+      "prefLabel": {
+        "de": "Pflanzenbau",
+        "en": "Plant cultivation"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401111",
+      "prefLabel": {
+        "de": "Pflanzenernährung",
+        "en": "Plant nutrition"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401112",
+      "prefLabel": {
+        "de": "Pflanzenschutz",
+        "en": "Plant protection"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401113",
+      "prefLabel": {
+        "de": "Pflanzenzucht",
+        "en": "Plant breeding"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401114",
+      "prefLabel": {
+        "de": "Saatzucht",
+        "en": "Seed breeding"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401115",
+      "prefLabel": {
+        "de": "Samenzucht",
+        "en": "Seed cultivation"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401116",
+      "prefLabel": {
+        "de": "Spezialkulturen",
+        "en": "Special crops"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401117",
+      "prefLabel": {
+        "de": "Weinbau",
+        "en": "Viticulture"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401118",
+      "prefLabel": {
+        "de": "Zierpflanzenbau",
+        "en": "Cultivation of ornamental plants"
+      }
+    },
+    {
+      "id": "http://OEAA/OEFOS/401119",
+      "prefLabel": {
+        "de": "Feldfutterbau",
+        "en": "Field forage growing"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://OEAA/OEFOS/401",
+    "prefLabel": {
+      "de": "Land- und Forstwirtschaft, Fischerei",
+      "en": "Agriculture and Forestry, Fishery"
+    }
+  },
+  "inScheme": {
+    "id": "http://OEAA/OEFOS/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
