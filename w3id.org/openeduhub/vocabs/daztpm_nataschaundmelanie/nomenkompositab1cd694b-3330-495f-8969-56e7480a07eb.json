@@ -6,54 +6,10 @@
   "prefLabel": {
     "de": "Nomenkomposita"
   },
-  "hiddenLabel": {
-    "de": [
-      "Adjektiv+Nomen",
-      "Adjektiv-Nomen-Komposita",
-      "Adverb+Nomen",
-      "Fugen-S",
-      "Fugenzeichen,Nomen-Nomen-Komposita",
-      "Nomen+Nomen",
-      "Nomenkomposita",
-      "Verb+Nomen",
-      "Verb-Nomen-Komposita",
-      "Wortbildung",
-      "Wortbildungsart"
-    ]
-  },
-  "note": {
-    "de": [
-      "Adjektiv+Nomen",
-      "Adjektiv-Nomen-Komposita",
-      "Adverb+Nomen",
-      "Fugen-S",
-      "Fugenzeichen,Nomen-Nomen-Komposita",
-      "Nomen+Nomen",
-      "Nomenkomposita",
-      "Verb+Nomen",
-      "Verb-Nomen-Komposita",
-      "Wortbildung",
-      "Wortbildungsart"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nomenafeb2dfd-c8bb-45d4-9822-f04f52038fad",
     "prefLabel": {
       "de": "Nomen"
-    },
-    "altLabel": {
-      "de": [
-        "Gentilname",
-        "Gentilnomen",
-        "Nomen",
-        "Nomina",
-        "nominal"
-      ],
-      "en": [
-        "Nomen",
-        "nomen gentilicium",
-        "nominal"
-      ]
     }
   },
   "inScheme": {
@@ -102,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

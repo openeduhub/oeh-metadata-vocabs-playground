@@ -6,47 +6,17 @@
   "prefLabel": {
     "de": "Musik"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Musik",
-      "Musikunterricht",
-      "Primarunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800801",
       "prefLabel": {
         "de": "Singen, Musizieren"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Musik",
-          "Musikunterricht",
-          "Musizieren",
-          "Primarunterricht",
-          "Singen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800802",
       "prefLabel": {
         "de": "Tanzen"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Musik",
-          "Musikunterricht",
-          "Primarunterricht",
-          "Tanzen"
-        ]
       }
     }
   ],
@@ -102,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

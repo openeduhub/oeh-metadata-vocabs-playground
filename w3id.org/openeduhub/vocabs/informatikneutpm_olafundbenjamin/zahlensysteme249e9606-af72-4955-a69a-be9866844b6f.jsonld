@@ -16,20 +16,6 @@
       "system of numeration"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Binässystem",
-      "Dualzahlen",
-      "Hexadezimalsystem"
-    ]
-  },
-  "note": {
-    "de": [
-      "Binässystem",
-      "Dualzahlen",
-      "Hexadezimalsystem"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/grundlagen461731cb-82e3-429c-acc8-a8019080d22a",
     "prefLabel": {
@@ -82,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

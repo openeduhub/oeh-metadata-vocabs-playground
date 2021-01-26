@@ -6,46 +6,17 @@
   "prefLabel": {
     "de": "Individuum und Gesellschaft"
   },
-  "note": {
-    "de": [
-      "Gesellschaftslehre",
-      "Individuum und Gesellschaft",
-      "Politik",
-      "Politische Bildung",
-      "Sozialkunde"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800601",
       "prefLabel": {
         "de": "Sozialisation, Verhalten"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialisation",
-          "Sozialkunde",
-          "Verhalten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800602",
       "prefLabel": {
         "de": "Kommunikation, Massenkommunikation"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Kommunikation",
-          "Massenkommunikation",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     }
   ],
@@ -101,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

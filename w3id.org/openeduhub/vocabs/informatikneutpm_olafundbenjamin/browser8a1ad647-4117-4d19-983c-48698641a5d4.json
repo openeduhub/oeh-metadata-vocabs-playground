@@ -28,40 +28,6 @@
       "internet browser"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Edge",
-      "Firefox",
-      "Onlinesuche",
-      "Opera",
-      "Recherche",
-      "Safari",
-      "WWW",
-      "Worl Wide Web",
-      "http",
-      "https",
-      "navigieren",
-      "recherchieren",
-      "suchen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Edge",
-      "Firefox",
-      "Onlinesuche",
-      "Opera",
-      "Recherche",
-      "Safari",
-      "WWW",
-      "Worl Wide Web",
-      "http",
-      "https",
-      "navigieren",
-      "recherchieren",
-      "suchen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/anwendungen9f008e6f-7aa5-4352-a89a-8621967b1df9",
     "prefLabel": {
@@ -114,12 +80,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +90,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -11,16 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/html0c105be9-da8d-4dea-85ee-535f0d754d3c",
       "prefLabel": {
         "de": "HTML"
-      },
-      "altLabel": {
-        "de": [
-          "HTML",
-          "Hypertext Markup Language"
-        ],
-        "en": [
-          "HTML",
-          "Hypertext Markup Language"
-        ]
       }
     },
     {
@@ -39,16 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/xmlc6932406-c3c3-4ee4-8eaa-d5d1a6897d09",
       "prefLabel": {
         "de": "XML"
-      },
-      "altLabel": {
-        "de": [
-          "Extensible Markup Language",
-          "XML"
-        ],
-        "en": [
-          ".xml",
-          "XML"
-        ]
       }
     }
   ],
@@ -56,11 +36,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/angewandteinformatik7d6f2bde-2b49-42f7-b1e0-f4c0f78c80c7",
     "prefLabel": {
       "de": "Angewandte Informatik"
-    },
-    "altLabel": {
-      "de": [
-        "Applied Computer Science"
-      ]
     }
   },
   "inScheme": {
@@ -109,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -125,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

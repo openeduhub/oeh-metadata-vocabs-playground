@@ -21,28 +21,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/shell3c255906-f29d-4f47-a2f5-5a876f82c49d",
       "prefLabel": {
         "de": "Shell"
-      },
-      "altLabel": {
-        "de": [
-          "Anglo-Saxon Petroleum",
-          "Betriebssystem-Shell",
-          "Royal Dutch Petroleum Company",
-          "Shell",
-          "Shell Brasil",
-          "Shell Chemical Company",
-          "Shell-Konzern",
-          "Showa Shell Sekiyu",
-          "The Shell Transport and Trading Company",
-          "Unix-Shell"
-        ],
-        "en": [
-          "RDS",
-          "Royal Dutch Shell plc",
-          "Shell",
-          "command shell",
-          "sh",
-          "shell"
-        ]
       }
     },
     {
@@ -55,23 +33,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/windowsd42a92c5-8d71-4969-807c-1db8ea5d3345",
       "prefLabel": {
         "de": "Windows"
-      },
-      "altLabel": {
-        "de": [
-          "MS Windows",
-          "MSFT Windows",
-          "Microsoft Windows",
-          "Win",
-          "Window",
-          "Windows"
-        ],
-        "en": [
-          "MS Windows",
-          "MSFT Win",
-          "MSFT Windows",
-          "Win",
-          "Windows"
-        ]
       }
     }
   ],
@@ -79,11 +40,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/angewandteinformatik7d6f2bde-2b49-42f7-b1e0-f4c0f78c80c7",
     "prefLabel": {
       "de": "Angewandte Informatik"
-    },
-    "altLabel": {
-      "de": [
-        "Applied Computer Science"
-      ]
     }
   },
   "inScheme": {
@@ -132,12 +88,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +98,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

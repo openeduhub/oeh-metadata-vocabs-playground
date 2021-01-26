@@ -7,42 +7,25 @@
     "de": "Medientechnologie"
   },
   "note": {
-    "de": [
-      "Medientechnologie"
-    ]
+    "de": "Medientechnologie"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04004020101",
       "prefLabel": {
         "de": "Druck"
-      },
-      "note": {
-        "de": [
-          "Druck"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04004020102",
       "prefLabel": {
         "de": "Papier"
-      },
-      "note": {
-        "de": [
-          "Papier"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04004020103",
       "prefLabel": {
         "de": "Schrift"
-      },
-      "note": {
-        "de": [
-          "Schrift"
-        ]
       }
     }
   ],
@@ -98,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

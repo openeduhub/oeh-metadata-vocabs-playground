@@ -11,151 +11,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/deklination_flexion_konjugation4cc35247-bb11-4028-b646-d3fee0e801bb",
       "prefLabel": {
         "de": "Deklination/ Flexion/ Konjugation"
-      },
-      "note": {
-        "de": [
-          "Anpassung",
-          "Beugung",
-          "Kasus",
-          "Modus",
-          "Numerus",
-          "Person",
-          "Tempus",
-          "Veränderung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/genusverbi4cc79d41-ead0-4d09-b6cc-6c438cc0847e",
       "prefLabel": {
         "de": "Genus verbi"
-      },
-      "note": {
-        "de": [
-          "Aktiv",
-          "Passiv",
-          "Vorgangspassiv",
-          "Zustandspassiv "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/kasus062f8759-a989-416f-a482-394788193e5c",
       "prefLabel": {
         "de": "Kasus"
-      },
-      "altLabel": {
-        "de": [
-          "Casus",
-          "Fall",
-          "Grammatischer Fall"
-        ],
-        "en": [
-          "grammatical case"
-        ]
-      },
-      "note": {
-        "de": [
-          "4 Fälle",
-          "Akkusativ",
-          "Dativ",
-          "Fall",
-          "Genitiv",
-          "Nominativ",
-          "Wem?",
-          "Wen oder Was? ",
-          "Wer?",
-          "Wessen?"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/modus8ddb2dfb-3e16-4c45-b12b-567360a85c28",
       "prefLabel": {
         "de": "Modus"
-      },
-      "altLabel": {
-        "de": [
-          "Aussageweise",
-          "Heptatonia Prima",
-          "Häufigster Wert",
-          "Kirchentonarten",
-          "Kirchentonleiter",
-          "Modalwert",
-          "Modus – Der Mörder in uns",
-          "Unimodal"
-        ],
-        "en": [
-          "grammatical mode",
-          "mode",
-          "modes",
-          "mood",
-          "statistical mode"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aussageform",
-          "Imperativ",
-          "Indikativ",
-          "Konjunktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/numerus4b636181-d327-4cf1-8910-c2f3d320b47b",
       "prefLabel": {
         "de": "Numerus"
-      },
-      "altLabel": {
-        "de": [
-          "Zahl"
-        ],
-        "en": [
-          "number",
-          "numeri"
-        ]
-      },
-      "note": {
-        "de": [
-          "Einzahl",
-          "Mehrzahl ",
-          "Plural",
-          "Singular"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/tempusa9b5b367-bc71-4723-91a5-a1d2e62580aa",
       "prefLabel": {
         "de": "Tempus"
-      },
-      "altLabel": {
-        "de": [
-          "Deutsche Tempusformen",
-          "Tempora",
-          "Tempus",
-          "Zeit",
-          "Zeitform",
-          "Zeitformen",
-          "hat grammatische Zeitform"
-        ],
-        "en": [
-          "grammatical tense"
-        ]
-      },
-      "note": {
-        "de": [
-          "Futur",
-          "Gegenwart",
-          "Perfekt",
-          "Plusquamperfekt",
-          "Präsens",
-          "Präteritum",
-          "Vergangenheit",
-          "Zeitform",
-          "Zukunft"
-        ]
       }
     }
   ],
@@ -211,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -227,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

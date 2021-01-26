@@ -7,32 +7,19 @@
     "de": "Schulpädagogik"
   },
   "note": {
-    "de": [
-      "Schulpädagogik"
-    ]
+    "de": "Schulpädagogik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400401",
       "prefLabel": {
         "de": "Grundfragen"
-      },
-      "note": {
-        "de": [
-          "Grundfragen der Schulpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400402",
       "prefLabel": {
         "de": "Methodik, Didaktik"
-      },
-      "note": {
-        "de": [
-          "Didaktik",
-          "Methodik"
-        ]
       }
     }
   ],
@@ -88,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

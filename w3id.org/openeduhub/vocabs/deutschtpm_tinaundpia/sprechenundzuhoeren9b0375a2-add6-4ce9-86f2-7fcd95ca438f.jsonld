@@ -29,15 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zuhoeren0e6d5489-31cd-4f38-8ef4-2a94040a440e",
       "prefLabel": {
         "de": "Zuhören"
-      },
-      "altLabel": {
-        "de": [
-          "Aktiv zuhören",
-          "Gesprächskreis",
-          "Zuhören",
-          "Zuhörkreis",
-          "horchen"
-        ]
       }
     }
   ],
@@ -87,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

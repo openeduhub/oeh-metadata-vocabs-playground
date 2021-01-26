@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Messen, Steuern und Regeln"
   },
-  "hiddenLabel": {
-    "de": [
-      "MSR"
-    ]
-  },
   "note": {
-    "de": [
-      "MSR"
-    ]
+    "de": "MSR"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/funktionsweiseeinesrechners19e7f35f-df1a-42b5-aff9-1c9da8979622",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

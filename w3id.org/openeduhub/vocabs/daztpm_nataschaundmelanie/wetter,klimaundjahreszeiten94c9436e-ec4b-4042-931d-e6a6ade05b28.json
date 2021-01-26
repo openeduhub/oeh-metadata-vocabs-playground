@@ -6,50 +6,10 @@
   "prefLabel": {
     "de": "Wetter, Klima und Jahreszeiten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Frühling",
-      "Herbst",
-      "Jahreszeiten",
-      "Klima",
-      "Sommer",
-      "Wetter",
-      "Winter"
-    ]
-  },
-  "note": {
-    "de": [
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Frühling",
-      "Herbst",
-      "Jahreszeiten",
-      "Klima",
-      "Sommer",
-      "Wetter",
-      "Winter"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/wortschatz5b3e0b18-9d9b-4bd4-b72b-11b6f8126642",
     "prefLabel": {
       "de": "Wortschatz"
-    },
-    "altLabel": {
-      "de": [
-        "Lexik",
-        "Lexikon",
-        "Vokabular",
-        "Wortgut",
-        "Wortschatz"
-      ],
-      "en": [
-        "lexicon",
-        "word-hoard",
-        "wordstock"
-      ]
     }
   },
   "inScheme": {
@@ -98,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

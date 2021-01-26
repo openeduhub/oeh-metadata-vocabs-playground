@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Kunst bis 1980"
   },
-  "note": {
-    "de": [
-      "Action-painting",
-      "Kunst",
-      "Kunst bis 1980",
-      "Kunst nach 1945",
-      "Kunstunterricht",
-      "Minimal art",
-      "Op-art",
-      "Pop-art",
-      "Tachismus",
-      "abstrakter Expressionismus"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0600311",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

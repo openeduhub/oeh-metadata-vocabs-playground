@@ -6,37 +6,10 @@
   "prefLabel": {
     "de": "GHS-Piktogramme"
   },
-  "hiddenLabel": {
-    "de": [
-      "Chemikalien",
-      "GHS",
-      "Gefahrensymbol",
-      "Gefahrstoff",
-      "Gift",
-      "Giftstoffe",
-      "Global harmonisiertes System,"
-    ]
-  },
-  "note": {
-    "de": [
-      "Chemikalien",
-      "GHS",
-      "Gefahrensymbol",
-      "Gefahrstoff",
-      "Gift",
-      "Giftstoffe",
-      "Global harmonisiertes System,"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/sicherheitcfada400-c78d-4a22-8d7d-f8d93bf9ffc5",
     "prefLabel": {
       "de": "Sicherheit"
-    },
-    "altLabel": {
-      "de": [
-        "Sicher reisen"
-      ]
     }
   },
   "inScheme": {
@@ -85,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -101,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

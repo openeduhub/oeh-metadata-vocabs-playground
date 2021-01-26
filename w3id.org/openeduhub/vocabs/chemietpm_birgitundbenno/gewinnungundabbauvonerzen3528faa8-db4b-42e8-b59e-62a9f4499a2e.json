@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Gewinnung und Abbau von Erzen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bergbau",
-      "Bleiglanz",
-      "Gangart",
-      "Mine,",
-      "Montan",
-      "mineralische Rohstoffe"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bergbau",
-      "Bleiglanz",
-      "Gangart",
-      "Mine,",
-      "Montan",
-      "mineralische Rohstoffe"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/metalleunderzeb569e361-e899-4150-bb3b-c57466675069",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,54 +6,17 @@
   "prefLabel": {
     "de": "Pflanzen"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Pflanzen",
-      "Primarunterricht",
-      "Sachkunde",
-      "Sachkundeunterricht",
-      "Sachunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101501",
       "prefLabel": {
         "de": "Anpassung, Bau, Pflege"
-      },
-      "note": {
-        "de": [
-          "Anpassung",
-          "Bau",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Pflege",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101502",
       "prefLabel": {
         "de": "Entwicklung, Wachstum, Vermehrung"
-      },
-      "note": {
-        "de": [
-          "Entwicklung",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht",
-          "Vermehrung",
-          "Wachstum"
-        ]
       }
     }
   ],
@@ -109,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -125,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

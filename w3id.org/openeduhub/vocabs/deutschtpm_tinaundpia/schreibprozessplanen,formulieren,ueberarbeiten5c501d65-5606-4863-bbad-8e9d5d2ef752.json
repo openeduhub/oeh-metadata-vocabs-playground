@@ -11,43 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/schreibplan_gliederung6377224d-6db4-4e46-9e1c-0ac4aac35117",
       "prefLabel": {
         "de": "Schreibplan / Gliederung "
-      },
-      "note": {
-        "de": [
-          "Brainstorming",
-          "Ideen",
-          "Inhaltsverzeichnis",
-          "Mind-Map"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stoffsammlung9781d9f8-0863-456b-b108-a0c7bc634137",
       "prefLabel": {
         "de": "Stoffsammlung"
-      },
-      "note": {
-        "de": [
-          "Brainstorming",
-          "Mind-Map",
-          "Recherchieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/ueberarbeitungsstrategienecbb7cf6-4348-4cfc-b170-38bf53e3826b",
       "prefLabel": {
         "de": "Überarbeitungsstrategien"
-      },
-      "note": {
-        "de": [
-          "Korrektur",
-          "Nachträge",
-          "Schreibkonferenz",
-          "Text-Hand-Modell",
-          "Verbesserung",
-          "planvolles Überarbeiten"
-        ]
       }
     }
   ],
@@ -103,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -119,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

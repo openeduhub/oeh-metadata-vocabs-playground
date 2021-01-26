@@ -21,243 +21,53 @@
       "plastics"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Folien,",
-      "Klebstoff",
-      "Klebstoffe",
-      "Lack",
-      "Polymer",
-      "Textilien",
-      "Verpackungsmaterial",
-      "Werkstoff"
-    ]
-  },
-  "note": {
-    "de": [
-      "Folien,",
-      "Klebstoff",
-      "Klebstoffe",
-      "Lack",
-      "Polymer",
-      "Textilien",
-      "Verpackungsmaterial",
-      "Werkstoff"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/alltagskunststoffe9f6f17f3-835a-4765-aa93-a0d0befa23de",
       "prefLabel": {
         "de": "Alltagskunststoffe"
-      },
-      "note": {
-        "de": [
-          "Isopren Kautschuk",
-          "PC",
-          "PE",
-          "PE-HD",
-          "PE-LD",
-          "PMMA",
-          "PP",
-          "PS",
-          "PVC",
-          "Plexiglas",
-          "Polycarbonat",
-          "Polyester. ",
-          "Polyethylen",
-          "Polymethylmethacrylat",
-          "Polypropylen",
-          "Polystyrol",
-          "Polyvinylchlorid",
-          "Styropor"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/historischeentwicklungderkunststoffe1baac85e-efc1-4a98-849e-55f1ca307d41",
       "prefLabel": {
         "de": "Historische Entwicklung der Kunststoffe"
-      },
-      "note": {
-        "de": [
-          "Baekeland",
-          "Bakelit",
-          "Bernstein",
-          "Biopolymere",
-          "Casein",
-          "Celluloid",
-          "Cellulose",
-          "Gummi Arabicum",
-          "Kasein",
-          "Kautschuk",
-          "Kollodium",
-          "Kunsthorm",
-          "Linoleum",
-          "Reyon-Fäden",
-          "Schellack,",
-          "Schießbaumwolle",
-          "Viskose",
-          "Zelluloid"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffeausnachwachsendenrohstoffen_biologischabbaubar538402ac-52ef-470e-8a1b-55a59f438cd2",
       "prefLabel": {
         "de": "Kunststoffe aus nachwachsenden Rohstoffen/biologisch abbaubar"
-      },
-      "note": {
-        "de": [
-          "Lactate",
-          "Milchsäure",
-          "PLA",
-          "Plattformchemikalien,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionstypenzurherstellungvonkunststoffen91848124-cf38-405b-85ec-faaccda98653",
       "prefLabel": {
         "de": "Reaktionstypen zur Herstellung von Kunststoffen"
-      },
-      "note": {
-        "de": [
-          "Acetylen",
-          "Anionische Polymerisation",
-          "Copolymer",
-          "Initiator",
-          "Kationische Polymerisation",
-          "Kettenabbruch",
-          "Kettenpolymerisation",
-          "Kettenwachstum",
-          "Monomer",
-          "Polyaddition,",
-          "Polykondensation",
-          "Polymerisation",
-          "Polymerisationsgrad",
-          "Radikalische Polymerisation",
-          "Rekombination"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/recyclingf7634d42-ed5a-42b7-8af2-81ef2da1f583",
       "prefLabel": {
         "de": "Recycling"
-      },
-      "altLabel": {
-        "de": [
-          "Abfalltrennung",
-          "Altstoffverwertung",
-          "Downcycling",
-          "Gesteinskreislauf",
-          "Müllaufbereitung",
-          "Mülltrennung",
-          "Müllverwertung",
-          "NACE 38.3",
-          "NACE 38.32",
-          "Recyceln",
-          "Recyclen",
-          "Recycling",
-          "Reststoffverwertung",
-          "Rezyklierung",
-          "Rückgewinnung",
-          "Wiederverwertung",
-          "xkcd 885",
-          "♲",
-          "♺",
-          "♼",
-          "♽"
-        ],
-        "en": [
-          "Missed and forgotten texts",
-          "materials recovery (from waste)",
-          "recycle",
-          "waste recovery",
-          "wasterecovery",
-          "xkcd 885"
-        ]
-      },
-      "note": {
-        "de": [
-          "Deponie,",
-          "Downcycling",
-          "Gelber Sack",
-          "Kunststoffabfälle",
-          "Rohstoff",
-          "Upcycling",
-          "Verpackung",
-          "Verpackungsmüll",
-          "Wiederverwendung",
-          "thermische Verwertung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/spezialkunststoffe2debfeef-1662-4356-a54a-4a58853d7c9d",
       "prefLabel": {
         "de": "Spezialkunststoffe"
-      },
-      "note": {
-        "de": [
-          "Aramid",
-          "Superabsorber",
-          "TPU,",
-          "Waschmittel-Tabs",
-          "Wasserlösliche Kunststoffe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/strukturundeigenschaftenundkunststoffen796f7ede-190f-4680-8050-40a29db6ead9",
       "prefLabel": {
         "de": "Struktur und Eigenschaften und Kunststoffen"
-      },
-      "note": {
-        "de": [
-          "Additive",
-          "Bruchfestigkeit",
-          "Duroplast",
-          "Elastizität",
-          "Elastomer",
-          "Goodyear",
-          "Kristallin",
-          "Stabilisatoren",
-          "Taktizität",
-          "Thermoplast",
-          "Transparenz,",
-          "Vernetzung",
-          "Vulkanisierung",
-          "Weichmacher",
-          "Ziegler-Natta-Katalysator",
-          "ataktisch",
-          "bruchfest",
-          "elastisch",
-          "isotaktisch",
-          "syndiotaktisch",
-          "verformbar"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/verfahrenzurverarbeitungvonkunststoff103fce08-0e82-4c93-8eca-020a59ad9dbd",
       "prefLabel": {
         "de": "Verfahren zur Verarbeitung von Kunststoff"
-      },
-      "note": {
-        "de": [
-          "Extrusion",
-          "Granulat",
-          "Kunststoffgranulat",
-          "Rohlinge",
-          "Schäumen",
-          "Spritzblasformen",
-          "Spritzgießen",
-          "Spritzguss",
-          "Thermoplaste",
-          "Umformen"
-        ]
       }
     }
   ],
@@ -313,12 +123,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -329,16 +133,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

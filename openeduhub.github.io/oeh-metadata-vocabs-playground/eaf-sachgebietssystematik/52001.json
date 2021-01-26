@@ -6,126 +6,47 @@
   "prefLabel": {
     "de": "Religionskunde"
   },
-  "note": {
-    "de": [
-      "Religion",
-      "Religionskunde",
-      "Religionslehre",
-      "Religionsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200101",
       "prefLabel": {
         "de": "Riten, Symbole"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Riten",
-          "Rituale",
-          "Symbole"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200102",
       "prefLabel": {
         "de": "Christliche Konfessionen"
-      },
-      "note": {
-        "de": [
-          "Christliche Konfessionen",
-          "Katholizismus",
-          "Orthodoxie",
-          "Protestantismus",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200103",
       "prefLabel": {
         "de": "Nichtchristliche Religionen"
-      },
-      "note": {
-        "de": [
-          "Buddhismus",
-          "Hinduismus",
-          "Islam",
-          "Judentum",
-          "Nichtchristliche Religionen",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Stammesreligionen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200104",
       "prefLabel": {
         "de": "Sekten, neue religiöse Strömungen"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Sekten",
-          "neue religiöse Strömungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200105",
       "prefLabel": {
         "de": "Weltanschauungen, Ideologien"
-      },
-      "note": {
-        "de": [
-          "Ideologien",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Weltanschauungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200106",
       "prefLabel": {
         "de": "Magie, Aberglaube"
-      },
-      "note": {
-        "de": [
-          "Aberglaube",
-          "Magie",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200107",
       "prefLabel": {
         "de": "Naturreligionen, Animismus, Schamanismus"
-      },
-      "note": {
-        "de": [
-          "Animismus",
-          "Naturreligionen",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Schamanismus"
-        ]
       }
     }
   ],
@@ -181,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -197,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

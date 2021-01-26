@@ -27,24 +27,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/softwaretechnikc37de15a-2fd5-4ca5-89c8-9f51110ae859",
     "prefLabel": {
       "de": "Softwaretechnik"
-    },
-    "altLabel": {
-      "de": [
-        "Anwendungsentwicklung",
-        "Anwendungsprogrammierung",
-        "Projektentwicklung",
-        "SE",
-        "Software Engineering",
-        "Software-Engineering",
-        "Software-Entwicklung",
-        "Software-Technik",
-        "Softwareengineering",
-        "Softwareentwicklung",
-        "Softwaretechnologie"
-      ],
-      "en": [
-        "SE"
-      ]
     }
   },
   "inScheme": {
@@ -93,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -109,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

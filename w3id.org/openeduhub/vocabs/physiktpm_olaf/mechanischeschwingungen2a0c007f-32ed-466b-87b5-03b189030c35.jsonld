@@ -6,75 +6,17 @@
   "prefLabel": {
     "de": "Mechanische Schwingungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Harmonische Schwingung",
-      "Harmonischer Oszillator",
-      "Periodendauer",
-      "Schwingungsdauer",
-      "lineares Kraftgesetz",
-      "periodischen Bewegung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Harmonische Schwingung",
-      "Harmonischer Oszillator",
-      "Periodendauer",
-      "Schwingungsdauer",
-      "lineares Kraftgesetz",
-      "periodischen Bewegung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/fadenpendel7ad8af4a-7fcd-4197-bc98-a29b345bb718",
       "prefLabel": {
         "de": "Fadenpendel"
-      },
-      "altLabel": {
-        "de": [
-          "Fadenpendel",
-          "mathematisches Pendel"
-        ],
-        "en": [
-          "Simple pendulum"
-        ]
-      },
-      "note": {
-        "de": [
-          "Faden der Länge l",
-          "Fadenpendel",
-          "Mathematisches Pendel",
-          "Pendel",
-          "Perpendikel",
-          "Physikalisches Pendel",
-          "Schwerependel",
-          "kleinen Auslenkungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/federpendel9b0e6af5-735d-4f3a-94eb-48368ebe71a3",
       "prefLabel": {
         "de": "Federpendel"
-      },
-      "altLabel": {
-        "de": [
-          "Federschwinger",
-          "Federschwingung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Feder-Schwere-Pendel",
-          "Federkonstante",
-          "Federpendel",
-          "Federpendel angeregt",
-          "Federpendel gedämpft",
-          "Gekoppelte Pendel",
-          "Pendelkörper"
-        ]
       }
     }
   ],
@@ -130,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -146,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

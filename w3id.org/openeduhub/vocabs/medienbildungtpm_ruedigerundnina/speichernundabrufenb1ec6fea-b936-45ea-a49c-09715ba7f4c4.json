@@ -6,44 +6,6 @@
   "prefLabel": {
     "de": "Speichern und Abrufen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Apps (Evernote",
-      "Cloud",
-      "Cloudsystem",
-      "Diigo)",
-      "Download",
-      "Favoriten",
-      "Instapaper",
-      "Lesezeichen",
-      "Liner",
-      "Link Shortener",
-      "Linkliste",
-      "Linklisten",
-      "Notion",
-      "Pocket",
-      "Schulserver"
-    ]
-  },
-  "note": {
-    "de": [
-      "Apps (Evernote",
-      "Cloud",
-      "Cloudsystem",
-      "Diigo)",
-      "Download",
-      "Favoriten",
-      "Instapaper",
-      "Lesezeichen",
-      "Liner",
-      "Link Shortener",
-      "Linkliste",
-      "Linklisten",
-      "Notion",
-      "Pocket",
-      "Schulserver"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/informierenundrecherchieren26693c37-78cc-4606-9d28-de0d6f402e6e",
     "prefLabel": {
@@ -96,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,72 +6,23 @@
   "prefLabel": {
     "de": "20./21. Jahrhundert"
   },
-  "note": {
-    "de": [
-      "Jahrhundert",
-      "Kunst",
-      "Kunst der Moderne",
-      "Kunstunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/060031101",
       "prefLabel": {
         "de": "Kunst bis 1945"
-      },
-      "note": {
-        "de": [
-          "Bauhaus",
-          "Cubismus",
-          "Dada",
-          "Expressionismus",
-          "Fauvismus",
-          "Futurismus",
-          "Konstruktivismus",
-          "Kunst",
-          "Kunst bis 1945",
-          "Kunst vor 1945",
-          "Kunstunterricht",
-          "Neue Sachlichkeit",
-          "Surrealismus"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/060031102",
       "prefLabel": {
         "de": "Kunst bis 1980"
-      },
-      "note": {
-        "de": [
-          "Action-painting",
-          "Kunst",
-          "Kunst bis 1980",
-          "Kunst nach 1945",
-          "Kunstunterricht",
-          "Minimal art",
-          "Op-art",
-          "Pop-art",
-          "Tachismus",
-          "abstrakter Expressionismus"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/060031103",
       "prefLabel": {
         "de": "Kunst der Gegenwart"
-      },
-      "note": {
-        "de": [
-          "Gegenwartskunst",
-          "Kunst",
-          "Kunst der Gegenwart",
-          "Kunstunterricht",
-          "Videokunst",
-          "Zeitgenössische Kunst"
-        ]
       }
     }
   ],
@@ -127,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -143,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

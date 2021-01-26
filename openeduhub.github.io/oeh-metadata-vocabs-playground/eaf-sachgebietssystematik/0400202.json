@@ -6,81 +6,41 @@
   "prefLabel": {
     "de": "Hochbau"
   },
-  "note": {
-    "de": [
-      "Bauwerk",
-      "Bauwesen",
-      "Hochbau"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020201",
       "prefLabel": {
         "de": "Betonbau"
-      },
-      "note": {
-        "de": [
-          "Betonbau"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020202",
       "prefLabel": {
         "de": "Dachbau"
-      },
-      "note": {
-        "de": [
-          "Dachbau",
-          "Dachdeckung",
-          "Dachkonstruktion"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020203",
       "prefLabel": {
         "de": "Fassadenbau"
-      },
-      "note": {
-        "de": [
-          "Fassadenbau"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020204",
       "prefLabel": {
         "de": "Mauerwerksbau"
-      },
-      "note": {
-        "de": [
-          "Mauerwerksbau"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020205",
       "prefLabel": {
         "de": "Stahlbau"
-      },
-      "note": {
-        "de": [
-          "Stahlbau"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020206",
       "prefLabel": {
         "de": "Stahlbetonbau"
-      },
-      "note": {
-        "de": [
-          "Betonbau",
-          "Stahlbetonbau"
-        ]
       }
     }
   ],
@@ -136,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -152,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

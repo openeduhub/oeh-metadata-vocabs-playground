@@ -16,22 +16,6 @@
       "energy conversion"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Energieerhaltungssatz",
-      "Energieflussdiagrammen",
-      "Energierhaltung",
-      "Erhaltungssatz der Energie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Energieerhaltungssatz",
-      "Energieflussdiagrammen",
-      "Energierhaltung",
-      "Erhaltungssatz der Energie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/energie00e363a5-0fb6-4813-937f-21af14fd42f2",
     "prefLabel": {
@@ -84,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

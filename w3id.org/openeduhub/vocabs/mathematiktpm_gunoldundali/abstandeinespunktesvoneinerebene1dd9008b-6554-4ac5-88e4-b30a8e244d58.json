@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Abstand eines Punktes von einer Ebene"
   },
-  "hiddenLabel": {
-    "de": [
-      "Koordinatenform in Hessesche Normalform\nPunkt P in die Hessesche Normalform einsetzen",
-      "d berechnen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Koordinatenform in Hessesche Normalform\nPunkt P in die Hessesche Normalform einsetzen",
-      "d berechnen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Nullstellen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Die y-Koordinate eines Schnittpunktes mit der x-Achse ist Null."
-    ]
-  },
   "note": {
-    "de": [
-      "Die y-Koordinate eines Schnittpunktes mit der x-Achse ist Null."
-    ]
+    "de": "Die y-Koordinate eines Schnittpunktes mit der x-Achse ist Null."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/gebrochenrationalefunkrionen2783524e-6ddc-442d-b784-57c1f1060ce6",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

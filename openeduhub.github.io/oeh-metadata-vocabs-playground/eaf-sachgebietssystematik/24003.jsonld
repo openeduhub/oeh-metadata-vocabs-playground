@@ -6,37 +6,17 @@
   "prefLabel": {
     "de": "Landes- und Regionalgeschichte"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht",
-      "Landesgeschichte",
-      "Regionalgeschichte"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400301",
       "prefLabel": {
         "de": "Landesgeschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400302",
       "prefLabel": {
         "de": "Regionalgeschichte, Lokalgeschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     }
   ],
@@ -92,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,15 +6,6 @@
   "prefLabel": {
     "de": "Medizinische Versorgung"
   },
-  "note": {
-    "de": [
-      "Gesundheit",
-      "Medizinische Versorgung",
-      "Rehabilitation",
-      "Versicherung",
-      "ärztliche Grundversorgung"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/260",
     "prefLabel": {
@@ -67,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -83,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

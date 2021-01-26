@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Szenisches Spiel"
   },
-  "hiddenLabel": {
-    "de": [
-      "Drama",
-      "Inszenierung eines Gedichts",
-      "Requisiten ",
-      "Rolle",
-      "Rollenspiel",
-      "Szene",
-      "Theater"
-    ]
-  },
-  "note": {
-    "de": [
-      "Drama",
-      "Inszenierung eines Gedichts",
-      "Requisiten ",
-      "Rolle",
-      "Rollenspiel",
-      "Szene",
-      "Theater"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gespraechegestalten0ab2dcf6-6dbc-43ce-a902-19678dbc19e0",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

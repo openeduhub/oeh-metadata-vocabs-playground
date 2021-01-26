@@ -7,105 +7,55 @@
     "de": "Ausbau"
   },
   "note": {
-    "de": [
-      "Innenausbau"
-    ]
+    "de": "Innenausbau"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020301",
       "prefLabel": {
         "de": "Bodenbeläge"
-      },
-      "note": {
-        "de": [
-          "Oberboden"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020302",
       "prefLabel": {
         "de": "Dämmung, Isolierung"
-      },
-      "note": {
-        "de": [
-          "Dämmung",
-          "Isolierung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020303",
       "prefLabel": {
         "de": "Elektroinstallationen"
-      },
-      "note": {
-        "de": [
-          "Elektroinstallationen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020304",
       "prefLabel": {
         "de": "Estricharbeiten"
-      },
-      "note": {
-        "de": [
-          "Estrich"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020305",
       "prefLabel": {
         "de": "Haustechnik/Gebäudetechnik"
-      },
-      "note": {
-        "de": [
-          "Gebäudetechnik",
-          "Heizungsarbeiten",
-          "Klimatisierung",
-          "Lüftung",
-          "Sanitärarbeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020306",
       "prefLabel": {
         "de": "Holzbau"
-      },
-      "note": {
-        "de": [
-          "Holzbau",
-          "Möbelarbeiten",
-          "Schreinerarbeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020307",
       "prefLabel": {
         "de": "Metallbau"
-      },
-      "note": {
-        "de": [
-          "Metallbau",
-          "Schlosserarbeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040020308",
       "prefLabel": {
         "de": "Putzarbeiten"
-      },
-      "note": {
-        "de": [
-          "Innenputz"
-        ]
       }
     }
   ],
@@ -161,12 +111,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -177,16 +121,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

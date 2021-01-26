@@ -11,119 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/auswertenundbewerten5570c106-cfca-471d-b131-5f34eedffa27",
       "prefLabel": {
         "de": "Auswerten und Bewerten"
-      },
-      "note": {
-        "de": [
-          "Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten",
-          "Fake News",
-          "FakeNews",
-          "Falschmeldung",
-          "Falschmeldungen",
-          "Informationen",
-          "Informationen umwandeln und aufbereiten",
-          "Informationsauswertung",
-          "Informationsbewertung",
-          "Informationskompetenz",
-          "Informationsquelle",
-          "Informationsquellen",
-          "Nachrichtenkompetenz",
-          "Nachrichtenportal",
-          "Portal",
-          "Quellenanalyse",
-          "Quellenkritik",
-          "Verschwörungserzählung",
-          "Verschwörungsmythos",
-          "Verschwörungstheorie"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/kritikuebenundkommentieren1f01fb32-f809-4b4b-955e-11e7a24eb5b1",
       "prefLabel": {
         "de": "Kritik üben und Kommentieren "
-      },
-      "note": {
-        "de": [
-          " gesellschaftliche Normen und Werte kennen",
-          "Chat",
-          "Cybermobbing",
-          "Facebook",
-          "Forum",
-          "Hashtag",
-          "Hilfe und Unterstützung finden und nutzen",
-          "Instagram",
-          "Kommentar",
-          "Messenger",
-          "SnapChat",
-          "Social-Media",
-          "SocialMedia",
-          "Telegram",
-          "TikTok",
-          "Twitter",
-          "gefährdende Medieninhalte erkennen",
-          "juristische rechtliche Grundlagen",
-          "kommentieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/speichernundabrufenb1ec6fea-b936-45ea-a49c-09715ba7f4c4",
       "prefLabel": {
         "de": "Speichern und Abrufen"
-      },
-      "note": {
-        "de": [
-          "Apps (Evernote",
-          "Cloud",
-          "Cloudsystem",
-          "Diigo)",
-          "Download",
-          "Favoriten",
-          "Instapaper",
-          "Lesezeichen",
-          "Liner",
-          "Link Shortener",
-          "Linkliste",
-          "Linklisten",
-          "Notion",
-          "Pocket",
-          "Schulserver"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/suchenundfiltern3db43655-60e1-4734-98a8-65af25d6da7a",
       "prefLabel": {
         "de": "Suchen und Filtern"
-      },
-      "note": {
-        "de": [
-          "\nKindersuchmaschine",
-          "Bildersuche",
-          "Informationen filtern und strukturieren",
-          "Informationsrecherche",
-          "Informationsrecherchen zielgerichtet durchführen und dabei Suchstrategien anwenden",
-          "Internetrecherche",
-          "Internetrecherchen",
-          "Kindersuchmaschinen",
-          "Kindersuchportal",
-          "Kindersuchportale",
-          "Recherche",
-          "Recherchekompetenz",
-          "Suchbegriff",
-          "Suchbegriffe",
-          "Suchbegriffe finden",
-          "Suchbegriffe formulieren",
-          "Suchergebnisse",
-          "Suchfilter",
-          "Suchinteressen",
-          "Suchintreresse",
-          "Suchmaschine",
-          "Suchmaschinen",
-          "Suchoperator",
-          "Suchoperatoren",
-          "Suchstrategie"
-        ]
       }
     }
   ],
@@ -173,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -189,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

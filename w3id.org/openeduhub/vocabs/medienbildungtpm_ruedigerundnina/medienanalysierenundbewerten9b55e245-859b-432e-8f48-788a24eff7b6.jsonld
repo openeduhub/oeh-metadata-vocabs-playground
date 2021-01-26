@@ -6,36 +6,6 @@
   "prefLabel": {
     "de": "Medien analysieren und bewerten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bewertung von Medien",
-      "Casting",
-      "Castinshow",
-      "Medien analysieren",
-      "Medienanalyse",
-      "Medienbewertung",
-      "Medienformate",
-      "Mediengestaltung",
-      "Medienkritik",
-      "kritischer Umgang mit Medien",
-      "mediale Konstrukte"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bewertung von Medien",
-      "Casting",
-      "Castinshow",
-      "Medien analysieren",
-      "Medienanalyse",
-      "Medienbewertung",
-      "Medienformate",
-      "Mediengestaltung",
-      "Medienkritik",
-      "kritischer Umgang mit Medien",
-      "mediale Konstrukte"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/analysierenundreflektierenebf0a3cd-8c0a-45f5-99a9-379b4efac340",
     "prefLabel": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

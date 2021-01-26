@@ -6,77 +6,35 @@
   "prefLabel": {
     "de": "Portugisisch"
   },
-  "note": {
-    "de": [
-      "Portugisisch",
-      "Portugisischunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001401",
       "prefLabel": {
         "de": "Sprachliche Fertigkeiten"
-      },
-      "note": {
-        "de": [
-          "Portugisisch",
-          "Portugisischunterricht",
-          "Sprachliche Fertigkeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001402",
       "prefLabel": {
         "de": "Landeskunde"
-      },
-      "note": {
-        "de": [
-          "Landeskunde Portugals",
-          "Portugisisch",
-          "Portugisischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001403",
       "prefLabel": {
         "de": "Literatur, Medien"
-      },
-      "note": {
-        "de": [
-          "Literatur Portugals",
-          "Medien",
-          "Portugisisch",
-          "Portugisischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001404",
       "prefLabel": {
         "de": "Spielfilm"
-      },
-      "note": {
-        "de": [
-          "Portugisisch",
-          "Portugisischunterricht",
-          "Spielfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001405",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Unterricht",
-          "Portugisisch",
-          "Portugisischunterricht"
-        ]
       }
     }
   ],
@@ -132,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

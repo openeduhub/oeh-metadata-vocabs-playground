@@ -6,59 +6,29 @@
   "prefLabel": {
     "de": "Schützen und sicher Agieren"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Schützen und sicher Agieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040401",
       "prefLabel": {
         "de": "Sicher in digitalen Umgebungen agieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040402",
       "prefLabel": {
         "de": "Persönliche Daten und Privatsphäre schützen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040403",
       "prefLabel": {
         "de": "Gesundheit schützen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040404",
       "prefLabel": {
         "de": "Natur und Umwelt schützen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -114,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Stellungnahme"
   },
-  "hiddenLabel": {
-    "de": [
-      "Argumente",
-      "Eigene Meinung",
-      "Position "
-    ]
-  },
-  "note": {
-    "de": [
-      "Argumente",
-      "Eigene Meinung",
-      "Position "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/argumentieren5a9f01fd-d174-462b-8714-157a27b88e9a",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

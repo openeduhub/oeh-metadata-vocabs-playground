@@ -28,32 +28,6 @@
       "proof by induction"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Elektromagnetische Induktion",
-      "Induktionserscheinung",
-      "Induktionsgesetz",
-      "Induktionsvorgang",
-      "Induktivität",
-      "Magnetischer Fluss",
-      "RL-Kreis",
-      "Regel von LENZ",
-      "Selbstinduktion"
-    ]
-  },
-  "note": {
-    "de": [
-      "Elektromagnetische Induktion",
-      "Induktionserscheinung",
-      "Induktionsgesetz",
-      "Induktionsvorgang",
-      "Induktivität",
-      "Magnetischer Fluss",
-      "RL-Kreis",
-      "Regel von LENZ",
-      "Selbstinduktion"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/vertiefunge-lehre1b2555a6-c55b-4673-a823-15ca9baf5d55",
     "prefLabel": {
@@ -106,12 +80,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +90,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

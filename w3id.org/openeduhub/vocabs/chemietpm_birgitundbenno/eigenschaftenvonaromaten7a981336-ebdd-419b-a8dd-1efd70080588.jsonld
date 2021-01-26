@@ -6,53 +6,10 @@
   "prefLabel": {
     "de": "Eigenschaften von Aromaten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Hückel-Regel",
-      "Mesomerie",
-      "aromatisch",
-      "aromatischer Geruch",
-      "delokalisiertes Pi-Elektronensystem",
-      "konjugierte Doppelbindungen",
-      "konjugiertes Doppelbindungssystem",
-      "mesomere Grenzstrukturen",
-      "p-Orbitale",
-      "sp2-Hybridisierung",
-      "π-Elektronen-System"
-    ]
-  },
-  "note": {
-    "de": [
-      "Hückel-Regel",
-      "Mesomerie",
-      "aromatisch",
-      "aromatischer Geruch",
-      "delokalisiertes Pi-Elektronensystem",
-      "konjugierte Doppelbindungen",
-      "konjugiertes Doppelbindungssystem",
-      "mesomere Grenzstrukturen",
-      "p-Orbitale",
-      "sp2-Hybridisierung",
-      "π-Elektronen-System"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aromatencfa0c5b3-5155-40f7-972a-2b8c1aa20a23",
     "prefLabel": {
       "de": "Aromaten"
-    },
-    "altLabel": {
-      "de": [
-        "Aromat",
-        "Aromaten",
-        "aromatische Cyclen",
-        "aromatische Verbindung",
-        "aromatische Verbindungen",
-        "aromatischer Ring"
-      ],
-      "en": [
-        "Aromatics"
-      ]
     }
   },
   "inScheme": {
@@ -101,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

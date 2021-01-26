@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Rationale Zahlen addieren ..."
   },
-  "hiddenLabel": {
-    "de": [
-      "Addition von rationalen Zahlen"
-    ]
-  },
   "note": {
-    "de": [
-      "Addition von rationalen Zahlen"
-    ]
+    "de": "Addition von rationalen Zahlen"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rationalezahlen76d294ec-d85f-47f1-b5ae-c6c9c16d6472",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

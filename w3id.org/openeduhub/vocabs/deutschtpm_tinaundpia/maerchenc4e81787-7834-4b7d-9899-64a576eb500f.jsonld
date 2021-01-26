@@ -15,40 +15,6 @@
       "fairy story"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Es war einmal",
-      "Gebrüder Grimm",
-      "Grimm",
-      "Gut und Böse",
-      "Hans Christian Andersen",
-      "König",
-      "Prinzessin",
-      "Rapunzel",
-      "Rotkäppchen",
-      "Stiefmutter",
-      "Tradion",
-      "Veränderte Märchen",
-      "Überlieferung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Es war einmal",
-      "Gebrüder Grimm",
-      "Grimm",
-      "Gut und Böse",
-      "Hans Christian Andersen",
-      "König",
-      "Prinzessin",
-      "Rapunzel",
-      "Rotkäppchen",
-      "Stiefmutter",
-      "Tradion",
-      "Veränderte Märchen",
-      "Überlieferung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlendetextefaf12133-99f7-41ae-b848-8006bfef5b59",
     "prefLabel": {
@@ -101,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

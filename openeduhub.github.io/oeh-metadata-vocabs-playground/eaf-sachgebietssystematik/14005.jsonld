@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Religion, Ethik"
   },
-  "note": {
-    "de": [
-      "Elementarbereich",
-      "Ethik",
-      "Ethikunterricht",
-      "Religion",
-      "Religionsunterricht",
-      "Vorschulerziehung",
-      "frühkindliche Bildung",
-      "frühkindliche Erziehung"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/140",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

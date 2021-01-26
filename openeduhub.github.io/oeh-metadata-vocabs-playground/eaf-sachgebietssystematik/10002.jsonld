@@ -6,66 +6,29 @@
   "prefLabel": {
     "de": "Allgemeine Chemie"
   },
-  "note": {
-    "de": [
-      "Allgemeine Chemie",
-      "Chemieunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1000201",
       "prefLabel": {
         "de": "Gesetzmäßigkeiten chemischer Reaktionen"
-      },
-      "note": {
-        "de": [
-          "Chemie",
-          "Chemieunterricht",
-          "Gesetzmäßigkeiten chemischer Reaktionen",
-          "chemische Reaktionen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1000202",
       "prefLabel": {
         "de": "Chemisches Gleichgewicht und seine Beeinflussung"
-      },
-      "note": {
-        "de": [
-          "Chemie",
-          "Chemieunterricht",
-          "Chemisches Gleichgewicht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1000203",
       "prefLabel": {
         "de": "Kernchemie, Radiochemie"
-      },
-      "note": {
-        "de": [
-          "Chemie",
-          "Chemieunterricht",
-          "Kernchemie",
-          "Radiochemie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1000204",
       "prefLabel": {
         "de": "Arbeitsmethoden, Untersuchungsmethoden"
-      },
-      "note": {
-        "de": [
-          "Chemie",
-          "Chemieunterricht",
-          "chemische Arbeitsmethoden",
-          "chemische Untersuchungsmethoden"
-        ]
       }
     }
   ],
@@ -121,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -137,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

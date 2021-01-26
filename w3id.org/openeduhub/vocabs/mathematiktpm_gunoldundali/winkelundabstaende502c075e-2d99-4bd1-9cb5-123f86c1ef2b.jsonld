@@ -6,103 +6,35 @@
   "prefLabel": {
     "de": "Winkel und Abstände"
   },
-  "hiddenLabel": {
-    "de": [
-      "Abstand berechnen",
-      "Abstand eines Punktes von einer",
-      "Abstand eines Punktes zu einer Geraden berechnen (Analytische Geometrie)",
-      "Abstand zweier Ebenen bestimmen",
-      "Abstand zweier Geraden",
-      "Abstand zweier Punkte berechnen",
-      "Aufgaben ",
-      "Aufgaben zum Schnittwinkel von Geraden und Ebenen",
-      "Ebene berechnen (Projektionsverfahren)",
-      "Schnittwinkel in der analytischen Geometrie",
-      "Schnittwinkel von Geraden und Ebenen",
-      "Schnittwinkel zwischen Gerade und Ebene\n",
-      "Video ",
-      "Zwei zueinander senkrechte Geraden (analytische Geometrie)"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abstand berechnen",
-      "Abstand eines Punktes von einer",
-      "Abstand eines Punktes zu einer Geraden berechnen (Analytische Geometrie)",
-      "Abstand zweier Ebenen bestimmen",
-      "Abstand zweier Geraden",
-      "Abstand zweier Punkte berechnen",
-      "Aufgaben ",
-      "Aufgaben zum Schnittwinkel von Geraden und Ebenen",
-      "Ebene berechnen (Projektionsverfahren)",
-      "Schnittwinkel in der analytischen Geometrie",
-      "Schnittwinkel von Geraden und Ebenen",
-      "Schnittwinkel zwischen Gerade und Ebene\n",
-      "Video ",
-      "Zwei zueinander senkrechte Geraden (analytische Geometrie)"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/abstandeinespunktesvoneinerebene1dd9008b-6554-4ac5-88e4-b30a8e244d58",
       "prefLabel": {
         "de": "Abstand eines Punktes von einer Ebene"
-      },
-      "note": {
-        "de": [
-          "Koordinatenform in Hessesche Normalform\nPunkt P in die Hessesche Normalform einsetzen",
-          "d berechnen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/abstandwindschiefergeraden4d0f99e3-7367-4e93-bba0-3c5300f74e8a",
       "prefLabel": {
         "de": "Abstand windschiefer Geraden"
-      },
-      "note": {
-        "de": [
-          "Aufpunkt der Geraden in Hessesche Normalenform einsetzen",
-          "Ebene in Normalenform aufstellen",
-          "Koordinatenform in Hessesche Normalenform umwandeln",
-          "Normalenform in Koordinatenform umwandeln"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/diehesseschenormalenform580e901c-c154-4c03-94da-87bd31ede8db",
       "prefLabel": {
         "de": "Die Hessesche Normalenform"
-      },
-      "note": {
-        "de": [
-          "Hessesche Normalform ist eine Form einer Geradengleichung oder Ebenengleichung."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/normalenformderebenengleichung9db82ce9-2e6e-4732-93bc-d3f4a3063beb",
       "prefLabel": {
         "de": "Normalenform der Ebenengleichung"
-      },
-      "note": {
-        "de": [
-          "Die Normalenform ist eine Form einer Geradengleichung oder Ebenengleichung mit Normalvektor und Stützvektor"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/skalarproduktvonvektoren41ec9b10-d6ad-4573-a882-4162fd7c861e",
       "prefLabel": {
         "de": "Skalarprodukt von Vektoren"
-      },
-      "note": {
-        "de": [
-          "Formel nach φ auflösen",
-          "Längen der Vektoren berechnen",
-          "Skalarprodukt berechnen",
-          "Zwischenergebnisse in die Formel einsetzen"
-        ]
       }
     },
     {
@@ -164,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -180,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

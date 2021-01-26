@@ -6,102 +6,6 @@
   "prefLabel": {
     "de": "Typografie und Schrift"
   },
-  "hiddenLabel": {
-    "de": [
-      "Alphabet",
-      "Antiquaschrift",
-      "Arabische Ziffern",
-      "Buchstaben",
-      "Displayschriften",
-      "Duktus",
-      "Frakturschriften",
-      "Groteskschrift",
-      "Grundlinie",
-      "Grundschrift",
-      "Handlettering",
-      "Handschrift",
-      "Kalligrafie",
-      "Kritzel",
-      "Kursivschrift",
-      "Laufweite",
-      "Lesetypografie",
-      "Mengensatz",
-      "Monogramm",
-      "Motiondesign",
-      "Rhytmus und Form von Schrift",
-      "Schreibschrift",
-      "Schriftart",
-      "Schriftbild",
-      "Schriftdesigner",
-      "Schriftfamilie",
-      "Schriftgrad",
-      "Schriftklassifikation",
-      "Schriftlage",
-      "Schriftschnitt",
-      "Schriftsetzer",
-      "Schriftsippe",
-      "Schriftstil",
-      "Schrifttype",
-      "Serifen",
-      "Sonderzeichen",
-      "Type-Foundry",
-      "Typo-Ornament",
-      "Zahlen",
-      "Zeichensatz",
-      "gebrochene Schriften",
-      "gotische Schriften",
-      "urbane Alphabet",
-      "Überschrift"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alphabet",
-      "Antiquaschrift",
-      "Arabische Ziffern",
-      "Buchstaben",
-      "Displayschriften",
-      "Duktus",
-      "Frakturschriften",
-      "Groteskschrift",
-      "Grundlinie",
-      "Grundschrift",
-      "Handlettering",
-      "Handschrift",
-      "Kalligrafie",
-      "Kritzel",
-      "Kursivschrift",
-      "Laufweite",
-      "Lesetypografie",
-      "Mengensatz",
-      "Monogramm",
-      "Motiondesign",
-      "Rhytmus und Form von Schrift",
-      "Schreibschrift",
-      "Schriftart",
-      "Schriftbild",
-      "Schriftdesigner",
-      "Schriftfamilie",
-      "Schriftgrad",
-      "Schriftklassifikation",
-      "Schriftlage",
-      "Schriftschnitt",
-      "Schriftsetzer",
-      "Schriftsippe",
-      "Schriftstil",
-      "Schrifttype",
-      "Serifen",
-      "Sonderzeichen",
-      "Type-Foundry",
-      "Typo-Ornament",
-      "Zahlen",
-      "Zeichensatz",
-      "gebrochene Schriften",
-      "gotische Schriften",
-      "urbane Alphabet",
-      "Überschrift"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plakat_werbungdb28edfd-7d7a-44a6-9677-9446f283772a",
     "prefLabel": {
@@ -154,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -170,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

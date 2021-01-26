@@ -6,70 +6,35 @@
   "prefLabel": {
     "de": "Verkehr und Logistik"
   },
-  "note": {
-    "de": [
-      "Logistik",
-      "Verkehr"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401601",
       "prefLabel": {
         "de": "Seefahrt"
-      },
-      "note": {
-        "de": [
-          "Seefahrt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401602",
       "prefLabel": {
         "de": "Auto- und Straßenverkehr"
-      },
-      "note": {
-        "de": [
-          "Autoverkehr",
-          "Straßenverkehr"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401603",
       "prefLabel": {
         "de": "Bahn- und Schienenverkehr"
-      },
-      "note": {
-        "de": [
-          "Bahnverkehr",
-          "Schienenverkehr"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401604",
       "prefLabel": {
         "de": "Flugzeug und Luftfahrt"
-      },
-      "note": {
-        "de": [
-          "Flugzeug",
-          "Luftfahrt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401605",
       "prefLabel": {
         "de": "Transport und Logistik"
-      },
-      "note": {
-        "de": [
-          "Logistik",
-          "Transport"
-        ]
       }
     }
   ],
@@ -125,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -141,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

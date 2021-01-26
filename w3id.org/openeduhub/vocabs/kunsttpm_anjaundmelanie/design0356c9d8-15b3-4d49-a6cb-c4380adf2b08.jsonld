@@ -28,99 +28,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/mode-designc5ab9680-0b56-4af1-99cd-e357d3fa8d5c",
       "prefLabel": {
         "de": "Mode-Design"
-      },
-      "note": {
-        "de": [
-          "Catwalk",
-          "Entwerfen von Kleidung",
-          "Farbpalletten",
-          "Fashion Design",
-          "Fashion Illustration",
-          "Kollektionen",
-          "Kostümkunde",
-          "Kunst und Mode",
-          "Mode Skizzen",
-          "Mode und Styles",
-          "Mode zeichnen",
-          "Modenschau",
-          "Moodboards",
-          "Nähanleitung",
-          "Proportionsschema",
-          "Schnittmuster",
-          "Stimmungscollagen",
-          "Stoffkunde",
-          "Textildesign",
-          "figürliches Zeichnen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/produkt-design128f9d05-fd3e-459d-895f-9f0555af6f15",
       "prefLabel": {
         "de": "Produkt-Design"
-      },
-      "note": {
-        "de": [
-          "Ausdruck und Wirkung des Designobjekts",
-          "Automobildesign",
-          "Bauhaus",
-          "Bauhauslehre",
-          "Branding",
-          "Bricolage",
-          "Corporate Design",
-          "Corporate Identity",
-          "Designklassiker",
-          "Designmöbel",
-          "Designstudie",
-          "Deutscher Werkbund",
-          "Ding-Inszenierung",
-          "Entscheidungsprozess",
-          "Entwurfsskizze",
-          "Ergonomie",
-          "Formsprache",
-          "Funktionalismus",
-          "Funktionalität",
-          "Gebrauchsgüter Design",
-          "Gestaltfindung",
-          "Gestaltung",
-          "Gestaltungsprozesse",
-          "Handhabung",
-          "Industrial Design",
-          "Industriedesign",
-          "Innovation",
-          "Konstruktion",
-          "Konzeptentwicklung",
-          "Kreativberuf",
-          "Kunstgewerbe",
-          "Kunsthandwerk",
-          "Lebensdauer",
-          "Less is a bore",
-          "Less is more",
-          "Markenredesign",
-          "Materialkunde",
-          "Modellbau",
-          "Moodboard",
-          "Möbel Design",
-          "Produktdesign",
-          "Prototyp",
-          "Redesign",
-          "Rendering",
-          "Schmuckdesign",
-          "Sribble",
-          "Transportation Design",
-          "Umsetzung",
-          "Unikat",
-          "Upcycling",
-          "Werkstätten",
-          "angewandte Kunst",
-          "emotionale Qualität",
-          "form follows function",
-          "gesellschaftliche Wertigkeit",
-          "industrielle Massenproduktion",
-          "soziale Wertvorstellungen",
-          "zeitgemäßes Design",
-          "Ökologie"
-        ]
       }
     }
   ],
@@ -170,12 +83,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -186,16 +93,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -15,22 +15,6 @@
       "numeri"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Einzahl",
-      "Mehrzahl ",
-      "Plural",
-      "Singular"
-    ]
-  },
-  "note": {
-    "de": [
-      "Einzahl",
-      "Mehrzahl ",
-      "Plural",
-      "Singular"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortformen3a038f76-31ab-451d-b3fb-0001e698361b",
     "prefLabel": {
@@ -83,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -99,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

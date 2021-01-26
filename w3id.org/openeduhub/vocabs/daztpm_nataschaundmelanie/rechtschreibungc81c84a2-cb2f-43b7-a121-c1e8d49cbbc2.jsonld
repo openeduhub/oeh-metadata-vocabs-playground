@@ -15,66 +15,17 @@
       "Rechtschreibung"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Orthographie",
-      "Rechtschreibung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Orthographie",
-      "Rechtschreibung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/grossschreibungundkleinschreibung5dd33b5c-fcce-4ad8-a6d7-5a87675a1a76",
       "prefLabel": {
         "de": "Großschreibung und Kleinschreibung"
-      },
-      "note": {
-        "de": [
-          "Großbuchstabe",
-          "Großschreibung",
-          "Kleinbuchstabe",
-          "Kleinschreibung",
-          "Majuskel",
-          "Minuskel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/zeichensetzungb26df297-c103-4cb2-904f-c935d8a35732",
       "prefLabel": {
         "de": "Zeichensetzung"
-      },
-      "altLabel": {
-        "de": [
-          "Interpunktion"
-        ],
-        "en": [
-          "Punctuation mark"
-        ]
-      },
-      "note": {
-        "de": [
-          "Anführungszeichen",
-          "Apostroph",
-          "Auslassungspunkte",
-          "Ausrufezeichen",
-          "Ausrufzeichen",
-          "Beistrich",
-          "Doppelpunkt",
-          "Fragezeichen",
-          "Interpunktion",
-          "Klammern",
-          "Komma",
-          "Punkt",
-          "Semikolon",
-          "Strichpunkt",
-          "Zeichensetzunng"
-        ]
       }
     }
   ],
@@ -124,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -140,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

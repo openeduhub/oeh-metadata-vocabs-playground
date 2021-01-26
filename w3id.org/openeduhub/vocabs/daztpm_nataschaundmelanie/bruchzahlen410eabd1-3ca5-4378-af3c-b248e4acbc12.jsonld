@@ -6,39 +6,10 @@
   "prefLabel": {
     "de": "Bruchzahlen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bruchzahlen",
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Partitivzahlen "
-    ]
-  },
-  "note": {
-    "de": [
-      "Bruchzahlen",
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Partitivzahlen "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/numeraled7396bac-1912-4567-91a2-b8a9e7e196dc",
     "prefLabel": {
       "de": "Numerale"
-    },
-    "altLabel": {
-      "de": [
-        "Multiplikativum",
-        "Numeral",
-        "Unbestimmtes Zahlwort",
-        "Vervielfältigungszahlwort",
-        "Wiederholungszahlwort",
-        "Zahlwort"
-      ],
-      "en": [
-        "num."
-      ]
     }
   },
   "inScheme": {
@@ -87,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

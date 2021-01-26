@@ -20,161 +20,41 @@
       "adv."
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Adverbien",
-      "Nebenwörter",
-      "Umstandswörter"
-    ]
-  },
-  "note": {
-    "de": [
-      "Adverbien",
-      "Nebenwörter",
-      "Umstandswörter"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/frageadverbien64278aa1-eabe-4f6b-a227-6baddeb69d1e",
       "prefLabel": {
         "de": "Frageadverbien"
-      },
-      "note": {
-        "de": [
-          "Adverbien",
-          "Ergänzungsfrage ",
-          "Umstandswörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/kausaladverbienc67c31bc-365e-4642-9919-f7e2ef10f0ef",
       "prefLabel": {
         "de": "Kausaladverbien"
-      },
-      "note": {
-        "de": [
-          " finales Verhältnis",
-          "Adverbien",
-          "Bezeichnung der Bedingung",
-          "Bezeichnung der Einräumung",
-          "Bezeichnung der Folge",
-          "Bezeichnung des Grundes",
-          "Bezeichnung des Zwecks",
-          "Umstandswörter",
-          "also",
-          "andernfalls",
-          "ansonsten",
-          "daher",
-          "darum",
-          "dazu",
-          "demnach",
-          "dennoch",
-          "deshalb",
-          "dessen ungeachtet",
-          "deswegen",
-          "gleichwohl",
-          "infolgedessen",
-          "kausales Verhältnis",
-          "keinesfalls",
-          "konditionales Verhältnis",
-          "konsekutives Verhältnis",
-          "konzessives Verhältnis",
-          "notfalls",
-          "nämlich",
-          "nötigenfalls",
-          "schlimmstenfalls",
-          "somit",
-          "sonst",
-          "trotzdem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/lokaladverbienfee1d19f-47a7-4d19-92eb-9347844f413f",
       "prefLabel": {
         "de": "Lokaladverbien"
-      },
-      "note": {
-        "de": [
-          "Adverbien",
-          "Adverbien des Ortes",
-          "Ortsadverbien",
-          "Richtungsadverbien",
-          "lokale Adverbien"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/modaladverbiena8a981d4-6863-4d8b-bf69-879c1eb7c4fe",
       "prefLabel": {
         "de": "Modaladverbien"
-      },
-      "note": {
-        "de": [
-          "Adverbien",
-          "Bezeichnung von Art und Weise",
-          "Bezeichnung von Art und Weise,Bezeichnung einer Einschränkung ",
-          "Modaladverbien",
-          "Umstandswörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/pronominaladverbiend67d2445-824d-4588-a689-ba2a30ffa842",
       "prefLabel": {
         "de": "Pronominaladverbien"
-      },
-      "note": {
-        "de": [
-          "Adverbien",
-          "Pro-Adverbien",
-          "Pronominaladverbien",
-          "Präpositionaladverbien"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/temporaladverbien5821b7c9-0c5f-40c4-9254-9e6cc3327170",
       "prefLabel": {
         "de": "Temporaladverbien"
-      },
-      "note": {
-        "de": [
-          "Adverbien",
-          "Temporaladverbien",
-          "Umstandswörter",
-          "Wann?",
-          "anfangs",
-          "augenblicklich",
-          "bald",
-          "damals",
-          "danach",
-          "dann",
-          "demnächst",
-          "eben",
-          "endlich",
-          "gerade",
-          "gestern",
-          "heute",
-          "heutzutage",
-          "inzwischen",
-          "jetzt",
-          "mittlerweile",
-          "nie",
-          "niemals",
-          "nun",
-          "schließlich",
-          "seitdem",
-          "sofort",
-          "später",
-          "vorerst",
-          "vorgestern",
-          "vorhin",
-          "zuerst",
-          "zuletzt"
-        ]
       }
     }
   ],
@@ -230,12 +110,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -246,16 +120,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

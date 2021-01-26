@@ -11,43 +11,10 @@
       "retrospective"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Imperfekt",
-      "Perfekt",
-      "Vergangenheit",
-      "Vergangenheitsform",
-      "Zeitform",
-      "vollendete Gegenwart"
-    ]
-  },
-  "note": {
-    "de": [
-      "Imperfekt",
-      "Perfekt",
-      "Vergangenheit",
-      "Vergangenheitsform",
-      "Zeitform",
-      "vollendete Gegenwart"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/zeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
     "prefLabel": {
       "de": "Zeitformen"
-    },
-    "altLabel": {
-      "de": [
-        "Deutsche Tempusformen",
-        "Tempora",
-        "Tempus",
-        "Zeit",
-        "Zeitform",
-        "Zeitformen"
-      ],
-      "en": [
-        "grammatical tense"
-      ]
     }
   },
   "inScheme": {
@@ -96,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,102 +6,41 @@
   "prefLabel": {
     "de": "Kult und Frömmigkeit"
   },
-  "note": {
-    "de": [
-      "Kult und Frömmigkeit",
-      "Religion",
-      "Religionslehre",
-      "Religionsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200401",
       "prefLabel": {
         "de": "Kirchenjahr"
-      },
-      "note": {
-        "de": [
-          "Advent",
-          "Kirchenjahr",
-          "Ostern",
-          "Passion",
-          "Pfingsten",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Weihnachten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200402",
       "prefLabel": {
         "de": "Gottesdienst"
-      },
-      "note": {
-        "de": [
-          "Gottesdienst",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200403",
       "prefLabel": {
         "de": "Gebet"
-      },
-      "note": {
-        "de": [
-          "Gebet",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200404",
       "prefLabel": {
         "de": "Meditation"
-      },
-      "note": {
-        "de": [
-          "Meditation",
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200405",
       "prefLabel": {
         "de": "Sakramente"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Sakramente"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200406",
       "prefLabel": {
         "de": "Religiöses Brauchtum"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht",
-          "Religiöses Brauchtum"
-        ]
       }
     }
   ],
@@ -157,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -173,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

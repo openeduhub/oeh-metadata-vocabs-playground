@@ -6,110 +6,6 @@
   "prefLabel": {
     "de": "Hörtraining"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aktives Handeln aufgrund gehörter Strukturen",
-      "Aktivierung Vorwissen",
-      "Aufgabenstellung",
-      "Diktat",
-      "Drag and Drop",
-      "Evaluation Ergebnisse",
-      "Fragen zum Text",
-      "Hot Patatoes",
-      "Imitation fremdsprachlicher Laute",
-      "Ja/Nein",
-      "Kommentar zum Hörtext",
-      "Lieblingswörter",
-      "Lückentext",
-      "Multiple Choice",
-      "Pausen",
-      "Post-listening Activities",
-      "Pre-listening Activities",
-      "Präentation des Hörtextes",
-      "Raster ausfüllen",
-      "Richtig/Falsch",
-      "Richtige Reihenfolge festlegen",
-      "Sprechgeschwindigkeit",
-      "Standardsprache",
-      "Syntax",
-      "Sätze beenden",
-      "Textabschnitte in Reihenfolge bringen",
-      "Textaufbau",
-      "Textproduktion",
-      "Themenvertrautheit",
-      "Transformationsaufgaben",
-      "Transkription",
-      "Verstehensstrategien",
-      "Vokabel- Grammatikübungen",
-      "Weg in Plan einzeichnen",
-      "While-listening Activities",
-      "Wissenhorizont",
-      "Wortschatz",
-      "Wörterlisten",
-      "Zuordnung",
-      "Zusammenfassung",
-      "Zusammensetzen von Textfragmenten",
-      "aus Wortreihen auswählen",
-      "authentische Kommunikation",
-      "geschlossene Aufgaben",
-      "halboffene Aufgaben",
-      "mehrmaliges Lesen",
-      "offene Aufgaben",
-      "visuelle Inputs"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aktives Handeln aufgrund gehörter Strukturen",
-      "Aktivierung Vorwissen",
-      "Aufgabenstellung",
-      "Diktat",
-      "Drag and Drop",
-      "Evaluation Ergebnisse",
-      "Fragen zum Text",
-      "Hot Patatoes",
-      "Imitation fremdsprachlicher Laute",
-      "Ja/Nein",
-      "Kommentar zum Hörtext",
-      "Lieblingswörter",
-      "Lückentext",
-      "Multiple Choice",
-      "Pausen",
-      "Post-listening Activities",
-      "Pre-listening Activities",
-      "Präentation des Hörtextes",
-      "Raster ausfüllen",
-      "Richtig/Falsch",
-      "Richtige Reihenfolge festlegen",
-      "Sprechgeschwindigkeit",
-      "Standardsprache",
-      "Syntax",
-      "Sätze beenden",
-      "Textabschnitte in Reihenfolge bringen",
-      "Textaufbau",
-      "Textproduktion",
-      "Themenvertrautheit",
-      "Transformationsaufgaben",
-      "Transkription",
-      "Verstehensstrategien",
-      "Vokabel- Grammatikübungen",
-      "Weg in Plan einzeichnen",
-      "While-listening Activities",
-      "Wissenhorizont",
-      "Wortschatz",
-      "Wörterlisten",
-      "Zuordnung",
-      "Zusammenfassung",
-      "Zusammensetzen von Textfragmenten",
-      "aus Wortreihen auswählen",
-      "authentische Kommunikation",
-      "geschlossene Aufgaben",
-      "halboffene Aufgaben",
-      "mehrmaliges Lesen",
-      "offene Aufgaben",
-      "visuelle Inputs"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/hoerenverstehenundhoer-_sehverstehen6c22f908-fecc-411c-b1b6-7d25acdf112e",
     "prefLabel": {
@@ -162,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -178,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

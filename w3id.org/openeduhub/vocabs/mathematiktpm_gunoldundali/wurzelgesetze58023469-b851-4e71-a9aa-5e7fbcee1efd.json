@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Wurzelgesetze"
   },
-  "hiddenLabel": {
-    "de": [
-      "Radizieren"
-    ]
-  },
   "note": {
-    "de": [
-      "Radizieren"
-    ]
+    "de": "Radizieren"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wurzeln9c805959-89a9-43b2-9b21-65e9be80f167",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

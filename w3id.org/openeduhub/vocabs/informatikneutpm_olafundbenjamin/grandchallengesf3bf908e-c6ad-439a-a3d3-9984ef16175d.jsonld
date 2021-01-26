@@ -23,17 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/mensch-computer-interaktiondaf6cc86-1bdf-48d5-95ef-79da84bb89df",
       "prefLabel": {
         "de": "Mensch-Computer-Interaktion"
-      },
-      "altLabel": {
-        "de": [
-          "HCI",
-          "Human Computer Interaction",
-          "Mensch-Rechner-Interaktion"
-        ],
-        "en": [
-          "HCI",
-          "human-computer interaction"
-        ]
       }
     },
     {
@@ -101,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

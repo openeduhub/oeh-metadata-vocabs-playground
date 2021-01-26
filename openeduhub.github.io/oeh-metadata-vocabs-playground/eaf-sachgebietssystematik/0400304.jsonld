@@ -7,36 +7,19 @@
     "de": "Geowissenschaften"
   },
   "note": {
-    "de": [
-      "Geowissenschaften"
-    ]
+    "de": "Geowissenschaften"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040030401",
       "prefLabel": {
         "de": "Kartographie"
-      },
-      "note": {
-        "de": [
-          "Geodaten",
-          "Geoinformationen",
-          "Kartografie",
-          "Kartographie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040030402",
       "prefLabel": {
         "de": "Meteorologie"
-      },
-      "note": {
-        "de": [
-          "Klimatologie",
-          "Meteorologie",
-          "Wettervorhersage"
-        ]
       }
     }
   ],
@@ -92,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

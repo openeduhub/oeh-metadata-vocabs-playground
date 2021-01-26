@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Rauminhalte von Rotationskörpern"
   },
-  "hiddenLabel": {
-    "de": [
-      "Drehung",
-      "Kreiskegel oder auch Zylinder",
-      "Kugel",
-      "Kurvenebene",
-      "Rotationskörper",
-      "Rotationsvolumen bei der Drehung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Drehung",
-      "Kreiskegel oder auch Zylinder",
-      "Kugel",
-      "Kurvenebene",
-      "Rotationskörper",
-      "Rotationsvolumen bei der Drehung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/integralrechnunge2e1f759-c3f7-4c1b-a640-6a83e587e5cb",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

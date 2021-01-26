@@ -11,16 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/blendedlearning39fb61bd-5c31-4c53-85c5-7d1464b85c0f",
       "prefLabel": {
         "de": "Blended Learning"
-      },
-      "altLabel": {
-        "de": [
-          "Blended Learning",
-          "Blended-Learning",
-          "integriertes Lernen"
-        ],
-        "en": [
-          "Blended learning"
-        ]
       }
     },
     {
@@ -33,14 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/selbstgesteuerteslernenbadd4e3b-cd57-43fe-8e4c-2ca45bac127d",
       "prefLabel": {
         "de": "Selbstgesteuertes Lernen"
-      },
-      "altLabel": {
-        "de": [
-          "SGL",
-          "Selbstbestimmtes Lernen",
-          "Selbstorganisiertes Lernen",
-          "Selbstreguliertes Lernen"
-        ]
       }
     }
   ],
@@ -96,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

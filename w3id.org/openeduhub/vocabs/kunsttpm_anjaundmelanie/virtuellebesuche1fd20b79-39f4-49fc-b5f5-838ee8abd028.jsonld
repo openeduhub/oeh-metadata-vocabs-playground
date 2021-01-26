@@ -6,67 +6,10 @@
   "prefLabel": {
     "de": "virtuelle Besuche"
   },
-  "hiddenLabel": {
-    "de": [
-      "Amsterdam Rijksmuseum",
-      "Amsterdam Van-Gogh-Museum",
-      "Berlin Pergamon Museum",
-      "D.C. National Gallery of Art",
-      "D.C. National Portrait Gallery",
-      "Florenz: Uffizien",
-      "Japan Tokio Fuji Art Museum",
-      "London British Museum",
-      "Los Angeles The J. Paul Getty Museum ",
-      "Madrid Museum Thyssen-Bornemisza",
-      "Mexico City Frida-Kahlo-Museum",
-      "Mexico City Nationalmuseum für Anthropologie",
-      "München Deutsches Museum",
-      "New York Guggenheim Museum",
-      "Paris Louvre",
-      "Paris Musée d’Orsay",
-      "Seoul National Museum of Modern and Contemporary Art",
-      "St. Petersburg Eremitage",
-      "São Paulo MASP",
-      "Vatikan Vatikanische Museen",
-      "Washington",
-      "Wien Albertina"
-    ]
-  },
-  "note": {
-    "de": [
-      "Amsterdam Rijksmuseum",
-      "Amsterdam Van-Gogh-Museum",
-      "Berlin Pergamon Museum",
-      "D.C. National Gallery of Art",
-      "D.C. National Portrait Gallery",
-      "Florenz: Uffizien",
-      "Japan Tokio Fuji Art Museum",
-      "London British Museum",
-      "Los Angeles The J. Paul Getty Museum ",
-      "Madrid Museum Thyssen-Bornemisza",
-      "Mexico City Frida-Kahlo-Museum",
-      "Mexico City Nationalmuseum für Anthropologie",
-      "München Deutsches Museum",
-      "New York Guggenheim Museum",
-      "Paris Louvre",
-      "Paris Musée d’Orsay",
-      "Seoul National Museum of Modern and Contemporary Art",
-      "St. Petersburg Eremitage",
-      "São Paulo MASP",
-      "Vatikan Vatikanische Museen",
-      "Washington",
-      "Wien Albertina"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/museen2e2ac839-df74-4c9b-b0ff-8d84f55a4d7c",
     "prefLabel": {
       "de": "Museen"
-    },
-    "altLabel": {
-      "de": [
-        "NACE 91.02"
-      ]
     }
   },
   "inScheme": {
@@ -115,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -131,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

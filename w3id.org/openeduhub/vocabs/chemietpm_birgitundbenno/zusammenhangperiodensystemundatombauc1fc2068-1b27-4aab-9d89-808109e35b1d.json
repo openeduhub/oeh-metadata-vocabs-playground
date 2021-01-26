@@ -6,58 +6,10 @@
   "prefLabel": {
     "de": "Zusammenhang Periodensystem und Atombau"
   },
-  "hiddenLabel": {
-    "de": [
-      "Atommasse",
-      "Elektronenhülle",
-      "Gruppennummer",
-      "Ion",
-      "Isotop",
-      "Kernladung",
-      "Masse",
-      "Neutron",
-      "Ordnungszahl",
-      "Periodenzahl",
-      "Protonenanzahl",
-      "Schalenanzahl",
-      "Schalennummer",
-      "Schalenzahl"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atommasse",
-      "Elektronenhülle",
-      "Gruppennummer",
-      "Ion",
-      "Isotop",
-      "Kernladung",
-      "Masse",
-      "Neutron",
-      "Ordnungszahl",
-      "Periodenzahl",
-      "Protonenanzahl",
-      "Schalenanzahl",
-      "Schalennummer",
-      "Schalenzahl"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/periodensystem4c79fbc7-8aab-4be7-b487-eb447fb7edda",
     "prefLabel": {
       "de": "Periodensystem"
-    },
-    "altLabel": {
-      "de": [
-        "PSE",
-        "Periodensystem der Elemente"
-      ],
-      "en": [
-        "Mendeleev's periodic table",
-        "The periodic table",
-        "periodic table of chemical elements",
-        "periodic table of elements"
-      ]
     }
   },
   "inScheme": {
@@ -106,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

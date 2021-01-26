@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Gegenseitige Lage von Geraden"
   },
-  "hiddenLabel": {
-    "de": [
-      "echt parallel",
-      "identisch",
-      "windschief",
-      "zwei sich schneidende Geraden"
-    ]
-  },
-  "note": {
-    "de": [
-      "echt parallel",
-      "identisch",
-      "windschief",
-      "zwei sich schneidende Geraden"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geradenundebenenf6cf880a-9ba5-445f-b87c-2621cc0100ed",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

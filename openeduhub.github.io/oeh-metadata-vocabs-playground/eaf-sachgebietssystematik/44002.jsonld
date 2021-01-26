@@ -7,64 +7,37 @@
     "de": "Pädagogische Psychologie"
   },
   "note": {
-    "de": [
-      "Pädagogische Psychologie"
-    ]
+    "de": "Pädagogische Psychologie"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400201",
       "prefLabel": {
         "de": "Grundfragen"
-      },
-      "note": {
-        "de": [
-          "Grundfragen der pädagogischen Psychologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400202",
       "prefLabel": {
         "de": "Methoden"
-      },
-      "note": {
-        "de": [
-          "Methoden der Pädagogischen Psychologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400203",
       "prefLabel": {
         "de": "Entwicklungspsychologie"
-      },
-      "note": {
-        "de": [
-          "Entwicklungspsychologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400204",
       "prefLabel": {
         "de": "Lernpsychologie"
-      },
-      "note": {
-        "de": [
-          "Lernpsychologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400205",
       "prefLabel": {
         "de": "Sozialpsychologie"
-      },
-      "note": {
-        "de": [
-          "Sozialpsychologie"
-        ]
       }
     }
   ],
@@ -120,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -136,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Atom und Molekül"
   },
-  "hiddenLabel": {
-    "de": [
-      "Atom",
-      "Molekül",
-      "kleinstes Teilchen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atom",
-      "Molekül",
-      "kleinstes Teilchen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/teilchenmodell836d2bed-61f6-418b-a169-77d9a42d3995",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

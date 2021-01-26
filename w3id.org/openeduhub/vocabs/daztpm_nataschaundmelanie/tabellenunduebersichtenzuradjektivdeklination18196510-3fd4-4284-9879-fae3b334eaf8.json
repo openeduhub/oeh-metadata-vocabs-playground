@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Tabellen und Übersichten zur Adjektivdeklination"
   },
-  "hiddenLabel": {
-    "de": [
-      "Tabelle Adjektivdeklination",
-      "Übersicht Adjektivdeklination"
-    ]
-  },
-  "note": {
-    "de": [
-      "Tabelle Adjektivdeklination",
-      "Übersicht Adjektivdeklination"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adjektive398ad3a4-efd8-4738-8189-e393c181eb03",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

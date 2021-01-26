@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Sinus, Kosinus, Tangens im rechtwinkligen Dreieck"
   },
-  "hiddenLabel": {
-    "de": [
-      "Quotient aus der Länge der Ankathete/Gegenkathe dieses Winkels sowie der Länge der Hypotenuse/Ankathete"
-    ]
-  },
   "note": {
-    "de": [
-      "Quotient aus der Länge der Ankathete/Gegenkathe dieses Winkels sowie der Länge der Hypotenuse/Ankathete"
-    ]
+    "de": "Quotient aus der Länge der Ankathete/Gegenkathe dieses Winkels sowie der Länge der Hypotenuse/Ankathete"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechtwinkligedreieckeb1ff6180-e07c-4a24-89b1-fbb25e89e419",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

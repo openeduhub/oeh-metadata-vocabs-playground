@@ -16,83 +16,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/beschleuniger142a4768-b2ec-4c38-b626-8b65ddb61db6",
       "prefLabel": {
         "de": "Beschleuniger"
-      },
-      "altLabel": {
-        "de": [
-          "Beschleuniger",
-          "Bierrutsche",
-          "Bierstürzer",
-          "Saufmaschine",
-          "Teilchenbeschleuniger",
-          "Trichter"
-        ],
-        "en": [
-          "atom smasher"
-        ]
-      },
-      "note": {
-        "de": [
-          "CERN",
-          "DESY"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elementarteilchen8f01a5f3-9a78-49b0-b776-0ed5a26a3bb0",
       "prefLabel": {
         "de": "Elementarteilchen"
-      },
-      "altLabel": {
-        "de": [
-          "Elementarteilchenfamilie",
-          "Elementarteilchenfamilien",
-          "Fundamentalteilchen",
-          "Les Particules élémentaires",
-          "Subatomare Elementarteilchen",
-          "Urteilchen"
-        ],
-        "en": [
-          "The Elementary Particles",
-          "elementary particle (non-composite)",
-          "fundamental particle",
-          "non-composite quantum particle"
-        ]
-      },
-      "note": {
-        "de": [
-          "Antiteilchen",
-          "Austauschteilchen",
-          "Baryonen",
-          "Gluon",
-          "Leptonen: Hadronen",
-          "Mesonen",
-          "Quark"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/standardmodelld0548d77-703d-43ad-80d6-9bf5a57d9615",
       "prefLabel": {
         "de": "Standardmodell"
-      },
-      "altLabel": {
-        "de": [
-          "SM",
-          "Standardmodell der Elementarteilchenphysik"
-        ],
-        "en": [
-          "Core Theory",
-          "Standard Model of Particle Physics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Antimaterie",
-          "Drei Generationen",
-          "Higgs Teilchen",
-          "SUSY",
-          "Teilchenzoo"
-        ]
       }
     }
   ],
@@ -142,12 +77,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -158,16 +87,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

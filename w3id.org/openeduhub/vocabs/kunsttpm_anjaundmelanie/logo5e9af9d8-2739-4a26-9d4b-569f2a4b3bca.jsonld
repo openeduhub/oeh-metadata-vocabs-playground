@@ -28,44 +28,6 @@
       "wordmark"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Branding",
-      "CD",
-      "CI",
-      "Corporate Behaviour",
-      "Corporate Communication",
-      "Corporate Design",
-      "Corporate Identitiy",
-      "Erscheinungsbild",
-      "Leitsystem",
-      "Markengestaltung",
-      "Piktogramm",
-      "Signet",
-      "Werbebotschaft",
-      "Wortbilder",
-      "kulturelle Symbole"
-    ]
-  },
-  "note": {
-    "de": [
-      "Branding",
-      "CD",
-      "CI",
-      "Corporate Behaviour",
-      "Corporate Communication",
-      "Corporate Design",
-      "Corporate Identitiy",
-      "Erscheinungsbild",
-      "Leitsystem",
-      "Markengestaltung",
-      "Piktogramm",
-      "Signet",
-      "Werbebotschaft",
-      "Wortbilder",
-      "kulturelle Symbole"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plakat_werbungdb28edfd-7d7a-44a6-9677-9446f283772a",
     "prefLabel": {
@@ -118,12 +80,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -134,16 +90,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

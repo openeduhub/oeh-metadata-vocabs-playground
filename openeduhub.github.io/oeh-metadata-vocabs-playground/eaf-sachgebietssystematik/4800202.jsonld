@@ -6,63 +6,23 @@
   "prefLabel": {
     "de": "Kommunale Ebene"
   },
-  "note": {
-    "de": [
-      "Gesellschaftslehre",
-      "Kommunale Ebene",
-      "Kommunalverwaltung",
-      "Politik",
-      "Politische Bildung",
-      "Sozialkunde"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480020201",
       "prefLabel": {
         "de": "Kommunalwahlen"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Kommunalwahlen",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480020202",
       "prefLabel": {
         "de": "Kommunale Institutionen"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Institutionen der Kommunen",
-          "Kommunale Institutionen",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde",
-          "kommunale Institutionen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480020203",
       "prefLabel": {
         "de": "Kommunalpolitik"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Kommunalpolitik",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     }
   ],
@@ -118,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -134,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

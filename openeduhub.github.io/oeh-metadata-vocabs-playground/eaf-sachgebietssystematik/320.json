@@ -7,58 +7,31 @@
     "de": "INFORMATIONSTECHNISCHE BILDUNG"
   },
   "note": {
-    "de": [
-      "Informationstechnische Bildung"
-    ]
+    "de": "Informationstechnische Bildung"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/32001",
       "prefLabel": {
         "de": "Informationstechnische Grundbildung"
-      },
-      "note": {
-        "de": [
-          "Informationstechnische Grundbildung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/32002",
       "prefLabel": {
         "de": "Informatik"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/32003",
       "prefLabel": {
         "de": "Berufsbezogene informationstechnische Bildung"
-      },
-      "note": {
-        "de": [
-          "Berufsbezogene informationstechnische Bildung",
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/32004",
       "prefLabel": {
         "de": "Algorithmische Verfahren"
-      },
-      "note": {
-        "de": [
-          "Algorithmische Verfahren",
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     }
   ],
@@ -111,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -16,64 +16,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/koerper262110ad-ddb9-46f3-8aff-f1b048cde319",
       "prefLabel": {
         "de": "Körper"
-      },
-      "altLabel": {
-        "de": [
-          "Humanphysiologie",
-          "Körper",
-          "Körperaxiome",
-          "Körperlichkeit",
-          "geometrischer Körper",
-          "menschlicher Körper",
-          "physikalischer Körper",
-          "physikalisches Objekt"
-        ],
-        "en": [
-          "Corp",
-          "body",
-          "body (physics)",
-          "cohesive object",
-          "concrete physical object",
-          "object (physics)",
-          "physical body",
-          "solid",
-          "tangible physical object"
-        ]
-      },
-      "note": {
-        "de": [
-          "Grundkörper"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/musterda3288df-5c08-4993-9a38-6aaf50b470ba",
       "prefLabel": {
         "de": "Muster"
-      },
-      "altLabel": {
-        "de": [
-          "Hahnentritt",
-          "Hahnentrittmuster",
-          "Muster",
-          "Stoffmuster",
-          "Textilmuster",
-          "hat Muster",
-          "hat dekoratives Muster"
-        ],
-        "en": [
-          "decorated with",
-          "decorative pattern",
-          "dog-tooth-check",
-          "dogtooth",
-          "has pattern",
-          "hounds tooth check",
-          "motif",
-          "ornamental pattern",
-          "pattern",
-          "patterned",
-          "template"
-        ]
       }
     }
   ],
@@ -123,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -139,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,88 +6,23 @@
   "prefLabel": {
     "de": "Analytikverfahren"
   },
-  "hiddenLabel": {
-    "de": [
-      "Analyse,",
-      "Bestimmung",
-      "Nachweis"
-    ]
-  },
-  "note": {
-    "de": [
-      "Analyse,",
-      "Bestimmung",
-      "Nachweis"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/qualitativ5e37db8a-b476-4e7f-a010-ca4473290fd1",
       "prefLabel": {
         "de": "qualitativ"
-      },
-      "note": {
-        "de": [
-          "Glimmspan",
-          "Kalkwasser",
-          "Knallgasreaktion",
-          "Kupfernachweis,",
-          "Nachweis"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/quantitativ6fed8e75-c66b-4027-baed-af6de312205d",
       "prefLabel": {
         "de": "quantitativ"
-      },
-      "note": {
-        "de": [
-          "Elementaranalyse",
-          "Fällungstitration",
-          "Gravimetrie",
-          "Ionen-Trennungsgang",
-          "Ionennachweis",
-          "Kolorimetrie",
-          "Komplexometrie",
-          "Konduktometrie",
-          "Photometrie",
-          "Redox-Titration",
-          "Säure-Base-Titration",
-          "Titration",
-          "messen",
-          "wiegen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/spektroskopief0b51bc4-3f4f-4771-ac0c-20c938a496e3",
       "prefLabel": {
         "de": "Spektroskopie"
-      },
-      "altLabel": {
-        "de": [
-          "Absorptionsspektroskopie",
-          "Klassische Spektroskopie",
-          "Molekül-Spektroskopie",
-          "Spektrografie",
-          "Spektrographie",
-          "Spektrometrie",
-          "Spektroskopisch"
-        ]
-      },
-      "note": {
-        "de": [
-          "Flammenfärbung",
-          "IR-Spektroskopie",
-          "Licht",
-          "Massenspektroskopie",
-          "Spektrogramm",
-          "Spektrometrie",
-          "Spektroskopie",
-          "UV/VIS-Spektroskopie",
-          "elektromagnetische Wellen"
-        ]
       }
     }
   ],
@@ -143,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -159,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

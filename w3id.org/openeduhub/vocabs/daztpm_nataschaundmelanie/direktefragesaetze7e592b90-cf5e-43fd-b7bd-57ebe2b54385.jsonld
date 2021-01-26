@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Direkte Fragesätze"
   },
-  "hiddenLabel": {
-    "de": [
-      " Ja/Nein-Fragen",
-      "Fragezeichen",
-      "Interrogativsatz",
-      "direkte Fragesätze"
-    ]
-  },
-  "note": {
-    "de": [
-      " Ja/Nein-Fragen",
-      "Fragezeichen",
-      "Interrogativsatz",
-      "direkte Fragesätze"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/hauptsaetzeundsatzreihen1af0f702-b968-4115-8f93-78e08b87c924",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

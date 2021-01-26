@@ -16,33 +16,10 @@
       "Standard Model of Particle Physics"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Antimaterie",
-      "Drei Generationen",
-      "Higgs Teilchen",
-      "SUSY",
-      "Teilchenzoo"
-    ]
-  },
-  "note": {
-    "de": [
-      "Antimaterie",
-      "Drei Generationen",
-      "Higgs Teilchen",
-      "SUSY",
-      "Teilchenzoo"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/teilchenphysik5bcad8b0-14d0-4f2e-a477-9dc4d6d5f444",
     "prefLabel": {
       "de": "Teilchenphysik"
-    },
-    "altLabel": {
-      "en": [
-        "subatomic physics"
-      ]
     }
   },
   "inScheme": {
@@ -91,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

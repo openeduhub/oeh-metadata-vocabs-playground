@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Komplexe"
   },
-  "hiddenLabel": {
-    "de": [
-      "Cyanid",
-      "Koordinative Bindung",
-      "Ligand",
-      "Sigma-Donorbindung",
-      "Wasser,",
-      "Zentralatom"
-    ]
-  },
-  "note": {
-    "de": [
-      "Cyanid",
-      "Koordinative Bindung",
-      "Ligand",
-      "Sigma-Donorbindung",
-      "Wasser,",
-      "Zentralatom"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/bindungene48c5a9d-e04a-49e0-abd7-07a7a56f1bec",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

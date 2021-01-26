@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Sprachliche Bilder"
   },
-  "hiddenLabel": {
-    "de": [
-      "Metapher",
-      "Verbildlichung",
-      "rhetorisches Stilmittel",
-      "sprachliches Mittel",
-      "Übertragung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Metapher",
-      "Verbildlichung",
-      "rhetorisches Stilmittel",
-      "sprachliches Mittel",
-      "Übertragung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortschatzundwortkundec63264ae-0484-40b4-b0f6-7a8e2f4229d3",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -45,114 +45,6 @@
       "still"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Andreas Serrano",
-      "Architekturfotografie",
-      "Belichtung",
-      "Bernd & Hills Becher",
-      "Betonung der Vertikale/ Horizontale",
-      "Bewegung im Bild",
-      "Bewegung in Bildern",
-      "Bildausschnitt",
-      "Bildergeschichten",
-      "Bildrahmen",
-      "Blickführung",
-      "Blickwinkel",
-      "Carte de visite",
-      "Chronofotografie",
-      "Cindy Hermann",
-      "Detailaufnahme",
-      "Diane Arbus",
-      "Dokumentarfotografie",
-      "Eadweard Muybridge;",
-      "Eliot Porter",
-      "Experimentelle Techniken",
-      "Filter",
-      "Gebäude",
-      "Geschichten erzählen mit Stillleben",
-      "High-Key- und Low-Key-Technik",
-      "Hintergrund",
-      "Komposition",
-      "Kontraste",
-      "Kriegsfotografie",
-      "Landschaftsfotografie",
-      "Linienführung",
-      "Modefotografie",
-      "Motivwahl",
-      "Neues Sehen",
-      "Oberflächenstrukturen",
-      "Perspektive",
-      "Piktorialismus",
-      "Portraits",
-      "Selfie",
-      "Spiegelungen",
-      "Straight Photography",
-      "Studiolicht",
-      "The family of man Robert Frank",
-      "Vordergrund",
-      "Wolkenlandschaften",
-      "das entfremdete Auge",
-      "das manipulierte Bild",
-      "fotografische Experimente",
-      "inszenierte Fotografie",
-      "natürliches Licht"
-    ]
-  },
-  "note": {
-    "de": [
-      "Andreas Serrano",
-      "Architekturfotografie",
-      "Belichtung",
-      "Bernd & Hills Becher",
-      "Betonung der Vertikale/ Horizontale",
-      "Bewegung im Bild",
-      "Bewegung in Bildern",
-      "Bildausschnitt",
-      "Bildergeschichten",
-      "Bildrahmen",
-      "Blickführung",
-      "Blickwinkel",
-      "Carte de visite",
-      "Chronofotografie",
-      "Cindy Hermann",
-      "Detailaufnahme",
-      "Diane Arbus",
-      "Dokumentarfotografie",
-      "Eadweard Muybridge;",
-      "Eliot Porter",
-      "Experimentelle Techniken",
-      "Filter",
-      "Gebäude",
-      "Geschichten erzählen mit Stillleben",
-      "High-Key- und Low-Key-Technik",
-      "Hintergrund",
-      "Komposition",
-      "Kontraste",
-      "Kriegsfotografie",
-      "Landschaftsfotografie",
-      "Linienführung",
-      "Modefotografie",
-      "Motivwahl",
-      "Neues Sehen",
-      "Oberflächenstrukturen",
-      "Perspektive",
-      "Piktorialismus",
-      "Portraits",
-      "Selfie",
-      "Spiegelungen",
-      "Straight Photography",
-      "Studiolicht",
-      "The family of man Robert Frank",
-      "Vordergrund",
-      "Wolkenlandschaften",
-      "das entfremdete Auge",
-      "das manipulierte Bild",
-      "fotografische Experimente",
-      "inszenierte Fotografie",
-      "natürliches Licht"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/medialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
     "prefLabel": {
@@ -205,12 +97,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -221,16 +107,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

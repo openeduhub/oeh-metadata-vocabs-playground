@@ -7,131 +7,73 @@
     "de": "Hauswirtschaft"
   },
   "note": {
-    "de": [
-      "Hauswirtschaft"
-    ]
+    "de": "Hauswirtschaft"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060201",
       "prefLabel": {
         "de": "Ernährungslehre"
-      },
-      "note": {
-        "de": [
-          "Ernährungslehre"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060202",
       "prefLabel": {
         "de": "Lebensmittellehre"
-      },
-      "note": {
-        "de": [
-          "Lebensmittellehre"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060203",
       "prefLabel": {
         "de": "Servierkunde"
-      },
-      "note": {
-        "de": [
-          "Servierkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060204",
       "prefLabel": {
         "de": "Verkaufskunde"
-      },
-      "note": {
-        "de": [
-          "Verkaufskunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060205",
       "prefLabel": {
         "de": "Sozioökonomie"
-      },
-      "note": {
-        "de": [
-          "Sozioökonomie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060206",
       "prefLabel": {
         "de": "Haushaltstechnik"
-      },
-      "note": {
-        "de": [
-          "Haushaltstechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060207",
       "prefLabel": {
         "de": "Wohnökologie"
-      },
-      "note": {
-        "de": [
-          "Wohnökologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060208",
       "prefLabel": {
         "de": "Textilgestaltung"
-      },
-      "note": {
-        "de": [
-          "Textilgestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060209",
       "prefLabel": {
         "de": "Gesundheitslehre"
-      },
-      "note": {
-        "de": [
-          "Gesundheitslehre"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060210",
       "prefLabel": {
         "de": "Erziehungslehre"
-      },
-      "note": {
-        "de": [
-          "Erziehungslehre",
-          "Pädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060211",
       "prefLabel": {
         "de": "Hausgarten"
-      },
-      "note": {
-        "de": [
-          "Hausgarten"
-        ]
       }
     }
   ],
@@ -187,12 +129,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -203,16 +139,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

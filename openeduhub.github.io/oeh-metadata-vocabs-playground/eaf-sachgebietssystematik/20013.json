@@ -6,77 +6,35 @@
   "prefLabel": {
     "de": "Niederländisch"
   },
-  "note": {
-    "de": [
-      "Niederländisch",
-      "Niederländischunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001301",
       "prefLabel": {
         "de": "Sprachliche Fertigkeiten"
-      },
-      "note": {
-        "de": [
-          "Niederländisch",
-          "Niederländischunterricht",
-          "Sprachliche Fertigkeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001302",
       "prefLabel": {
         "de": "Landeskunde"
-      },
-      "note": {
-        "de": [
-          "Landeskunde der Niederlande",
-          "Niederländisch",
-          "Niederländischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001303",
       "prefLabel": {
         "de": "Literatur, Medien"
-      },
-      "note": {
-        "de": [
-          "Literatur der Niederlande",
-          "Medien",
-          "Niederländisch",
-          "Niederländischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001304",
       "prefLabel": {
         "de": "Spielfilm"
-      },
-      "note": {
-        "de": [
-          "Niederländisch",
-          "Niederländischunterricht",
-          "Spielfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001305",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Unterricht",
-          "Niederländisch",
-          "Niederländischunterricht"
-        ]
       }
     }
   ],
@@ -132,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

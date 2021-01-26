@@ -6,52 +6,6 @@
   "prefLabel": {
     "de": "Kritik üben und Kommentieren "
   },
-  "hiddenLabel": {
-    "de": [
-      " gesellschaftliche Normen und Werte kennen",
-      "Chat",
-      "Cybermobbing",
-      "Facebook",
-      "Forum",
-      "Hashtag",
-      "Hilfe und Unterstützung finden und nutzen",
-      "Instagram",
-      "Kommentar",
-      "Messenger",
-      "SnapChat",
-      "Social-Media",
-      "SocialMedia",
-      "Telegram",
-      "TikTok",
-      "Twitter",
-      "gefährdende Medieninhalte erkennen",
-      "juristische rechtliche Grundlagen",
-      "kommentieren"
-    ]
-  },
-  "note": {
-    "de": [
-      " gesellschaftliche Normen und Werte kennen",
-      "Chat",
-      "Cybermobbing",
-      "Facebook",
-      "Forum",
-      "Hashtag",
-      "Hilfe und Unterstützung finden und nutzen",
-      "Instagram",
-      "Kommentar",
-      "Messenger",
-      "SnapChat",
-      "Social-Media",
-      "SocialMedia",
-      "Telegram",
-      "TikTok",
-      "Twitter",
-      "gefährdende Medieninhalte erkennen",
-      "juristische rechtliche Grundlagen",
-      "kommentieren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/informierenundrecherchieren26693c37-78cc-4606-9d28-de0d6f402e6e",
     "prefLabel": {
@@ -104,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

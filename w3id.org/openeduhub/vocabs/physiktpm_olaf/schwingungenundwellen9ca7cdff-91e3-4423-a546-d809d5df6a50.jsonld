@@ -6,79 +6,32 @@
   "prefLabel": {
     "de": "Schwingungen und Wellen"
   },
-  "hiddenLabel": {
-    "de": [
-      "In der Natur und in technischen Anwendungen treten häufig zeitlich\nperiodische Vorgänge auf."
-    ]
-  },
   "note": {
-    "de": [
-      "In der Natur und in technischen Anwendungen treten häufig zeitlich\nperiodische Vorgänge auf."
-    ]
+    "de": "In der Natur und in technischen Anwendungen treten häufig zeitlich\nperiodische Vorgänge auf."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
       "prefLabel": {
         "de": "Elektromagnetische Schwingungen"
-      },
-      "note": {
-        "de": [
-          "Dipolschwingung",
-          "Hertzscher Dipol",
-          "MEISSNER'sche Rückkopplungsschaltung",
-          "Stabdipol"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischewellens.wellenoptikcfbc1baa-e7bd-4d2c-81d0-88d04a210040",
       "prefLabel": {
         "de": "Elektromagnetische Wellen (s. Wellenoptik)"
-      },
-      "note": {
-        "de": [
-          "Ausbreitung Elektromagnetischer Wellen",
-          "Dipolstrahlung",
-          "Elektromagnetische Wellen",
-          "Licht",
-          "Transversalwellen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanischeschwingungen2a0c007f-32ed-466b-87b5-03b189030c35",
       "prefLabel": {
         "de": "Mechanische Schwingungen"
-      },
-      "note": {
-        "de": [
-          "Harmonische Schwingung",
-          "Harmonischer Oszillator",
-          "Periodendauer",
-          "Schwingungsdauer",
-          "lineares Kraftgesetz",
-          "periodischen Bewegung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanischewellen35f185e2-75bc-424c-916a-95890447b252",
       "prefLabel": {
         "de": "Mechanische Wellen"
-      },
-      "note": {
-        "de": [
-          "Ausbreitungsgeschwindigkeit",
-          "Energietransport",
-          "Schallwellen",
-          "Stehende Welle",
-          "Wasserwelle",
-          "Wellenfront",
-          "Wellenfunktion",
-          "Wellennormale",
-          "Wellenwanne"
-        ]
       }
     }
   ],
@@ -128,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -144,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

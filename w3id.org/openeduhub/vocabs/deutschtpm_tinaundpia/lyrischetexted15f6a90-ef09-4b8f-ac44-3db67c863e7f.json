@@ -6,122 +6,44 @@
   "prefLabel": {
     "de": "Lyrische Texte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Interpretation"
-    ]
-  },
   "note": {
-    "de": [
-      "Interpretation"
-    ]
+    "de": "Interpretation"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/formaleaspekteee2d600f-6d1f-49a5-8013-a2105e24b220",
       "prefLabel": {
         "de": "Formale Aspekte"
-      },
-      "note": {
-        "de": [
-          "Anapäst",
-          "Daktylus",
-          "Enjambement",
-          "Jambus",
-          "Kadenz",
-          "Kreuzreim",
-          "Metrum",
-          "Paarreim",
-          "Reim",
-          "Reimarten",
-          "Reimformen",
-          "Strophen",
-          "Trochäus",
-          "Versformen",
-          "Versmaß",
-          "Zäsur"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gedicht0618c74c-952c-445b-ad4a-c77b7e2b5301",
       "prefLabel": {
         "de": "Gedicht"
-      },
-      "altLabel": {
-        "de": [
-          "Gedichte"
-        ],
-        "en": [
-          "poems"
-        ]
-      },
-      "note": {
-        "de": [
-          "Lyrik",
-          "gebundene Sprache "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gedichtformen65c1fc74-1043-4c05-9b2b-e187e878ab4e",
       "prefLabel": {
         "de": "Gedichtformen"
-      },
-      "note": {
-        "de": [
-          "Ballade",
-          "Elegie",
-          "Elfchen",
-          "Epigramm",
-          "Hymne",
-          "Ode",
-          "Sonett",
-          "Volkslied"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gedichtvergleich379e63ef-ea91-43e9-9d17-b556ea1a2b85",
       "prefLabel": {
         "de": "Gedichtvergleich"
-      },
-      "note": {
-        "de": [
-          "Gedichtinterpretation ",
-          "Gemeinsamkeiten Gedicht",
-          "Unterschiede Gedicht"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischesich4ca850bf-299b-417e-9004-4d8d8aa8115c",
       "prefLabel": {
         "de": "Lyrisches Ich"
-      },
-      "note": {
-        "de": [
-          "Rollen-Ich ",
-          "lyrischer Sprecher"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/sprachlichebilderundwendungen206920dd-7fe0-42bf-b29a-38a9f4722464",
       "prefLabel": {
         "de": "Sprachliche Bilder und Wendungen"
-      },
-      "note": {
-        "de": [
-          "Alliterationen",
-          "Anapher",
-          "Antithese",
-          "Hyperbel",
-          "Lautmalerei",
-          "Methapher",
-          "rhetorische Mittel",
-          "sprachmittel Mittel"
-        ]
       }
     }
   ],
@@ -177,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -193,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

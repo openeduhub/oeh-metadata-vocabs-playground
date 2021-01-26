@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Dreisatz"
   },
-  "hiddenLabel": {
-    "de": [
-      " proportionale Zuordnung\nDreisatz",
-      "Dreisatz",
-      "antiproportionale Zuordnung"
-    ]
-  },
-  "note": {
-    "de": [
-      " proportionale Zuordnung\nDreisatz",
-      "Dreisatz",
-      "antiproportionale Zuordnung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/vermischtes604c7499-34ff-4b52-9a67-b80e4c4c3a2c",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

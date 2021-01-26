@@ -11,67 +11,23 @@
       "Sicher reisen"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Chemikalie",
-      "Gefahr",
-      "Gift"
-    ]
-  },
-  "note": {
-    "de": [
-      "Chemikalie",
-      "Gefahr",
-      "Gift"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/chemikalienimalltag9ac65c06-f4a4-470f-952e-c50414220348",
       "prefLabel": {
         "de": "Chemikalien im Alltag"
-      },
-      "note": {
-        "de": [
-          "Arzneimittelverordnung",
-          "Aufbewahrung",
-          "Badezimmer",
-          "Baumarkt",
-          "Kindersicherheit",
-          "Küche",
-          "sicher aufbewahren,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ghs-piktogramme436e0e1d-2a3b-414b-8853-e480afb266f1",
       "prefLabel": {
         "de": "GHS-Piktogramme"
-      },
-      "note": {
-        "de": [
-          "Chemikalien",
-          "GHS",
-          "Gefahrensymbol",
-          "Gefahrstoff",
-          "Gift",
-          "Giftstoffe",
-          "Global harmonisiertes System,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/sicherheitsregeln4e35579b-9114-421f-9d91-21a291e28090",
       "prefLabel": {
         "de": "Sicherheitsregeln"
-      },
-      "note": {
-        "de": [
-          "Anweisung lesen",
-          "Gefahrenhinweise beachten",
-          "Gefährdungsbeurteilung,",
-          "Schutzbrille"
-        ]
       }
     }
   ],
@@ -127,12 +83,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -143,16 +93,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

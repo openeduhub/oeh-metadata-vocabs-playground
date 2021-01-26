@@ -6,78 +6,6 @@
   "prefLabel": {
     "de": "Eigenschaften von Säuren und Basen/Laugen"
   },
-  "hiddenLabel": {
-    "de": [
-      "  H+",
-      " Oxonium-Ion",
-      " Protonendonator",
-      "Ammoniak",
-      "Benzoesäure",
-      "Flusssäure",
-      "H3O+ ",
-      "Hydrogenphosphat,",
-      "Hydrogensulfat",
-      "Kalilauge",
-      "Kalk ",
-      "Kieselsäure",
-      "Kohlensäure",
-      "Königswasser",
-      "Natronlauge",
-      "Phosphorsäure",
-      "Proton",
-      "Salpetersäure",
-      "Salzsäure",
-      "Schwefelsäure",
-      "Säurerestion",
-      "Wasserstoff",
-      "gefährlich",
-      "giftig",
-      "mehrprotonige Säuren",
-      "pH-Wert",
-      "sauer",
-      "saure Salze",
-      "saurer Regen",
-      "unedle Metalle",
-      "verdünnen",
-      "ätzend"
-    ]
-  },
-  "note": {
-    "de": [
-      "  H+",
-      " Oxonium-Ion",
-      " Protonendonator",
-      "Ammoniak",
-      "Benzoesäure",
-      "Flusssäure",
-      "H3O+ ",
-      "Hydrogenphosphat,",
-      "Hydrogensulfat",
-      "Kalilauge",
-      "Kalk ",
-      "Kieselsäure",
-      "Kohlensäure",
-      "Königswasser",
-      "Natronlauge",
-      "Phosphorsäure",
-      "Proton",
-      "Salpetersäure",
-      "Salzsäure",
-      "Schwefelsäure",
-      "Säurerestion",
-      "Wasserstoff",
-      "gefährlich",
-      "giftig",
-      "mehrprotonige Säuren",
-      "pH-Wert",
-      "sauer",
-      "saure Salze",
-      "saurer Regen",
-      "unedle Metalle",
-      "verdünnen",
-      "ätzend"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/saeuren,basenundlaugena331d5d3-ca5a-4289-b205-791b3c8a2a0a",
     "prefLabel": {
@@ -130,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -146,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

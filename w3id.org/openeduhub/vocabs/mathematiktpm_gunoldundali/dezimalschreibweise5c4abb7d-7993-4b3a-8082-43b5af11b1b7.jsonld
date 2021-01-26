@@ -27,41 +27,13 @@
       "denary"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Dezimalzahlen und Bruchzahlen"
-    ]
-  },
   "note": {
-    "de": [
-      "Dezimalzahlen und Bruchzahlen"
-    ]
+    "de": "Dezimalzahlen und Bruchzahlen"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dezimalzahlen444c27b3-7086-47a9-8820-3dcbba856669",
     "prefLabel": {
       "de": "Dezimalzahlen"
-    },
-    "altLabel": {
-      "de": [
-        "Dekadisches System",
-        "Denär",
-        "Denärsystem",
-        "Dezimaldarstellung",
-        "Dezimalschreibweise",
-        "Dezimalsystem",
-        "Dezimalzahl",
-        "Dezimalzahlen",
-        "Periode",
-        "Zehnersystem"
-      ],
-      "en": [
-        "Decimal system",
-        "base 10",
-        "base ten",
-        "decimal numeral system",
-        "denary"
-      ]
     }
   },
   "inScheme": {
@@ -110,12 +82,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +92,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

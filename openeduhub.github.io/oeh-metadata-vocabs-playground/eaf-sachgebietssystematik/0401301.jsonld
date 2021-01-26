@@ -7,109 +7,61 @@
     "de": "Betriebswirtschaft"
   },
   "note": {
-    "de": [
-      "Betriebswirtschaft"
-    ]
+    "de": "Betriebswirtschaft"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130101",
       "prefLabel": {
         "de": "Beschaffung"
-      },
-      "note": {
-        "de": [
-          "Beschaffung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130102",
       "prefLabel": {
         "de": "Produktion"
-      },
-      "note": {
-        "de": [
-          "Produktion"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130103",
       "prefLabel": {
         "de": "Absatz"
-      },
-      "note": {
-        "de": [
-          "Absatz"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130104",
       "prefLabel": {
         "de": "Organisation"
-      },
-      "note": {
-        "de": [
-          "Organisation"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130105",
       "prefLabel": {
         "de": "Personalwesen"
-      },
-      "note": {
-        "de": [
-          "Personalwesen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130106",
       "prefLabel": {
         "de": "Rechnungswesen"
-      },
-      "note": {
-        "de": [
-          "Rechnungswesen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130107",
       "prefLabel": {
         "de": "Finanzbereich"
-      },
-      "note": {
-        "de": [
-          "Finanzbereich"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130108",
       "prefLabel": {
         "de": "EDV"
-      },
-      "note": {
-        "de": [
-          "EDV"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130109",
       "prefLabel": {
         "de": "Spezielle Betriebsarten"
-      },
-      "note": {
-        "de": [
-          "Betrieb",
-          "Betriebsart"
-        ]
       }
     }
   ],
@@ -165,12 +117,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -181,16 +127,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

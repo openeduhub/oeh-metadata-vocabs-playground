@@ -6,76 +6,35 @@
   "prefLabel": {
     "de": "Optik"
   },
-  "note": {
-    "de": [
-      "Optik",
-      "Physik",
-      "Physikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600301",
       "prefLabel": {
         "de": "Geometrische Optik"
-      },
-      "note": {
-        "de": [
-          "Geometrische Optik",
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600302",
       "prefLabel": {
         "de": "Wellenoptik"
-      },
-      "note": {
-        "de": [
-          "Physik",
-          "Physikunterricht",
-          "Wellenoptik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600303",
       "prefLabel": {
         "de": "Fotometrie"
-      },
-      "note": {
-        "de": [
-          "Fotometrie",
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600304",
       "prefLabel": {
         "de": "Farbenlehre"
-      },
-      "note": {
-        "de": [
-          "Farbenlehre",
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600305",
       "prefLabel": {
         "de": "Technische Anwendungen"
-      },
-      "note": {
-        "de": [
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     }
   ],
@@ -131,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

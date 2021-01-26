@@ -6,54 +6,6 @@
   "prefLabel": {
     "de": "Auswerten und Bewerten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten",
-      "Fake News",
-      "FakeNews",
-      "Falschmeldung",
-      "Falschmeldungen",
-      "Informationen",
-      "Informationen umwandeln und aufbereiten",
-      "Informationsauswertung",
-      "Informationsbewertung",
-      "Informationskompetenz",
-      "Informationsquelle",
-      "Informationsquellen",
-      "Nachrichtenkompetenz",
-      "Nachrichtenportal",
-      "Portal",
-      "Quellenanalyse",
-      "Quellenkritik",
-      "Verschwörungserzählung",
-      "Verschwörungsmythos",
-      "Verschwörungstheorie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Daten und ihre Quellen sowie dahinterliegende Strategien und Absichten erkennen und kritisch bewerten",
-      "Fake News",
-      "FakeNews",
-      "Falschmeldung",
-      "Falschmeldungen",
-      "Informationen",
-      "Informationen umwandeln und aufbereiten",
-      "Informationsauswertung",
-      "Informationsbewertung",
-      "Informationskompetenz",
-      "Informationsquelle",
-      "Informationsquellen",
-      "Nachrichtenkompetenz",
-      "Nachrichtenportal",
-      "Portal",
-      "Quellenanalyse",
-      "Quellenkritik",
-      "Verschwörungserzählung",
-      "Verschwörungsmythos",
-      "Verschwörungstheorie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/informierenundrecherchieren26693c37-78cc-4606-9d28-de0d6f402e6e",
     "prefLabel": {
@@ -106,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

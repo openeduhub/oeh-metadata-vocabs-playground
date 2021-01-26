@@ -6,30 +6,6 @@
   "prefLabel": {
     "de": "Puffersysteme"
   },
-  "hiddenLabel": {
-    "de": [
-      " konjugierte",
-      "Blut",
-      "Erde",
-      "Protolyse-Gleichgewicht",
-      "Pufferkapazität",
-      "konjugierte",
-      "korrespondierende Säure",
-      "korrespondierenden Base"
-    ]
-  },
-  "note": {
-    "de": [
-      " konjugierte",
-      "Blut",
-      "Erde",
-      "Protolyse-Gleichgewicht",
-      "Pufferkapazität",
-      "konjugierte",
-      "korrespondierende Säure",
-      "korrespondierenden Base"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/saeuren,basenundlaugena331d5d3-ca5a-4289-b205-791b3c8a2a0a",
     "prefLabel": {
@@ -82,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

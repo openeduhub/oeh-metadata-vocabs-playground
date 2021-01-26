@@ -7,33 +7,19 @@
     "de": "INTERKULTURELLE BILDUNG"
   },
   "note": {
-    "de": [
-      "Interkulturelle Bildung"
-    ]
+    "de": "Interkulturelle Bildung"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/34001",
       "prefLabel": {
         "de": "Situation in den Herkunftsländern"
-      },
-      "note": {
-        "de": [
-          "Interkulturelle Bildung",
-          "Situation in den Herkunftsländern"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/34002",
       "prefLabel": {
         "de": "Interkulturelles Zusammenleben"
-      },
-      "note": {
-        "de": [
-          "Interkulturelle Bildung",
-          "Interkulturelles Zusammenleben"
-        ]
       }
     }
   ],
@@ -86,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

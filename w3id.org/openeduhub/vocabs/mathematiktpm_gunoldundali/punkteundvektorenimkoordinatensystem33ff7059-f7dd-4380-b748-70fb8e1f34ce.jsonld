@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Punkte und Vektoren im Koordinatensystem"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dreidimensionale Punkte werden in der Form (x1 l x2 l x3) angegeben."
-    ]
-  },
   "note": {
-    "de": [
-      "Dreidimensionale Punkte werden in der Form (x1 l x2 l x3) angegeben."
-    ]
+    "de": "Dreidimensionale Punkte werden in der Form (x1 l x2 l x3) angegeben."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,38 +6,6 @@
   "prefLabel": {
     "de": "Wärmekraftmaschinen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Benzinmotor",
-      "Dampfmaschine",
-      "Dieselmotor",
-      "Gebiet niedrigerer Temperatur",
-      "Kältemaschine",
-      "Kühlschrank",
-      "Ottomotor",
-      "Reservoir höherer Temperatur",
-      "Stirlingmotor",
-      "Wirkungsgrad",
-      "Wärmekraftmaschine",
-      "Wärmepumpe"
-    ]
-  },
-  "note": {
-    "de": [
-      "Benzinmotor",
-      "Dampfmaschine",
-      "Dieselmotor",
-      "Gebiet niedrigerer Temperatur",
-      "Kältemaschine",
-      "Kühlschrank",
-      "Ottomotor",
-      "Reservoir höherer Temperatur",
-      "Stirlingmotor",
-      "Wirkungsgrad",
-      "Wärmekraftmaschine",
-      "Wärmepumpe"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/waermelehre_thermodynamik0b21a598-ae1b-41d1-a260-3e4747dbfa1d",
     "prefLabel": {
@@ -90,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

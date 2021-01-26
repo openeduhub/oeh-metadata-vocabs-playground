@@ -6,62 +6,6 @@
   "prefLabel": {
     "de": "Szenisches Spiel"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bild und Plastiken nachstellen",
-      "Bildertheater",
-      "Erzähltheater",
-      "Figurentheater",
-      "Gipsmasken",
-      "Handpuppen",
-      "Handschattenspiel",
-      "Kamishibai",
-      "Marionetten",
-      "Maskentheater",
-      "Papierkaschée-Masken",
-      "Papiertheater",
-      "Pappmaschée-Masken",
-      "Puppenspiel",
-      "Schattenspielfiguren",
-      "Schattentheater",
-      "Scherenschnitt",
-      "Standbild",
-      "Standbilder bauen",
-      "Stefan Fichert",
-      "Stockpuppen",
-      "Tableau Vivant",
-      "Tellermasken",
-      "Verbindung von Kunst und Theater"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bild und Plastiken nachstellen",
-      "Bildertheater",
-      "Erzähltheater",
-      "Figurentheater",
-      "Gipsmasken",
-      "Handpuppen",
-      "Handschattenspiel",
-      "Kamishibai",
-      "Marionetten",
-      "Maskentheater",
-      "Papierkaschée-Masken",
-      "Papiertheater",
-      "Pappmaschée-Masken",
-      "Puppenspiel",
-      "Schattenspielfiguren",
-      "Schattentheater",
-      "Scherenschnitt",
-      "Standbild",
-      "Standbilder bauen",
-      "Stefan Fichert",
-      "Stockpuppen",
-      "Tableau Vivant",
-      "Tellermasken",
-      "Verbindung von Kunst und Theater"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/ueberdentellerrandae918d0c-4996-4cae-b974-713b28359722",
     "prefLabel": {
@@ -114,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

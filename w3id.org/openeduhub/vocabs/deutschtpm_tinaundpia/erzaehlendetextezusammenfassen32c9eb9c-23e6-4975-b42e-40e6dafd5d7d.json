@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Erzählende Texte zusammenfassen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Erzählung",
-      "Kurzgeschichte ",
-      "Zusammenfassung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Erzählung",
-      "Kurzgeschichte ",
-      "Zusammenfassung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zusammenfassen0c8cad85-59ee-476f-9fba-6a8ef002f32b",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

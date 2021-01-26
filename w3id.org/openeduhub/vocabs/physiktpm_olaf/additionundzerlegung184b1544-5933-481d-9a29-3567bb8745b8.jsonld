@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Addition und Zerlegung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Kraftvektor",
-      "Kräftedreieck",
-      "Kräftegleichgewicht",
-      "Kräfteparallelogramm",
-      "Parallelverschiebung eines Kraftvektors",
-      "resultierende Kraft"
-    ]
-  },
-  "note": {
-    "de": [
-      "Kraftvektor",
-      "Kräftedreieck",
-      "Kräftegleichgewicht",
-      "Kräfteparallelogramm",
-      "Parallelverschiebung eines Kraftvektors",
-      "resultierende Kraft"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraefte62d114e1-1e00-4863-bd24-be00daff98cb",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

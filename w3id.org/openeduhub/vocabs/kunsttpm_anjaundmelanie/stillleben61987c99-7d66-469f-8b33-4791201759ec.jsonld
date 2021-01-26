@@ -19,42 +19,6 @@
       "still-life art"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Blumenstillleben",
-      "Blumenstück",
-      "Darstellung von Stofflichkeit",
-      "Darstellung von dekorativ angeordneten Dingen",
-      "Früchtestillleben",
-      "Frühstücksbild",
-      "Jagdstillleben",
-      "Jagdstück",
-      "Musikalienstillleben",
-      "Obststillleben",
-      "Vanitas",
-      "Vanitasstillleben",
-      "Zusammenstellung von unbeweglichen Motiven",
-      "symbolische Zusammenstellungen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Blumenstillleben",
-      "Blumenstück",
-      "Darstellung von Stofflichkeit",
-      "Darstellung von dekorativ angeordneten Dingen",
-      "Früchtestillleben",
-      "Frühstücksbild",
-      "Jagdstillleben",
-      "Jagdstück",
-      "Musikalienstillleben",
-      "Obststillleben",
-      "Vanitas",
-      "Vanitasstillleben",
-      "Zusammenstellung von unbeweglichen Motiven",
-      "symbolische Zusammenstellungen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/genre_bildgattungen9e0af10a-93fd-4170-b339-91699d446a0e",
     "prefLabel": {
@@ -107,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -123,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

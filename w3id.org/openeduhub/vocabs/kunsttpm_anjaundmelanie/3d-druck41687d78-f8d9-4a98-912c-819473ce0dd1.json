@@ -16,26 +16,6 @@
       "additive manufacturing"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Entwerfen am Computer",
-      "Modellbau",
-      "Prototypen",
-      "Tinkercad",
-      "additive Fertigung",
-      "vom Entwurf zum Modell"
-    ]
-  },
-  "note": {
-    "de": [
-      "Entwerfen am Computer",
-      "Modellbau",
-      "Prototypen",
-      "Tinkercad",
-      "additive Fertigung",
-      "vom Entwurf zum Modell"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/produkt-design128f9d05-fd3e-459d-895f-9f0555af6f15",
     "prefLabel": {
@@ -88,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

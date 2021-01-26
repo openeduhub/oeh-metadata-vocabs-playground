@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Objektorientierte Modellierung"
   },
-  "hiddenLabel": {
-    "de": [
-      "C++",
-      "Java",
-      "OOP",
-      "Objektorientierte Sprache",
-      "Python",
-      "Smalltalk"
-    ]
-  },
-  "note": {
-    "de": [
-      "C++",
-      "Java",
-      "OOP",
-      "Objektorientierte Sprache",
-      "Python",
-      "Smalltalk"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/programmiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

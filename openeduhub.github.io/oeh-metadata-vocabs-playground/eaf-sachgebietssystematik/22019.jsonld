@@ -6,105 +6,41 @@
   "prefLabel": {
     "de": "Europa"
   },
-  "note": {
-    "de": [
-      "Europa",
-      "Geografie",
-      "Geografieunterricht",
-      "Geographie",
-      "Geographieunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201901",
       "prefLabel": {
         "de": "Nordeuropa"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Nordeuropa"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201902",
       "prefLabel": {
         "de": "Westeuropa"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Westeuropa"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201903",
       "prefLabel": {
         "de": "Alpenländer"
-      },
-      "note": {
-        "de": [
-          "Alpenländer",
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201904",
       "prefLabel": {
         "de": "Osteuropa und Ostmitteleuropa"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Osteuropa",
-          "Ostmitteleuropa"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201905",
       "prefLabel": {
         "de": "Südeuropa und Südosteuropa"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Südeuropa",
-          "Südosteuropa"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201998",
       "prefLabel": {
         "de": "Allgemeines"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht"
-        ]
       }
     }
   ],
@@ -160,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -176,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

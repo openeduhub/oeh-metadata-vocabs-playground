@@ -6,42 +6,6 @@
   "prefLabel": {
     "de": "Bedeutung von Algorithmen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Algorithmus Algorithmen und Ethik",
-      "Big data",
-      "Bot",
-      "Bots",
-      "KI",
-      "Künstliche Intelligenz",
-      "Netzpolitik",
-      "Nutzerdaten",
-      "Plattform",
-      "Plattformen",
-      "Vorteile und Nachteile automatisierter Prozesse",
-      "digitale Ethik",
-      "digitale automatisierte Prozesse",
-      "Überwachung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Algorithmus Algorithmen und Ethik",
-      "Big data",
-      "Bot",
-      "Bots",
-      "KI",
-      "Künstliche Intelligenz",
-      "Netzpolitik",
-      "Nutzerdaten",
-      "Plattform",
-      "Plattformen",
-      "Vorteile und Nachteile automatisierter Prozesse",
-      "digitale Ethik",
-      "digitale automatisierte Prozesse",
-      "Überwachung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/problemloesen,handelnundmodellieren0557af3f-7d97-4c1c-8e28-b9b69a662f10",
     "prefLabel": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

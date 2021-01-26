@@ -38,126 +38,17 @@
       "still"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Architekturzeichnungen",
-      "Druckbild;",
-      "Felszeichnungen",
-      "Funktionszeichnung",
-      "Graffiti",
-      "Handzeichnung",
-      "Höhlenmalereien",
-      "Muster entwickeln",
-      "Originalgrafik",
-      "Reproduktionsgrafik",
-      "anatomische Zeichnungen",
-      "angewandte Grafik",
-      "freie Grafik",
-      "grafische Gestaltungselemente",
-      "grafische Installation"
-    ]
-  },
-  "note": {
-    "de": [
-      "Architekturzeichnungen",
-      "Druckbild;",
-      "Felszeichnungen",
-      "Funktionszeichnung",
-      "Graffiti",
-      "Handzeichnung",
-      "Höhlenmalereien",
-      "Muster entwickeln",
-      "Originalgrafik",
-      "Reproduktionsgrafik",
-      "anatomische Zeichnungen",
-      "angewandte Grafik",
-      "freie Grafik",
-      "grafische Gestaltungselemente",
-      "grafische Installation"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/drucken3a5573ab-b99c-4b6c-a31d-ba14cfff8073",
       "prefLabel": {
         "de": "Drucken"
-      },
-      "altLabel": {
-        "de": [
-          "Druck",
-          "Drucken",
-          "Drucktechnik",
-          "Druckverfahren",
-          "Gravur"
-        ],
-        "en": [
-          "printing",
-          "printing technique"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aquatinta",
-          "Durchdruck",
-          "Fingerdruck",
-          "Flachdruck",
-          "Hochdruck",
-          "Holzschnitt",
-          "Holzstich",
-          "Kaltnadelradierung",
-          "Kartoffeldruck",
-          "Kupferstich",
-          "Linolschnitt",
-          "Lithografie",
-          "Materialdruck",
-          "Monotypie",
-          "Objektdruck",
-          "Offsetdruck",
-          "Radiergummidruck",
-          "Radierung",
-          "Schablonendruck",
-          "Serigrafie",
-          "Siebdruck",
-          "Spritzschablone",
-          "Stempeln",
-          "Tiefdruck",
-          "Vernis Mou",
-          "verlorene Platte",
-          "Ätzradierung",
-          "Überdruck;"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/zeichnen39fd3d8e-85b8-4eda-b7ba-b875ed057f09",
       "prefLabel": {
         "de": "Zeichnen"
-      },
-      "note": {
-        "de": [
-          "Binnenlinie",
-          "Cadavre Exquis",
-          "Feder und Tusche",
-          "Federzeichnung",
-          "Frottage",
-          "Klecksografie",
-          "Konturlinie",
-          "Pinselzeichnung",
-          "Schraffur",
-          "Sgraffito",
-          "Skizzenbuch;",
-          "Zeichenmaschine",
-          "Zeichenstudien",
-          "Zeichnen auf ungewohnte Art",
-          "die Linie",
-          "einritzen",
-          "formgebende Linie",
-          "grafisch arbeiten",
-          "kolorierte Zeichnung",
-          "materialangebende Linie",
-          "schreiben und zeichnen",
-          "suchende Linie"
-        ]
       }
     }
   ],
@@ -207,12 +98,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -223,16 +108,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

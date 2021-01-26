@@ -11,11 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/abstraktedatentypen_-strukturen84b48587-e3a1-43cd-9e5c-a1bae5843dbd",
       "prefLabel": {
         "de": "Abstrakte Datentypen / -strukturen"
-      },
-      "note": {
-        "de": [
-          "ADT"
-        ]
       }
     },
     {
@@ -28,43 +23,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/programmiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
       "prefLabel": {
         "de": "Programmiersprachen / Integrierte Entwicklungsumgebungen (IDE)"
-      },
-      "note": {
-        "de": [
-          "IDE",
-          "Integrierte Entwicklungsumgebung",
-          "Lazarus",
-          "Programmiersprache",
-          "Programmierung",
-          "PyCharm",
-          "Schleife",
-          "Variablen",
-          "bedingte Anweisung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/softwaretechnikc37de15a-2fd5-4ca5-89c8-9f51110ae859",
       "prefLabel": {
         "de": "Softwaretechnik"
-      },
-      "altLabel": {
-        "de": [
-          "Anwendungsentwicklung",
-          "Anwendungsprogrammierung",
-          "Projektentwicklung",
-          "SE",
-          "Software Engineering",
-          "Software-Engineering",
-          "Software-Entwicklung",
-          "Software-Technik",
-          "Softwareengineering",
-          "Softwareentwicklung",
-          "Softwaretechnologie"
-        ],
-        "en": [
-          "SE"
-        ]
       }
     }
   ],
@@ -114,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

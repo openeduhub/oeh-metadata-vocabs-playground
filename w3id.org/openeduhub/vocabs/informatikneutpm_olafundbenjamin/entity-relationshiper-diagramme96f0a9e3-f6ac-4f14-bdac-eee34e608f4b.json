@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Entity-Relationship(ER)-Diagramme"
   },
-  "hiddenLabel": {
-    "de": [
-      "ER-Diagramme",
-      "Entity-Relationship-Modell"
-    ]
-  },
-  "note": {
-    "de": [
-      "ER-Diagramme",
-      "Entity-Relationship-Modell"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/datenbankenf706c06f-3f88-4525-9449-8df2a0c139b4",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

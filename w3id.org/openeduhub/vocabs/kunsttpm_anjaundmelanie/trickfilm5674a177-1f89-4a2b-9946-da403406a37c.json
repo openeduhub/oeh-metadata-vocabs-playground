@@ -22,103 +22,10 @@
       "cartoon"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Amerikanisch",
-      "Animationsfilm",
-      "Close up",
-      "Daumenkino",
-      "Detailaufnahme",
-      "Einstellungsgrößen",
-      "Flip book",
-      "Froschperspektive",
-      "Halbtotale",
-      "Knetanimation",
-      "Kulisse",
-      "Legetrick",
-      "Lotte Reininger",
-      "Medium Close up",
-      "Medium Shot",
-      "Normalansicht",
-      "Pappanimation",
-      "Phenakistoskop",
-      "Replacement Animation",
-      "Ruth Hayes",
-      "Stopmotion",
-      "Supertotale",
-      "Thaumatrop",
-      "Tim Burton",
-      "Totale",
-      "Tricktisch",
-      "Untersicht",
-      "Vogelperspektive",
-      "William Kentridge",
-      "Wunderscheibe",
-      "Zeichentrickfilm\nComputeranimation",
-      "Zirkulationskino",
-      "animierte Linie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Amerikanisch",
-      "Animationsfilm",
-      "Close up",
-      "Daumenkino",
-      "Detailaufnahme",
-      "Einstellungsgrößen",
-      "Flip book",
-      "Froschperspektive",
-      "Halbtotale",
-      "Knetanimation",
-      "Kulisse",
-      "Legetrick",
-      "Lotte Reininger",
-      "Medium Close up",
-      "Medium Shot",
-      "Normalansicht",
-      "Pappanimation",
-      "Phenakistoskop",
-      "Replacement Animation",
-      "Ruth Hayes",
-      "Stopmotion",
-      "Supertotale",
-      "Thaumatrop",
-      "Tim Burton",
-      "Totale",
-      "Tricktisch",
-      "Untersicht",
-      "Vogelperspektive",
-      "William Kentridge",
-      "Wunderscheibe",
-      "Zeichentrickfilm\nComputeranimation",
-      "Zirkulationskino",
-      "animierte Linie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/filmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
     "prefLabel": {
       "de": "Film"
-    },
-    "altLabel": {
-      "de": [
-        "Dünnschicht",
-        "Film",
-        "Kinofilm",
-        "Silberfilm",
-        "dünne Schicht",
-        "fotografischer Film"
-      ],
-      "en": [
-        "Photo film",
-        "cinematic work",
-        "film",
-        "films",
-        "flick",
-        "motion picture",
-        "movie"
-      ]
     }
   },
   "inScheme": {
@@ -167,12 +74,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -183,16 +84,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

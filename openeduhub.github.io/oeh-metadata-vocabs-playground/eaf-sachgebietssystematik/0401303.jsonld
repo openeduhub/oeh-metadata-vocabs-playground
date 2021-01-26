@@ -6,67 +6,35 @@
   "prefLabel": {
     "de": "Recht und Öffentliche Verwaltung"
   },
-  "note": {
-    "de": [
-      "Recht",
-      "Öffentliche Verwaltung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130301",
       "prefLabel": {
         "de": "Finanzwesen, Steuerwesen"
-      },
-      "note": {
-        "de": [
-          "Finanzwesen",
-          "Steuerwesen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130302",
       "prefLabel": {
         "de": "Öffentliche Ordnung"
-      },
-      "note": {
-        "de": [
-          "Öffentliche Ordnung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130303",
       "prefLabel": {
         "de": "Verkehrswesen"
-      },
-      "note": {
-        "de": [
-          "Verkehrswesen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130304",
       "prefLabel": {
         "de": "Bauwesen"
-      },
-      "note": {
-        "de": [
-          "Bauwesen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130305",
       "prefLabel": {
         "de": "Sozialwesen"
-      },
-      "note": {
-        "de": [
-          "Sozialwesen"
-        ]
       }
     }
   ],
@@ -122,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -138,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

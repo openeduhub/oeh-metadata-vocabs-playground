@@ -7,54 +7,31 @@
     "de": "Farbtechnik"
   },
   "note": {
-    "de": [
-      "Farbtechnik"
-    ]
+    "de": "Farbtechnik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070101",
       "prefLabel": {
         "de": "Optik, Farbenlehre"
-      },
-      "note": {
-        "de": [
-          "Farbenlehre",
-          "Optik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070102",
       "prefLabel": {
         "de": "Untergründe"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070103",
       "prefLabel": {
         "de": "Beschichtungstechniken"
-      },
-      "note": {
-        "de": [
-          "Beschichtungstechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070104",
       "prefLabel": {
         "de": "Mit Farbe gestalten"
-      },
-      "note": {
-        "de": [
-          "Farbgestaltung"
-        ]
       }
     }
   ],
@@ -110,12 +87,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +97,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

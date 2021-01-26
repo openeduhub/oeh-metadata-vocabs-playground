@@ -24,32 +24,10 @@
       "statistical median"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Mittelwert und Lageparameter",
-      "Zentralwert"
-    ]
-  },
-  "note": {
-    "de": [
-      "Mittelwert und Lageparameter",
-      "Zentralwert"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/statistikfda80d2b-a4e2-4025-aebb-195873d6f0af",
     "prefLabel": {
       "de": "Statistik"
-    },
-    "altLabel": {
-      "de": [
-        "Statistik",
-        "Stichprobenfunktion"
-      ],
-      "en": [
-        "Statistics",
-        "sample statistic"
-      ]
     }
   },
   "inScheme": {
@@ -98,12 +76,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +86,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

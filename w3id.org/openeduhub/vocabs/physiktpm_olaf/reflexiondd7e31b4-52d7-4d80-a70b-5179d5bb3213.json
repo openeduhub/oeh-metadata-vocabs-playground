@@ -24,39 +24,10 @@
       "reflexion"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Ausfallswinkel",
-      "Einfallslot",
-      "Einfallswinkel",
-      "Reflexionsgesetz",
-      "Spiegel",
-      "einfallende Strahl",
-      "reflektierter Strahl"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ausfallswinkel",
-      "Einfallslot",
-      "Einfallswinkel",
-      "Reflexionsgesetz",
-      "Spiegel",
-      "einfallende Strahl",
-      "reflektierter Strahl"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/geometrischeoptikaa839a62-ee3d-41de-9656-e784dc5342ff",
     "prefLabel": {
       "de": "Geometrische Optik"
-    },
-    "altLabel": {
-      "de": [
-        "Lichtstrahl",
-        "Lichtstrahlen",
-        "Strahlenoptik"
-      ]
     }
   },
   "inScheme": {
@@ -105,12 +76,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -121,16 +86,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

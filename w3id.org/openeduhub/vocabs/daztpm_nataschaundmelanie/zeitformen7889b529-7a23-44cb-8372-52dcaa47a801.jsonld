@@ -19,177 +19,53 @@
       "grammatical tense"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Tempora",
-      "Tempus",
-      "Zeitform",
-      "Zeitformen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Tempora",
-      "Tempus",
-      "Zeitform",
-      "Zeitformen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/futur1b711349b-2d5f-4e81-90a9-779b45acf30e",
       "prefLabel": {
         "de": "Futur 1"
-      },
-      "altLabel": {
-        "de": [
-          "Futur",
-          "Futur 1",
-          "Futur I",
-          "Futurum",
-          "Futurum exactum",
-          "Vorzukunft",
-          "Zukunftsform"
-        ]
-      },
-      "note": {
-        "de": [
-          "Futur 1",
-          "Futur I",
-          "Zeitform",
-          "Zukunft",
-          "Zukunftszeitformen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/futur20a3df238-958d-4b4d-8ed9-2f3f6b2fec6a",
       "prefLabel": {
         "de": "Futur 2"
-      },
-      "note": {
-        "de": [
-          "Futur 2",
-          "Futur II",
-          "Zeitform",
-          "Zukunft",
-          "Zukunftszeitformen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konjugationstabellen2303faad-fde8-4776-ba8c-57d8822bb561",
       "prefLabel": {
         "de": "Konjugationstabellen "
-      },
-      "note": {
-        "de": [
-          "Konjugationstabellen",
-          "Übersicht"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/perfekta8357544-0372-4ee9-b02f-a7fd90f42ca1",
       "prefLabel": {
         "de": "Perfekt"
-      },
-      "altLabel": {
-        "en": [
-          "retrospective"
-        ]
-      },
-      "note": {
-        "de": [
-          "Imperfekt",
-          "Perfekt",
-          "Vergangenheit",
-          "Vergangenheitsform",
-          "Zeitform",
-          "vollendete Gegenwart"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/plusquamperfekt2e342267-64eb-450b-8b20-9f5bee1ffb88",
       "prefLabel": {
         "de": "Plusquamperfekt"
-      },
-      "altLabel": {
-        "de": [
-          "3. Vergangenheit",
-          "PQP",
-          "Plus-que-parfait",
-          "Vollendete Vergangenheit",
-          "Vorvergangenheit"
-        ],
-        "en": [
-          "plusquamperfect"
-        ]
-      },
-      "note": {
-        "de": [
-          "Plusquamperfekt",
-          "Vergangenheit",
-          "Zeitform"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praesens0be30dba-45ff-4931-8413-9d7d99e67831",
       "prefLabel": {
         "de": "Präsens"
-      },
-      "altLabel": {
-        "de": [
-          "Gegenwart",
-          "Gegenwartsform"
-        ]
-      },
-      "note": {
-        "de": [
-          "Gegenwart",
-          "Gegenwartsform",
-          "Präsens",
-          "Zeitform"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praeterituma69b9175-e68a-4dbf-9942-ff1ca3f87d82",
       "prefLabel": {
         "de": "Präteritum"
-      },
-      "altLabel": {
-        "de": [
-          "Imperfekt",
-          "Mitvergangenheit",
-          "erste Vergangenheit",
-          "unvollendete Vergangenheit"
-        ],
-        "en": [
-          "preterit"
-        ]
-      },
-      "note": {
-        "de": [
-          "Präteritum",
-          "Vergangenheit",
-          "Zeitform"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/unregelmaessigeverben2f041f0a-78ec-4240-8a6c-8f3ae24f836b",
       "prefLabel": {
         "de": "Unregelmäßige Verben"
-      },
-      "note": {
-        "de": [
-          "Vokalwechel",
-          "starke Verben",
-          "unregelmäßige Verben"
-        ]
       }
     }
   ],
@@ -245,12 +121,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -261,16 +131,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

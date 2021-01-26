@@ -6,47 +6,23 @@
   "prefLabel": {
     "de": "An der Gesellschaft aktiv teilhaben"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Kommunizieren und Kooperieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020501",
       "prefLabel": {
         "de": "Öffentliche und private Dienste nutzen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020502",
       "prefLabel": {
         "de": "Medienerfahrungen weitergeben und in kommunikative Prozesse einbringen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020503",
       "prefLabel": {
         "de": "Als selbstbestimmter Bürger aktiv an der Gesellschaft teilhaben"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -102,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

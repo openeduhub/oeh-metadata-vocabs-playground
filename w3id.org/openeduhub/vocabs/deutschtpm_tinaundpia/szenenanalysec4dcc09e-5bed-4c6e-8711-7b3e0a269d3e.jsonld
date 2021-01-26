@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Szenenanalyse"
   },
-  "hiddenLabel": {
-    "de": [
-      "Deutungshypothese",
-      "Dialoganalyse",
-      "Inhaltsangabe Drama",
-      "Szene"
-    ]
-  },
-  "note": {
-    "de": [
-      "Deutungshypothese",
-      "Dialoganalyse",
-      "Inhaltsangabe Drama",
-      "Szene"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dramatischetexteaf0b03de-9f8f-4cf3-8b00-3e428bb50f79",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

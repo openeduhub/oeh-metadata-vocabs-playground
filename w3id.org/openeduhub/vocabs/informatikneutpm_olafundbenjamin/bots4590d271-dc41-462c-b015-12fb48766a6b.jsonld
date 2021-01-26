@@ -12,15 +12,8 @@
       "Hans Sanders"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Chatbot"
-    ]
-  },
   "note": {
-    "de": [
-      "Chatbot"
-    ]
+    "de": "Chatbot"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kuenstlicheintelligenzki81173d10-6ddd-4ac9-9a7e-c76d4449752a",
@@ -74,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

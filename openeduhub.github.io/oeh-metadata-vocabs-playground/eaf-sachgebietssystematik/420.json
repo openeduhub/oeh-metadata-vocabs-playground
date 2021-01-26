@@ -6,128 +6,59 @@
   "prefLabel": {
     "de": "MUSIK"
   },
-  "note": {
-    "de": [
-      "Musik",
-      "Musikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42001",
       "prefLabel": {
         "de": "Außereuropäische Musik"
-      },
-      "note": {
-        "de": [
-          "Außereuropäische Musik",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42002",
       "prefLabel": {
         "de": "Europäische Zeitstile"
-      },
-      "note": {
-        "de": [
-          "Europäische Zeitstile",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42003",
       "prefLabel": {
         "de": "Musikarten"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikarten",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42004",
       "prefLabel": {
         "de": "Interpretation"
-      },
-      "note": {
-        "de": [
-          "Interpretation",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42005",
       "prefLabel": {
         "de": "Musik und Gesellschaft"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musik und Gesellschaft",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42006",
       "prefLabel": {
         "de": "Musik und Technik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musik und Technik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42007",
       "prefLabel": {
         "de": "Musiktheorie"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musiktheorie",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42008",
       "prefLabel": {
         "de": "Unterrichtsorientierte Zusammenstellungen"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Unterrichtsorientierte Zusammenstellungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/42080",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Musikunterricht",
-          "Bilingualer Unterricht",
-          "Musik"
-        ]
       }
     }
   ],
@@ -180,12 +111,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -196,16 +121,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

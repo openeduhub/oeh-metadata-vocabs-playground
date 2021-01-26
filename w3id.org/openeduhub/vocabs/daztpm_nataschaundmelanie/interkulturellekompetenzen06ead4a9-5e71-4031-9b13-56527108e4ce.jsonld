@@ -11,91 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/demokratieundwerte239630c0-8378-43de-bc49-a69feb13d5c1",
       "prefLabel": {
         "de": "Demokratie und Werte"
-      },
-      "note": {
-        "de": [
-          "Demokratie",
-          "Demokratieerziehung,",
-          "Freiheit",
-          "Gleichberechtigung",
-          "Gleichheit",
-          "Grundgesetz",
-          "Menschenrechte",
-          "Verfassung",
-          "Werte"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/festeundtraditionen32f932a3-0064-4669-9997-bf5b9b4cdf39",
       "prefLabel": {
         "de": "Feste und Traditionen "
-      },
-      "note": {
-        "de": [
-          "Fasching",
-          "Feste",
-          "Geburtstag",
-          "Halloween",
-          "Heilige Drei Könige",
-          "Karneval",
-          "Nikolaus",
-          "Ostern",
-          "Pfingsten",
-          "Reformationstag",
-          "Silvester",
-          "Tag der Deutschen Einheit",
-          "Traditionen",
-          "Weihnachten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/landeskunde888b465b-6751-4345-81cb-5adaa0a32b95",
       "prefLabel": {
         "de": "Landeskunde"
-      },
-      "altLabel": {
-        "de": [
-          "Heimatforschung",
-          "Landeskunde",
-          "Ortsgeschichte",
-          "Regionalforschung",
-          "Regionalstudien"
-        ],
-        "en": [
-          "area studies",
-          "homeland research",
-          "regionalistics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Deutschland",
-          "Geschichte",
-          "Gesellschaft",
-          "Integration",
-          "Landeskunde",
-          "Migration",
-          "Politik",
-          "Städte und Regionen",
-          "soziokulturelles Orientierungswissen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/unterrichtsrituale7067bff9-64aa-4967-b78c-2a0aa06be1f5",
       "prefLabel": {
         "de": "Unterrichtsrituale"
-      },
-      "note": {
-        "de": [
-          " Schweigfuchs",
-          "Begrüßungsrituale",
-          "Silencium",
-          "Unterrichtsrituale",
-          "Wochenplan"
-        ]
       }
     }
   ],
@@ -145,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -161,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

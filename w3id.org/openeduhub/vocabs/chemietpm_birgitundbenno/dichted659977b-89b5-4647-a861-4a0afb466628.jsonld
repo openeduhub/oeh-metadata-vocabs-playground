@@ -40,34 +40,6 @@
       "ρ"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Dichte Formel",
-      "Feststoffe",
-      "Flüssigkeit",
-      "Leichtmetall",
-      "Schwermetall,",
-      "Umstellen von einer Gleichung",
-      "Verdrängung",
-      "Verdrängungsmethode",
-      "Volumen bestimmen",
-      "Wiegen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dichte Formel",
-      "Feststoffe",
-      "Flüssigkeit",
-      "Leichtmetall",
-      "Schwermetall,",
-      "Umstellen von einer Gleichung",
-      "Verdrängung",
-      "Verdrängungsmethode",
-      "Volumen bestimmen",
-      "Wiegen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoffeundstoffeigenschaften6d68df51-df9e-4ed0-ac75-2059ea735a86",
     "prefLabel": {
@@ -120,12 +92,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -136,16 +102,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

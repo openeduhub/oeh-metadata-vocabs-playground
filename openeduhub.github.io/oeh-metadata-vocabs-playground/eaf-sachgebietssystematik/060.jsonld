@@ -6,94 +6,41 @@
   "prefLabel": {
     "de": "BILDENDE KUNST"
   },
-  "note": {
-    "de": [
-      "Bildende Kunst",
-      "Kunst",
-      "Kunstunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/06001",
       "prefLabel": {
         "de": "Grundlagen künstlerischen Schaffens"
-      },
-      "note": {
-        "de": [
-          "Kunst",
-          "Kunstunterricht",
-          "künstlerisches Schaffen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/06002",
       "prefLabel": {
         "de": "Theorien zur Kunst"
-      },
-      "note": {
-        "de": [
-          "Kunst",
-          "Kunsttheorie",
-          "Kunstunterricht",
-          "Theorien zur Kunst"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/06003",
       "prefLabel": {
         "de": "Kunstgeschichte"
-      },
-      "note": {
-        "de": [
-          "Kunst",
-          "Kunstgeschichte",
-          "Kunstunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/06004",
       "prefLabel": {
         "de": "Angewandte Kunst der Gegenwart"
-      },
-      "note": {
-        "de": [
-          "Angewandte Kunst der Gegenwart",
-          "Gegenwartskunst",
-          "Kunst",
-          "Kunstunterricht",
-          "Zeitgenössische Kunst"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/06005",
       "prefLabel": {
         "de": "Erhalten und Restaurieren"
-      },
-      "note": {
-        "de": [
-          "Kunst",
-          "Kunstunterricht",
-          "Restaurieren",
-          "Restaurierung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/06080",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Kunstunterricht",
-          "Kunst",
-          "Kunstunterricht"
-        ]
       }
     }
   ],
@@ -146,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -162,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

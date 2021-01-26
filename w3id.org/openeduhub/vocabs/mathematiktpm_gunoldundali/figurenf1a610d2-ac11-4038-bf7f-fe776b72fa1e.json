@@ -17,66 +17,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/drehungen5193fe18-e1fe-4ef9-a002-cbde058dfa55",
       "prefLabel": {
         "de": "Drehungen"
-      },
-      "note": {
-        "de": [
-          "Drehpunkt",
-          "Drehsymetrie",
-          "Drehwinkel",
-          "Drehzentrum"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kreis93a725fd-acce-41ec-a9aa-9f468bf67541",
       "prefLabel": {
         "de": "Kreis"
-      },
-      "altLabel": {
-        "de": [
-          "Kreis",
-          "Kreis in Preußen",
-          "Kreisperipherie",
-          "Kreisrand",
-          "Landkreis in Preußen",
-          "Umfang"
-        ],
-        "en": [
-          "Kreis",
-          "Landkreis"
-        ]
-      },
-      "note": {
-        "de": [
-          "Durchmesser",
-          "Pi",
-          "Radius"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/verschiebungend101b0e1-8aa1-4da2-9bc5-66df6ba2a0a9",
       "prefLabel": {
         "de": "Verschiebungen"
-      },
-      "note": {
-        "de": [
-          "Parallelverschiebung",
-          "Translation"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelmessenc811be29-5ef4-4ea8-bd1d-8ae2c323e508",
       "prefLabel": {
         "de": "Winkel messen"
-      },
-      "note": {
-        "de": [
-          "Geodreieck",
-          "Messinstrument",
-          "Winkelmesser"
-        ]
       }
     }
   ],
@@ -126,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -142,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

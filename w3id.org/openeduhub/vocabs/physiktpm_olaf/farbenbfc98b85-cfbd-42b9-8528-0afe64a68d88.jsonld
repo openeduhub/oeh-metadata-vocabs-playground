@@ -21,30 +21,6 @@
       "has colour"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Elektromagnetisches Spektrum",
-      "Prisma",
-      "Spektralfarben",
-      "Subtraktive Farbmischung",
-      "Weißes Licht",
-      "Zerlegung von Sonnenlicht",
-      "additiven Farbmischung",
-      "lichtempfindlichen Zapfen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Elektromagnetisches Spektrum",
-      "Prisma",
-      "Spektralfarben",
-      "Subtraktive Farbmischung",
-      "Weißes Licht",
-      "Zerlegung von Sonnenlicht",
-      "additiven Farbmischung",
-      "lichtempfindlichen Zapfen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/optikb6e6ea47-d3c3-43ff-a7b0-dcd730900c49",
     "prefLabel": {
@@ -97,12 +73,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -113,16 +83,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

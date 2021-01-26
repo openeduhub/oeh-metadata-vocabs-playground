@@ -11,11 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/angewandteinformatik7d6f2bde-2b49-42f7-b1e0-f4c0f78c80c7",
       "prefLabel": {
         "de": "Angewandte Informatik"
-      },
-      "altLabel": {
-        "de": [
-          "Applied Computer Science"
-        ]
       }
     },
     {
@@ -98,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

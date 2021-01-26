@@ -11,101 +11,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/exponentialverteilung2744dae2-b7b4-4fac-b1f2-48b31a8dde3f",
       "prefLabel": {
         "de": "Exponentialverteilung"
-      },
-      "altLabel": {
-        "de": [
-          "Exponential-Verteilung",
-          "Exponentialverteilt",
-          "Exponentielle Verteilung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Warte- und Ausfallzeiten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrischeverteilungb823430e-db3f-4fda-b754-0e51af961cfd",
       "prefLabel": {
         "de": "Geometrische Verteilung"
-      },
-      "note": {
-        "de": [
-          "Bernoulli-Experiment",
-          "diskrete Verteilung",
-          "einparametrige",
-          "unabhängigen Zufallsexperimenten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/hypergeometrischeverteilungeddc33f6-65ab-4527-9e2c-4618730ce418",
       "prefLabel": {
         "de": "Hypergeometrische Verteilung"
-      },
-      "altLabel": {
-        "de": [
-          "Endlichkeitskorrektur",
-          "Ziehen ohne Zurücklegen"
-        ]
-      },
-      "note": {
-        "de": [
-          "Binomialverteilung",
-          "Experimente mit Zurücklegen beschreiben",
-          "Stochastik / Wahrscheinlichkeitsrechnung",
-          "hypergeometrische Verteilung für Experimente ohne Zurücklegen verwenden",
-          "sehr nahe mit der Binomialverteilung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/naeherungsformelvondemoivre-laplace2f0f0f95-63c0-46a9-a5fb-bc9318f3f3b8",
       "prefLabel": {
         "de": "Näherungsformel von De Moivre-Laplace"
-      },
-      "note": {
-        "de": [
-          "zentraler Grenzwertsatz von de Moivre-Laplace "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/normalverteilungc110959f-dd70-4aea-b2d4-d56450520039",
       "prefLabel": {
         "de": "Normalverteilung"
-      },
-      "altLabel": {
-        "de": [
-          "Gauss-Verteilung",
-          "Gausskurve",
-          "Gausssche Verteilung",
-          "Gaussverteilung",
-          "Gauß'sche Glockenkurve",
-          "Gauß-Funktion",
-          "Gauß-Glocke",
-          "Gauß-Kurve",
-          "Gauß-Profil",
-          "Gaußglocke",
-          "Gaußkurve",
-          "Gaußsche Funktion",
-          "Gaußverteilung",
-          "Normalverteilt",
-          "Standardnormalverteilt",
-          "Standardnormalverteilung"
-        ],
-        "en": [
-          "Gaussian",
-          "Gaussian distribution",
-          "bell curve"
-        ]
-      },
-      "note": {
-        "de": [
-          "Gauß-Verteilung ",
-          "Glockenkurve"
-        ]
       }
     }
   ],
@@ -161,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -177,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

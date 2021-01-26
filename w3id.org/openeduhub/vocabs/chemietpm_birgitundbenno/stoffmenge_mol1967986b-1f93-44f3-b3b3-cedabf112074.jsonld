@@ -6,62 +6,10 @@
   "prefLabel": {
     "de": "Stoffmenge / Mol"
   },
-  "hiddenLabel": {
-    "de": [
-      " ideales Gas",
-      "Avogadro Konstante",
-      "Grammatom",
-      "Konzentration",
-      "Mol",
-      "Molekular Gewicht,",
-      "Molmasse",
-      "Molvolumen",
-      "SI",
-      "Stoffmenge",
-      "Teilchenzahl",
-      "Wilhelm Ostwald",
-      "atomare Masseneinheit",
-      "mol",
-      "molare Lösung",
-      "molare Masse",
-      "molares Volumen",
-      "u"
-    ]
-  },
-  "note": {
-    "de": [
-      " ideales Gas",
-      "Avogadro Konstante",
-      "Grammatom",
-      "Konzentration",
-      "Mol",
-      "Molekular Gewicht,",
-      "Molmasse",
-      "Molvolumen",
-      "SI",
-      "Stoffmenge",
-      "Teilchenzahl",
-      "Wilhelm Ostwald",
-      "atomare Masseneinheit",
-      "mol",
-      "molare Lösung",
-      "molare Masse",
-      "molares Volumen",
-      "u"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
     "prefLabel": {
       "de": "Stöchiometrie"
-    },
-    "altLabel": {
-      "de": [
-        "Stöchiometrisch",
-        "Umsatz",
-        "Umsatzgrad",
-        "Unstöchiometrisch"
-      ]
     }
   },
   "inScheme": {
@@ -110,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

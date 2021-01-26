@@ -12,86 +12,29 @@
       "Wortbildungslehre"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Ableitung ",
-      "Derivation"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ableitung ",
-      "Derivation"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/auslautverhaertung0acebbaa-afb1-49ef-958e-8cc6f2d72b11",
       "prefLabel": {
         "de": "Auslautverhärtung"
-      },
-      "altLabel": {
-        "en": [
-          "consonant softening"
-        ]
-      },
-      "note": {
-        "de": [
-          "Wortverlängerung ",
-          "b/p",
-          "d/t",
-          "g/k"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/praefix4040a789-497a-472e-a389-5ed7dc1c30a6",
       "prefLabel": {
         "de": "Präfix"
-      },
-      "altLabel": {
-        "de": [
-          "Vorsilbe"
-        ]
-      },
-      "note": {
-        "de": [
-          "Vorsilbe "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/suffix39b310c4-cb75-4015-bf7a-61364bf889a6",
       "prefLabel": {
         "de": "Suffix"
-      },
-      "altLabel": {
-        "de": [
-          "Endsilbe",
-          "Endung",
-          "Nachsilbe",
-          "Suffigierung",
-          "Wortendung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Ableitungssilbe",
-          "Nachsilbe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zusammensetzungvonwortena4b48df8-8db2-43f2-ba9c-ad87e025b141",
       "prefLabel": {
         "de": "Zusammensetzung von Worten"
-      },
-      "note": {
-        "de": [
-          "Doppelwort ",
-          "Komposition",
-          "Wortzusammensetzung"
-        ]
       }
     }
   ],
@@ -147,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -163,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

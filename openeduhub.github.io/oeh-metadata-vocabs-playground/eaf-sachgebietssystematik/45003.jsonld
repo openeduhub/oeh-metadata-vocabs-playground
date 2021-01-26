@@ -7,86 +7,49 @@
     "de": "Philosophische Gegenwartsfragen"
   },
   "note": {
-    "de": [
-      "Philosophische Gegenwartsfragen"
-    ]
+    "de": "Philosophische Gegenwartsfragen"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500301",
       "prefLabel": {
         "de": "Wissenschaftstheorie"
-      },
-      "note": {
-        "de": [
-          "Wissenschaftstheorie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500302",
       "prefLabel": {
         "de": "Religionskritik"
-      },
-      "note": {
-        "de": [
-          "Religionskritik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500303",
       "prefLabel": {
         "de": "Naturphilosophie"
-      },
-      "note": {
-        "de": [
-          "Naturphilosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500304",
       "prefLabel": {
         "de": "Technikphilosophie"
-      },
-      "note": {
-        "de": [
-          "Technikphilosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500305",
       "prefLabel": {
         "de": "Medienphilosophie"
-      },
-      "note": {
-        "de": [
-          "Medienphilosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500306",
       "prefLabel": {
         "de": "Philosophie des Geistes"
-      },
-      "note": {
-        "de": [
-          "Philosophie des Geistes"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500307",
       "prefLabel": {
         "de": "Ethische Grundfragen"
-      },
-      "note": {
-        "de": [
-          "Ethische Grundfragen"
-        ]
       }
     }
   ],
@@ -142,12 +105,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -158,16 +115,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

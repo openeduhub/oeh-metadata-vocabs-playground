@@ -6,231 +6,65 @@
   "prefLabel": {
     "de": "Wärmelehre / Thermodynamik"
   },
-  "hiddenLabel": {
-    "de": [
-      "Hat ihren Ursprung im Studium der Dampfmaschinen und ging der Frage nach",
-      "wie man Wärme in mechanische Arbeit umwandeln kann."
-    ]
-  },
-  "note": {
-    "de": [
-      "Hat ihren Ursprung im Studium der Dampfmaschinen und ging der Frage nach",
-      "wie man Wärme in mechanische Arbeit umwandeln kann."
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/allgemeinesgasgesetz82fd09a1-c5dc-4ddc-b0b9-747c7fd15054",
       "prefLabel": {
         "de": "Allgemeines Gasgesetz"
-      },
-      "note": {
-        "de": [
-          "Gesetz von AMONTONS",
-          "Gesetz von BOYLE und MARIOTTE",
-          "Gesetz von GAY-LUSSAC",
-          "allgemeinen Gasgleichung",
-          "isobar",
-          "isochor",
-          "isotherm"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/ausdehnunge8754b1b-227f-44a4-b81d-c25c665e9321",
       "prefLabel": {
         "de": "Ausdehnung"
-      },
-      "altLabel": {
-        "de": [
-          "Ausweitung",
-          "Flächenausdehnung",
-          "Längenausdehnung",
-          "Längsausdehnung",
-          "Raumausdehnung",
-          "Räumliche Ausdehnung",
-          "Streckenausdehnung",
-          "Volumenausdehnung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Anomalie des Wassers",
-          "Längenausdehnungskoeffizienten",
-          "Längenänderung",
-          "Volumenänderung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/deterministischeschaosc191962c-335a-43fd-a895-2cfb25c83382",
       "prefLabel": {
         "de": "Deterministisches Chaos"
-      },
-      "note": {
-        "de": [
-          "Chaotheorie",
-          "Determinismus",
-          "Doppelpendel",
-          "Grenzen der NEWTONschen Mechanik",
-          "Kausalität",
-          "Kausalitätsprinzip",
-          "Lorenz-Attraktor",
-          "Rückkopplung",
-          "Schmetterlingseffekt",
-          "gekoppelte Systeme",
-          "seltsamer Attraktor"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/entropie3b295b5d-f2b7-4596-aa5f-2467b2d85cbb",
       "prefLabel": {
         "de": "Entropie"
-      },
-      "altLabel": {
-        "de": [
-          "Informationsdichte",
-          "Maximale Entropie",
-          "Maximalentropie",
-          "Shannon-Entropie",
-          "Shannonentropie",
-          "ΔS"
-        ],
-        "en": [
-          "Shannon entropy",
-          "entropy",
-          "entropy (classical thermodynamics)",
-          "thermodynamic entropy"
-        ]
-      },
-      "note": {
-        "de": [
-          "Maß der Unordnung",
-          "Zweiter Hauptsatz",
-          "irreversibler Prozess"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/innereenergie_waermekapazitaet0d4d301c-c16d-42d2-90fc-e1573e66574f",
       "prefLabel": {
         "de": "innere Energie / Wärmekapazität"
-      },
-      "note": {
-        "de": [
-          "Hauptsatz der Wärmelehre",
-          "Phasenübergänge",
-          "Schmelzwärme",
-          "Temperaturänderung",
-          "Verdampfungswärme",
-          "fest",
-          "flüssig",
-          "gasförmig",
-          "spezifische Wärmekapazität"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kinetischegastheorie6ce87527-c521-42bd-a0c2-7e3f5b0f1c75",
       "prefLabel": {
         "de": "Kinetische Gastheorie"
-      },
-      "note": {
-        "de": [
-          "ideales Gas",
-          "pV=nRT",
-          "universelle Gasgleichung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/temperaturimteilchenmodellffd290e9-b08b-4149-878e-e28d7076a895",
       "prefLabel": {
         "de": "Temperatur im Teilchenmodell"
-      },
-      "note": {
-        "de": [
-          "Absolute Temperatur",
-          "CELSIUS-Skala;BROWNsche Bewegung",
-          "Innere Energie",
-          "Kelvin",
-          "Temperaturdifferenz",
-          "Temperaturskala",
-          "Temperaturumrechnung",
-          "absolute Nullpunkt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/waermekraftmaschinen0967b6b0-8b0b-406c-bcfb-930fa574bf7c",
       "prefLabel": {
         "de": "Wärmekraftmaschinen"
-      },
-      "note": {
-        "de": [
-          "Benzinmotor",
-          "Dampfmaschine",
-          "Dieselmotor",
-          "Gebiet niedrigerer Temperatur",
-          "Kältemaschine",
-          "Kühlschrank",
-          "Ottomotor",
-          "Reservoir höherer Temperatur",
-          "Stirlingmotor",
-          "Wirkungsgrad",
-          "Wärmekraftmaschine",
-          "Wärmepumpe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/waermetransport158a66af-b8f6-422c-aea4-51706da7d44d",
       "prefLabel": {
         "de": "Wärmetransport"
-      },
-      "altLabel": {
-        "de": [
-          "Diathermisch",
-          "Wärmeausbreitung",
-          "Wärmeausgleich",
-          "Wärmeaustausch",
-          "Wärmetransport",
-          "Wärmeübergang",
-          "Wärmeübertragung"
-        ],
-        "en": [
-          "heat exchange"
-        ]
-      },
-      "note": {
-        "de": [
-          "Konvektion",
-          "Temperaturstrahlung",
-          "Wärmeleitung",
-          "Wärmemitführung",
-          "Wärmestrahlung",
-          "Wärmeströmung",
-          "Wärmetransport"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/wetter_klimaadffefaf-e793-4d79-9d2f-9dcaa3e786d1",
       "prefLabel": {
         "de": "Wetter / Klima"
-      },
-      "note": {
-        "de": [
-          "Gletscherschmelze",
-          "Klimaschutz",
-          "Klimawandel",
-          "Ozonloch",
-          "Strahlungshaushalt",
-          "Treibhauseffekt",
-          "Wasserkreislauf",
-          "Wetterkarte"
-        ]
       }
     }
   ],
@@ -280,12 +114,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -296,16 +124,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

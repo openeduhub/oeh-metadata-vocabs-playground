@@ -11,106 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/browser8a1ad647-4117-4d19-983c-48698641a5d4",
       "prefLabel": {
         "de": "Browser"
-      },
-      "altLabel": {
-        "de": [
-          "Browser",
-          "Internet-Browser",
-          "Internetbrowser",
-          "WWW-Browser",
-          "Web Browser",
-          "Web-Browser",
-          "Webbrowser"
-        ],
-        "en": [
-          "Internet browser",
-          "W3 browser",
-          "W3 client",
-          "WWW browser",
-          "WWW client",
-          "Web browser",
-          "Web client",
-          "browser",
-          "internet browser"
-        ]
-      },
-      "note": {
-        "de": [
-          "Edge",
-          "Firefox",
-          "Onlinesuche",
-          "Opera",
-          "Recherche",
-          "Safari",
-          "WWW",
-          "Worl Wide Web",
-          "http",
-          "https",
-          "navigieren",
-          "recherchieren",
-          "suchen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/e-mail4a4ca4e3-f600-4652-af9a-f96e42b40c8e",
       "prefLabel": {
         "de": "E-Mail"
-      },
-      "altLabel": {
-        "de": [
-          "Mail",
-          "eMail",
-          "elektronische Mail",
-          "elektronische Post"
-        ],
-        "en": [
-          "e-mail",
-          "electronic mail",
-          "email",
-          "email address",
-          "mail",
-          "mailto",
-          "mailto:"
-        ]
-      },
-      "note": {
-        "de": [
-          " POP3",
-          "BCC",
-          "CC",
-          "IMAP",
-          "Nachrichten",
-          "SMTP",
-          "Signatur"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/office240f6014-52cc-4a59-93b4-9477078f0672",
       "prefLabel": {
         "de": "Office"
-      },
-      "altLabel": {
-        "de": [
-          "MS Office",
-          "MS-Office",
-          "Microsoft Office",
-          "Office",
-          "Office System"
-        ],
-        "en": [
-          "MS Office",
-          "MSO",
-          "Office"
-        ]
-      },
-      "note": {
-        "de": [
-          "Libre Office",
-          "Microsoft Office",
-          "Open Office"
-        ]
       }
     }
   ],
@@ -166,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -182,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

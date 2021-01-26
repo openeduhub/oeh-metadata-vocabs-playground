@@ -6,162 +6,65 @@
   "prefLabel": {
     "de": "Fremdsprachen"
   },
-  "note": {
-    "de": [
-      "Fremdsprachen",
-      "Grundschule",
-      "Grundschulunterricht",
-      "Primarunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800501",
       "prefLabel": {
         "de": "Englisch"
-      },
-      "note": {
-        "de": [
-          "Englisch",
-          "Englischunterricht",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800502",
       "prefLabel": {
         "de": "Französisch"
-      },
-      "note": {
-        "de": [
-          "Französisch",
-          "Französischunterricht",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800503",
       "prefLabel": {
         "de": "Italienisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Italienisch",
-          "Italienischunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800504",
       "prefLabel": {
         "de": "Türkisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Türkisch",
-          "Türkischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800505",
       "prefLabel": {
         "de": "Sorbisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sorbisch",
-          "Sorbischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800506",
       "prefLabel": {
         "de": "Polnisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Polnisch",
-          "Polnischunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800507",
       "prefLabel": {
         "de": "Russisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Russisch",
-          "Russischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800508",
       "prefLabel": {
         "de": "Spanisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Spanisch",
-          "Spanischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800509",
       "prefLabel": {
         "de": "Tschechisch"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800520",
       "prefLabel": {
         "de": "Weitere Fremdsprachen"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Weitere Fremdsprachen"
-        ]
       }
     }
   ],
@@ -217,12 +120,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -233,16 +130,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

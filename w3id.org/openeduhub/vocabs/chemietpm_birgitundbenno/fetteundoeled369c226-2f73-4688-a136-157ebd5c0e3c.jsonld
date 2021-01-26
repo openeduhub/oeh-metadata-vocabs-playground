@@ -11,107 +11,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aufbauundsystematikbeiderbenennungvonfettenundoelenf56fa2e4-2de2-4be0-8885-24a75dfe8a63",
       "prefLabel": {
         "de": "Aufbau und Systematik bei der Benennung von Fetten und Ölen"
-      },
-      "note": {
-        "de": [
-          "Arachidonsäure",
-          "Caprinsäure",
-          "Capronsäure",
-          "Caprylsäure",
-          "Fettsäure",
-          "Larinsäure",
-          "Linolsäure",
-          "Omega-6",
-          "Omega-6-Fettsäure,",
-          "Palmitinsäure",
-          "Stearinsäure",
-          "Trigylcerid",
-          "gesättigt",
-          "mehrfach ungesättigt",
-          "omega-Fettsäure",
-          "trans-Fette",
-          "ungesättigt",
-          "Ölsäure",
-          "α-Linolensäure"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenundverwendungvonfettenundoelen7b5360f3-7855-4850-bb8e-a3978ca2eebc",
       "prefLabel": {
         "de": "Eigenschaften und Verwendung von Fetten und Ölen"
-      },
-      "note": {
-        "de": [
-          "Buttersäure",
-          "Geschmack",
-          "Iodzahl",
-          "Lebensmittel",
-          "Leinöl",
-          "Lösungsmittel",
-          "Pigment",
-          "Verseifung",
-          "cis-Konfiguration",
-          "ranzig",
-          "Ölfarben"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/gewinnungvonfettenundoelenb4c5900a-e53b-4dca-8b66-41d025ee490e",
       "prefLabel": {
         "de": "Gewinnung von Fetten und Ölen"
-      },
-      "note": {
-        "de": [
-          "Estraktion",
-          "Fetthärtung",
-          "Hydrierung,",
-          "Magarine",
-          "Milch",
-          "Pressen",
-          "Presskuchen",
-          "Raffination",
-          "Raps",
-          "Schmalz",
-          "Sonnenblumen",
-          "Talg",
-          "Tran",
-          "Ölpflanzen",
-          "Ölsaat"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/nachweisvonfettenundoelen86d7de4d-ed43-4a41-ae0d-dccea6ea0755",
       "prefLabel": {
         "de": "Nachweis von Fetten und Ölen"
-      },
-      "note": {
-        "de": [
-          "Extraktion",
-          "Fettgehalt",
-          "Iodzahl",
-          "Peroxidzahl",
-          "Säurezahl,",
-          "Verseifungszahl"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/verdauungvonfettenundoelenae1bfc83-6b38-463e-acf3-4253350ccb00",
       "prefLabel": {
         "de": "Verdauung von Fetten und Ölen"
-      },
-      "note": {
-        "de": [
-          "Depotfett",
-          "Dünndarm",
-          "Emulgierung,",
-          "Fettverdauung",
-          "Galle",
-          "Insulin"
-        ]
       }
     }
   ],
@@ -167,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -183,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

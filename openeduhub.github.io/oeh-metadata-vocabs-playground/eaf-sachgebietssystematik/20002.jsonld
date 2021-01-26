@@ -6,77 +6,35 @@
   "prefLabel": {
     "de": "Französisch"
   },
-  "note": {
-    "de": [
-      "Französisch",
-      "Französischunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000201",
       "prefLabel": {
         "de": "Sprachliche Fertigkeiten"
-      },
-      "note": {
-        "de": [
-          "Französisch",
-          "Französischunterricht",
-          "Sprachliche Fertigkeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000202",
       "prefLabel": {
         "de": "Landeskunde"
-      },
-      "note": {
-        "de": [
-          "Französisch",
-          "Französischunterricht",
-          "Landeskunde Frankreich"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000203",
       "prefLabel": {
         "de": "Literatur, Medien"
-      },
-      "note": {
-        "de": [
-          "Französisch",
-          "Französischunterricht",
-          "Literatur Frankreichs",
-          "Medien"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000204",
       "prefLabel": {
         "de": "Spielfilm"
-      },
-      "note": {
-        "de": [
-          "Französisch",
-          "Französischunterricht",
-          "Spielfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000205",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Unterricht",
-          "Französisch",
-          "Französischunterricht"
-        ]
       }
     }
   ],
@@ -132,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

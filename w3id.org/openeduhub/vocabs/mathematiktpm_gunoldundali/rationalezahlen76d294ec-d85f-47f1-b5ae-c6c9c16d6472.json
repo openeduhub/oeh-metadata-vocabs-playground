@@ -11,72 +11,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/...undsubtrahierenb2ee677f-25ba-4866-95f8-261a257c19fa",
       "prefLabel": {
         "de": "... und subtrahieren"
-      },
-      "note": {
-        "de": [
-          "Subtraktion von rationalen Zahlen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dividierenrationalerzahlen5aa359f3-0689-4cfa-b5c3-dcde182d5126",
       "prefLabel": {
         "de": "Dividieren rationaler Zahlen"
-      },
-      "note": {
-        "de": [
-          "Rationale Zahlen dividieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/groessenvergleichrationalerzahlen51868185-43e0-4c13-8ae1-32091ccd3ca1",
       "prefLabel": {
         "de": "Größenvergleich rationaler Zahlen"
-      },
-      "note": {
-        "de": [
-          "Nachfolger",
-          "Vorgänger",
-          "Zahlen ordnen",
-          "rationale Zahlen vergleichen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/multiplizierenrationalerzahlen621a4754-5bd8-4c64-b247-8ef795b4a369",
       "prefLabel": {
         "de": "Multiplizieren rationaler Zahlen"
-      },
-      "note": {
-        "de": [
-          "Multiplikation von positiven und negativen Zahlen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/negativezahlen1dc7b899-c007-4a09-acdb-5f5780d2eabc",
       "prefLabel": {
         "de": "Negative Zahlen"
-      },
-      "note": {
-        "de": [
-          "Minuszahlen",
-          "Schulden",
-          "Zahlenstrahl",
-          "negative Zahlen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rationalezahlenaddieren...9f71bcff-1725-44ba-a901-b42837b63707",
       "prefLabel": {
         "de": "Rationale Zahlen addieren ..."
-      },
-      "note": {
-        "de": [
-          "Addition von rationalen Zahlen"
-        ]
       }
     }
   ],
@@ -126,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -142,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

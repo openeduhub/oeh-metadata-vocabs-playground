@@ -6,38 +6,10 @@
   "prefLabel": {
     "de": "Singular / Plural"
   },
-  "hiddenLabel": {
-    "de": [
-      "Einzahl",
-      "Plural Mehrzahl",
-      "Singular"
-    ]
-  },
-  "note": {
-    "de": [
-      "Einzahl",
-      "Plural Mehrzahl",
-      "Singular"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nomenafeb2dfd-c8bb-45d4-9822-f04f52038fad",
     "prefLabel": {
       "de": "Nomen"
-    },
-    "altLabel": {
-      "de": [
-        "Gentilname",
-        "Gentilnomen",
-        "Nomen",
-        "Nomina",
-        "nominal"
-      ],
-      "en": [
-        "Nomen",
-        "nomen gentilicium",
-        "nominal"
-      ]
     }
   },
   "inScheme": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

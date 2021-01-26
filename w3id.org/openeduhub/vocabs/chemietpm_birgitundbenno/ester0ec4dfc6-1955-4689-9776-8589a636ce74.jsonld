@@ -26,58 +26,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benennungvonestern93d7675f-9a2d-435d-90f4-f9fc5d02b5b0",
       "prefLabel": {
         "de": "Benennung von Estern"
-      },
-      "note": {
-        "de": [
-          "Alkohol-Teil",
-          "Estergruppe",
-          "Säure-Teil",
-          "Triglyceride",
-          "Wachse,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonesternbe85ecc8-9f71-47e9-a232-9d03b6266821",
       "prefLabel": {
         "de": "Eigenschaften von Estern"
-      },
-      "note": {
-        "de": [
-          "Estergruppe",
-          "RCOOR"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/herstellungvonesternf41970ea-6bb4-4981-a090-486ecfa8ed46",
       "prefLabel": {
         "de": "Herstellung von Estern"
-      },
-      "note": {
-        "de": [
-          "COOR",
-          "Carbonsäureester",
-          "Veresterung",
-          "säure katalysierte Veresterung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/verwendungvonesternfc644b0c-4274-4f6b-b135-3e1e9d3a4d69",
       "prefLabel": {
         "de": "Verwendung von Estern"
-      },
-      "note": {
-        "de": [
-          "Fett",
-          "Fruchtester,",
-          "Lactone",
-          "Lösungsmittel",
-          "Polyester",
-          "Wachs",
-          "Öl"
-        ]
       }
     }
   ],
@@ -133,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -149,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

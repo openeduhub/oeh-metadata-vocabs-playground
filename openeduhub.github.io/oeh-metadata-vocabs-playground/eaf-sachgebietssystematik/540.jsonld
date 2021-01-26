@@ -6,69 +6,35 @@
   "prefLabel": {
     "de": "RETTEN, HELFEN, SCHÜTZEN"
   },
-  "note": {
-    "de": [
-      "Helfen",
-      "Retten",
-      "Schützen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/54001",
       "prefLabel": {
         "de": "Unfallverhütung"
-      },
-      "note": {
-        "de": [
-          "Unfallverhütung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/54002",
       "prefLabel": {
         "de": "Brandschutz, Brandbekämpfung"
-      },
-      "note": {
-        "de": [
-          "Brandbekämpfung",
-          "Brandschutz"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/54003",
       "prefLabel": {
         "de": "Katastrophenschutz"
-      },
-      "note": {
-        "de": [
-          "Katastrophenschutz"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/54004",
       "prefLabel": {
         "de": "Hilfsdienste, Rettungsdienste"
-      },
-      "note": {
-        "de": [
-          "Hilfsdienste",
-          "Rettungsdienste"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/54005",
       "prefLabel": {
         "de": "Erste Hilfe"
-      },
-      "note": {
-        "de": [
-          "Erste Hilfe"
-        ]
       }
     }
   ],
@@ -121,12 +87,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -137,16 +97,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

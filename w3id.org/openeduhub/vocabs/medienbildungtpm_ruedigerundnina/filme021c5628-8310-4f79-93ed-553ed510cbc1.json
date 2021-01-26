@@ -6,88 +6,6 @@
   "prefLabel": {
     "de": "Filme"
   },
-  "hiddenLabel": {
-    "de": [
-      "Drehbuch",
-      "Drehbücher. Drehbücher schreiben",
-      "Erklärvideo",
-      "Erklärvideos",
-      "Film",
-      "Filme",
-      "Filme aufnehmen",
-      "Filme bearbeiten",
-      "Filme präsentieren",
-      "Filme vorführen",
-      "Filmprojekt",
-      "Filmprojekte",
-      "Filmprojekte durchführen",
-      "Green Screen",
-      "Greenscreen",
-      "IMovie",
-      "Regie",
-      "Regisseur",
-      "Screen Recording",
-      "Screencast",
-      "Screencasts",
-      "Stop-Motion",
-      "Stopmotion",
-      "Trickfilm",
-      "Trickfilme",
-      "Verfilmung",
-      "Video",
-      "Videoanalyse",
-      "Videobearbeitung",
-      "Videoclip",
-      "Videoclips",
-      "Videos",
-      "Videos aufnehmen",
-      "Videos bearbeiten",
-      "Videosschnitt",
-      "Vodcast",
-      "Vodcasts"
-    ]
-  },
-  "note": {
-    "de": [
-      "Drehbuch",
-      "Drehbücher. Drehbücher schreiben",
-      "Erklärvideo",
-      "Erklärvideos",
-      "Film",
-      "Filme",
-      "Filme aufnehmen",
-      "Filme bearbeiten",
-      "Filme präsentieren",
-      "Filme vorführen",
-      "Filmprojekt",
-      "Filmprojekte",
-      "Filmprojekte durchführen",
-      "Green Screen",
-      "Greenscreen",
-      "IMovie",
-      "Regie",
-      "Regisseur",
-      "Screen Recording",
-      "Screencast",
-      "Screencasts",
-      "Stop-Motion",
-      "Stopmotion",
-      "Trickfilm",
-      "Trickfilme",
-      "Verfilmung",
-      "Video",
-      "Videoanalyse",
-      "Videobearbeitung",
-      "Videoclip",
-      "Videoclips",
-      "Videos",
-      "Videos aufnehmen",
-      "Videos bearbeiten",
-      "Videosschnitt",
-      "Vodcast",
-      "Vodcasts"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
     "prefLabel": {
@@ -140,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -156,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

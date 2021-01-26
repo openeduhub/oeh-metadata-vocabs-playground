@@ -21,86 +21,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/alkoholimalltaga33ff11e-cbe9-4fff-88f2-b89ed66e2d15",
       "prefLabel": {
         "de": "Alkohol im Alltag"
-      },
-      "note": {
-        "de": [
-          "Alkoholabhängigkeit",
-          "Alkoholkonsum",
-          "Alkoholkrankheit,",
-          "Alkoholmissbrauch",
-          "Alkoholsucht",
-          "Alkoholtest-Röhrchen",
-          "Promille",
-          "Promille Grenze",
-          "Sucht"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benennungderalkohole6bd3cd17-9e71-4184-88a8-18f7416e08e6",
       "prefLabel": {
         "de": "Benennung der Alkohole"
-      },
-      "note": {
-        "de": [
-          "Butanol",
-          "Diole",
-          "Endung -ol",
-          "Ethanol",
-          "Glycerin",
-          "Hydroxy-Gruppe",
-          "Hydroxyl-Gruppe",
-          "Methanol",
-          "Propanol",
-          "Triole",
-          "primärer Alkohol",
-          "sekundärer Alkohol",
-          "tert-,",
-          "tertiärer Alkohol"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenderalkohole1784b2f9-97a6-42cc-a7ff-ad75c9600e35",
       "prefLabel": {
         "de": "Eigenschaften der  Alkohole"
-      },
-      "note": {
-        "de": [
-          "Azeotropes Gemisch",
-          "Dipolcharakter",
-          "Wasserlöslichkeit",
-          "Wasserstoffbrückenbindung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/oxidationvonalkoholen18074987-5fd2-4ace-80a0-aeca8d943e67",
       "prefLabel": {
         "de": "Oxidation von Alkoholen"
-      },
-      "note": {
-        "de": [
-          "Aldehyd",
-          "Carbonsäure",
-          "Keton",
-          "Oxidation,",
-          "Oxidationszahl bei Alkohol bestimmen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionenderalkohole22fba53a-5bf1-44d2-b554-832b21c32b5c",
       "prefLabel": {
         "de": "Reaktionen der Alkohole"
-      },
-      "note": {
-        "de": [
-          "Actealbildung",
-          "Nucleophile Substitution",
-          "Oxidation",
-          "Veresterung"
-        ]
       }
     }
   ],
@@ -156,12 +100,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -172,16 +110,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

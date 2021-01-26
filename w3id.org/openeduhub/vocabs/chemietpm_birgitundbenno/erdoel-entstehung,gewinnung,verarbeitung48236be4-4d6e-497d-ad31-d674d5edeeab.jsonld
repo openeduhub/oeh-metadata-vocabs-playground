@@ -6,46 +6,10 @@
   "prefLabel": {
     "de": "Erdöl - Entstehung, Gewinnung, Verarbeitung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bitumen",
-      "Bohrturm",
-      "Brent",
-      "Erdöl",
-      "Erdölförderung",
-      "Glockenboden",
-      "Rohöl",
-      "Süßes Erdöl",
-      "fraktionierte Destillation",
-      "leichtes Erdöl"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bitumen",
-      "Bohrturm",
-      "Brent",
-      "Erdöl",
-      "Erdölförderung",
-      "Glockenboden",
-      "Rohöl",
-      "Süßes Erdöl",
-      "fraktionierte Destillation",
-      "leichtes Erdöl"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenwasserstoffe640308ce-563a-4b05-a5fa-72cbef1cbd72",
     "prefLabel": {
       "de": "Kohlenwasserstoffe"
-    },
-    "altLabel": {
-      "de": [
-        "Hydrocarbone",
-        "Kohlenwasserstoff",
-        "Kohlenwasserstoffgas",
-        "Kohlenwasserstoffkette"
-      ]
     }
   },
   "inScheme": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

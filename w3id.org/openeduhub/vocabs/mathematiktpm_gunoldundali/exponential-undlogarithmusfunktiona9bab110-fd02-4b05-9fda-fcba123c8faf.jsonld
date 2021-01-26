@@ -11,35 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ableitungundstammfunktionenvonexponentiafunktionen861f053d-373d-42a4-93b2-ea6d99a7ba1b",
       "prefLabel": {
         "de": "Ableitung und Stammfunktionen von Exponentiafunktionen"
-      },
-      "note": {
-        "de": [
-          "Ableitung der e-Funktion ist die e-Funktion",
-          "Kettenregel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dernatuerlichelogarithmusd31c64df-10e3-414d-b28d-de9e3a4302d9",
       "prefLabel": {
         "de": "Der natürliche Logarithmus"
-      },
-      "note": {
-        "de": [
-          "Logarithmen mit der Basis e (der eulerschen Zahl) heißen natürliche Logarithmen.",
-          "log"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dieeulerschezahle69611249-4e22-4a07-ae7a-304b3d08b06d",
       "prefLabel": {
         "de": "Die eulersche Zahl e"
-      },
-      "note": {
-        "de": [
-          "Die Zahl e ist Basis des natürlichen Logarithmus e=2;7182..\n\n"
-        ]
       }
     },
     {
@@ -53,12 +36,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
     "prefLabel": {
       "de": "Analysis"
-    },
-    "altLabel": {
-      "en": [
-        "Mathematical analysis",
-        "analysis"
-      ]
     }
   },
   "inScheme": {
@@ -107,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -123,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

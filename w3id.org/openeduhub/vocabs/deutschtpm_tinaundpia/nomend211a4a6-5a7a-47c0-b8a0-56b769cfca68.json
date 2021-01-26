@@ -21,22 +21,6 @@
       "nominal"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Gegenstände",
-      "Namenwörter",
-      "Nominalgruppen",
-      "Substantiv"
-    ]
-  },
-  "note": {
-    "de": [
-      "Gegenstände",
-      "Namenwörter",
-      "Nominalgruppen",
-      "Substantiv"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gross-_kleinschreibung28a313cf-f0b7-4bd5-8879-8b482153054d",
     "prefLabel": {
@@ -89,12 +73,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +83,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

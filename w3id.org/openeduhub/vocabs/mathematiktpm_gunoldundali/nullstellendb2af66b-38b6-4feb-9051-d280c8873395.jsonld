@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Nullstellen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Koordinate eines Schnittpunktes mit der x-Achse ist Null."
-    ]
-  },
   "note": {
-    "de": [
-      "Koordinate eines Schnittpunktes mit der x-Achse ist Null."
-    ]
+    "de": "Koordinate eines Schnittpunktes mit der x-Achse ist Null."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionsgraphenganz-rationalerfunktionen5cf66e9d-ed86-4bf9-81c2-0580fabb94cb",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

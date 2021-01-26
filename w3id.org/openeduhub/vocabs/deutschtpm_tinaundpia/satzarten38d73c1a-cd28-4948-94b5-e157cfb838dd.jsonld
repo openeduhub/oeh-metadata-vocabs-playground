@@ -11,124 +11,42 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/adverbialsatz2043f9a1-f080-4bb9-a39d-4f2560c21b92",
       "prefLabel": {
         "de": "Adverbialsatz"
-      },
-      "note": {
-        "de": [
-          "Finalsatz",
-          "Kausalsatz",
-          "Konditionalsatz",
-          "Konsekutivsatz",
-          "Konzessivsatz",
-          "Lokal",
-          "Modal ",
-          "Ortsergänzung",
-          "Temporal",
-          "Zeitergänzung",
-          "adverbiale Nebensätze"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/fragesatzd700111e-3b35-4442-8c59-1433b1ac3168",
       "prefLabel": {
         "de": "Fragesatz"
-      },
-      "altLabel": {
-        "de": [
-          "Erotema",
-          "Interrogativsatz"
-        ]
-      },
-      "note": {
-        "de": [
-          "Fragewort",
-          "Fragezeichen",
-          "Interrogativsatz "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/infinitivsatz8ddf16a0-6510-4776-812a-8892793dca38",
       "prefLabel": {
         "de": "Infinitivsatz"
-      },
-      "altLabel": {
-        "de": [
-          "Gliedsatz",
-          "Infinitivsatz",
-          "Konjunktionalsatz",
-          "Konjunktionalsätze",
-          "Nebensatz"
-        ],
-        "en": [
-          "subordinate clause"
-        ]
-      },
-      "note": {
-        "de": [
-          "Infinitivgruppe",
-          "Nebensatz ",
-          "zu-Infinitiv"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/objektsatz7093e1d6-1361-44d2-82c3-8038cab85f70",
       "prefLabel": {
         "de": "Objektsatz"
-      },
-      "note": {
-        "de": [
-          "Akkusativ",
-          "Dativobjekt",
-          "Genitivobjekt",
-          "Nebensatz "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/relativsatzc76333ba-8eff-4394-81a2-50d3008e7aff",
       "prefLabel": {
         "de": "Relativsatz"
-      },
-      "note": {
-        "de": [
-          "Nebensatz",
-          "Relativpronomen",
-          "der/die/das",
-          "welcher/welche/welches"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzgefuegeba158389-37e3-4ab3-b6b1-ceb7a07c30c7",
       "prefLabel": {
         "de": "Satzgefüge"
-      },
-      "note": {
-        "de": [
-          "Hypotaxe",
-          "untergeordnete Nebensätze "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzreihed233bec7-b603-4c5b-a21b-36052472288e",
       "prefLabel": {
         "de": "Satzreihe"
-      },
-      "altLabel": {
-        "de": [
-          "HS-Reihe",
-          "Hauptsatzreihe",
-          "Satzreihe"
-        ]
-      },
-      "note": {
-        "de": [
-          "Parataxe",
-          "gleichrangige Hauptsätze"
-        ]
       }
     }
   ],
@@ -184,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -200,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

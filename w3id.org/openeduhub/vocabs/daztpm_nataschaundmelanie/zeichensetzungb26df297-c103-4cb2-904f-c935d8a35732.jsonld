@@ -14,57 +14,10 @@
       "Punctuation mark"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Anführungszeichen",
-      "Apostroph",
-      "Auslassungspunkte",
-      "Ausrufezeichen",
-      "Ausrufzeichen",
-      "Beistrich",
-      "Doppelpunkt",
-      "Fragezeichen",
-      "Interpunktion",
-      "Klammern",
-      "Komma",
-      "Punkt",
-      "Semikolon",
-      "Strichpunkt",
-      "Zeichensetzunng"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anführungszeichen",
-      "Apostroph",
-      "Auslassungspunkte",
-      "Ausrufezeichen",
-      "Ausrufzeichen",
-      "Beistrich",
-      "Doppelpunkt",
-      "Fragezeichen",
-      "Interpunktion",
-      "Klammern",
-      "Komma",
-      "Punkt",
-      "Semikolon",
-      "Strichpunkt",
-      "Zeichensetzunng"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/rechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
     "prefLabel": {
       "de": "Rechtschreibung"
-    },
-    "altLabel": {
-      "de": [
-        "Orthografie",
-        "Orthographie",
-        "Orthographisch",
-        "Rechtschreibregeln",
-        "Rechtschreibung"
-      ]
     }
   },
   "inScheme": {
@@ -113,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -129,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

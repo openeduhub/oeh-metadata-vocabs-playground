@@ -6,47 +6,10 @@
   "prefLabel": {
     "de": "Allgemeine Relativitätstheorie (ART)"
   },
-  "hiddenLabel": {
-    "de": [
-      "Albert Einstein",
-      "Die ART beschreibt die Wechselwirkung zwischen Materie (einschließlich Feldern) einerseits",
-      "E=mc²",
-      "Einstein",
-      "Raum-Zeit",
-      "Raumzeit",
-      "allgemeine Relativitätstheorie",
-      "sowie Raum und Zeit andererseits. Sie deutet Gravitation als geometrische Eigenschaft der gekrümmten vierdimensionalen Raumzeit",
-      "vierdimensional"
-    ]
-  },
-  "note": {
-    "de": [
-      "Albert Einstein",
-      "Die ART beschreibt die Wechselwirkung zwischen Materie (einschließlich Feldern) einerseits",
-      "E=mc²",
-      "Einstein",
-      "Raum-Zeit",
-      "Raumzeit",
-      "allgemeine Relativitätstheorie",
-      "sowie Raum und Zeit andererseits. Sie deutet Gravitation als geometrische Eigenschaft der gekrümmten vierdimensionalen Raumzeit",
-      "vierdimensional"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/relativitaetstheoriefbe20c1c-7479-424b-a44b-b35e2464c99d",
     "prefLabel": {
       "de": "Relativitätstheorie"
-    },
-    "altLabel": {
-      "de": [
-        "Einsteinsche Kausalität",
-        "Relativistisch",
-        "Relativistische Mechanik",
-        "Relativistische Physik"
-      ],
-      "en": [
-        "relativity"
-      ]
     }
   },
   "inScheme": {
@@ -95,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -111,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

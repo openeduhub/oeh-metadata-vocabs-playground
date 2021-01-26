@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Chemische Grundgesetze"
   },
-  "hiddenLabel": {
-    "de": [
-      "Antoine Lavoisier",
-      "Gesetz der konstanten Massenverhältnisse",
-      "Gesetz der multiplen Proportionen",
-      "Gesetz von der Erhaltung der Masse",
-      "John Dalton,",
-      "Joseph-Louis Proust",
-      "Massenerhaltung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Antoine Lavoisier",
-      "Gesetz der konstanten Massenverhältnisse",
-      "Gesetz der multiplen Proportionen",
-      "Gesetz von der Erhaltung der Masse",
-      "John Dalton,",
-      "Joseph-Louis Proust",
-      "Massenerhaltung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/einfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

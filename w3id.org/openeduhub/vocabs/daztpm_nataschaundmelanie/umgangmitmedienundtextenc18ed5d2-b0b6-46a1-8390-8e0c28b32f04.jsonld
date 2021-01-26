@@ -6,58 +6,6 @@
   "prefLabel": {
     "de": "Umgang mit Medien und Texten"
   },
-  "hiddenLabel": {
-    "de": [
-      "10 Strategien zur Texterschließung nach Leisen",
-      "5 Leseprinzipien nach Leisen",
-      "Anpassung des Lesers an den Text",
-      "Durchgliederung",
-      "Flussdiagramme",
-      "Fünf-Phasen-Schema",
-      "Kernaussagen",
-      "Leserlernhelfer",
-      "Lesestrategien",
-      "Lesetraining",
-      "Leseverstehen",
-      "Mind-Maps",
-      "Prägnanz",
-      "Satzlupe",
-      "Schlüsselbegriffe",
-      "Sprachenlernen",
-      "Textrand",
-      "Textvereinfachung",
-      "Textvergrößerung",
-      "Zeilenangaben",
-      "kurze Sätze",
-      "Übersichtlichkeit"
-    ]
-  },
-  "note": {
-    "de": [
-      "10 Strategien zur Texterschließung nach Leisen",
-      "5 Leseprinzipien nach Leisen",
-      "Anpassung des Lesers an den Text",
-      "Durchgliederung",
-      "Flussdiagramme",
-      "Fünf-Phasen-Schema",
-      "Kernaussagen",
-      "Leserlernhelfer",
-      "Lesestrategien",
-      "Lesetraining",
-      "Leseverstehen",
-      "Mind-Maps",
-      "Prägnanz",
-      "Satzlupe",
-      "Schlüsselbegriffe",
-      "Sprachenlernen",
-      "Textrand",
-      "Textvereinfachung",
-      "Textvergrößerung",
-      "Zeilenangaben",
-      "kurze Sätze",
-      "Übersichtlichkeit"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/methodischekompetenzen9a573a02-bef4-4604-be97-246a46ef036f",
     "prefLabel": {
@@ -110,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

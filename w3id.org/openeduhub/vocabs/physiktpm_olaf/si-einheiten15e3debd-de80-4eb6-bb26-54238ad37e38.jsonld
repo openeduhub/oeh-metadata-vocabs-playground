@@ -6,52 +6,6 @@
   "prefLabel": {
     "de": "SI-Einheiten"
   },
-  "hiddenLabel": {
-    "de": [
-      " Basiseinheit",
-      "Ampere",
-      "Candela",
-      "Internationales Einheitensystem",
-      "Kelvin",
-      "Kilogramm",
-      "Lichtstärke",
-      "Länge",
-      "Masse",
-      "Meter",
-      "Mol",
-      "SI",
-      "Sekunde",
-      "Stoffmenge",
-      "Stromstärke",
-      "Système international d’unités",
-      "Thermodynamische\nTemperatur",
-      "Zeit",
-      "metrisches Einheitensystem"
-    ]
-  },
-  "note": {
-    "de": [
-      " Basiseinheit",
-      "Ampere",
-      "Candela",
-      "Internationales Einheitensystem",
-      "Kelvin",
-      "Kilogramm",
-      "Lichtstärke",
-      "Länge",
-      "Masse",
-      "Meter",
-      "Mol",
-      "SI",
-      "Sekunde",
-      "Stoffmenge",
-      "Stromstärke",
-      "Système international d’unités",
-      "Thermodynamische\nTemperatur",
-      "Zeit",
-      "metrisches Einheitensystem"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/methoden9190b11c-efcc-4efb-bb8a-1c2343681544",
     "prefLabel": {
@@ -104,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,35 +6,10 @@
   "prefLabel": {
     "de": "Zitieren"
   },
-  "hiddenLabel": {
-    "de": [
-      "direktes Zitieren",
-      "indirekter Zitieren "
-    ]
-  },
-  "note": {
-    "de": [
-      "direktes Zitieren",
-      "indirekter Zitieren "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzzeichen20622319-e058-4c96-a3e4-b7916d0ce09d",
     "prefLabel": {
       "de": "Satzzeichen"
-    },
-    "altLabel": {
-      "de": [
-        "Hilfszeichen",
-        "Interpunktionszeichen",
-        "Satzzeichen",
-        "Sonderzeichen",
-        "Syngraphem",
-        "Wortzeichen"
-      ],
-      "en": [
-        "non-alphanumeric characters spelling"
-      ]
     }
   },
   "inScheme": {
@@ -83,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -99,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

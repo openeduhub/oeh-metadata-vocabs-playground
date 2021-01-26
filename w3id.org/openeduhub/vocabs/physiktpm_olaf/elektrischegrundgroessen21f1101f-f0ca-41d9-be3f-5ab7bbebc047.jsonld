@@ -6,50 +6,6 @@
   "prefLabel": {
     "de": "Elektrische Grundgrößen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ampere",
-      "Coulomb",
-      "Elektrische Feldlinien",
-      "Elektrische Kraft",
-      "Elektrische Ladung",
-      "Elektrische Spannung",
-      "Elektrische Stromstärke",
-      "Homogenes elektrisches Feld",
-      "Innenwiderstand",
-      "Ladungseigenschaften",
-      "OHMsches Gesetz",
-      "Ohm",
-      "Potential",
-      "Potenzial",
-      "Strom",
-      "Volt",
-      "Watt",
-      "Widerstand"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ampere",
-      "Coulomb",
-      "Elektrische Feldlinien",
-      "Elektrische Kraft",
-      "Elektrische Ladung",
-      "Elektrische Spannung",
-      "Elektrische Stromstärke",
-      "Homogenes elektrisches Feld",
-      "Innenwiderstand",
-      "Ladungseigenschaften",
-      "OHMsches Gesetz",
-      "Ohm",
-      "Potential",
-      "Potenzial",
-      "Strom",
-      "Volt",
-      "Watt",
-      "Widerstand"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagene-lehreb0f34bfd-fa0f-4f64-abfb-24d920614d64",
     "prefLabel": {
@@ -102,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

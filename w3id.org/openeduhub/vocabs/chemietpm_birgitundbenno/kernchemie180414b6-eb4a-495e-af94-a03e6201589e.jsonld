@@ -11,101 +11,23 @@
       "Nuklearchemie"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Isotop",
-      "Kernchemie",
-      "Kernphysik",
-      "Nuklid"
-    ]
-  },
-  "note": {
-    "de": [
-      "Isotop",
-      "Kernchemie",
-      "Kernphysik",
-      "Nuklid"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/isotope5e95967a-504e-44d9-b024-7557a961b71c",
       "prefLabel": {
         "de": "Isotope"
-      },
-      "altLabel": {
-        "de": [
-          "Anisotopie",
-          "Isotop",
-          "Isotope"
-        ],
-        "en": [
-          "Isotopes",
-          "atomic isotope",
-          "chemical isotope"
-        ]
-      },
-      "note": {
-        "de": [
-          "Altersbestimmung",
-          "C-14",
-          "C-14 Methode",
-          "Isotopen Schreibweise",
-          "Nuklid",
-          "Nuklidkarte",
-          "Radiocarbonmethode",
-          "Radioisotop",
-          "Radiokarbonmethode",
-          "Radon,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kernreaktionen60d5f453-a5e6-43a0-bf7b-840d088a3a37",
       "prefLabel": {
         "de": "Kernreaktionen"
-      },
-      "note": {
-        "de": [
-          "Bildung von Elementen",
-          "Heliumbrennen",
-          "Kernreaktoren",
-          "Kernwaffen",
-          "Kohlenstoffbrennen",
-          "Nuklearmedizin,",
-          "Sterne",
-          "Wasserstoffbrennen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/radioaktivitaetundzerfallsartenf1d0eca2-ae2d-43e4-a0b3-2cbc748aa9ba",
       "prefLabel": {
         "de": "Radioaktivität und Zerfallsarten"
-      },
-      "note": {
-        "de": [
-          "Alphateilchen",
-          "Bequerel",
-          "Curie",
-          "Hahn",
-          "Halbwertszeit",
-          "Meitner,",
-          "Nebelkammer",
-          "Radioaktiver Zerfall",
-          "Radioaktivität",
-          "Röntgenstrahlung",
-          "Soddy",
-          "Strahlung",
-          "alpha",
-          "beta",
-          "gamma",
-          "ionisierende Strahlung",
-          "radioaktive Strahlung",
-          "ɣ-Strahlung",
-          "α-Strahlung",
-          "β-Strahlung"
-        ]
       }
     }
   ],
@@ -161,12 +83,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -177,16 +93,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

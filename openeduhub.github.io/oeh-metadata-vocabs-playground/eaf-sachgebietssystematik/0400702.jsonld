@@ -7,64 +7,37 @@
     "de": "Raumgestaltung"
   },
   "note": {
-    "de": [
-      "Raumgestaltung"
-    ]
+    "de": "Raumgestaltung"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070201",
       "prefLabel": {
         "de": "Raumgestaltung"
-      },
-      "note": {
-        "de": [
-          "Raumgestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070202",
       "prefLabel": {
         "de": "Flächengestaltung"
-      },
-      "note": {
-        "de": [
-          "Flächengestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070203",
       "prefLabel": {
         "de": "Wandgestaltung"
-      },
-      "note": {
-        "de": [
-          "Wandgestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070204",
       "prefLabel": {
         "de": "Bodengestaltung"
-      },
-      "note": {
-        "de": [
-          "Bodengestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040070205",
       "prefLabel": {
         "de": "Dekoration"
-      },
-      "note": {
-        "de": [
-          "Dekoration"
-        ]
       }
     }
   ],
@@ -120,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -136,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

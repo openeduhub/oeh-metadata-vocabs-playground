@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Herstellung oder Gewinnung von Seife"
   },
-  "hiddenLabel": {
-    "de": [
-      "Kalkseife,",
-      "Kernseife",
-      "Kokosfett",
-      "Schmierseife",
-      "Seife",
-      "Verseifung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Kalkseife,",
-      "Kernseife",
-      "Kokosfett",
-      "Schmierseife",
-      "Seife",
-      "Verseifung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/tenside,seifeundwaschmittel1766eb28-5c6e-477c-b7e8-70de5967e066",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

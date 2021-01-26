@@ -11,49 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/brief21b08982-3025-450f-aef7-a7fbc061c2d4",
       "prefLabel": {
         "de": "Brief"
-      },
-      "altLabel": {
-        "de": [
-          "Apothekerbriefchen",
-          "Brief",
-          "Briefchen",
-          "Briefkopf",
-          "Glufen",
-          "Koksbriefchen",
-          "Musterbrief",
-          "Papierbrief",
-          "Pulverbriefchen",
-          "Päckchen",
-          "szenetypisches Päckchen"
-        ],
-        "en": [
-          "B.R.I.E.F.",
-          "epistle",
-          "epistolary fiction",
-          "epistolary literature",
-          "mail",
-          "message",
-          "note",
-          "written correspondence",
-          "written letter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/datenuebertragung51aa2511-96d0-4c78-a0b2-55b01fe8986d",
       "prefLabel": {
         "de": "Datenübertragung"
-      },
-      "altLabel": {
-        "de": [
-          "Informationsübertragung"
-        ],
-        "en": [
-          "data communication",
-          "data transfer",
-          "digital communications",
-          "digital transmission"
-        ]
       }
     },
     {
@@ -115,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -131,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

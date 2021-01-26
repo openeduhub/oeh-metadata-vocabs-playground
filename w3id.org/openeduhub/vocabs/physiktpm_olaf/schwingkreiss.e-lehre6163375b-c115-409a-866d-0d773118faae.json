@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Schwingkreis (s. E-Lehre)"
   },
-  "hiddenLabel": {
-    "de": [
-      "Elektromagnetischer Schwingkreis",
-      "LC-Schwingkreis",
-      "Resonanzkreis"
-    ]
-  },
-  "note": {
-    "de": [
-      "Elektromagnetischer Schwingkreis",
-      "LC-Schwingkreis",
-      "Resonanzkreis"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

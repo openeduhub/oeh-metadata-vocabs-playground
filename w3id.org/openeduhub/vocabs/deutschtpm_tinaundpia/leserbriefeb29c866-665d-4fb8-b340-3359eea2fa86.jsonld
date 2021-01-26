@@ -14,20 +14,6 @@
       "letters to the editor"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Rezension",
-      "Zeitung ",
-      "schriftliche Meinungsäußerung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Rezension",
-      "Zeitung ",
-      "schriftliche Meinungsäußerung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/appellativetexte39aeb615-09a0-4b61-aace-c88b94d5a5d8",
     "prefLabel": {
@@ -80,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

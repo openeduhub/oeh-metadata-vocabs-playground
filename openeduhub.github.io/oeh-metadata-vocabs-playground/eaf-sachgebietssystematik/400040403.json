@@ -6,47 +6,23 @@
   "prefLabel": {
     "de": "Gesundheit schützen"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Schützen und sicher Agieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004040301",
       "prefLabel": {
         "de": "Suchtgefahren vermeiden, sich Selbst und andere vor möglichen Gefahren schützen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004040302",
       "prefLabel": {
         "de": "Digitale Technologien gesundheitsbewusst nutzen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004040303",
       "prefLabel": {
         "de": "Digitale Technologien für soziales Wohlergehen und Eingliederung nutzen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -102,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

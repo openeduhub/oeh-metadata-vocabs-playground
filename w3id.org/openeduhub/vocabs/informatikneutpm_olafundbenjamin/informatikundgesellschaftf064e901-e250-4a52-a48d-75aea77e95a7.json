@@ -17,75 +17,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/bigdataf49ae87d-4f26-43a6-8db1-0409df0952d1",
       "prefLabel": {
         "de": "Big Data"
-      },
-      "note": {
-        "de": [
-          "Massendaten",
-          "big data"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/datenschutzf8056d7e-7b13-4d81-ba7b-013615fc87ab",
       "prefLabel": {
         "de": "Datenschutz"
-      },
-      "altLabel": {
-        "de": [
-          "Datenschützer"
-        ],
-        "en": [
-          "data privacy"
-        ]
-      },
-      "note": {
-        "de": [
-          "DSGVO",
-          "Datenmissbrauch",
-          "Datenschutz-Grundverordnung",
-          "Datenschutzgrundverordnung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/datensicherheitf88b89c2-a5aa-4f1d-a644-5500b4602dcc",
       "prefLabel": {
         "de": "Datensicherheit"
-      },
-      "altLabel": {
-        "de": [
-          "Computersicherheit",
-          "Datensicherheit",
-          "EDV-Sicherheit",
-          "IT-Security",
-          "IT-Sicherheit",
-          "Informationssicherheit",
-          "Sicherheit in der Informationstechnik",
-          "Technischer Datenschutz"
-        ],
-        "en": [
-          "InfoSec"
-        ]
-      },
-      "note": {
-        "de": [
-          "Datenschutz",
-          "Datensicherheit",
-          "Datensicherung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/geschichtederinformatik0758a884-9a35-429f-b65f-80209544d357",
       "prefLabel": {
         "de": "Geschichte der Informatik"
-      },
-      "note": {
-        "de": [
-          "Dualsystem",
-          "Entwicklung der Schrift",
-          "Rechenmachinen"
-        ]
       }
     },
     {
@@ -98,65 +47,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informationelleselbstbestimmung9eda2c7a-2bc1-4b20-b83d-0b5bfc3e1c20",
       "prefLabel": {
         "de": "Informationelle Selbstbestimmung"
-      },
-      "altLabel": {
-        "de": [
-          "Grundrecht auf informationelle Selbstbestimmung",
-          "Informationelles Selbstbestimmungsrecht",
-          "Recht auf informationelle Selbstbestimmung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/oer3a6191a7-346c-44fe-ad65-e285acd77480",
       "prefLabel": {
         "de": "OER"
-      },
-      "altLabel": {
-        "de": [
-          "OER",
-          "Offene Bildungsinhalte",
-          "Open Educational Resources"
-        ],
-        "en": [
-          "OER"
-        ]
-      },
-      "note": {
-        "de": [
-          "Open Educational Resources"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/opendataundopensourcebdc14d4f-a0db-48d9-bee3-084b05193802",
       "prefLabel": {
         "de": "Open Data und Open Source"
-      },
-      "note": {
-        "de": [
-          "Freie Lerninhalte",
-          "Open Educational Ressources",
-          "Open Science",
-          "Open Source"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/persoenlichkeitenderinformatik967bc16e-cc48-4589-a447-e56b7bc74313",
       "prefLabel": {
         "de": "Persönlichkeiten der Informatik"
-      },
-      "note": {
-        "de": [
-          "Babbage",
-          "Informatiker",
-          "Informatikerin",
-          "Leibnitz",
-          "Lovelace",
-          "Programmiere",
-          "Programmiererin"
-        ]
       }
     },
     {
@@ -169,20 +77,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/sozialenetzwerkeace59af7-ce26-4c6e-b0a4-4455ba19ab05",
       "prefLabel": {
         "de": "Soziale Netzwerke"
-      },
-      "altLabel": {
-        "de": [
-          "Social Network",
-          "Social Network Analysis",
-          "Soziale Netzwerke",
-          "Soziales Netzwerk"
-        ]
-      },
-      "note": {
-        "de": [
-          "facebook",
-          "tiktok"
-        ]
       }
     }
   ],
@@ -232,12 +126,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -248,16 +136,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

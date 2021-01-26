@@ -17,28 +17,6 @@
       "ether"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Dimethylether",
-      "ETBE",
-      "Ethergruppe",
-      "MTBE",
-      "Thioether,",
-      "Treibstoffersatz",
-      "Treibstoffzusatz"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dimethylether",
-      "ETBE",
-      "Ethergruppe",
-      "MTBE",
-      "Thioether,",
-      "Treibstoffersatz",
-      "Treibstoffzusatz"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/organischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
     "prefLabel": {
@@ -91,12 +69,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +79,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

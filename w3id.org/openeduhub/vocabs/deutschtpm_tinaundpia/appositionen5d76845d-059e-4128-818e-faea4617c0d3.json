@@ -6,32 +6,10 @@
   "prefLabel": {
     "de": "Appositionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Einfügung",
-      "Einschub "
-    ]
-  },
-  "note": {
-    "de": [
-      "Einfügung",
-      "Einschub "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/kommasetzungdfb295b4-fff1-46a8-bb18-d8f905231637",
     "prefLabel": {
       "de": "Kommasetzung"
-    },
-    "altLabel": {
-      "de": [
-        "Beistrichregeln",
-        "Beistrichsetzung",
-        "Erweiterter Infinitiv",
-        "Infinitivkonstruktion",
-        "Kommaregeln",
-        "Kommasetzung"
-      ]
     }
   },
   "inScheme": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -7,74 +7,37 @@
     "de": "GESUNDHEIT"
   },
   "note": {
-    "de": [
-      "Gesundheit"
-    ]
+    "de": "Gesundheit"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/26001",
       "prefLabel": {
         "de": "Gesunderhaltung"
-      },
-      "note": {
-        "de": [
-          "Gesunderhaltung",
-          "Gesundheit"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/26002",
       "prefLabel": {
         "de": "Krankheit"
-      },
-      "note": {
-        "de": [
-          "Gesundheit",
-          "Krankheit"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/26003",
       "prefLabel": {
         "de": "Behinderung"
-      },
-      "note": {
-        "de": [
-          "Behinderung",
-          "Gesundheit",
-          "Handicap"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/26004",
       "prefLabel": {
         "de": "Psychologie/Psychiatrie"
-      },
-      "note": {
-        "de": [
-          "Gesundheit",
-          "Psychiatrie",
-          "Psychologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/26005",
       "prefLabel": {
         "de": "Medizinische Versorgung"
-      },
-      "note": {
-        "de": [
-          "Gesundheit",
-          "Medizinische Versorgung",
-          "Rehabilitation",
-          "Versicherung",
-          "ärztliche Grundversorgung"
-        ]
       }
     }
   ],
@@ -127,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -143,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,12 +6,6 @@
   "prefLabel": {
     "de": "Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Suchen, Verarbeiten und Aufbewahren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040103",
     "prefLabel": {
@@ -64,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -80,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

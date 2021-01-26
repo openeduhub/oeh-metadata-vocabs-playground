@@ -11,84 +11,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kapitalberechnend1c23959-dfb9-4cf4-9188-bcee7af11bcd",
       "prefLabel": {
         "de": "Kapital berechnen"
-      },
-      "note": {
-        "de": [
-          "Erspartes",
-          "Grundkapital",
-          "Zinsrechnung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zeitraumberechenb59acac8-335e-4835-a5e0-2eed726bef0b",
       "prefLabel": {
         "de": "Zeitraum berechen"
-      },
-      "note": {
-        "de": [
-          "30 Tage",
-          "360 Tage",
-          "Zeitspanne"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinsen392dc10a-eb91-4d38-8547-eaad7bdd7347",
       "prefLabel": {
         "de": "Zinsen"
-      },
-      "altLabel": {
-        "de": [
-          "Bankzinsen",
-          "Kreditzins",
-          "Nominaler Zinssatz",
-          "Nominalzins",
-          "Nominalzinssatz",
-          "Schuldzins",
-          "Schuldzinsen",
-          "Sollverzinsung",
-          "Zins",
-          "Zinsen"
-        ]
-      },
-      "note": {
-        "de": [
-          "Jahreszinsen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinseszinsenf6743263-f5a5-473a-a704-99b7c09eb806",
       "prefLabel": {
         "de": "Zinseszinsen"
-      },
-      "altLabel": {
-        "de": [
-          "Anatozismus",
-          "Zinseszins",
-          "Zinseszinseffekt",
-          "Zinseszinsen",
-          "Zinseszinsformel",
-          "Zinseszinsrechnung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Zins vom Zins"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinseszinsenformelf197ccec-a7e8-43f3-9143-7fcb867ebeb5",
       "prefLabel": {
         "de": "Zinseszinsen (Formel)"
-      },
-      "note": {
-        "de": [
-          "Kapital",
-          "anfallende Zinsen"
-        ]
       }
     }
   ],
@@ -138,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -154,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,119 +6,47 @@
   "prefLabel": {
     "de": "Recht"
   },
-  "note": {
-    "de": [
-      "Gesellschaftslehre",
-      "Politik",
-      "Politische Bildung",
-      "Recht",
-      "Sozialkunde"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040501",
       "prefLabel": {
         "de": "Menschenrechte"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Menschenrechte",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040502",
       "prefLabel": {
         "de": "Verfassungen"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Verfassungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040503",
       "prefLabel": {
         "de": "Arbeitsrecht"
-      },
-      "note": {
-        "de": [
-          "Arbeitsrecht",
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040504",
       "prefLabel": {
         "de": "Zivilrecht"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Zivilrecht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040505",
       "prefLabel": {
         "de": "Strafrecht"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Strafrecht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040506",
       "prefLabel": {
         "de": "Öffentliches Recht"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Öffentliches Recht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/480040507",
       "prefLabel": {
         "de": "Sozialrecht"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Sozialrecht"
-        ]
       }
     }
   ],
@@ -174,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -190,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

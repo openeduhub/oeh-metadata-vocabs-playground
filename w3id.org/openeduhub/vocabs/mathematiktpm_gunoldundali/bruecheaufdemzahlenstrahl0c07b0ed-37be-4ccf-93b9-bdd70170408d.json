@@ -6,28 +6,10 @@
   "prefLabel": {
     "de": "Brüche auf dem Zahlenstrahl"
   },
-  "hiddenLabel": {
-    "de": [
-      "Zahlenstrahl",
-      "Zeichnen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Zahlenstrahl",
-      "Zeichnen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/brueche387d7c70-34da-4ff6-8cf8-2b267ac36778",
     "prefLabel": {
       "de": "Brüche"
-    },
-    "altLabel": {
-      "de": [
-        "NSG Brüche",
-        "Naturschutzgebiet Brüche"
-      ]
     }
   },
   "inScheme": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

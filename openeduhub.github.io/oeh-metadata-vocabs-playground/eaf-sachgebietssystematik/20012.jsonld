@@ -6,77 +6,35 @@
   "prefLabel": {
     "de": "Tschechisch"
   },
-  "note": {
-    "de": [
-      "Tschechisch",
-      "Tschechischunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001201",
       "prefLabel": {
         "de": "Sprachliche Fertigkeiten"
-      },
-      "note": {
-        "de": [
-          "Sprachliche Fertigkeiten",
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001202",
       "prefLabel": {
         "de": "Landeskunde"
-      },
-      "note": {
-        "de": [
-          "Landeskunde Tschechiens",
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001203",
       "prefLabel": {
         "de": "Literatur, Medien"
-      },
-      "note": {
-        "de": [
-          "Literatur Tschechiens",
-          "Medien",
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001204",
       "prefLabel": {
         "de": "Spielfilm"
-      },
-      "note": {
-        "de": [
-          "Spielfilm",
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2001205",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Unterricht",
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     }
   ],
@@ -132,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

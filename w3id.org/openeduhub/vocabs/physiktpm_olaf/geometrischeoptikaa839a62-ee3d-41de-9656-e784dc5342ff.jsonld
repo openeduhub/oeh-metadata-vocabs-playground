@@ -13,217 +13,44 @@
       "Strahlenoptik"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert."
-    ]
-  },
   "note": {
-    "de": [
-      "In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert."
-    ]
+    "de": "In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/abbildungen33ed8f17-fb9a-4552-9128-e3a63f4df529",
       "prefLabel": {
         "de": "Abbildungen"
-      },
-      "altLabel": {
-        "de": [
-          "Abbildung",
-          "Abbildungen",
-          "Funktion",
-          "Funktion (Mathematik)",
-          "Funktion in der Mathematik",
-          "Funktionen",
-          "Funktionen (Mathematik)",
-          "Funktionen in der Mathematik",
-          "f(x)",
-          "mathematische Funktion",
-          "mathematische Funktionen"
-        ],
-        "en": [
-          "application",
-          "f(x)",
-          "function (mathematics)",
-          "function in mathematics",
-          "functions",
-          "functions (mathematics)",
-          "functions in mathematics",
-          "map",
-          "mapping",
-          "mathematical function",
-          "mathematical functions",
-          "single-valued function",
-          "total function"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bildweite",
-          "Gegenstandsweite",
-          "reelles Bild",
-          "virtuelles Bild"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/ausbreitungb0e4e747-0fd1-4279-a4cd-7f98e1785667",
       "prefLabel": {
         "de": "Ausbreitung"
-      },
-      "altLabel": {
-        "de": [
-          "Ausbreitungsgeschwindigkeit",
-          "Ausbreitungskoeffizient",
-          "Gestörte Ausbreitung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Lichtbündel und Lichtstrahlen",
-          "Lichtgeschwindigkeit",
-          "Lochkamera",
-          "Sehvorgang",
-          "Stoffverhalten",
-          "Strahlensatz"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/brechung21fbbab0-5e40-4999-b1af-a372c91e6a60",
       "prefLabel": {
         "de": "Brechung"
-      },
-      "altLabel": {
-        "de": [
-          "Atmosphärische Brechung",
-          "Atmosphärische Lichtbrechung",
-          "Lichtbrechung",
-          "Refraktion",
-          "Strahlenbrechung",
-          "Wellenbrechung"
-        ]
-      },
-      "note": {
-        "de": [
-          "\nÜbergang zwischen zwei Medien",
-          "Grenzfläche",
-          "Grenzwinkel der Totalreflexion",
-          "Lichtbrechung",
-          "Medien unterschiedlicher optischer Dichte",
-          "Strahl wird gebrochen",
-          "Totalreflexion",
-          "optisch dichter",
-          "optisch dünner",
-          "reflektiert",
-          "vom Lot weg gebrochen",
-          "zum Lot hin gebrochen",
-          "Übergang vom optisch dichteren zum optisch dünneren Medium",
-          "Übergang vom optisch dünneren zum optisch dichteren Medium"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/lichtundschattenf6712a6f-6422-4444-b0b0-8d7f101e72a5",
       "prefLabel": {
         "de": "Licht und Schatten"
-      },
-      "altLabel": {
-        "de": [
-          "Licht und Schatten",
-          "Tatort: Licht und Schatten"
-        ],
-        "en": [
-          "Ombre et Lumière",
-          "Ombre et lumiere",
-          "Shadow and Light"
-        ]
-      },
-      "note": {
-        "de": [
-          "Grenzstrahlen",
-          "Halbschatten",
-          "Kernschatten",
-          "Schatten",
-          "Schatten werfen",
-          "Schattenbereich",
-          "Schattenbereiche",
-          "Schattengrenze",
-          "Schlagschatten",
-          "Vollschatten",
-          "lichtfreier Bereich hinter einem Gegenstand",
-          "unbeleuchtete Fläche",
-          "Übergangsschatten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/linsen_optischegeraete728ce5b4-ebdb-483c-8f1c-d3d4efb92893",
       "prefLabel": {
         "de": "Linsen / optische Geräte"
-      },
-      "note": {
-        "de": [
-          "Bildentstehung bei Linsenabbildungen",
-          "Brennpunkt",
-          "Camera Obscura",
-          "Diaprojektor",
-          "Fernrohr",
-          "Fotoapparat",
-          "Galilei-Fernrohr",
-          "Kepler-Fernrohr",
-          "Konkavlinsen",
-          "Konstruktionsstrahlen bei der Linsenabbildung",
-          "Konvexlinsen",
-          "Linsenabbildung",
-          "Linsenformen",
-          "Linsengleichung",
-          "Linsengleichungen",
-          "Lupe",
-          "Mikroskop",
-          "Optische Geräte",
-          "Overhead",
-          "Sammellinsen",
-          "Sphärische Linsen",
-          "Zerstreuungslinsen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/reflexiondd7e31b4-52d7-4d80-a70b-5179d5bb3213",
       "prefLabel": {
         "de": "Reflexion"
-      },
-      "altLabel": {
-        "de": [
-          "Ausfallswinkel",
-          "Introspektion",
-          "Partielle Reflexion",
-          "Reflection",
-          "Rückwurf",
-          "Selbstbespiegelung",
-          "Selbstreflexion"
-        ],
-        "en": [
-          "mirroring",
-          "reflect",
-          "reflective",
-          "reflective programming",
-          "reflexion"
-        ]
-      },
-      "note": {
-        "de": [
-          "Ausfallswinkel",
-          "Einfallslot",
-          "Einfallswinkel",
-          "Reflexionsgesetz",
-          "Spiegel",
-          "einfallende Strahl",
-          "reflektierter Strahl"
-        ]
       }
     }
   ],
@@ -279,12 +106,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -295,16 +116,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

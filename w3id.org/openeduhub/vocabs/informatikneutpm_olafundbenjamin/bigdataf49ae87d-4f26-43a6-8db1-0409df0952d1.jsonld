@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Big Data"
   },
-  "hiddenLabel": {
-    "de": [
-      "Massendaten",
-      "big data"
-    ]
-  },
-  "note": {
-    "de": [
-      "Massendaten",
-      "big data"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informatikundgesellschaftf064e901-e250-4a52-a48d-75aea77e95a7",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

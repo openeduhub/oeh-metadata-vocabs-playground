@@ -6,77 +6,35 @@
   "prefLabel": {
     "de": "Sorbisch"
   },
-  "note": {
-    "de": [
-      "Sorbisch",
-      "Sorbischunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000901",
       "prefLabel": {
         "de": "Sprachliche Fertigkeiten"
-      },
-      "note": {
-        "de": [
-          "Sorbisch",
-          "Sorbischunterricht",
-          "Sprachliche Fertigkeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000902",
       "prefLabel": {
         "de": "Landeskunde"
-      },
-      "note": {
-        "de": [
-          "Landeskunde",
-          "Sorbisch",
-          "Sorbischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000903",
       "prefLabel": {
         "de": "Literatur, Medien"
-      },
-      "note": {
-        "de": [
-          "Literatur",
-          "Medien",
-          "Sorbisch",
-          "Sorbischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000904",
       "prefLabel": {
         "de": "Spielfilm"
-      },
-      "note": {
-        "de": [
-          "Sorbisch",
-          "Sorbischunterricht",
-          "Spielfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2000905",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Unterricht",
-          "Sorbisch",
-          "Sorbischunterricht"
-        ]
       }
     }
   ],
@@ -132,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

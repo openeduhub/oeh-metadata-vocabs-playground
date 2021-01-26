@@ -7,31 +7,19 @@
     "de": "Produktionstechnik"
   },
   "note": {
-    "de": [
-      "Produktionstechnik"
-    ]
+    "de": "Produktionstechnik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110401",
       "prefLabel": {
         "de": "Fertigungstechnik"
-      },
-      "note": {
-        "de": [
-          "Fertigungstechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110402",
       "prefLabel": {
         "de": "Verfahrenstechnik"
-      },
-      "note": {
-        "de": [
-          "Verfahrenstechnik"
-        ]
       }
     }
   ],
@@ -87,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

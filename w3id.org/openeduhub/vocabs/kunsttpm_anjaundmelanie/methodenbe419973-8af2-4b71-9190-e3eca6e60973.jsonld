@@ -6,58 +6,6 @@
   "prefLabel": {
     "de": "Methoden"
   },
-  "hiddenLabel": {
-    "de": [
-      "Atlas",
-      "Ausstellung",
-      "Bewerten",
-      "Bildumgangsspiele",
-      "Bildwahrnehmungsübungen Gunther Otto",
-      "Busse Bildumgangsspiele",
-      "Dokumentieren",
-      "Facharbeit",
-      "Feldforschung",
-      "Ideen finden",
-      "Journaling",
-      "Klausuren / Lösungen",
-      "Kontextarbeit",
-      "Kämpf-Jansen;",
-      "Mapping",
-      "Portfolio",
-      "Präsentieren",
-      "Reflektieren",
-      "Seminararbeit",
-      "Skizzenbuch",
-      "morphologisches Raster",
-      "ästhetische Forschung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atlas",
-      "Ausstellung",
-      "Bewerten",
-      "Bildumgangsspiele",
-      "Bildwahrnehmungsübungen Gunther Otto",
-      "Busse Bildumgangsspiele",
-      "Dokumentieren",
-      "Facharbeit",
-      "Feldforschung",
-      "Ideen finden",
-      "Journaling",
-      "Klausuren / Lösungen",
-      "Kontextarbeit",
-      "Kämpf-Jansen;",
-      "Mapping",
-      "Portfolio",
-      "Präsentieren",
-      "Reflektieren",
-      "Seminararbeit",
-      "Skizzenbuch",
-      "morphologisches Raster",
-      "ästhetische Forschung"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -104,12 +52,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +62,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

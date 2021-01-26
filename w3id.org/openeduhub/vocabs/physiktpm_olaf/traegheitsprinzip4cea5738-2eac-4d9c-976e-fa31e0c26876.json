@@ -6,46 +6,10 @@
   "prefLabel": {
     "de": "Trägheitsprinzip"
   },
-  "hiddenLabel": {
-    "de": [
-      "Inertialgesetz",
-      "Trägheitsgesetz",
-      "Trägheitsprinzip",
-      "lex prima"
-    ]
-  },
-  "note": {
-    "de": [
-      "Inertialgesetz",
-      "Trägheitsgesetz",
-      "Trägheitsprinzip",
-      "lex prima"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/newtonschegesetze7490dcce-835b-49ec-8eeb-498639455260",
     "prefLabel": {
       "de": "Newtonsche Gesetze"
-    },
-    "altLabel": {
-      "de": [
-        "Axiomata sive leges motus",
-        "Grundgesetz der Mechanik",
-        "Grundgesetze der Bewegung",
-        "Newton-Axiome",
-        "Newtons Axiome",
-        "Newtons Gesetz",
-        "Newtonsche Axiome",
-        "Newtonsche Prinzipien",
-        "Newtonsches Axiom",
-        "Newtonsches Gesetz"
-      ],
-      "en": [
-        "Newton's law",
-        "Newton's laws",
-        "Newtonian mechanics",
-        "laws of motion"
-      ]
     }
   },
   "inScheme": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

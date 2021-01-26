@@ -6,100 +6,6 @@
   "prefLabel": {
     "de": "Techniken"
   },
-  "hiddenLabel": {
-    "de": [
-      "Action Painting",
-      "Airbrush",
-      "Aquarell",
-      "Collage",
-      "Drahtfiguren",
-      "Drucken",
-      "Enkaustik",
-      "Film",
-      "Filzstift",
-      "Fotografie",
-      "Freskomalerei",
-      "Frottage",
-      "Gouache",
-      "Grattage",
-      "Grisaille",
-      "Holzschnitt",
-      "Klecksografie",
-      "Lithografie",
-      "Lüftlmalerei",
-      "Malen",
-      "Maltechniken",
-      "Materialdruck",
-      "Mixed media",
-      "Pappmaschée;",
-      "Pastellmalerei",
-      "Radierung",
-      "Salzteig",
-      "Seccomalerei",
-      "Sgraffito",
-      "Siebdruck",
-      "Spritztechnik",
-      "Stempeln",
-      "Stencil",
-      "Tempera",
-      "Tonarbeiten",
-      "Tupftechnik",
-      "Tuschemalerei",
-      "Verwischung",
-      "Zeichentechniken",
-      "Zeichnen",
-      "Zufallstechniken",
-      "naß-in-naß-Technik",
-      "Ölmalerei"
-    ]
-  },
-  "note": {
-    "de": [
-      "Action Painting",
-      "Airbrush",
-      "Aquarell",
-      "Collage",
-      "Drahtfiguren",
-      "Drucken",
-      "Enkaustik",
-      "Film",
-      "Filzstift",
-      "Fotografie",
-      "Freskomalerei",
-      "Frottage",
-      "Gouache",
-      "Grattage",
-      "Grisaille",
-      "Holzschnitt",
-      "Klecksografie",
-      "Lithografie",
-      "Lüftlmalerei",
-      "Malen",
-      "Maltechniken",
-      "Materialdruck",
-      "Mixed media",
-      "Pappmaschée;",
-      "Pastellmalerei",
-      "Radierung",
-      "Salzteig",
-      "Seccomalerei",
-      "Sgraffito",
-      "Siebdruck",
-      "Spritztechnik",
-      "Stempeln",
-      "Stencil",
-      "Tempera",
-      "Tonarbeiten",
-      "Tupftechnik",
-      "Tuschemalerei",
-      "Verwischung",
-      "Zeichentechniken",
-      "Zeichnen",
-      "Zufallstechniken",
-      "naß-in-naß-Technik",
-      "Ölmalerei"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -146,12 +52,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -162,16 +62,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

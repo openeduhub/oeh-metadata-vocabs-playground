@@ -7,42 +7,25 @@
     "de": "Werkstofftechnik"
   },
   "note": {
-    "de": [
-      "Werkstofftechnik"
-    ]
+    "de": "Werkstofftechnik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110301",
       "prefLabel": {
         "de": "Rohstoffe"
-      },
-      "note": {
-        "de": [
-          "Rohstoffe"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110302",
       "prefLabel": {
         "de": "Werkstoffe"
-      },
-      "note": {
-        "de": [
-          "Werkstoffe"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110303",
       "prefLabel": {
         "de": "Korrosion"
-      },
-      "note": {
-        "de": [
-          "Korrosion"
-        ]
       }
     }
   ],
@@ -98,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

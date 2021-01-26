@@ -6,100 +6,41 @@
   "prefLabel": {
     "de": "MATHEMATIK"
   },
-  "note": {
-    "de": [
-      "Mathematik",
-      "Mathematikunterricht",
-      "Matheunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/38001",
       "prefLabel": {
         "de": "Zahlen, Algebra"
-      },
-      "note": {
-        "de": [
-          "Algebra",
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht",
-          "Zahlen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/38002",
       "prefLabel": {
         "de": "Analysis, Analytische Geometrie"
-      },
-      "note": {
-        "de": [
-          "Analysis",
-          "Analytische Geometrie",
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/38003",
       "prefLabel": {
         "de": "Geometrie"
-      },
-      "note": {
-        "de": [
-          "Geometrie",
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/38004",
       "prefLabel": {
         "de": "Endliche Mathematik, Stochastik"
-      },
-      "note": {
-        "de": [
-          "Endliche Mathematik",
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht",
-          "Stochastik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/38005",
       "prefLabel": {
         "de": "Mathematik und Chaos"
-      },
-      "note": {
-        "de": [
-          "Chaosforschung",
-          "Chaostheorie",
-          "Mathematik",
-          "Mathematik und Chaos",
-          "Mathematikunterricht",
-          "Matheunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/38006",
       "prefLabel": {
         "de": "Mathematische Anwendungen in anderen Gebieten"
-      },
-      "note": {
-        "de": [
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht"
-        ]
       }
     }
   ],
@@ -152,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -168,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

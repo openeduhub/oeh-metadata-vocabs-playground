@@ -6,44 +6,17 @@
   "prefLabel": {
     "de": "Hydrographie"
   },
-  "note": {
-    "de": [
-      "Geografie",
-      "Geografieunterricht",
-      "Geographie",
-      "Geographieunterricht",
-      "Hydrographie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200501",
       "prefLabel": {
         "de": "Meer"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Meer"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200502",
       "prefLabel": {
         "de": "Binnengewässer"
-      },
-      "note": {
-        "de": [
-          "Binnengewässer",
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht"
-        ]
       }
     }
   ],
@@ -99,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -115,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

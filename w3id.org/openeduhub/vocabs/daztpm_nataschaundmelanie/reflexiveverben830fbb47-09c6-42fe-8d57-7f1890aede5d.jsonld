@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Reflexive Verben"
   },
-  "hiddenLabel": {
-    "de": [
-      "echte reflexive Verben",
-      "reflexive Verben",
-      "rückbezügliche Verben",
-      "unechte reflexive Verben"
-    ]
-  },
-  "note": {
-    "de": [
-      "echte reflexive Verben",
-      "reflexive Verben",
-      "rückbezügliche Verben",
-      "unechte reflexive Verben"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/verben1f705a86-39a2-445e-924d-83b36db71f77",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

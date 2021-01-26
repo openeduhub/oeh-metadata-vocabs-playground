@@ -6,47 +6,10 @@
   "prefLabel": {
     "de": "Verwendung von Estern"
   },
-  "hiddenLabel": {
-    "de": [
-      "Fett",
-      "Fruchtester,",
-      "Lactone",
-      "Lösungsmittel",
-      "Polyester",
-      "Wachs",
-      "Öl"
-    ]
-  },
-  "note": {
-    "de": [
-      "Fett",
-      "Fruchtester,",
-      "Lactone",
-      "Lösungsmittel",
-      "Polyester",
-      "Wachs",
-      "Öl"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ester0ec4dfc6-1955-4689-9776-8589a636ce74",
     "prefLabel": {
       "de": "Ester"
-    },
-    "altLabel": {
-      "de": [
-        "A. Ester",
-        "Ester",
-        "Estergruppe",
-        "Phorbolester"
-      ],
-      "en": [
-        "Ester",
-        "Ester (first name)",
-        "Ester (given name)",
-        "Ester, Alaska",
-        "esters"
-      ]
     }
   },
   "inScheme": {
@@ -95,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -111,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

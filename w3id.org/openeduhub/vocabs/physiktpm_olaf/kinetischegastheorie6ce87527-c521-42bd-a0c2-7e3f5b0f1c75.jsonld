@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Kinetische Gastheorie"
   },
-  "hiddenLabel": {
-    "de": [
-      "ideales Gas",
-      "pV=nRT",
-      "universelle Gasgleichung"
-    ]
-  },
-  "note": {
-    "de": [
-      "ideales Gas",
-      "pV=nRT",
-      "universelle Gasgleichung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/waermelehre_thermodynamik0b21a598-ae1b-41d1-a260-3e4747dbfa1d",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

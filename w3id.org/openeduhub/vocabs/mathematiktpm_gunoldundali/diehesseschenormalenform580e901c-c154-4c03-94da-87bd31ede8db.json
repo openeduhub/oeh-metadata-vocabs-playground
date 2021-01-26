@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Die Hessesche Normalenform"
   },
-  "hiddenLabel": {
-    "de": [
-      "Hessesche Normalform ist eine Form einer Geradengleichung oder Ebenengleichung."
-    ]
-  },
   "note": {
-    "de": [
-      "Hessesche Normalform ist eine Form einer Geradengleichung oder Ebenengleichung."
-    ]
+    "de": "Hessesche Normalform ist eine Form einer Geradengleichung oder Ebenengleichung."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

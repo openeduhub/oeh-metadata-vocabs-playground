@@ -6,65 +6,29 @@
   "prefLabel": {
     "de": "Neueste Geschichte seit 1990"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht",
-      "Neueste Geschichte seit 1990"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020601",
       "prefLabel": {
         "de": "Bundesrepublik Deutschland"
-      },
-      "note": {
-        "de": [
-          "BRD seit 1990",
-          "Bundesrepublik Deutschland seit 1990",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020602",
       "prefLabel": {
         "de": "Europa"
-      },
-      "note": {
-        "de": [
-          "Europa seit 1990",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020603",
       "prefLabel": {
         "de": "Außereuropäische Staaten und Völker"
-      },
-      "note": {
-        "de": [
-          "Außereuropäische Staaten und Völker seit 1990",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020604",
       "prefLabel": {
         "de": "Internationale Entwicklungen"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Internationale Entwicklungen seit 1990"
-        ]
       }
     }
   ],
@@ -120,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -136,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -16,85 +16,38 @@
       "Kommasetzung"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Interpunktion "
-    ]
-  },
   "note": {
-    "de": [
-      "Interpunktion "
-    ]
+    "de": "Interpunktion "
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/appositionen5d76845d-059e-4128-818e-faea4617c0d3",
       "prefLabel": {
         "de": "Appositionen"
-      },
-      "note": {
-        "de": [
-          "Einfügung",
-          "Einschub "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/aufzaehlungen871b274a-2f09-4160-8780-f5790885f9a7",
       "prefLabel": {
         "de": "Aufzählungen"
-      },
-      "note": {
-        "de": [
-          "Auflistung",
-          "Aufstellung "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/infinitiveff3337ea-d554-4d42-9d1e-2ba140bd5daa",
       "prefLabel": {
         "de": "Infinitive"
-      },
-      "note": {
-        "de": [
-          "Infinitivgruppe",
-          "zu-Infinitiv"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/nebensaetze2731d872-0e42-4a8c-889d-55d8a590126d",
       "prefLabel": {
         "de": "Nebensätze "
-      },
-      "note": {
-        "de": [
-          "Adverbialsatz",
-          "Aufforderungssatz",
-          "Ausrufesatz",
-          "Aussagesatz",
-          "Befehlssatz",
-          "Fragesatz",
-          "Objektsatz",
-          "Relativsatz",
-          "Subjektsatz",
-          "Wunschsatz "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzreihenundsatzgefuege2acd8fe6-1078-41a0-be9d-e1c535600622",
       "prefLabel": {
         "de": "Satzreihen und Satzgefüge "
-      },
-      "note": {
-        "de": [
-          "Hauptsatzreihe",
-          "Hypotaxe",
-          "Nebensatzreihe",
-          "Parataxe"
-        ]
       }
     }
   ],
@@ -102,14 +55,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zeichensetzung99be9122-d3cb-4199-9dd9-8df0d1201e65",
     "prefLabel": {
       "de": "Zeichensetzung"
-    },
-    "altLabel": {
-      "de": [
-        "Interpunktion"
-      ],
-      "en": [
-        "Punctuation mark"
-      ]
     }
   },
   "inScheme": {
@@ -158,12 +103,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -174,16 +113,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

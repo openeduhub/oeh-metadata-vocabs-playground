@@ -6,42 +6,10 @@
   "prefLabel": {
     "de": "Lokaladverbien"
   },
-  "hiddenLabel": {
-    "de": [
-      "Adverbien",
-      "Adverbien des Ortes",
-      "Ortsadverbien",
-      "Richtungsadverbien",
-      "lokale Adverbien"
-    ]
-  },
-  "note": {
-    "de": [
-      "Adverbien",
-      "Adverbien des Ortes",
-      "Ortsadverbien",
-      "Richtungsadverbien",
-      "lokale Adverbien"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adverbien22760c05-49c1-46a0-b63f-6e6bf8f41839",
     "prefLabel": {
       "de": "Adverbien"
-    },
-    "altLabel": {
-      "de": [
-        "Adverb",
-        "Adverben",
-        "Adverbien",
-        "Adverbium",
-        "Nebenwort",
-        "Umstandswort"
-      ],
-      "en": [
-        "ad.",
-        "adv."
-      ]
     }
   },
   "inScheme": {
@@ -90,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

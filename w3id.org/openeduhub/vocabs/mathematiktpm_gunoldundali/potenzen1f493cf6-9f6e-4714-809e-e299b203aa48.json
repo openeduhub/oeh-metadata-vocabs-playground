@@ -25,33 +25,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/begriffderpotenz,potenzgesetze7e959d48-a8c4-4ec5-9098-d07598807682",
       "prefLabel": {
         "de": "Begriff der Potenz, Potenzgesetze"
-      },
-      "note": {
-        "de": [
-          "Eine Potenz ist eine abkürzende Schreibweise für die wiederholte Multiplikation eines Faktors."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzenmitgebrochenenexponenten88d04528-16ba-4ce5-aa9f-5312d5b07e19",
       "prefLabel": {
         "de": "Potenzen mit gebrochenen Exponenten"
-      },
-      "note": {
-        "de": [
-          "Gebrochene Exponenten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzenmitnegativenexponenten3d32b4db-8fda-42f9-8db4-d822872ce3ef",
       "prefLabel": {
         "de": "Potenzen mit negativen Exponenten"
-      },
-      "note": {
-        "de": [
-          "Umformung"
-        ]
       }
     }
   ],
@@ -101,12 +86,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +96,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

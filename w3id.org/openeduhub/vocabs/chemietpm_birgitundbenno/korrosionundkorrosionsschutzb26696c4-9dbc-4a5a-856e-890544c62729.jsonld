@@ -6,44 +6,6 @@
   "prefLabel": {
     "de": "Korrosion und Korrosionsschutz"
   },
-  "hiddenLabel": {
-    "de": [
-      "Blechdose",
-      "Chrom",
-      "Feuerverzinken",
-      "Opferanode",
-      "Passivierung",
-      "Zink",
-      "Zinküberzug,",
-      "Zinn",
-      "Zinnüberzug",
-      "kathodischer Korrosionsschutz",
-      "unedlere Metalle",
-      "verchromen",
-      "vergolden",
-      "verzinken",
-      "verzinkt"
-    ]
-  },
-  "note": {
-    "de": [
-      "Blechdose",
-      "Chrom",
-      "Feuerverzinken",
-      "Opferanode",
-      "Passivierung",
-      "Zink",
-      "Zinküberzug,",
-      "Zinn",
-      "Zinnüberzug",
-      "kathodischer Korrosionsschutz",
-      "unedlere Metalle",
-      "verchromen",
-      "vergolden",
-      "verzinken",
-      "verzinkt"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elektrochemie1ef317f4-5da2-49c7-b51a-a89ad9e7491e",
     "prefLabel": {
@@ -96,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

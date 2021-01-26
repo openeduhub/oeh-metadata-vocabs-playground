@@ -6,97 +6,47 @@
   "prefLabel": {
     "de": "Tierzucht und Tierhaltung, Tierpflege"
   },
-  "note": {
-    "de": [
-      "Massentierhaltung",
-      "Tierhaltung",
-      "Tierpflege",
-      "Tierzucht",
-      "artgerechte Haltung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030101",
       "prefLabel": {
         "de": "Geflügel"
-      },
-      "note": {
-        "de": [
-          "Geflügelhaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030102",
       "prefLabel": {
         "de": "Pferde"
-      },
-      "note": {
-        "de": [
-          "Pferdehaltung",
-          "Pferdezucht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030103",
       "prefLabel": {
         "de": "Rinder"
-      },
-      "note": {
-        "de": [
-          "Rinderhaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030104",
       "prefLabel": {
         "de": "Schafe"
-      },
-      "note": {
-        "de": [
-          "Schafhaltung",
-          "Schafzucht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030105",
       "prefLabel": {
         "de": "Schweine"
-      },
-      "note": {
-        "de": [
-          "Schweinemast",
-          "Schweineproduktion",
-          "Schweinezucht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030106",
       "prefLabel": {
         "de": "Fische"
-      },
-      "note": {
-        "de": [
-          "Aquakultur",
-          "Fischerei",
-          "Fischzucht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/04001030107",
       "prefLabel": {
         "de": "Allgemein"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     }
   ],
@@ -152,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -168,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,157 +6,11 @@
   "prefLabel": {
     "de": "Produkt-Design"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ausdruck und Wirkung des Designobjekts",
-      "Automobildesign",
-      "Bauhaus",
-      "Bauhauslehre",
-      "Branding",
-      "Bricolage",
-      "Corporate Design",
-      "Corporate Identity",
-      "Designklassiker",
-      "Designmöbel",
-      "Designstudie",
-      "Deutscher Werkbund",
-      "Ding-Inszenierung",
-      "Entscheidungsprozess",
-      "Entwurfsskizze",
-      "Ergonomie",
-      "Formsprache",
-      "Funktionalismus",
-      "Funktionalität",
-      "Gebrauchsgüter Design",
-      "Gestaltfindung",
-      "Gestaltung",
-      "Gestaltungsprozesse",
-      "Handhabung",
-      "Industrial Design",
-      "Industriedesign",
-      "Innovation",
-      "Konstruktion",
-      "Konzeptentwicklung",
-      "Kreativberuf",
-      "Kunstgewerbe",
-      "Kunsthandwerk",
-      "Lebensdauer",
-      "Less is a bore",
-      "Less is more",
-      "Markenredesign",
-      "Materialkunde",
-      "Modellbau",
-      "Moodboard",
-      "Möbel Design",
-      "Produktdesign",
-      "Prototyp",
-      "Redesign",
-      "Rendering",
-      "Schmuckdesign",
-      "Sribble",
-      "Transportation Design",
-      "Umsetzung",
-      "Unikat",
-      "Upcycling",
-      "Werkstätten",
-      "angewandte Kunst",
-      "emotionale Qualität",
-      "form follows function",
-      "gesellschaftliche Wertigkeit",
-      "industrielle Massenproduktion",
-      "soziale Wertvorstellungen",
-      "zeitgemäßes Design",
-      "Ökologie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ausdruck und Wirkung des Designobjekts",
-      "Automobildesign",
-      "Bauhaus",
-      "Bauhauslehre",
-      "Branding",
-      "Bricolage",
-      "Corporate Design",
-      "Corporate Identity",
-      "Designklassiker",
-      "Designmöbel",
-      "Designstudie",
-      "Deutscher Werkbund",
-      "Ding-Inszenierung",
-      "Entscheidungsprozess",
-      "Entwurfsskizze",
-      "Ergonomie",
-      "Formsprache",
-      "Funktionalismus",
-      "Funktionalität",
-      "Gebrauchsgüter Design",
-      "Gestaltfindung",
-      "Gestaltung",
-      "Gestaltungsprozesse",
-      "Handhabung",
-      "Industrial Design",
-      "Industriedesign",
-      "Innovation",
-      "Konstruktion",
-      "Konzeptentwicklung",
-      "Kreativberuf",
-      "Kunstgewerbe",
-      "Kunsthandwerk",
-      "Lebensdauer",
-      "Less is a bore",
-      "Less is more",
-      "Markenredesign",
-      "Materialkunde",
-      "Modellbau",
-      "Moodboard",
-      "Möbel Design",
-      "Produktdesign",
-      "Prototyp",
-      "Redesign",
-      "Rendering",
-      "Schmuckdesign",
-      "Sribble",
-      "Transportation Design",
-      "Umsetzung",
-      "Unikat",
-      "Upcycling",
-      "Werkstätten",
-      "angewandte Kunst",
-      "emotionale Qualität",
-      "form follows function",
-      "gesellschaftliche Wertigkeit",
-      "industrielle Massenproduktion",
-      "soziale Wertvorstellungen",
-      "zeitgemäßes Design",
-      "Ökologie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/3d-druck41687d78-f8d9-4a98-912c-819473ce0dd1",
       "prefLabel": {
         "de": "3D-Druck"
-      },
-      "altLabel": {
-        "de": [
-          "3-D Druck",
-          "3D Druck"
-        ],
-        "en": [
-          "3-D printing",
-          "additive manufacturing"
-        ]
-      },
-      "note": {
-        "de": [
-          "Entwerfen am Computer",
-          "Modellbau",
-          "Prototypen",
-          "Tinkercad",
-          "additive Fertigung",
-          "vom Entwurf zum Modell"
-        ]
       }
     }
   ],
@@ -164,23 +18,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/design0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
     "prefLabel": {
       "de": "Design"
-    },
-    "altLabel": {
-      "de": [
-        "Blockplan",
-        "Design",
-        "Designwissenschaft",
-        "Designwissenschaftler",
-        "Desktop Theme",
-        "Skin",
-        "Steiner-Tripel-System",
-        "Steinersches Tripel-System",
-        "Steinersystem",
-        "Theme"
-      ],
-      "en": [
-        "styling"
-      ]
     }
   },
   "inScheme": {
@@ -229,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -245,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

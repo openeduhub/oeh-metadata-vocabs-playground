@@ -12,24 +12,6 @@
       "Ziehen ohne Zurücklegen"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Binomialverteilung",
-      "Experimente mit Zurücklegen beschreiben",
-      "Stochastik / Wahrscheinlichkeitsrechnung",
-      "hypergeometrische Verteilung für Experimente ohne Zurücklegen verwenden",
-      "sehr nahe mit der Binomialverteilung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Binomialverteilung",
-      "Experimente mit Zurücklegen beschreiben",
-      "Stochastik / Wahrscheinlichkeitsrechnung",
-      "hypergeometrische Verteilung für Experimente ohne Zurücklegen verwenden",
-      "sehr nahe mit der Binomialverteilung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/weitereverteilungen6b3e5d20-d461-4ebf-948c-a1cd4fc798c1",
     "prefLabel": {
@@ -82,12 +64,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +74,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

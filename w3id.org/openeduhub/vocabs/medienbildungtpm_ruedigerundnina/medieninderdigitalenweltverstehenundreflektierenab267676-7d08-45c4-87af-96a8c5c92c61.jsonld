@@ -6,42 +6,6 @@
   "prefLabel": {
     "de": "Medien in der digitalen Welt verstehen und reflektieren"
   },
-  "hiddenLabel": {
-    "de": [
-      "Digitalisierung",
-      "Medienbildung",
-      "Medienerfahrungen",
-      "Medienwirkung",
-      "Product Placement",
-      "Schleichwerbung",
-      "Werbestrategie",
-      "Werbestrategien",
-      "Werbung",
-      "digitale Gesellschaft",
-      "digitale Medienlandschaft ",
-      "digitale Technologien",
-      "e commerce",
-      "e-commerce"
-    ]
-  },
-  "note": {
-    "de": [
-      "Digitalisierung",
-      "Medienbildung",
-      "Medienerfahrungen",
-      "Medienwirkung",
-      "Product Placement",
-      "Schleichwerbung",
-      "Werbestrategie",
-      "Werbestrategien",
-      "Werbung",
-      "digitale Gesellschaft",
-      "digitale Medienlandschaft ",
-      "digitale Technologien",
-      "e commerce",
-      "e-commerce"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/analysierenundreflektierenebf0a3cd-8c0a-45f5-99a9-379b4efac340",
     "prefLabel": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

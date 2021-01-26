@@ -26,18 +26,6 @@
       "topper"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Oberfläche",
-      "Zylinderfläche"
-    ]
-  },
-  "note": {
-    "de": [
-      "Oberfläche",
-      "Zylinderfläche"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/berechnungeninfigurenundkoerpern879ace44-41f2-4d22-88c5-02f4eff76063",
     "prefLabel": {
@@ -90,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

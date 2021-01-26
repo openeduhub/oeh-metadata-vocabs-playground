@@ -7,58 +7,31 @@
     "de": "MEDIENPÄDAGOGIK"
   },
   "note": {
-    "de": [
-      "Medienpädagogik"
-    ]
+    "de": "Medienpädagogik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40001",
       "prefLabel": {
         "de": "Grundlagen"
-      },
-      "note": {
-        "de": [
-          "Grundlagen",
-          "Medienpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40002",
       "prefLabel": {
         "de": "Medienpädagogische Handlungsfelder"
-      },
-      "note": {
-        "de": [
-          "Medienpädagogik",
-          "Medienpädagogische Handlungsfelder"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40003",
       "prefLabel": {
         "de": "Ergebnisse aktiver Medienarbeit"
-      },
-      "note": {
-        "de": [
-          "Ergebnisse aktiver Medienarbeit",
-          "Medienpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004",
       "prefLabel": {
         "de": "Kompetenzen in der digitalen Welt"
-      },
-      "note": {
-        "de": [
-          "KMK-Kompetenzrahmen",
-          "Kompetenzbereiche",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -111,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

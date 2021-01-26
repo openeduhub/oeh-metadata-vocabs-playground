@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Streckung und Stauchung der Normalparabel"
   },
-  "hiddenLabel": {
-    "de": [
-      "Streckfaktor",
-      "gestaucht",
-      "gestreckt",
-      "umgekehrte parabel"
-    ]
-  },
-  "note": {
-    "de": [
-      "Streckfaktor",
-      "gestaucht",
-      "gestreckt",
-      "umgekehrte parabel"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quadratischefunktionenaae2ae2a-3bfb-4ad1-9e5d-ce2b9bb3629b",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

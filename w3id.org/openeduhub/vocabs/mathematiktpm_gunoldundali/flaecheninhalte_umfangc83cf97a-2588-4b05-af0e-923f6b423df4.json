@@ -11,36 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/flaecheneinheiten8898b4d1-7217-46d5-a988-490e59ff93ae",
       "prefLabel": {
         "de": "Flächeneinheiten"
-      },
-      "note": {
-        "de": [
-          "Einheiten",
-          "Flächen",
-          "Maße"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/flaecheninhalteinesdreiecks601e2f33-f9b9-43c0-80a2-4c9d5fdff99d",
       "prefLabel": {
         "de": "Flächeninhalt eines Dreiecks"
-      },
-      "note": {
-        "de": [
-          "Fläche",
-          "Umfang"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/flaecheninhalteinesrechteckseb28ed3e-18ff-4ced-b796-9a8f663070ce",
       "prefLabel": {
         "de": "Flächeninhalt eines Rechtecks"
-      },
-      "note": {
-        "de": [
-          "Flächenmessungen"
-        ]
       }
     },
     {
@@ -53,26 +35,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/umfang1b6ac72c-efe7-458e-ac4d-4f425f4f4cfb",
       "prefLabel": {
         "de": "Umfang"
-      },
-      "altLabel": {
-        "de": [
-          "Kreis",
-          "Kreisperipherie",
-          "Kreisrand",
-          "Umfang"
-        ],
-        "en": [
-          "boundary length",
-          "circumference",
-          "coastline",
-          "page count",
-          "pages"
-        ]
-      },
-      "note": {
-        "de": [
-          "Alle Seitenlängen"
-        ]
       }
     }
   ],
@@ -122,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -138,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

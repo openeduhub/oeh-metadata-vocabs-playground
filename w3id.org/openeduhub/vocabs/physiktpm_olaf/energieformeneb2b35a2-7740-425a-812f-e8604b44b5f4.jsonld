@@ -6,36 +6,6 @@
   "prefLabel": {
     "de": "Energieformen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Atomenergie",
-      "Bewegungsenergie",
-      "Chemische Energie",
-      "Elektrische Energie",
-      "Kernenergie",
-      "Lageenergie",
-      "Sonnenenergie",
-      "Strahlungsenergie",
-      "Wärmeenergie",
-      "kinetische Energie",
-      "potentielle Energie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atomenergie",
-      "Bewegungsenergie",
-      "Chemische Energie",
-      "Elektrische Energie",
-      "Kernenergie",
-      "Lageenergie",
-      "Sonnenenergie",
-      "Strahlungsenergie",
-      "Wärmeenergie",
-      "kinetische Energie",
-      "potentielle Energie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/energie00e363a5-0fb6-4813-937f-21af14fd42f2",
     "prefLabel": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

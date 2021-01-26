@@ -7,32 +7,19 @@
     "de": "Prüftechnik"
   },
   "note": {
-    "de": [
-      "Prüftechnik"
-    ]
+    "de": "Prüftechnik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110501",
       "prefLabel": {
         "de": "Mess- und Prüftechnik"
-      },
-      "note": {
-        "de": [
-          "Messtechnik",
-          "Prüftechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110502",
       "prefLabel": {
         "de": "Werkstoffprüfung"
-      },
-      "note": {
-        "de": [
-          "Werkstoffprüfung"
-        ]
       }
     }
   ],
@@ -88,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

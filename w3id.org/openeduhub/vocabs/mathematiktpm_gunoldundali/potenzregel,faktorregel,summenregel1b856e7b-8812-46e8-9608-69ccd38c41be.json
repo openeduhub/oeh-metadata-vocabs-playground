@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Potenzregel, Faktorregel, Summenregel"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ableitungsregeln"
-    ]
-  },
   "note": {
-    "de": [
-      "Ableitungsregeln"
-    ]
+    "de": "Ableitungsregeln"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ableitungenganz-rationalerfunktionenc032870f-9a7f-435f-8f6d-33dcca99f1a4",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

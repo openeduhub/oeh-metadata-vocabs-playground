@@ -11,102 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/bewerbung08acdbe0-6cc1-43e4-9247-0bcab7619570",
       "prefLabel": {
         "de": "Bewerbung"
-      },
-      "altLabel": {
-        "de": [
-          "Bewerber",
-          "Bewerbungsmappe",
-          "Bewerbungsunterlagen",
-          "Onlinebewerbung"
-        ],
-        "en": [
-          "Application for employment",
-          "application",
-          "application form",
-          "job application"
-        ]
-      },
-      "note": {
-        "de": [
-          "Anschreiben",
-          "Bewerbungsgespräch ",
-          "Bewerbungsschreiben",
-          "Lebenslauf"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/brief0bd94ccb-4421-4cbe-abe2-833d9e8aafb1",
       "prefLabel": {
         "de": "Brief"
-      },
-      "altLabel": {
-        "de": [
-          "Apothekerbriefchen",
-          "Brief",
-          "Briefchen",
-          "Briefkopf",
-          "Glufen",
-          "Koksbriefchen",
-          "Musterbrief",
-          "Papierbrief",
-          "Pulverbriefchen",
-          "Päckchen",
-          "szenetypisches Päckchen"
-        ],
-        "en": [
-          "B.R.I.E.F.",
-          "epistle",
-          "epistolary fiction",
-          "epistolary literature",
-          "mail",
-          "message",
-          "note",
-          "written correspondence",
-          "written letter"
-        ]
-      },
-      "note": {
-        "de": [
-          "Adressat",
-          "Anrede",
-          "Breifkopf",
-          "Brieffreund"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/protokoll71f21054-6408-4ee2-b791-ad6d13690a70",
       "prefLabel": {
         "de": "Protokoll"
-      },
-      "altLabel": {
-        "de": [
-          "Bericht",
-          "Berichte",
-          "Eingangsprotokoll",
-          "Kommunikationsprotokoll",
-          "Protokoll",
-          "Protokolle",
-          "Protokolli"
-        ],
-        "en": [
-          "Protokolli",
-          "communication protocol",
-          "protocol",
-          "reports"
-        ]
-      },
-      "note": {
-        "de": [
-          "Ergebnisprotokoll",
-          "Mitschrift",
-          "Niederschrift",
-          "Protokollführer",
-          "Protokollkopf",
-          "Unterrichtsprotokoll",
-          "Verlaufsprotokoll"
-        ]
       }
     }
   ],
@@ -162,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -178,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

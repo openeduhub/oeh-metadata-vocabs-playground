@@ -6,59 +6,10 @@
   "prefLabel": {
     "de": "Struktur von Eiweiße"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dipeptide",
-      "Faltblatt",
-      "Helix",
-      "Hämoglobin",
-      "Oligopeptide",
-      "Peptidbindung",
-      "Polypeptide",
-      "Primärstruktur",
-      "Quartärstruktur",
-      "Schleifen",
-      "Sekundärstruktur",
-      "Sulfidbrücke",
-      "Tertiärstruktur",
-      "Tripeptide",
-      "Wasserstoffbrückenbindung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dipeptide",
-      "Faltblatt",
-      "Helix",
-      "Hämoglobin",
-      "Oligopeptide",
-      "Peptidbindung",
-      "Polypeptide",
-      "Primärstruktur",
-      "Quartärstruktur",
-      "Schleifen",
-      "Sekundärstruktur",
-      "Sulfidbrücke",
-      "Tertiärstruktur",
-      "Tripeptide",
-      "Wasserstoffbrückenbindung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
     "prefLabel": {
       "de": "Eiweiße"
-    },
-    "altLabel": {
-      "de": [
-        "Eiweiß",
-        "Eiweiße",
-        "Protein",
-        "Proteine"
-      ],
-      "en": [
-        "proteins"
-      ]
     }
   },
   "inScheme": {
@@ -107,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -123,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

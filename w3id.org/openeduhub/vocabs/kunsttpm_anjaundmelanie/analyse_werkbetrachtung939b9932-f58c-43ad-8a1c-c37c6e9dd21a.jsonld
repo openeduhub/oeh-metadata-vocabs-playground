@@ -6,124 +6,6 @@
   "prefLabel": {
     "de": "Analyse / Werkbetrachtung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Analyseschema;",
-      "Analyseskizzen",
-      "Bedeutung als Ikon",
-      "Bedeutung als Index",
-      "Bedeutung als Symbol",
-      "Bestimmung der Bildgattung",
-      "Bestimmung der Werkdaten",
-      "Bewegungen im Bild",
-      "Bildachsen",
-      "Bildanalyse",
-      "Bildbeschreibung",
-      "Bildbetrachtung",
-      "Bilddeutung",
-      "Blickrichtungen",
-      "Deutung",
-      "Einschätzung der Ikonozität",
-      "Experimentelles Analyseverfahren",
-      "Formulierung des ersten Eindrucks",
-      "Fragen zu Bauwerken",
-      "Fragen zu Bildern",
-      "Fragen zu Produktdesign",
-      "Fragen zur Plastik",
-      "Gestaltungsanalyse",
-      "Hinweise zum Umgang mit Kunstwerken",
-      "Ikonografie und Ikonologie",
-      "Informationsbeschaffung",
-      "Inhalt und Thema",
-      "Klassisches Analyseverfahren",
-      "Kompositionsformen",
-      "Kompositionsskizzen",
-      "Kunsthistorische Einordnung",
-      "Kunstwerke miteinander vergleichen",
-      "Methodentraining",
-      "Ordnungsprinzipien",
-      "Praktisches Analyseverfahren",
-      "Regeln der Bildsprache",
-      "Sprache der Malerei",
-      "Trainingsanalyse",
-      "Verständnis und Werturteil",
-      "Werkanalyse",
-      "Werkbeschreibung",
-      "Werkbetrachtung",
-      "Werkdeutung",
-      "Werkimmanente Interpretation",
-      "der erste Eindruck",
-      "die Hermeneutik",
-      "die gestalterischen Mittel",
-      "die phänomenologische Methode",
-      "ein Kunstwerk beschreiben",
-      "fruchtbarer Moment",
-      "kritische Betrachtung eines Kunstwerkes",
-      "pragmatische Analyse",
-      "warum ist es so und nicht anders dargestellt",
-      "was ist dargestellt",
-      "wie ist es dargestellt"
-    ]
-  },
-  "note": {
-    "de": [
-      "Analyseschema;",
-      "Analyseskizzen",
-      "Bedeutung als Ikon",
-      "Bedeutung als Index",
-      "Bedeutung als Symbol",
-      "Bestimmung der Bildgattung",
-      "Bestimmung der Werkdaten",
-      "Bewegungen im Bild",
-      "Bildachsen",
-      "Bildanalyse",
-      "Bildbeschreibung",
-      "Bildbetrachtung",
-      "Bilddeutung",
-      "Blickrichtungen",
-      "Deutung",
-      "Einschätzung der Ikonozität",
-      "Experimentelles Analyseverfahren",
-      "Formulierung des ersten Eindrucks",
-      "Fragen zu Bauwerken",
-      "Fragen zu Bildern",
-      "Fragen zu Produktdesign",
-      "Fragen zur Plastik",
-      "Gestaltungsanalyse",
-      "Hinweise zum Umgang mit Kunstwerken",
-      "Ikonografie und Ikonologie",
-      "Informationsbeschaffung",
-      "Inhalt und Thema",
-      "Klassisches Analyseverfahren",
-      "Kompositionsformen",
-      "Kompositionsskizzen",
-      "Kunsthistorische Einordnung",
-      "Kunstwerke miteinander vergleichen",
-      "Methodentraining",
-      "Ordnungsprinzipien",
-      "Praktisches Analyseverfahren",
-      "Regeln der Bildsprache",
-      "Sprache der Malerei",
-      "Trainingsanalyse",
-      "Verständnis und Werturteil",
-      "Werkanalyse",
-      "Werkbeschreibung",
-      "Werkbetrachtung",
-      "Werkdeutung",
-      "Werkimmanente Interpretation",
-      "der erste Eindruck",
-      "die Hermeneutik",
-      "die gestalterischen Mittel",
-      "die phänomenologische Methode",
-      "ein Kunstwerk beschreiben",
-      "fruchtbarer Moment",
-      "kritische Betrachtung eines Kunstwerkes",
-      "pragmatische Analyse",
-      "warum ist es so und nicht anders dargestellt",
-      "was ist dargestellt",
-      "wie ist es dargestellt"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/wahrnehmungsschulung01f2e26f-63fe-4f5a-abac-26d019e8fd42",
     "prefLabel": {
@@ -176,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -192,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

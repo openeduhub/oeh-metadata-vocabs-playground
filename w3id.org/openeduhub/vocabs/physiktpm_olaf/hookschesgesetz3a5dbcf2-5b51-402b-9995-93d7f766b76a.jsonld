@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Hooksches Gesetz"
   },
-  "hiddenLabel": {
-    "de": [
-      "Elastizität",
-      "Feder",
-      "Federhärte",
-      "Federkonstante",
-      "Federwaage",
-      "Kraftwirkung auf elastische Körper",
-      "Wirkung einer Kraft auf elastische Körper"
-    ]
-  },
-  "note": {
-    "de": [
-      "Elastizität",
-      "Feder",
-      "Federhärte",
-      "Federkonstante",
-      "Federwaage",
-      "Kraftwirkung auf elastische Körper",
-      "Wirkung einer Kraft auf elastische Körper"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraefte62d114e1-1e00-4863-bd24-be00daff98cb",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

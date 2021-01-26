@@ -17,73 +17,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kettenregel31e444ad-7d37-449f-9d06-b1c9e4cc291a",
       "prefLabel": {
         "de": "Kettenregel"
-      },
-      "note": {
-        "de": [
-          "Ableitungsregel",
-          "innere Fuktion",
-          "verkettet",
-          "verschachtelt",
-          "Äußere Funktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/mathe-song_produktregel685711c9-2308-4f18-9019-97319016a05b",
       "prefLabel": {
         "de": "Mathe-Song: Produktregel"
-      },
-      "note": {
-        "de": [
-          "kleiner Ohrwurm zur Produktregel beim Ableiten."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/mathe-song_produktregelf70b5f32-0333-41c0-bec7-2b46659ac9aa",
       "prefLabel": {
         "de": "Mathe-Song: Produktregel"
-      },
-      "note": {
-        "de": [
-          "kleiner Ohrwurm zur Produktregel beim Ableiten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/mathe-song_quotientenregel26608d4b-894e-47e5-a464-645a65261b97",
       "prefLabel": {
         "de": "Mathe-Song: Quotientenregel"
-      },
-      "note": {
-        "de": [
-          "kleiner Ohrwurm zur Quitoentenregel beim Ableiten."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/produktregelc61415f7-12b4-4c1a-b5d5-1f3d4d308a70",
       "prefLabel": {
         "de": "Produktregel"
-      },
-      "altLabel": {
-        "en": [
-          "Leibniz law",
-          "Leibniz rule",
-          "product law"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quotientenregel3a1888c9-7175-4826-bdde-a26053f1f362",
       "prefLabel": {
         "de": "Quotientenregel"
-      },
-      "note": {
-        "de": [
-          "Bruch ableiten",
-          "Nenner und Zähler ableiten"
-        ]
       }
     }
   ],
@@ -91,12 +54,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
     "prefLabel": {
       "de": "Analysis"
-    },
-    "altLabel": {
-      "en": [
-        "Mathematical analysis",
-        "analysis"
-      ]
     }
   },
   "inScheme": {
@@ -145,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -161,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

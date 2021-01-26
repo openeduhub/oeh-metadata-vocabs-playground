@@ -6,173 +6,23 @@
   "prefLabel": {
     "de": "Plakat / Werbung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ausstellungsplakat",
-      "Filmplakat",
-      "Grafikdesign",
-      "Kinoplakat",
-      "Kommunikationsdesign",
-      "Plakat allgemein",
-      "Propagandaplakat;",
-      "Theaterplakat",
-      "Veranstaltungsplakat",
-      "Werbeanzeige",
-      "Werbeplakat"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ausstellungsplakat",
-      "Filmplakat",
-      "Grafikdesign",
-      "Kinoplakat",
-      "Kommunikationsdesign",
-      "Plakat allgemein",
-      "Propagandaplakat;",
-      "Theaterplakat",
-      "Veranstaltungsplakat",
-      "Werbeanzeige",
-      "Werbeplakat"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/layout5b7d848c-fff8-4f78-81ca-33b1c21236d5",
       "prefLabel": {
         "de": "Layout"
-      },
-      "altLabel": {
-        "de": [
-          "Lay-out"
-        ],
-        "en": [
-          "Layout"
-        ]
-      },
-      "note": {
-        "de": [
-          "Anordnung von Text und Bild",
-          "Bildlegende",
-          "Bildzeichen",
-          "Blindtext",
-          "Blocksatz",
-          "Buchdruck",
-          "Cover",
-          "Durchschuss",
-          "Flattersatz",
-          "Gestaltungsraster",
-          "Gittergedicht",
-          "Handsatz",
-          "Kolumne",
-          "Kolumnentitel",
-          "Magazingestaltung",
-          "Plakatgestaltung",
-          "Satzspielgel",
-          "Weißraum",
-          "Zeitungsseite"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/logo5e9af9d8-2739-4a26-9d4b-569f2a4b3bca",
       "prefLabel": {
         "de": "Logo"
-      },
-      "altLabel": {
-        "de": [
-          "Icon",
-          "Insignien",
-          "LOGO!",
-          "Logo!",
-          "MSWLogo",
-          "Marke",
-          "logo!"
-        ],
-        "en": [
-          "insignia",
-          "ko",
-          "logo",
-          "logomark",
-          "mark",
-          "marque",
-          "sign",
-          "trademark",
-          "wordmark"
-        ]
-      },
-      "note": {
-        "de": [
-          "Branding",
-          "CD",
-          "CI",
-          "Corporate Behaviour",
-          "Corporate Communication",
-          "Corporate Design",
-          "Corporate Identitiy",
-          "Erscheinungsbild",
-          "Leitsystem",
-          "Markengestaltung",
-          "Piktogramm",
-          "Signet",
-          "Werbebotschaft",
-          "Wortbilder",
-          "kulturelle Symbole"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/typografieundschrift443c4455-e8ff-473e-aea8-90ac08d29be5",
       "prefLabel": {
         "de": "Typografie und Schrift"
-      },
-      "note": {
-        "de": [
-          "Alphabet",
-          "Antiquaschrift",
-          "Arabische Ziffern",
-          "Buchstaben",
-          "Displayschriften",
-          "Duktus",
-          "Frakturschriften",
-          "Groteskschrift",
-          "Grundlinie",
-          "Grundschrift",
-          "Handlettering",
-          "Handschrift",
-          "Kalligrafie",
-          "Kritzel",
-          "Kursivschrift",
-          "Laufweite",
-          "Lesetypografie",
-          "Mengensatz",
-          "Monogramm",
-          "Motiondesign",
-          "Rhytmus und Form von Schrift",
-          "Schreibschrift",
-          "Schriftart",
-          "Schriftbild",
-          "Schriftdesigner",
-          "Schriftfamilie",
-          "Schriftgrad",
-          "Schriftklassifikation",
-          "Schriftlage",
-          "Schriftschnitt",
-          "Schriftsetzer",
-          "Schriftsippe",
-          "Schriftstil",
-          "Schrifttype",
-          "Serifen",
-          "Sonderzeichen",
-          "Type-Foundry",
-          "Typo-Ornament",
-          "Zahlen",
-          "Zeichensatz",
-          "gebrochene Schriften",
-          "gotische Schriften",
-          "urbane Alphabet",
-          "Überschrift"
-        ]
       }
     }
   ],
@@ -222,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -238,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

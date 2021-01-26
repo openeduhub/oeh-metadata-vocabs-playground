@@ -6,29 +6,13 @@
   "prefLabel": {
     "de": "Zahlen zerlegen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Zerlegen in kleinere Zahlen"
-    ]
-  },
   "note": {
-    "de": [
-      "Zerlegen in kleinere Zahlen"
-    ]
+    "de": "Zerlegen in kleinere Zahlen"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/arithmetikaf0c9401-704c-46e5-9632-d47b37006408",
     "prefLabel": {
       "de": "Arithmetik"
-    },
-    "altLabel": {
-      "de": [
-        "Arithmetisch",
-        "Zahlenrechnen"
-      ],
-      "en": [
-        "arithmetics"
-      ]
     }
   },
   "inScheme": {
@@ -77,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -93,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

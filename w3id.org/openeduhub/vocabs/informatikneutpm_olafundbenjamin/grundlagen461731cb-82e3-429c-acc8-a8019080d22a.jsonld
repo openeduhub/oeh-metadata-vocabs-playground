@@ -17,60 +17,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/audiobearbeitungc914b867-8a5d-49b9-a991-2e26eb4a9fbb",
       "prefLabel": {
         "de": "Audiobearbeitung"
-      },
-      "note": {
-        "de": [
-          "Audacity"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/grafik_bildbearbeitungb5b19b99-22f3-4396-addb-b18ba51beb68",
       "prefLabel": {
         "de": "Grafik / Bildbearbeitung"
-      },
-      "note": {
-        "de": [
-          "GIMP",
-          "Inkscape"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/peripherie396642cd-7577-46b2-9b0f-91c8e4f812a8",
       "prefLabel": {
         "de": "Peripherie"
-      },
-      "altLabel": {
-        "en": [
-          "border area",
-          "peripheral area",
-          "periurban area",
-          "suburb"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/zahlensysteme249e9606-af72-4955-a69a-be9866844b6f",
       "prefLabel": {
         "de": "Zahlensysteme"
-      },
-      "altLabel": {
-        "de": [
-          "Zahlensystem",
-          "Zahlensysteme",
-          "Zahlsystem"
-        ],
-        "en": [
-          "system of numeration"
-        ]
-      },
-      "note": {
-        "de": [
-          "Binässystem",
-          "Dualzahlen",
-          "Hexadezimalsystem"
-        ]
       }
     }
   ],
@@ -120,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -136,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

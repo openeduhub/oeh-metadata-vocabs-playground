@@ -6,56 +6,29 @@
   "prefLabel": {
     "de": "Klima-, Heizungs- und Sanitärtechnik"
   },
-  "note": {
-    "de": [
-      "Heizungstechnik",
-      "Klimatechnik",
-      "Sanitärtechnik"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401701",
       "prefLabel": {
         "de": "Wassertechnik"
-      },
-      "note": {
-        "de": [
-          "Wassertechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401702",
       "prefLabel": {
         "de": "Lüftungstechnik"
-      },
-      "note": {
-        "de": [
-          "Lüftungstechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401703",
       "prefLabel": {
         "de": "Wärmetechnik"
-      },
-      "note": {
-        "de": [
-          "Wärmetechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401704",
       "prefLabel": {
         "de": "Ressourcenschonende Techniken"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     }
   ],
@@ -111,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

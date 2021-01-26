@@ -6,106 +6,47 @@
   "prefLabel": {
     "de": "Allgemeine Biologie"
   },
-  "note": {
-    "de": [
-      "Allgemeine Biologie",
-      "Biologie",
-      "Biologieunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800101",
       "prefLabel": {
         "de": "Biologische Forschung, biologische Arbeitsmethoden"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Biologische Forschung",
-          "biologische Arbeitsmethoden"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800102",
       "prefLabel": {
         "de": "Genetik"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Genetik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800103",
       "prefLabel": {
         "de": "Evolution"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Evolution"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800104",
       "prefLabel": {
         "de": "Biochemie"
-      },
-      "note": {
-        "de": [
-          "Biochemie",
-          "Biologie",
-          "Biologieunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800105",
       "prefLabel": {
         "de": "Biologische Regelkreise, Kybernetik"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Biologische Regelkreise",
-          "Kybernetik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800106",
       "prefLabel": {
         "de": "Biophysik, Bionik"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Bionik",
-          "Biophysik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800107",
       "prefLabel": {
         "de": "Zellenlehre"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Zellenlehre"
-        ]
       }
     }
   ],
@@ -161,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -177,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

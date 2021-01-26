@@ -6,43 +6,10 @@
   "prefLabel": {
     "de": "Satz  von Hess"
   },
-  "hiddenLabel": {
-    "de": [
-      "Energieerhaltungssatz",
-      "Enthalpie-Zyklus",
-      "Enthalpieänderung",
-      "Gesamtprozess",
-      "Hessscher Wärmesatz",
-      "Hess’scher Wärmesatz",
-      "Reaktionsweg",
-      "Standardreaktionsenthalpie,"
-    ]
-  },
-  "note": {
-    "de": [
-      "Energieerhaltungssatz",
-      "Enthalpie-Zyklus",
-      "Enthalpieänderung",
-      "Gesamtprozess",
-      "Hessscher Wärmesatz",
-      "Hess’scher Wärmesatz",
-      "Reaktionsweg",
-      "Standardreaktionsenthalpie,"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/thermodynamik542e3a97-d462-4f17-a860-9072fa821844",
     "prefLabel": {
       "de": "Thermodynamik"
-    },
-    "altLabel": {
-      "de": [
-        "Wärmelehre",
-        "Wärmetheorie"
-      ],
-      "en": [
-        "Thermodynamics"
-      ]
     }
   },
   "inScheme": {
@@ -91,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

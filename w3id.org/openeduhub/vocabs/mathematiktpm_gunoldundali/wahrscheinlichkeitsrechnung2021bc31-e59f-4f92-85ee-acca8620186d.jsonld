@@ -35,15 +35,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/testenvonhypothesen94b32c27-c683-4cf4-b307-f677842098d7",
       "prefLabel": {
         "de": "Testen von Hypothesen"
-      },
-      "note": {
-        "de": [
-          "Beidseitiger Hypothesentest",
-          "Linksseitiger Hypothesentest",
-          "Null- bzw. Alternativhypothese",
-          "Rechtsseitiger Hypothesentest",
-          "erhobenen Daten nachweisen"
-        ]
       }
     }
   ],
@@ -99,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -115,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

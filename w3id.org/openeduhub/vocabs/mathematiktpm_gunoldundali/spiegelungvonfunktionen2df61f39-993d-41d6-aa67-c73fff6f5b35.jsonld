@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Spiegelung von Funktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Graphen spiegeln",
-      "Spiegelung an der x-achse",
-      "Spiegelung an der y-achse"
-    ]
-  },
-  "note": {
-    "de": [
-      "Graphen spiegeln",
-      "Spiegelung an der x-achse",
-      "Spiegelung an der y-achse"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionsgraphenganz-rationalerfunktionen5cf66e9d-ed86-4bf9-81c2-0580fabb94cb",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

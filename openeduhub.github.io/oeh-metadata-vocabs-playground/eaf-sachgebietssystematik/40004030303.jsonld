@@ -6,13 +6,6 @@
   "prefLabel": {
     "de": "Persönlichkeitsrechte beachten"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Produzieren und Präsentieren",
-      "Kompetenzen in der digitalen Welt",
-      "Persönlichkeitsrechte"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040303",
     "prefLabel": {
@@ -65,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -81,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -11,127 +11,54 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/aequivalenzumformungencc7d8903-77e6-4db5-a07a-86bc6f1d021d",
       "prefLabel": {
         "de": "Äquivalenzumformungen"
-      },
-      "note": {
-        "de": [
-          "Operationszeichen",
-          "rüberholen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ausklammerna2398973-8d42-4f51-bc82-d521d7533453",
       "prefLabel": {
         "de": "Ausklammern"
-      },
-      "altLabel": {
-        "de": [
-          "Ausklammern",
-          "Ausmultiplizieren",
-          "Distributiv-Gesetz",
-          "Distributivgesetz",
-          "Distributivität",
-          "Verteilungsgesetz"
-        ]
-      },
-      "note": {
-        "de": [
-          "Klammern raus machen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ausmultiplizieren62a3326a-4215-4f42-87c7-4be50e1d495d",
       "prefLabel": {
         "de": "Ausmultiplizieren"
-      },
-      "altLabel": {
-        "de": [
-          "Ausklammern",
-          "Ausmultiplizieren",
-          "Distributiv-Gesetz",
-          "Distributivgesetz",
-          "Distributivität",
-          "Verteilungsgesetz"
-        ]
-      },
-      "note": {
-        "de": [
-          "ausmultiplizieren "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ausmultiplizierendistributivgesetz515f5e94-105a-4ed4-ab2e-e906f0e8d8fa",
       "prefLabel": {
         "de": "Ausmultiplizieren (Distributivgesetz)"
-      },
-      "note": {
-        "de": [
-          "Distributivgesetz",
-          "Klammer",
-          "ausklammern",
-          "ausmultiplizieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bruchgleichungen3d71b68c-2408-401f-ab00-8de0227a7941",
       "prefLabel": {
         "de": "Bruchgleichungen"
-      },
-      "note": {
-        "de": [
-          "Bruchterm",
-          "Variable"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/gleichungenaufstellenundloesen406f7e8f-235b-4d9f-aa36-8212b7874eb9",
       "prefLabel": {
         "de": "Gleichungen aufstellen und lösen"
-      },
-      "note": {
-        "de": [
-          "Äquivalenzumformungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/gleichungenmitklammernloesen1e7ebacd-a101-4ead-adeb-a3f5dc5cfad6",
       "prefLabel": {
         "de": "Gleichungen mit Klammern lösen"
-      },
-      "note": {
-        "de": [
-          "Regeln beachten",
-          "Vorzeichen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/termemiteinervariablena8547e5e-5baa-4de3-a136-2f8fae19fdda",
       "prefLabel": {
         "de": "Terme mit einer Variablen"
-      },
-      "note": {
-        "de": [
-          "Terme",
-          "Variablen",
-          "sinnvolle Rechenausdrücke"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/termemitmehrerenvariablen379c41bc-2739-4ac4-a332-abef08558603",
       "prefLabel": {
         "de": "Terme mit mehreren Variablen"
-      },
-      "note": {
-        "de": [
-          "mehrere Unbekannte"
-        ]
       }
     }
   ],
@@ -181,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -197,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

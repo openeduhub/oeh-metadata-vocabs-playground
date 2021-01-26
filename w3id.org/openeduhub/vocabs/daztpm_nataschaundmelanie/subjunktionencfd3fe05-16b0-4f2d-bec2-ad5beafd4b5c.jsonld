@@ -6,78 +6,6 @@
   "prefLabel": {
     "de": "Subjunktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bindewörter",
-      "Konnektoren",
-      "Subjunktionen",
-      "als",
-      "bevor",
-      "bis",
-      "da",
-      "damit",
-      "dass",
-      "ehe",
-      "falls",
-      "indem",
-      "nachdem",
-      "ob",
-      "obgleich",
-      "obschon",
-      "obwohl",
-      "seit",
-      "seitdem",
-      "sobald",
-      "sodass",
-      "sofern",
-      "solange",
-      "sooft",
-      "soviel",
-      "soweit",
-      "untergeordnete Konjunktionen",
-      "weil",
-      "wenn",
-      "wie",
-      "wohingegen",
-      "während"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bindewörter",
-      "Konnektoren",
-      "Subjunktionen",
-      "als",
-      "bevor",
-      "bis",
-      "da",
-      "damit",
-      "dass",
-      "ehe",
-      "falls",
-      "indem",
-      "nachdem",
-      "ob",
-      "obgleich",
-      "obschon",
-      "obwohl",
-      "seit",
-      "seitdem",
-      "sobald",
-      "sodass",
-      "sofern",
-      "solange",
-      "sooft",
-      "soviel",
-      "soweit",
-      "untergeordnete Konjunktionen",
-      "weil",
-      "wenn",
-      "wie",
-      "wohingegen",
-      "während"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
     "prefLabel": {
@@ -130,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -146,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

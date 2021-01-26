@@ -11,38 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erweitertetextzusammenfassungdbe62f4e-6755-48b7-ad31-d45426600a50",
       "prefLabel": {
         "de": "Erweiterte Textzusammenfassung"
-      },
-      "note": {
-        "de": [
-          "Charakterisierung",
-          "Fragen zum Text",
-          "Zusammenfassung "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlendetextezusammenfassen32c9eb9c-23e6-4975-b42e-40e6dafd5d7d",
       "prefLabel": {
         "de": "Erzählende Texte zusammenfassen"
-      },
-      "note": {
-        "de": [
-          "Erzählung",
-          "Kurzgeschichte ",
-          "Zusammenfassung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/pragmatischetextezusammenfassen85a627de-371d-44ec-93ed-50a1b9174cf4",
       "prefLabel": {
         "de": "Pragmatische Texte zusammenfassen"
-      },
-      "note": {
-        "de": [
-          "Sachtext",
-          "Zusammenfassung "
-        ]
       }
     }
   ],
@@ -98,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

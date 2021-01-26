@@ -17,22 +17,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/affineabbildungen171362a8-e7ef-4a28-adef-f65a12c198a7",
       "prefLabel": {
         "de": "Affine Abbildungen"
-      },
-      "altLabel": {
-        "de": [
-          "Affine Abbildungen",
-          "Affine Transformation",
-          "Affine Umformung",
-          "affine Abbildung"
-        ],
-        "en": [
-          "Affine map"
-        ]
-      },
-      "note": {
-        "de": [
-          "Kongruenz- und Ähnlichkeitsabbildungen"
-        ]
       }
     },
     {
@@ -94,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

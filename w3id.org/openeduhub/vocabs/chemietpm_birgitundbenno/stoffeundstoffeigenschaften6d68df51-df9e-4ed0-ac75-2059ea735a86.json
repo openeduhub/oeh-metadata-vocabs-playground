@@ -6,219 +6,35 @@
   "prefLabel": {
     "de": "Stoffe und Stoffeigenschaften"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aggregatzustand",
-      "Blattgold",
-      "Diamant",
-      "Dichte",
-      "Graphit",
-      "Härte",
-      "Kohlenstoff",
-      "Leitfähigkeit",
-      "Magnetismus",
-      "Mohs'sche Härte",
-      "Mohssche Härte",
-      "Physikalische Eigenschaften",
-      "Physiologische Eindrücke,",
-      "Schmelztemperatur",
-      "Siedetemperatur",
-      "Sinneseindrücke",
-      "Steckbrief",
-      "Stromleitfähigkeit",
-      "Verhalten beim Erhitzen",
-      "Verhalten gegenüber Säure",
-      "Wärmeleitfähigkeit",
-      "magnetisch",
-      "pH-Wert"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aggregatzustand",
-      "Blattgold",
-      "Diamant",
-      "Dichte",
-      "Graphit",
-      "Härte",
-      "Kohlenstoff",
-      "Leitfähigkeit",
-      "Magnetismus",
-      "Mohs'sche Härte",
-      "Mohssche Härte",
-      "Physikalische Eigenschaften",
-      "Physiologische Eindrücke,",
-      "Schmelztemperatur",
-      "Siedetemperatur",
-      "Sinneseindrücke",
-      "Steckbrief",
-      "Stromleitfähigkeit",
-      "Verhalten beim Erhitzen",
-      "Verhalten gegenüber Säure",
-      "Wärmeleitfähigkeit",
-      "magnetisch",
-      "pH-Wert"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/dichted659977b-89b5-4647-a861-4a0afb466628",
       "prefLabel": {
         "de": "Dichte"
-      },
-      "altLabel": {
-        "de": [
-          "Densität",
-          "Dicht",
-          "Dichte",
-          "Dichtefunktion",
-          "Dichtheit",
-          "Gasdichte",
-          "Gesteinsdichte",
-          "Isodensiten",
-          "Massedichte",
-          "Massendichte",
-          "Stoffdichte",
-          "Verteilungsdichte",
-          "WDF",
-          "Wahrscheinlichkeitsdichte",
-          "optische Densität",
-          "pdf",
-          "ρ"
-        ],
-        "en": [
-          "D or d",
-          "Dord",
-          "PDF",
-          "density",
-          "density function",
-          "mass density",
-          "probability function",
-          "sparseness (inverse of)",
-          "specific gravity",
-          "volumetric mass density",
-          "ρ"
-        ]
-      },
-      "note": {
-        "de": [
-          "Dichte Formel",
-          "Feststoffe",
-          "Flüssigkeit",
-          "Leichtmetall",
-          "Schwermetall,",
-          "Umstellen von einer Gleichung",
-          "Verdrängung",
-          "Verdrängungsmethode",
-          "Volumen bestimmen",
-          "Wiegen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/identifikationunbekannterstoffe4f959c4e-174e-42f9-995d-0c82d2fed393",
       "prefLabel": {
         "de": "Identifikation unbekannter Stoffe"
-      },
-      "note": {
-        "de": [
-          "Analyse",
-          "Nachweis",
-          "identifizieren",
-          "unbekannt,",
-          "unbekannter Stoff",
-          "weißer Stoff"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/loeslichkeitb8c647ff-1e68-4b86-8bf4-2c535060cbfe",
       "prefLabel": {
         "de": "Löslichkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Löslich",
-          "Löslichkeitsgrenze",
-          "Sättigungskonzentration",
-          "Wasserlöslichkeit"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bodensatz",
-          "Konzentration",
-          "Löslich",
-          "Lösungsmittel",
-          "Temperaturabhängigkeit",
-          "gelöste Menge",
-          "gramm pro liter,",
-          "unlöslich"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoffklassen77a7c804-5886-4a76-97a2-702cb559eff3",
       "prefLabel": {
         "de": "Stoffklassen"
-      },
-      "note": {
-        "de": [
-          "Einteilung nach Eigenschaften",
-          "Leichtflüchtige Stoffe",
-          "Metalle",
-          "Salzartige Stoffe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/trennverfahren527948f4-7c2b-4f15-97b0-b8d2aa45df18",
       "prefLabel": {
         "de": "Trennverfahren"
-      },
-      "altLabel": {
-        "de": [
-          "Abtrennen",
-          "Abtrenntechnik",
-          "Aufreinigungsmethode",
-          "Stofftrennen",
-          "Stofftrennung",
-          "Thermische Trennverfahren",
-          "Trennen",
-          "Trennmethode",
-          "Trennmethoden"
-        ]
-      },
-      "note": {
-        "de": [
-          "Abdampfen",
-          "Chromatographie",
-          "Destillation",
-          "Eindampfen",
-          "Einengen",
-          "Extraktion",
-          "Extraktionsmittel",
-          "Filter",
-          "Filterpapier",
-          "Filtration",
-          "Kaffee",
-          "Meersalz",
-          "Rotwein",
-          "Scheidetrichter",
-          "Sediment",
-          "Sedimentation",
-          "Sieb",
-          "Sieben",
-          "Steinsalz",
-          "Tee",
-          "Trennverfahren",
-          "Verdampfen",
-          "Wasserreinigung,",
-          "destillieren",
-          "extrahieren",
-          "filtiereren",
-          "sedimentieren"
-        ]
       }
     }
   ],
@@ -274,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -290,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

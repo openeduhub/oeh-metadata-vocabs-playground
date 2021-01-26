@@ -6,30 +6,6 @@
   "prefLabel": {
     "de": "Lesestrategien"
   },
-  "hiddenLabel": {
-    "de": [
-      "5 Leseprinzipien nach Leisen",
-      "5-Schritt-Lesemethode",
-      "Textknacker",
-      "extensives Lesen",
-      "orientierendes Lesen skimming",
-      "reziprokes Lesen",
-      "selektives Lesen",
-      "verstehendes Lesen"
-    ]
-  },
-  "note": {
-    "de": [
-      "5 Leseprinzipien nach Leisen",
-      "5-Schritt-Lesemethode",
-      "Textknacker",
-      "extensives Lesen",
-      "orientierendes Lesen skimming",
-      "reziprokes Lesen",
-      "selektives Lesen",
-      "verstehendes Lesen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/leseverstehen01dc6c12-13bb-46ef-a618-2044a6d019c4",
     "prefLabel": {
@@ -82,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

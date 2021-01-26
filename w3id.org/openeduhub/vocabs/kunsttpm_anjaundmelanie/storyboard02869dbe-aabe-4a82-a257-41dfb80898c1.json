@@ -11,69 +11,10 @@
       "Szenenbuch"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Amerikanisch",
-      "Close up",
-      "Detailaufnahme",
-      "Einstellungsgrößen",
-      "Froschperspektive",
-      "Halbtotale",
-      "Medium Close up",
-      "Medium Shot",
-      "Normalansicht",
-      "Perspektive",
-      "Skizze",
-      "Supertotale",
-      "Totale",
-      "Untersicht",
-      "Vogelperspektive",
-      "Zeichnung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Amerikanisch",
-      "Close up",
-      "Detailaufnahme",
-      "Einstellungsgrößen",
-      "Froschperspektive",
-      "Halbtotale",
-      "Medium Close up",
-      "Medium Shot",
-      "Normalansicht",
-      "Perspektive",
-      "Skizze",
-      "Supertotale",
-      "Totale",
-      "Untersicht",
-      "Vogelperspektive",
-      "Zeichnung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/filmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
     "prefLabel": {
       "de": "Film"
-    },
-    "altLabel": {
-      "de": [
-        "Dünnschicht",
-        "Film",
-        "Kinofilm",
-        "Silberfilm",
-        "dünne Schicht",
-        "fotografischer Film"
-      ],
-      "en": [
-        "Photo film",
-        "cinematic work",
-        "film",
-        "films",
-        "flick",
-        "motion picture",
-        "movie"
-      ]
     }
   },
   "inScheme": {
@@ -122,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -138,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

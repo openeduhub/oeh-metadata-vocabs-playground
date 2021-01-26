@@ -7,65 +7,37 @@
     "de": "Pflege"
   },
   "note": {
-    "de": [
-      "Pflege"
-    ]
+    "de": "Pflege"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040080801",
       "prefLabel": {
         "de": "Altenpflege"
-      },
-      "note": {
-        "de": [
-          "Altenpflege"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040080802",
       "prefLabel": {
         "de": "Gesundheits- und Krankenpflege"
-      },
-      "note": {
-        "de": [
-          "Gesundheitspflege",
-          "Krankenpflege"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040080803",
       "prefLabel": {
         "de": "Entbindungspflege"
-      },
-      "note": {
-        "de": [
-          "Entbindungspflege"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040080804",
       "prefLabel": {
         "de": "Heilerziehungspflege"
-      },
-      "note": {
-        "de": [
-          "Heilerziehungspflege"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040080805",
       "prefLabel": {
         "de": "Kinderpflege"
-      },
-      "note": {
-        "de": [
-          "Kinderpflege"
-        ]
       }
     }
   ],
@@ -121,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -137,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

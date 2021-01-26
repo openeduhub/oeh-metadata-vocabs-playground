@@ -6,34 +6,6 @@
   "prefLabel": {
     "de": "außerschulische Lernorte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Artville",
-      "Denkmäler",
-      "Kunst im Kino",
-      "Kunst im Wald",
-      "Kunstparcour",
-      "Künstlerpfade",
-      "Lichtparcour",
-      "Mahnmal",
-      "Skulpturenpark",
-      "Stadtbild erkunden"
-    ]
-  },
-  "note": {
-    "de": [
-      "Artville",
-      "Denkmäler",
-      "Kunst im Kino",
-      "Kunst im Wald",
-      "Kunstparcour",
-      "Künstlerpfade",
-      "Lichtparcour",
-      "Mahnmal",
-      "Skulpturenpark",
-      "Stadtbild erkunden"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/ueberdentellerrandae918d0c-4996-4cae-b974-713b28359722",
     "prefLabel": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,84 +6,29 @@
   "prefLabel": {
     "de": "Arbeit"
   },
-  "note": {
-    "de": [
-      "Arbeit",
-      "Grundschule",
-      "Grundschulunterricht",
-      "Primarunterricht",
-      "Sachkunde",
-      "Sachkundeunterricht",
-      "Sachunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101101",
       "prefLabel": {
         "de": "Landwirtschaft"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Landwirtschaft",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101102",
       "prefLabel": {
         "de": "Handwerk"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Handwerk",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101103",
       "prefLabel": {
         "de": "Industrie"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Industrie",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101104",
       "prefLabel": {
         "de": "Dienstleistungen"
-      },
-      "note": {
-        "de": [
-          "Dienstleistungen",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     }
   ],
@@ -139,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -155,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

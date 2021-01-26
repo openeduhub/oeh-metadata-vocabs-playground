@@ -6,46 +6,6 @@
   "prefLabel": {
     "de": "Druck und Auftrieb"
   },
-  "hiddenLabel": {
-    "de": [
-      "Auftrieb",
-      "Flaschenteufel",
-      "Kraft pro Fläche",
-      "Luftdruck",
-      "Pascal",
-      "Schweben",
-      "Schweredruck",
-      "Schwimmen",
-      "Sinken",
-      "Steigen",
-      "Wasserteufel oder Drehteufel",
-      "bar",
-      "cartesischer Taucher",
-      "kartesianischer Tanzteufel",
-      "kartesischer Taucher",
-      "mPa"
-    ]
-  },
-  "note": {
-    "de": [
-      "Auftrieb",
-      "Flaschenteufel",
-      "Kraft pro Fläche",
-      "Luftdruck",
-      "Pascal",
-      "Schweben",
-      "Schweredruck",
-      "Schwimmen",
-      "Sinken",
-      "Steigen",
-      "Wasserteufel oder Drehteufel",
-      "bar",
-      "cartesischer Taucher",
-      "kartesianischer Tanzteufel",
-      "kartesischer Taucher",
-      "mPa"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/masse,volumen,dichte52e9e500-2b6a-4917-bacf-4eca5ca5ccf0",
     "prefLabel": {
@@ -98,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

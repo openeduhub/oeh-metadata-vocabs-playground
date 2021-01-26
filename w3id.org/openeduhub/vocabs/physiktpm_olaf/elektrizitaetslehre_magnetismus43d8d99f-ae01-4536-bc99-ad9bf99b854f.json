@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Elektrizitätslehre / Magnetismus"
   },
-  "hiddenLabel": {
-    "de": [
-      "Die vielfältigen Beziehungen zwischen Magnetismus und elektrischen Phänomenen"
-    ]
-  },
   "note": {
-    "de": [
-      "Die vielfältigen Beziehungen zwischen Magnetismus und elektrischen Phänomenen"
-    ]
+    "de": "Die vielfältigen Beziehungen zwischen Magnetismus und elektrischen Phänomenen"
   },
   "narrower": [
     {
@@ -88,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

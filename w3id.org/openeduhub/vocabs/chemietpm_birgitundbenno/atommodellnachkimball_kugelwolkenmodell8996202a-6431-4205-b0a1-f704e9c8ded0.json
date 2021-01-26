@@ -6,60 +6,10 @@
   "prefLabel": {
     "de": "Atommodell nach Kimball / Kugelwolkenmodell"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aufenthaltsraum der Elektronen",
-      "Bindungselektronenpaar",
-      "Doppelbindung",
-      "Dreifachbindung",
-      "Elektronenformel",
-      "Elektronenpaar",
-      "Elektronenwolken",
-      "Keilstrichformel",
-      "Lewisschreibweise",
-      "Skelettformel,",
-      "Valenzstrichformel",
-      "einzelnes Elektron",
-      "freies Elektronenpaar",
-      "Überlappung der Elektronenwolken"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aufenthaltsraum der Elektronen",
-      "Bindungselektronenpaar",
-      "Doppelbindung",
-      "Dreifachbindung",
-      "Elektronenformel",
-      "Elektronenpaar",
-      "Elektronenwolken",
-      "Keilstrichformel",
-      "Lewisschreibweise",
-      "Skelettformel,",
-      "Valenzstrichformel",
-      "einzelnes Elektron",
-      "freies Elektronenpaar",
-      "Überlappung der Elektronenwolken"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellec15e24a5-5b39-45f4-b953-ff5e849da672",
     "prefLabel": {
       "de": "Atommodelle"
-    },
-    "altLabel": {
-      "de": [
-        "Atommodell",
-        "Atommodelle",
-        "Atomtheorie",
-        "Atomtheorien",
-        "Liste der Atommodelle",
-        "Liste der Atomtheorie"
-      ],
-      "en": [
-        "Model of atom",
-        "atomic model"
-      ]
     }
   },
   "inScheme": {
@@ -108,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -124,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

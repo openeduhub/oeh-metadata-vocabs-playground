@@ -6,67 +6,10 @@
   "prefLabel": {
     "de": "Sonne / Fixsterne"
   },
-  "hiddenLabel": {
-    "de": [
-      "Absolute Sternhelligkeit",
-      "Aufbau der Sonne",
-      "Energie der Sonne",
-      "Entwicklung der Sonne",
-      "Entwicklung schwerer Sterne",
-      "Fixstern",
-      "Fraunhofer",
-      "Fraunhofer Linien",
-      "HERTZSPRUNG-RUSSELL-Diagramm",
-      "Hauptreihenstadium",
-      "Jährliche Sternbewegung",
-      "Masse-Leuchtkraft-Beziehung",
-      "Scheinbare Sternhelligkeit",
-      "Solarkonstante und Strahlungsleistung",
-      "Sonne",
-      "Sonnenspektrum",
-      "Spektralklassen",
-      "Stern",
-      "Sterngeburt"
-    ]
-  },
-  "note": {
-    "de": [
-      "Absolute Sternhelligkeit",
-      "Aufbau der Sonne",
-      "Energie der Sonne",
-      "Entwicklung der Sonne",
-      "Entwicklung schwerer Sterne",
-      "Fixstern",
-      "Fraunhofer",
-      "Fraunhofer Linien",
-      "HERTZSPRUNG-RUSSELL-Diagramm",
-      "Hauptreihenstadium",
-      "Jährliche Sternbewegung",
-      "Masse-Leuchtkraft-Beziehung",
-      "Scheinbare Sternhelligkeit",
-      "Solarkonstante und Strahlungsleistung",
-      "Sonne",
-      "Sonnenspektrum",
-      "Spektralklassen",
-      "Stern",
-      "Sterngeburt"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/astronomie027df173-4f0e-4a7b-a388-e71599c8959c",
     "prefLabel": {
       "de": "Astronomie"
-    },
-    "altLabel": {
-      "de": [
-        "Astronomie",
-        "Astrophysik",
-        "Kosmologie",
-        "Weltraumforschung"
-      ],
-      "en": [
-        "Astronomy"
-      ]
     }
   },
   "inScheme": {
@@ -115,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -131,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

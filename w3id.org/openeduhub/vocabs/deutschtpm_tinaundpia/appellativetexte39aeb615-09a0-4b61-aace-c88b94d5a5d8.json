@@ -11,21 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/leserbriefeb29c866-665d-4fb8-b340-3359eea2fa86",
       "prefLabel": {
         "de": "Leserbrief"
-      },
-      "altLabel": {
-        "de": [
-          "Brief eines Lesers"
-        ],
-        "en": [
-          "letters to the editor"
-        ]
-      },
-      "note": {
-        "de": [
-          "Rezension",
-          "Zeitung ",
-          "schriftliche Meinungsäußerung"
-        ]
       }
     }
   ],
@@ -81,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -97,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

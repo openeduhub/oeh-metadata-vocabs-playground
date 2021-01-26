@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Unterrichtsrituale"
   },
-  "hiddenLabel": {
-    "de": [
-      " Schweigfuchs",
-      "Begrüßungsrituale",
-      "Silencium",
-      "Unterrichtsrituale",
-      "Wochenplan"
-    ]
-  },
-  "note": {
-    "de": [
-      " Schweigfuchs",
-      "Begrüßungsrituale",
-      "Silencium",
-      "Unterrichtsrituale",
-      "Wochenplan"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interkulturellekompetenzen06ead4a9-5e71-4031-9b13-56527108e4ce",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

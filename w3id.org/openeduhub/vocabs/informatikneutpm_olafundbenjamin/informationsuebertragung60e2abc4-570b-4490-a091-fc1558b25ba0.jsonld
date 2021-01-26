@@ -18,42 +18,6 @@
       "digital transmission"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Brailleschrift",
-      "Datenübertragung",
-      "Dosentelefon",
-      "Fax",
-      "Fernsehen",
-      "IP-Telefonie",
-      "ISDN",
-      "Informationsübermittöung",
-      "Morsecode",
-      "Radio",
-      "Rauchzeichen",
-      "Telegrafie",
-      "Telegraphie",
-      "Winkeralphabet"
-    ]
-  },
-  "note": {
-    "de": [
-      "Brailleschrift",
-      "Datenübertragung",
-      "Dosentelefon",
-      "Fax",
-      "Fernsehen",
-      "IP-Telefonie",
-      "ISDN",
-      "Informationsübermittöung",
-      "Morsecode",
-      "Radio",
-      "Rauchzeichen",
-      "Telegrafie",
-      "Telegraphie",
-      "Winkeralphabet"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/technischeinformatik962db051-bc9c-46eb-a372-a823ee6df0cd",
     "prefLabel": {
@@ -106,12 +70,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +80,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

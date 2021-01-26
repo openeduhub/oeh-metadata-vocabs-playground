@@ -23,12 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/persoenlichkeitenderphysik35483c84-1de1-4b6a-8a98-1fc53452b78b",
       "prefLabel": {
         "de": "Persönlichkeiten der Physik"
-      },
-      "note": {
-        "de": [
-          "Physiker",
-          "Physikerin"
-        ]
       }
     }
   ],
@@ -78,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

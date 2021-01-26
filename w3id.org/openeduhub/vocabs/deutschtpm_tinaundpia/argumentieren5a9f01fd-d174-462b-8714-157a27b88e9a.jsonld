@@ -11,98 +11,42 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/argumentationsketten66dfaa77-dd12-4fca-a703-0c38b45954e7",
       "prefLabel": {
         "de": "Argumentationsketten"
-      },
-      "note": {
-        "de": [
-          "Argument",
-          "Begründung",
-          "Behauptung",
-          "Beispiel",
-          "These",
-          "Verknüpfung von Argumenten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dialektischeeroerterung64e6499a-a5a9-4997-ad6e-5337c34d19f3",
       "prefLabel": {
         "de": "Dialektische Erörterung"
-      },
-      "altLabel": {
-        "de": [
-          "Besinnungsaufsatz",
-          "Dialektische Erörterung",
-          "Erörterung",
-          "Texterörterung",
-          "Textgebundene Erörterung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Pro- und Contra",
-          "Sanduhrprinzip"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/formulierungeinerargumentationaa3f6d18-6048-48cf-ba82-7066527109a8",
       "prefLabel": {
         "de": "Formulierung einer Argumentation"
-      },
-      "note": {
-        "de": [
-          "Formulierungshilfen Argumentation "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/kommentar_essay4a78b043-322a-44b1-9845-d42429cdac18",
       "prefLabel": {
         "de": "Kommentar/ Essay"
-      },
-      "note": {
-        "de": [
-          "Abhandlung ",
-          "Eigene Meinung",
-          "Meinungsbeitrag"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lineareeroerterungb12abe22-bd93-4ded-8aac-80111dd5ed8f",
       "prefLabel": {
         "de": "Lineare Erörterung"
-      },
-      "note": {
-        "de": [
-          "Argumentation in eine Richtung "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/materialgestuetzte_textgebundeneeroerterung73641673-da5e-4aaf-89d7-4f3dbea93707",
       "prefLabel": {
         "de": "Materialgestützte/ Textgebundene Erörterung"
-      },
-      "note": {
-        "de": [
-          "Debatte",
-          "Diskussion",
-          "Schriftliche Argumentation "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
       "prefLabel": {
         "de": "Stellungnahme"
-      },
-      "note": {
-        "de": [
-          "Argumente",
-          "Eigene Meinung",
-          "Position "
-        ]
       }
     }
   ],
@@ -158,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -174,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

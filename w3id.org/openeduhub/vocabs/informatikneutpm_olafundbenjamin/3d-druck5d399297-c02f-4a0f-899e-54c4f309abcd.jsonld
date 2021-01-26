@@ -16,67 +16,10 @@
       "additive manufacturing"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "3D-CAD-Daten",
-      "BJ",
-      "Binder Jetting",
-      "DM",
-      "Direct Manufacturing",
-      "Elektronenstrahlschmelzen",
-      "FDM",
-      "Fused Deposition Modeling Manufacturing",
-      "LENS",
-      "Laser Engineered Net Shaping",
-      "Laserschmelzen",
-      "NPJ",
-      "Nanoparticle Jetting",
-      "RM",
-      "RR",
-      "Rapid Manufacturing",
-      "Rapid Repair",
-      "Selektives Laserschmelzen",
-      "WAAM",
-      "Wire Arc Additive",
-      "additive Fertigung",
-      "generative Fertigung"
-    ]
-  },
-  "note": {
-    "de": [
-      "3D-CAD-Daten",
-      "BJ",
-      "Binder Jetting",
-      "DM",
-      "Direct Manufacturing",
-      "Elektronenstrahlschmelzen",
-      "FDM",
-      "Fused Deposition Modeling Manufacturing",
-      "LENS",
-      "Laser Engineered Net Shaping",
-      "Laserschmelzen",
-      "NPJ",
-      "Nanoparticle Jetting",
-      "RM",
-      "RR",
-      "Rapid Manufacturing",
-      "Rapid Repair",
-      "Selektives Laserschmelzen",
-      "WAAM",
-      "Wire Arc Additive",
-      "additive Fertigung",
-      "generative Fertigung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/angewandteinformatik7d6f2bde-2b49-42f7-b1e0-f4c0f78c80c7",
     "prefLabel": {
       "de": "Angewandte Informatik"
-    },
-    "altLabel": {
-      "de": [
-        "Applied Computer Science"
-      ]
     }
   },
   "inScheme": {
@@ -125,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -141,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

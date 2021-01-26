@@ -6,40 +6,6 @@
   "prefLabel": {
     "de": "Permanentmagnetismus"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dauermagnet",
-      "Elementarmagnete",
-      "Entmagnetisieren",
-      "Ferromagnetismus",
-      "Magnetfeld",
-      "Magnetische Feldlinien",
-      "Magnetische Influenz",
-      "Magnetisieren",
-      "Magnetpole",
-      "Nordpol",
-      "Permanentmagnet",
-      "Permanentmagnetismus",
-      "Südpol"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dauermagnet",
-      "Elementarmagnete",
-      "Entmagnetisieren",
-      "Ferromagnetismus",
-      "Magnetfeld",
-      "Magnetische Feldlinien",
-      "Magnetische Influenz",
-      "Magnetisieren",
-      "Magnetpole",
-      "Nordpol",
-      "Permanentmagnet",
-      "Permanentmagnetismus",
-      "Südpol"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagenmagnetismus141610c2-216e-427c-b7f0-19e969f3ae2d",
     "prefLabel": {
@@ -92,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

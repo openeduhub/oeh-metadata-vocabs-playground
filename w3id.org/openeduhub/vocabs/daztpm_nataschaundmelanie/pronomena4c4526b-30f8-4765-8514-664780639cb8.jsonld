@@ -20,124 +20,41 @@
       "pronoun"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Fürwörter",
-      "Pronomen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Fürwörter",
-      "Pronomen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/demonstrativpronomen26ad9c52-d8ba-44b6-bb24-1e9f96520846",
       "prefLabel": {
         "de": "Demonstrativpronomen"
-      },
-      "note": {
-        "de": [
-          "Demonstrativpronomen",
-          "hinweisende Fürwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/indefinitpronomena3da4470-df48-417f-a233-3262c9e76daf",
       "prefLabel": {
         "de": "Indefinitpronomen"
-      },
-      "note": {
-        "de": [
-          "Indefinitpronomen",
-          "Indefinitpronomina",
-          "unbestimmte Fürwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interrogativpronomend142d1ad-af1e-40e4-95a8-7f3fbb1b4c6a",
       "prefLabel": {
         "de": "Interrogativpronomen"
-      },
-      "altLabel": {
-        "de": [
-          "Fragepronomen"
-        ]
-      },
-      "note": {
-        "de": [
-          "Fragefürwort",
-          "Fragepronomen",
-          "Interrogativpronomen",
-          "fragendes Fürwort"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/personalpronomen068b18fa-b5fa-444b-822d-71c10cbfeb58",
       "prefLabel": {
         "de": "Personalpronomen"
-      },
-      "altLabel": {
-        "de": [
-          "Personalpronomen",
-          "Persönliches Fürwort",
-          "Pronomen",
-          "Pronomen personale",
-          "Subjektpronomen"
-        ],
-        "en": [
-          "personal pronoun",
-          "pronoun"
-        ]
-      },
-      "note": {
-        "de": [
-          "Personalpronomen",
-          "Subjektpronomen",
-          "persönliches Fürwort"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/possessivpronomen23fb8ea6-276b-42ca-89c5-fd3941ed7680",
       "prefLabel": {
         "de": "Possessivpronomen"
-      },
-      "altLabel": {
-        "de": [
-          "Besitzanzeigendes Fürwort",
-          "Possessiva",
-          "Possessivbegleiter",
-          "Possessivum"
-        ]
-      },
-      "note": {
-        "de": [
-          "Possessivpronomen",
-          "besitzanzeigende Fürwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/reflexivpronomene222e2e2-7e44-4af0-970d-1c8e9913e9bd",
       "prefLabel": {
         "de": "Reflexivpronomen"
-      },
-      "altLabel": {
-        "de": [
-          "rückbezügliches Fürwort"
-        ]
-      },
-      "note": {
-        "de": [
-          "Reflexivpronomen",
-          "rückbezügliche Fürwörter"
-        ]
       }
     }
   ],
@@ -193,12 +110,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -209,16 +120,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

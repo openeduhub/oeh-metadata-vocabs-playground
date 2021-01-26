@@ -14,55 +14,10 @@
       "star system"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      " KEPLERsche Gesetze",
-      "Astronomische Daten unseres Sonnensystems",
-      "Bahnen im Gravitationsfeld",
-      "Brahe",
-      "Drittes KEPLERsches Gesetz",
-      "Energie im Gravitationsfeld",
-      "Entfernungsbestimmung in Planetensystemen",
-      "Erstes KEPLERsches Gesetz",
-      "Johannes Kepler",
-      "Kepler",
-      "Siderische und synodische Umlaufzeit",
-      "Tycho Brahe",
-      "Zweites KEPLERsches Gesetz"
-    ]
-  },
-  "note": {
-    "de": [
-      " KEPLERsche Gesetze",
-      "Astronomische Daten unseres Sonnensystems",
-      "Bahnen im Gravitationsfeld",
-      "Brahe",
-      "Drittes KEPLERsches Gesetz",
-      "Energie im Gravitationsfeld",
-      "Entfernungsbestimmung in Planetensystemen",
-      "Erstes KEPLERsches Gesetz",
-      "Johannes Kepler",
-      "Kepler",
-      "Siderische und synodische Umlaufzeit",
-      "Tycho Brahe",
-      "Zweites KEPLERsches Gesetz"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/astronomie027df173-4f0e-4a7b-a388-e71599c8959c",
     "prefLabel": {
       "de": "Astronomie"
-    },
-    "altLabel": {
-      "de": [
-        "Astronomie",
-        "Astrophysik",
-        "Kosmologie",
-        "Weltraumforschung"
-      ],
-      "en": [
-        "Astronomy"
-      ]
     }
   },
   "inScheme": {
@@ -111,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

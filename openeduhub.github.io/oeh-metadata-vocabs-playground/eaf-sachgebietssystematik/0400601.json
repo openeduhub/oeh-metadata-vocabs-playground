@@ -7,78 +7,43 @@
     "de": "Gastronomie"
   },
   "note": {
-    "de": [
-      "Gastronomie"
-    ]
+    "de": "Gastronomie"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060101",
       "prefLabel": {
         "de": "Service"
-      },
-      "note": {
-        "de": [
-          "Gastronomieservice",
-          "Gastroservice"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060102",
       "prefLabel": {
         "de": "Küche"
-      },
-      "note": {
-        "de": [
-          "Gastroküchen",
-          "Gastronomiebedarf"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060103",
       "prefLabel": {
         "de": "Housekeeping"
-      },
-      "note": {
-        "de": [
-          "Housekeeping"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060104",
       "prefLabel": {
         "de": "Verwaltung"
-      },
-      "note": {
-        "de": [
-          "Verwaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060105",
       "prefLabel": {
         "de": "Rezeption"
-      },
-      "note": {
-        "de": [
-          "Empfang",
-          "Rezeption"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040060106",
       "prefLabel": {
         "de": "Sonstige Bereiche"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     }
   ],
@@ -134,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -150,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

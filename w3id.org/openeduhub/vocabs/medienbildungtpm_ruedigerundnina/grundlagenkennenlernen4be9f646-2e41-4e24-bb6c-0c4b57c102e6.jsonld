@@ -6,88 +6,6 @@
   "prefLabel": {
     "de": "Grundlagen kennenlernen"
   },
-  "hiddenLabel": {
-    "de": [
-      "App",
-      "Apps",
-      "Betriebssystem",
-      "Betriebssysteme",
-      "Bildschirm",
-      "Browser bedienen",
-      "Computer",
-      "Computermaus",
-      "Hardware",
-      "Laptop",
-      "Lautsprecher",
-      "Lernplattform",
-      "Lernplattformen",
-      "Lernprogramm",
-      "Lernprogramme",
-      "Maus",
-      "Medien einsetzen",
-      "Mikrofon",
-      "Monitor",
-      "Notebook",
-      "PC",
-      "PDF",
-      "Schreiben",
-      "Smartboard",
-      "Smartphone",
-      "Software",
-      "Tablet",
-      "Tablets",
-      "Tastatur",
-      "Texte schreiben",
-      "Texte verfassen",
-      "Tippen",
-      "Zehn-Finger-Schreibsystem",
-      "Zehn-Finger-System",
-      "digitales Schreiben",
-      "interaktive Tafel",
-      "interaktive Tafeln"
-    ]
-  },
-  "note": {
-    "de": [
-      "App",
-      "Apps",
-      "Betriebssystem",
-      "Betriebssysteme",
-      "Bildschirm",
-      "Browser bedienen",
-      "Computer",
-      "Computermaus",
-      "Hardware",
-      "Laptop",
-      "Lautsprecher",
-      "Lernplattform",
-      "Lernplattformen",
-      "Lernprogramm",
-      "Lernprogramme",
-      "Maus",
-      "Medien einsetzen",
-      "Mikrofon",
-      "Monitor",
-      "Notebook",
-      "PC",
-      "PDF",
-      "Schreiben",
-      "Smartboard",
-      "Smartphone",
-      "Software",
-      "Tablet",
-      "Tablets",
-      "Tastatur",
-      "Texte schreiben",
-      "Texte verfassen",
-      "Tippen",
-      "Zehn-Finger-Schreibsystem",
-      "Zehn-Finger-System",
-      "digitales Schreiben",
-      "interaktive Tafel",
-      "interaktive Tafeln"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/bedienenundanwenden6043a17b-7d82-4fef-b751-036a9b18d009",
     "prefLabel": {
@@ -140,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -156,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

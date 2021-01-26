@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Beschleunigt"
   },
-  "hiddenLabel": {
-    "de": [
-      "Beschleunigung",
-      "Beschleunigungsvorgang",
-      "Bremsvorgang",
-      "Freier Fall",
-      "Mittlere Geschwindigkeit",
-      "Momentangeschwindigkeit",
-      "Senkrechter Wurf"
-    ]
-  },
-  "note": {
-    "de": [
-      "Beschleunigung",
-      "Beschleunigungsvorgang",
-      "Bremsvorgang",
-      "Freier Fall",
-      "Mittlere Geschwindigkeit",
-      "Momentangeschwindigkeit",
-      "Senkrechter Wurf"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/bewegungen8358bc93-1cdb-4352-a532-08e2e30fff8d",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

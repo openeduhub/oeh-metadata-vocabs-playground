@@ -6,101 +6,53 @@
   "prefLabel": {
     "de": "Gesundheit und Pflege"
   },
-  "note": {
-    "de": [
-      "Gesundheit",
-      "Pflege"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400801",
       "prefLabel": {
         "de": "Medizinische Grundlagen"
-      },
-      "note": {
-        "de": [
-          "Medizinische Grundlagen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400802",
       "prefLabel": {
         "de": "Gesunderhaltung"
-      },
-      "note": {
-        "de": [
-          "Gesunderhaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400803",
       "prefLabel": {
         "de": "Vorbeugung"
-      },
-      "note": {
-        "de": [
-          "Prävention",
-          "Vorbeugung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400804",
       "prefLabel": {
         "de": "Erste Hilfe"
-      },
-      "note": {
-        "de": [
-          "Erste Hilfe"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400805",
       "prefLabel": {
         "de": "Therapie"
-      },
-      "note": {
-        "de": [
-          "Heilpädagogik",
-          "Therapie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400806",
       "prefLabel": {
         "de": "Rehabilitation"
-      },
-      "note": {
-        "de": [
-          "Rehabilitation"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400807",
       "prefLabel": {
         "de": "Ernährung"
-      },
-      "note": {
-        "de": [
-          "Ernährung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400808",
       "prefLabel": {
         "de": "Pflege"
-      },
-      "note": {
-        "de": [
-          "Pflege"
-        ]
       }
     }
   ],
@@ -156,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -172,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,30 +6,10 @@
   "prefLabel": {
     "de": "Kernmodelle"
   },
-  "hiddenLabel": {
-    "de": [
-      "Neutronen",
-      "Nukleonen",
-      "Protonen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Neutronen",
-      "Nukleonen",
-      "Protonen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kernphysik55ccac47-2350-4631-a966-2137398f1299",
     "prefLabel": {
       "de": "Kernphysik"
-    },
-    "altLabel": {
-      "de": [
-        "Atomwissenschaft",
-        "Kernforschung"
-      ]
     }
   },
   "inScheme": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

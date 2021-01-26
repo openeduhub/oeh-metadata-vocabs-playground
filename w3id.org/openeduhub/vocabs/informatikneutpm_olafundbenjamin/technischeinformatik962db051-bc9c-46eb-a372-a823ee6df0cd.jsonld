@@ -11,65 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informationsuebertragung60e2abc4-570b-4490-a091-fc1558b25ba0",
       "prefLabel": {
         "de": "Informationsübertragung"
-      },
-      "altLabel": {
-        "de": [
-          "Datenübertragung",
-          "Informationsübertragung"
-        ],
-        "en": [
-          "data communication",
-          "data transfer",
-          "digital communications",
-          "digital transmission"
-        ]
-      },
-      "note": {
-        "de": [
-          "Brailleschrift",
-          "Datenübertragung",
-          "Dosentelefon",
-          "Fax",
-          "Fernsehen",
-          "IP-Telefonie",
-          "ISDN",
-          "Informationsübermittöung",
-          "Morsecode",
-          "Radio",
-          "Rauchzeichen",
-          "Telegrafie",
-          "Telegraphie",
-          "Winkeralphabet"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kodierungdfbeb15c-0455-414b-930f-a784a7ca959e",
       "prefLabel": {
         "de": "Kodierung"
-      },
-      "altLabel": {
-        "de": [
-          "Code",
-          "Codiert",
-          "Codierung",
-          "Decodierung",
-          "Dekodierung",
-          "Enkodierung",
-          "Kodieren",
-          "Kodierung"
-        ],
-        "en": [
-          "coding, encoding"
-        ]
-      },
-      "note": {
-        "de": [
-          "Code",
-          "Codierung",
-          "Kode",
-          "Kodierung"
-        ]
       }
     },
     {
@@ -88,17 +35,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/robotik8eaea47f-e5b2-4bcf-857f-e9bfda89cb8a",
       "prefLabel": {
         "de": "Robotik"
-      },
-      "altLabel": {
-        "de": [
-          "Robotertechnik"
-        ]
-      },
-      "note": {
-        "de": [
-          "Roboter",
-          "Robotertechnik"
-        ]
       }
     },
     {
@@ -111,47 +47,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/speicher1de423e6-c354-4554-8f2b-beec009ee580",
       "prefLabel": {
         "de": "Speicher"
-      },
-      "altLabel": {
-        "de": [
-          "Ablage",
-          "Abspeichern",
-          "Depot",
-          "Fruchtkasten",
-          "Heizungsspeicher",
-          "Heißwasserspeicher",
-          "Lager",
-          "Lagerhalle",
-          "Lagerhaus",
-          "Lagerplatz",
-          "Packhaus",
-          "Puffer",
-          "Reserve",
-          "Speicher",
-          "Speicher (Eifel)",
-          "Speicher, Meiniswilstrasse Nr. 66 B",
-          "Speichererhitzer",
-          "Speichergebäude",
-          "Speichern",
-          "Speicherung",
-          "Verspeicherung",
-          "Vorrat",
-          "Warmwasserspeicher"
-        ],
-        "en": [
-          "Speicher, Meiniswilstrasse Nr. 66 B",
-          "buffer",
-          "depot",
-          "heat storage tank",
-          "hot water cylinder",
-          "hot water tank",
-          "hot water thermal storage unit",
-          "packhouse",
-          "reserve",
-          "storage yard",
-          "store",
-          "thermal storage tank"
-        ]
       }
     }
   ],
@@ -201,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -217,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

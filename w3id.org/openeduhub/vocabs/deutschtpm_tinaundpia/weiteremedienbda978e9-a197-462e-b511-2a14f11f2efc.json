@@ -11,114 +11,48 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/comicsundfotostorys4069f72e-5752-41d7-a936-300358fa0ef9",
       "prefLabel": {
         "de": "Comics und Fotostorys"
-      },
-      "note": {
-        "de": [
-          "Bilder",
-          "Cartoons",
-          "Gedankenblasen",
-          "Sprechblasen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/diagrammeundschaubilder3efb9e9c-dd96-4480-ad5d-ec1db07119e4",
       "prefLabel": {
         "de": "Diagramme und Schaubilder"
-      },
-      "note": {
-        "de": [
-          "Auswerten",
-          "Balkendiagramm",
-          "Kreisdiagramm",
-          "Legende",
-          "Säulendiagramm"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/filmundfilmischedarstellungsmittela65425f8-6992-4375-9125-05260b21db29",
       "prefLabel": {
         "de": "Film und filmische Darstellungsmittel"
-      },
-      "note": {
-        "de": [
-          "Buch-Film Vergleich",
-          "Filmanalyse",
-          "Kameraeinstellungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/hoerbuecherundhoerspiele55c1b220-eed0-4662-8ba5-25746404e168",
       "prefLabel": {
         "de": "Hörbücher und Hörspiele"
-      },
-      "note": {
-        "de": [
-          "Geräusch",
-          "Hörkrimis ",
-          "Hörverstehen",
-          "Lesung",
-          "Sprecherrolle"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/karikaturen2f17f671-b695-4234-bca3-67754b76c82d",
       "prefLabel": {
         "de": "Karikaturen"
-      },
-      "note": {
-        "de": [
-          "Politik",
-          "komische Darstellung",
-          "Übertreibung",
-          "Überzeichnung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/podcastsda3ef5f9-063e-47c3-b7b3-a9c9ba4191fc",
       "prefLabel": {
         "de": "Podcasts"
-      },
-      "note": {
-        "de": [
-          "Audio-Datei",
-          "Radiobeitrag"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/poetrys4d88aab8-824d-4138-8708-2f071f7c89c4",
       "prefLabel": {
         "de": "Poetrys"
-      },
-      "note": {
-        "de": [
-          "Gedichte",
-          "Julia Engelmann",
-          "Poetry-Slam",
-          "Reime",
-          "Vortrag",
-          "freie Texte"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/werbeanzeigenabfba584-1973-4213-8fa5-95bdc2748b46",
       "prefLabel": {
         "de": "Werbeanzeigen"
-      },
-      "note": {
-        "de": [
-          "AIDA-Prinzip",
-          "Geschlechterklischees",
-          "Online-Marketing",
-          "Online-Werbung",
-          "Werbung"
-        ]
       }
     }
   ],
@@ -174,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -190,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

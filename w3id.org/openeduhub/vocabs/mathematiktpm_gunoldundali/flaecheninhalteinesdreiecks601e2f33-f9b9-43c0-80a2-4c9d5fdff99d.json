@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Flächeninhalt eines Dreiecks"
   },
-  "hiddenLabel": {
-    "de": [
-      "Fläche",
-      "Umfang"
-    ]
-  },
-  "note": {
-    "de": [
-      "Fläche",
-      "Umfang"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/flaecheninhalte_umfangc83cf97a-2588-4b05-af0e-923f6b423df4",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

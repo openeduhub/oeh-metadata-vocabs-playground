@@ -7,66 +7,37 @@
     "de": "Trickfilm"
   },
   "note": {
-    "de": [
-      "Trickfilm"
-    ]
+    "de": "Trickfilm"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/580010301",
       "prefLabel": {
         "de": "Zeichentrick"
-      },
-      "note": {
-        "de": [
-          "Zeichentrick",
-          "Zeichentrickfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/580010302",
       "prefLabel": {
         "de": "Puppentrick"
-      },
-      "note": {
-        "de": [
-          "Puppentrick",
-          "Puppentrickfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/580010303",
       "prefLabel": {
         "de": "Scherenschnitt"
-      },
-      "note": {
-        "de": [
-          "Scherenschnitt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/580010304",
       "prefLabel": {
         "de": "Sonstige Trickarten"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/580010305",
       "prefLabel": {
         "de": "Computeranimation"
-      },
-      "note": {
-        "de": [
-          "Computeranimation"
-        ]
       }
     }
   ],
@@ -122,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -138,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

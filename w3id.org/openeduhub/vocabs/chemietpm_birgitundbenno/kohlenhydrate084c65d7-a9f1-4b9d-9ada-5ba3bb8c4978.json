@@ -18,176 +18,41 @@
       "carbohydrates"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Stärke",
-      "Zucker"
-    ]
-  },
-  "note": {
-    "de": [
-      "Stärke",
-      "Zucker"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benennungundsystematikvonkohlenhydratenc46d8c2b-44f2-4683-a67c-6ab8be5273c2",
       "prefLabel": {
         "de": "Benennung und Systematik von Kohlenhydraten"
-      },
-      "note": {
-        "de": [
-          "-ose",
-          "Aldose",
-          "Fructose",
-          "Furanose",
-          "Galactose",
-          "Glucose",
-          "Glycosid",
-          "Hexose",
-          "Ketose",
-          "Lactose",
-          "Mannose",
-          "Monosaccharid",
-          "Pyranose",
-          "Ribose",
-          "Saccharose",
-          "glycosidische Bindung,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenundnachweisreaktionen82c5a463-2cc8-4fb6-821e-cb2675e281e9",
       "prefLabel": {
         "de": "Eigenschaften und Nachweisreaktionen"
-      },
-      "note": {
-        "de": [
-          " chromatographische Trennverfahren,",
-          "Cm(H20)n",
-          "Glycogen",
-          "Iodprobe",
-          "Lugolsche Lösung",
-          "Stärke",
-          "Summenformel",
-          "aufquellen",
-          "vergären",
-          "verkleistern"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/fischer-projektion5c8f8992-051a-4977-b8d4-b32d18cfefb5",
       "prefLabel": {
         "de": "Fischer-Projektion"
-      },
-      "altLabel": {
-        "de": [
-          "D,L-System",
-          "Fischer-Konvention",
-          "Fischer-Nomenklatur",
-          "Fischernomenklatur",
-          "Fischerprojektion",
-          "Laevus",
-          "Relative Konfiguration"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aldose",
-          "D-",
-          "D-Konfiguration",
-          "Diastereomere,",
-          "Emil Fischer",
-          "Erythrose",
-          "Glycerinaldehyd",
-          "Keilstrichformel",
-          "L-",
-          "L-Konfiguration. Polarisationsebene",
-          "Milchsäure",
-          "Threose",
-          "Weinsäure",
-          "dexter",
-          "laevus",
-          "linksdrehend",
-          "rechtsdrehend"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/haworth-projektionfc6c732d-7cc8-4a3a-801b-66530410b13c",
       "prefLabel": {
         "de": "Haworth-Projektion"
-      },
-      "altLabel": {
-        "de": [
-          "Haworth-Formel",
-          "Haworth-Projektion",
-          "Haworth-Schreibweise",
-          "Haworthprojektionsformel"
-        ]
-      },
-      "note": {
-        "de": [
-          "FLOH",
-          "Haworth-Formel",
-          "Haworth-Projektion",
-          "Sesselkonformation",
-          "Substituenten",
-          "α-D-Glucopyranose"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/verdauung3cdfbd4d-b18e-4ec7-82b2-97e8346889c7",
       "prefLabel": {
         "de": "Verdauung"
-      },
-      "altLabel": {
-        "de": [
-          "Digestion",
-          "Unverdaulich"
-        ],
-        "en": [
-          "Digestion",
-          "GO:0007586"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bauchspeicheldrüse",
-          "Blutzucker",
-          "Enzyme",
-          "Glykogen",
-          "Gärung,",
-          "Insulin",
-          "Leber",
-          "Neoglucogenese"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/vorkommen4d955036-6203-441d-9b00-d2fe09f11a52",
       "prefLabel": {
         "de": "Vorkommen"
-      },
-      "note": {
-        "de": [
-          "Cellulose",
-          "Dextrine",
-          "Früchten",
-          "Getreide",
-          "Hemicellulose",
-          "Honig",
-          "Kartoffelstärke ",
-          "Knollen",
-          "Milch",
-          "Stärke",
-          "Zuckerrohr",
-          "Zuckerrüben",
-          "Zwiebeln"
-        ]
       }
     }
   ],
@@ -243,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -259,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,46 +6,23 @@
   "prefLabel": {
     "de": "IT, Computer"
   },
-  "note": {
-    "de": [
-      "Computer",
-      "IT"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040040601",
       "prefLabel": {
         "de": "Hard- und Softwareentwicklung"
-      },
-      "note": {
-        "de": [
-          "Hardwareentwicklung",
-          "Softwareentwicklung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040040602",
       "prefLabel": {
         "de": "Administration"
-      },
-      "note": {
-        "de": [
-          "IT-Administration",
-          "Systemadministration"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040040603",
       "prefLabel": {
         "de": "Kundenbetreuung"
-      },
-      "note": {
-        "de": [
-          "IT-Kundenbetreuung"
-        ]
       }
     }
   ],
@@ -101,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

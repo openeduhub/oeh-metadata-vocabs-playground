@@ -6,64 +6,6 @@
   "prefLabel": {
     "de": "Suchen und Filtern"
   },
-  "hiddenLabel": {
-    "de": [
-      "\nKindersuchmaschine",
-      "Bildersuche",
-      "Informationen filtern und strukturieren",
-      "Informationsrecherche",
-      "Informationsrecherchen zielgerichtet durchführen und dabei Suchstrategien anwenden",
-      "Internetrecherche",
-      "Internetrecherchen",
-      "Kindersuchmaschinen",
-      "Kindersuchportal",
-      "Kindersuchportale",
-      "Recherche",
-      "Recherchekompetenz",
-      "Suchbegriff",
-      "Suchbegriffe",
-      "Suchbegriffe finden",
-      "Suchbegriffe formulieren",
-      "Suchergebnisse",
-      "Suchfilter",
-      "Suchinteressen",
-      "Suchintreresse",
-      "Suchmaschine",
-      "Suchmaschinen",
-      "Suchoperator",
-      "Suchoperatoren",
-      "Suchstrategie"
-    ]
-  },
-  "note": {
-    "de": [
-      "\nKindersuchmaschine",
-      "Bildersuche",
-      "Informationen filtern und strukturieren",
-      "Informationsrecherche",
-      "Informationsrecherchen zielgerichtet durchführen und dabei Suchstrategien anwenden",
-      "Internetrecherche",
-      "Internetrecherchen",
-      "Kindersuchmaschinen",
-      "Kindersuchportal",
-      "Kindersuchportale",
-      "Recherche",
-      "Recherchekompetenz",
-      "Suchbegriff",
-      "Suchbegriffe",
-      "Suchbegriffe finden",
-      "Suchbegriffe formulieren",
-      "Suchergebnisse",
-      "Suchfilter",
-      "Suchinteressen",
-      "Suchintreresse",
-      "Suchmaschine",
-      "Suchmaschinen",
-      "Suchoperator",
-      "Suchoperatoren",
-      "Suchstrategie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/informierenundrecherchieren26693c37-78cc-4606-9d28-de0d6f402e6e",
     "prefLabel": {
@@ -116,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -132,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

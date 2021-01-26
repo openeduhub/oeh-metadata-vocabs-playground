@@ -6,16 +6,6 @@
   "prefLabel": {
     "de": "Kriege, Kreuzzüge, Normannen"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht",
-      "Kreuzzüge",
-      "Kriege",
-      "Kriege im Mittelalter",
-      "Normannen"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400203",
     "prefLabel": {
@@ -68,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

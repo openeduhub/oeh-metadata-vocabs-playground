@@ -11,90 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/einfachestromkreiseeac4d0e7-8ff5-4f25-bffd-f97388b073d1",
       "prefLabel": {
         "de": "Einfache Stromkreise"
-      },
-      "note": {
-        "de": [
-          "Atomare Vorstellungen der Elektrizität",
-          "Einfache Stromkreise",
-          "Elektrische Leiter",
-          "Nichtleiter",
-          "Parallelschaltung von Widerständen",
-          "Reihenschaltung von Widerständen",
-          "Schaltplan",
-          "Stromkreiselemente",
-          "Stromkreismodelle"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektrischegrundgroessen21f1101f-f0ca-41d9-be3f-5ab7bbebc047",
       "prefLabel": {
         "de": "Elektrische Grundgrößen"
-      },
-      "note": {
-        "de": [
-          "Ampere",
-          "Coulomb",
-          "Elektrische Feldlinien",
-          "Elektrische Kraft",
-          "Elektrische Ladung",
-          "Elektrische Spannung",
-          "Elektrische Stromstärke",
-          "Homogenes elektrisches Feld",
-          "Innenwiderstand",
-          "Ladungseigenschaften",
-          "OHMsches Gesetz",
-          "Ohm",
-          "Potential",
-          "Potenzial",
-          "Strom",
-          "Volt",
-          "Watt",
-          "Widerstand"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektrostatike1fdce90-e543-45ed-a34c-79a505e2ed56",
       "prefLabel": {
         "de": "Elektrostatik"
-      },
-      "altLabel": {
-        "de": [
-          "Elektrische Anziehung",
-          "Elektrostatisch",
-          "Elektrostatische Anziehung",
-          "Elektrostatische Kraft",
-          "Statische Aufladung",
-          "Statische Elektrizität"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bandgenerator",
-          "Bernstein",
-          "COULOMB-Gesetz",
-          "Elektrisches Feld",
-          "Ladungsverteilungen",
-          "Reibungselektrizität",
-          "coulombschen Gesetz",
-          "ruhenden elektrischen Ladungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/stromwirkunga8504bb6-24d8-4c35-8a6e-245f74da53d8",
       "prefLabel": {
         "de": "Stromwirkung"
-      },
-      "note": {
-        "de": [
-          "Chemische Wirkung des elektrischen Stroms",
-          "Leuchtwirkung des elektrischen Stroms",
-          "Magnetische Wirkung des elektrischen Stroms",
-          "Wirkungen des elektrischen Stroms",
-          "Wärmewirkung des elektrischen Stroms"
-        ]
       }
     }
   ],
@@ -150,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -166,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

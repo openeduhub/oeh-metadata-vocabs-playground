@@ -16,75 +16,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dreieckekonstruieren-ssw21cfd883-9200-43b7-adb4-b9e30f31a031",
       "prefLabel": {
         "de": "Dreiecke konstruieren  - Ssw"
-      },
-      "note": {
-        "de": [
-          "Konstruktion",
-          "Seite",
-          "Winkel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dreieckekonstruieren-wsw85ff54e3-ca1e-4bd4-b85d-c454f13c3738",
       "prefLabel": {
         "de": "Dreiecke konstruieren  - wsw"
-      },
-      "note": {
-        "de": [
-          "Konstruktion ",
-          "Seite",
-          "Winkel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dreieckekonstruieren–sssa335f2fb-8429-4573-9c0f-dbee5e7d6b59",
       "prefLabel": {
         "de": "Dreiecke konstruieren – sss"
-      },
-      "note": {
-        "de": [
-          "Konstuktion",
-          "Seite"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dreieckekonstruieren–swsacab992f-191b-4e13-bd15-b8a0cb3a1eee",
       "prefLabel": {
         "de": "Dreiecke konstruieren – sws"
-      },
-      "note": {
-        "de": [
-          "Konstruktion",
-          "Seite",
-          "Winkel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/nebenwinkel,scheitelwinkel,stufenwinkelundwechselwinkelbd2df739-f1a2-4080-bd86-ac665af7a36a",
       "prefLabel": {
         "de": "Nebenwinkel, Scheitelwinkel, Stufenwinkel und Wechselwinkel"
-      },
-      "note": {
-        "de": [
-          "Scheitelpunkt",
-          "Winkel",
-          "zwei Geraden"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelsummend7e80c05-3ff2-44ec-a714-7bbb66c94109",
       "prefLabel": {
         "de": "Winkelsummen"
-      },
-      "note": {
-        "de": [
-          "Innenwinkelsumme"
-        ]
       }
     }
   ],
@@ -134,12 +95,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -150,16 +105,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

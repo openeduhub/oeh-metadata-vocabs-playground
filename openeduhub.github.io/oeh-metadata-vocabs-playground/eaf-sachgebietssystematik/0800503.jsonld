@@ -6,102 +6,35 @@
   "prefLabel": {
     "de": "Wirbellose"
   },
-  "note": {
-    "de": [
-      "Biologie",
-      "Biologieunterricht",
-      "Wirbellose"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050301",
       "prefLabel": {
         "de": "Gliederfüßer"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Gliederfüßer",
-          "Insekten",
-          "Krebse",
-          "Spinnentiere",
-          "Tausendfüßer"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050302",
       "prefLabel": {
         "de": "Stachelhäuter"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Haarsterne",
-          "Schlangensterne",
-          "Seegurken",
-          "Seeigel",
-          "Seewalzen",
-          "Stachelhäuter"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050303",
       "prefLabel": {
         "de": "Weichtiere"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Kopffüßer",
-          "Muscheln",
-          "Schnecken",
-          "Weichtiere"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050304",
       "prefLabel": {
         "de": "Platt-, Rund- und Ringelwürmer"
-      },
-      "note": {
-        "de": [
-          "Bandwürmer",
-          "Biologie",
-          "Biologieunterricht",
-          "Fadenwürmer",
-          "Plattwürmer",
-          "Ringelwürmer",
-          "Rundwürmer",
-          "Rüsselwürmer",
-          "Saugwürmer",
-          "Strudelwürmer",
-          "Vielborster",
-          "Wenigborster"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050305",
       "prefLabel": {
         "de": "Hohltiere, Schwämme"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Hohltiere",
-          "Korallentiere",
-          "Nesseltiere",
-          "Quallenpolypen",
-          "Schirmquallen",
-          "Schwämme"
-        ]
       }
     }
   ],
@@ -157,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -173,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Geschichtliche Entwicklung der Elektrochemie"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bagdad von Batterie,",
-      "Davy",
-      "Froschschenkel",
-      "Galvani",
-      "Volta",
-      "Volta'sche Säule",
-      "Voltasche Säule"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bagdad von Batterie,",
-      "Davy",
-      "Froschschenkel",
-      "Galvani",
-      "Volta",
-      "Volta'sche Säule",
-      "Voltasche Säule"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elektrochemie1ef317f4-5da2-49c7-b51a-a89ad9e7491e",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,54 +6,6 @@
   "prefLabel": {
     "de": "Jugendmedienschutz beachten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Altersbewertung",
-      "Altersfreigabe",
-      "Computerspiel",
-      "Computerspiele",
-      "Freiwillige Selbstkontrolle",
-      "Gewalt verharmlosen",
-      "Gewalt verherrlichen",
-      "Grooming",
-      "Jugendmedienschutz",
-      "Jugendschutz",
-      "Kriterien des Jugendmedienschutzes",
-      "LMS",
-      "Landesmedienanstalt",
-      "Landesmedienanstalten",
-      "Mediennutzung",
-      "Pornografie",
-      "Prüfverfahren",
-      "beeinträchtigende Einflüsse",
-      "gefährdende Einflüsse",
-      "gesetzlicher Jugendschutz"
-    ]
-  },
-  "note": {
-    "de": [
-      "Altersbewertung",
-      "Altersfreigabe",
-      "Computerspiel",
-      "Computerspiele",
-      "Freiwillige Selbstkontrolle",
-      "Gewalt verharmlosen",
-      "Gewalt verherrlichen",
-      "Grooming",
-      "Jugendmedienschutz",
-      "Jugendschutz",
-      "Kriterien des Jugendmedienschutzes",
-      "LMS",
-      "Landesmedienanstalt",
-      "Landesmedienanstalten",
-      "Mediennutzung",
-      "Pornografie",
-      "Prüfverfahren",
-      "beeinträchtigende Einflüsse",
-      "gefährdende Einflüsse",
-      "gesetzlicher Jugendschutz"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/analysierenundreflektierenebf0a3cd-8c0a-45f5-99a9-379b4efac340",
     "prefLabel": {
@@ -106,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

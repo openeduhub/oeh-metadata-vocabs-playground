@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Objektsatz"
   },
-  "hiddenLabel": {
-    "de": [
-      "Akkusativ",
-      "Dativobjekt",
-      "Genitivobjekt",
-      "Nebensatz "
-    ]
-  },
-  "note": {
-    "de": [
-      "Akkusativ",
-      "Dativobjekt",
-      "Genitivobjekt",
-      "Nebensatz "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzarten38d73c1a-cd28-4948-94b5-e157cfb838dd",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

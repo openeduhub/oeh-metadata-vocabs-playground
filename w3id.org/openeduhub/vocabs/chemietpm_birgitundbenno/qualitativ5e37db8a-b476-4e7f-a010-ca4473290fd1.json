@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "qualitativ"
   },
-  "hiddenLabel": {
-    "de": [
-      "Glimmspan",
-      "Kalkwasser",
-      "Knallgasreaktion",
-      "Kupfernachweis,",
-      "Nachweis"
-    ]
-  },
-  "note": {
-    "de": [
-      "Glimmspan",
-      "Kalkwasser",
-      "Knallgasreaktion",
-      "Kupfernachweis,",
-      "Nachweis"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/analytikverfahrenfebc884c-e9fd-4165-a4c8-38611f6c85ac",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

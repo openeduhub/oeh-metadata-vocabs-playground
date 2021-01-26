@@ -6,31 +6,11 @@
   "prefLabel": {
     "de": "Datenbanken"
   },
-  "hiddenLabel": {
-    "de": [
-      "CMS",
-      "DMS",
-      "relationale Datenbanken"
-    ]
-  },
-  "note": {
-    "de": [
-      "CMS",
-      "DMS",
-      "relationale Datenbanken"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/entity-relationshiper-diagramme96f0a9e3-f6ac-4f14-bdac-eee34e608f4b",
       "prefLabel": {
         "de": "Entity-Relationship(ER)-Diagramme"
-      },
-      "note": {
-        "de": [
-          "ER-Diagramme",
-          "Entity-Relationship-Modell"
-        ]
       }
     },
     {
@@ -55,12 +35,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/structuredquerylanguagesql7c4ef15c-d3c4-465f-9d7b-7af0486efcbe",
       "prefLabel": {
         "de": "Structured Query Language (SQL)"
-      },
-      "note": {
-        "de": [
-          "NoSQL",
-          "Structured Query Language"
-        ]
       }
     }
   ],
@@ -68,11 +42,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/angewandteinformatik7d6f2bde-2b49-42f7-b1e0-f4c0f78c80c7",
     "prefLabel": {
       "de": "Angewandte Informatik"
-    },
-    "altLabel": {
-      "de": [
-        "Applied Computer Science"
-      ]
     }
   },
   "inScheme": {
@@ -121,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -137,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

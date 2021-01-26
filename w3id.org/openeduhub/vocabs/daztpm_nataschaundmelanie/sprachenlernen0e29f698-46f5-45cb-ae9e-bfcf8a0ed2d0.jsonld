@@ -15,22 +15,6 @@
       "language instruction"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Birkenbihl Methode",
-      "Methodengeschichte des Spracherwerbs",
-      "Sprachförderung",
-      "performative Spiele"
-    ]
-  },
-  "note": {
-    "de": [
-      "Birkenbihl Methode",
-      "Methodengeschichte des Spracherwerbs",
-      "Sprachförderung",
-      "performative Spiele"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/methodischekompetenzen9a573a02-bef4-4604-be97-246a46ef036f",
     "prefLabel": {
@@ -83,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -99,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

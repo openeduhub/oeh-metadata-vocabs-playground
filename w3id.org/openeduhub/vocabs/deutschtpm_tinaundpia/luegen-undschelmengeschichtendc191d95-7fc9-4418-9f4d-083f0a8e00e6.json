@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Lügen- und Schelmengeschichten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Lüge",
-      "Münchhausen",
-      "unglaubliche Dinge",
-      "Übertreibungen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Lüge",
-      "Münchhausen",
-      "unglaubliche Dinge",
-      "Übertreibungen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlendetextefaf12133-99f7-41ae-b848-8006bfef5b59",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

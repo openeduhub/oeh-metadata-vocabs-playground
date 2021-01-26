@@ -11,13 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dreisatzcc727e58-fd3c-4118-8cab-cc9857e07c6a",
       "prefLabel": {
         "de": "Dreisatz"
-      },
-      "note": {
-        "de": [
-          " proportionale Zuordnung\nDreisatz",
-          "Dreisatz",
-          "antiproportionale Zuordnung"
-        ]
       }
     }
   ],
@@ -67,12 +60,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -83,16 +70,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

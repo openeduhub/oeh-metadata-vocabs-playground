@@ -11,61 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/digitaltechnik42a7ed93-9dc5-4cd8-ac2e-32ce3bd368da",
       "prefLabel": {
         "de": "Digitaltechnik"
-      },
-      "note": {
-        "de": [
-          "Funktionen digitaler Schaltungen",
-          "Signalverarbeitung",
-          "digitale Signale"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/funktionsweiseelementarerlogischerschaltungena53999ca-d1d7-460a-9d42-ce8dde151cc6",
       "prefLabel": {
         "de": "Funktionsweise elementarer logischer Schaltungen"
-      },
-      "note": {
-        "de": [
-          "AND",
-          "NAND",
-          "NOR",
-          "NOT",
-          "OR",
-          "Parallelschaltung",
-          "Reihenschaltung",
-          "Relais",
-          "XNOR",
-          "XOR"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/messen,steuernundregelnfdc4ebe3-706c-4a16-a2c9-4d00033d1a25",
       "prefLabel": {
         "de": "Messen, Steuern und Regeln"
-      },
-      "note": {
-        "de": [
-          "MSR"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/theorieeva,vonneumann,..cc3003b8-4a73-495c-b9cb-6af0cd3cdda8",
       "prefLabel": {
         "de": "Theorie (EVA, von Neumann, .."
-      },
-      "note": {
-        "de": [
-          "Ausgabe",
-          "EVA-Prinzip",
-          "Eingabe",
-          "VNA",
-          "Verarbeitung",
-          "Von-Neumann-Architektur",
-          "input-process-output"
-        ]
       }
     }
   ],
@@ -121,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -137,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

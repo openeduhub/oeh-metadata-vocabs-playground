@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Organische Chemie"
   },
-  "hiddenLabel": {
-    "de": [
-      "OC",
-      "Organik",
-      "Organische Chemie"
-    ]
-  },
-  "note": {
-    "de": [
-      "OC",
-      "Organik",
-      "Organische Chemie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aldehydeundketone32876318-b7c7-40b0-8c48-8e0a7190223a",
@@ -31,133 +17,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/alkohole0dd669d7-0774-41b3-bf59-967b08d37b45",
       "prefLabel": {
         "de": "Alkohole"
-      },
-      "altLabel": {
-        "de": [
-          "Alkanol",
-          "Alkohol",
-          "Alkohole"
-        ],
-        "en": [
-          "alcohol"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aromatencfa0c5b3-5155-40f7-972a-2b8c1aa20a23",
       "prefLabel": {
         "de": "Aromaten"
-      },
-      "altLabel": {
-        "de": [
-          "Aromat",
-          "Aromaten",
-          "aromatische Cyclen",
-          "aromatische Verbindung",
-          "aromatische Verbindungen",
-          "aromatischer Ring"
-        ],
-        "en": [
-          "Aromatics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Benzol"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/carbonsaeuren8ee0cd22-c807-4ce2-ad4e-cef4cb58dd98",
       "prefLabel": {
         "de": "Carbonsäuren"
-      },
-      "altLabel": {
-        "de": [
-          "Alkoholische Säure",
-          "Alkoholsäure",
-          "Carbonsäure",
-          "Carboxylat",
-          "Carboxylate",
-          "Carboxylsäure",
-          "Carboxylsäuren",
-          "Karbonsäure",
-          "Karbonsäuren",
-          "Tricarbonsäure",
-          "Tricarbonsäuren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
       "prefLabel": {
         "de": "Eiweiße"
-      },
-      "altLabel": {
-        "de": [
-          "Eiweiß",
-          "Eiweiße",
-          "Protein",
-          "Proteine"
-        ],
-        "en": [
-          "proteins"
-        ]
-      },
-      "note": {
-        "de": [
-          "Eiweiß",
-          "Protein,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ester0ec4dfc6-1955-4689-9776-8589a636ce74",
       "prefLabel": {
         "de": "Ester"
-      },
-      "altLabel": {
-        "de": [
-          "A. Ester",
-          "Ester",
-          "Estergruppe",
-          "Phorbolester"
-        ],
-        "en": [
-          "Ester",
-          "Ester (first name)",
-          "Ester (given name)",
-          "Ester, Alaska",
-          "esters"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/etherda1d6568-26b7-42a2-929c-5146a0baa42d",
       "prefLabel": {
         "de": "Ether"
-      },
-      "altLabel": {
-        "de": [
-          "Alkoxyalkane",
-          "Etherbildung",
-          "Ethergruppe",
-          "Polyäther"
-        ],
-        "en": [
-          "ether"
-        ]
-      },
-      "note": {
-        "de": [
-          "Dimethylether",
-          "ETBE",
-          "Ethergruppe",
-          "MTBE",
-          "Thioether,",
-          "Treibstoffersatz",
-          "Treibstoffzusatz"
-        ]
       }
     },
     {
@@ -170,135 +59,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/isomerie_mesomeriec4a15dc1-424d-40b3-b4fb-ba908d7779b5",
       "prefLabel": {
         "de": "Isomerie / Mesomerie"
-      },
-      "note": {
-        "de": [
-          "Anomer",
-          "Contergan",
-          "D(+)",
-          "D(-)",
-          "Diastereomeric",
-          "Diastereomerie",
-          "Enantiomere",
-          "Enantiomerie",
-          "Envelopekonformation",
-          "Eutomer",
-          "Fumarsäure",
-          "Grenzformeln",
-          "Isomere",
-          "Isomerie",
-          "Konfigurationsisomerie",
-          "Konformation",
-          "Konformationsisomerie",
-          "Konstitutionsisomerie",
-          "L(+)",
-          "L(-)",
-          "Maleinsäure",
-          "Mesomerie",
-          "Mesomerieenergie",
-          "Mesomeriepfeil",
-          "Methylphenidat",
-          "Racemat,",
-          "Resonanz",
-          "Resonanzpfeil",
-          "Resonanzstruktur",
-          "Sesselkonformation",
-          "Stereoisomerie",
-          "Stereozentrum",
-          "Thalidomid",
-          "Valenzisomere",
-          "Wannenkonformation",
-          "chiral",
-          "cis-",
-          "cis-trans-Isomerie",
-          "delokalisierte Doppelbindungen",
-          "iso-",
-          "meso-",
-          "mesomere Grenzstukturen",
-          "optische Aktivität",
-          "stereozentren",
-          "trans-"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenhydrate084c65d7-a9f1-4b9d-9ada-5ba3bb8c4978",
       "prefLabel": {
         "de": "Kohlenhydrate"
-      },
-      "altLabel": {
-        "de": [
-          "Kohlehydrate",
-          "Kohlenstoffhydrate",
-          "Makrosaccharide",
-          "Saccharide"
-        ],
-        "en": [
-          "carb",
-          "carbohydrates"
-        ]
-      },
-      "note": {
-        "de": [
-          "Stärke",
-          "Zucker"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenwasserstoffe640308ce-563a-4b05-a5fa-72cbef1cbd72",
       "prefLabel": {
         "de": "Kohlenwasserstoffe"
-      },
-      "altLabel": {
-        "de": [
-          "Hydrocarbone",
-          "Kohlenwasserstoff",
-          "Kohlenwasserstoffgas",
-          "Kohlenwasserstoffkette"
-        ]
-      },
-      "note": {
-        "de": [
-          "Alkane",
-          "Alkene",
-          "Alkine",
-          "Aromaten",
-          "Cycloalkan"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
       "prefLabel": {
         "de": "Kunststoffe"
-      },
-      "altLabel": {
-        "de": [
-          "Kunstkautschuk",
-          "Kunststoff",
-          "Kunststoffe",
-          "Plaste",
-          "Plastik",
-          "Polymerwerkstoff",
-          "polymerer Werkstoff",
-          "synthetische Polymere"
-        ],
-        "en": [
-          "plastics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Folien,",
-          "Klebstoff",
-          "Klebstoffe",
-          "Lack",
-          "Polymer",
-          "Textilien",
-          "Verpackungsmaterial",
-          "Werkstoff"
-        ]
       }
     },
     {
@@ -311,13 +89,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/tenside,seifeundwaschmittel1766eb28-5c6e-477c-b7e8-70de5967e066",
       "prefLabel": {
         "de": "Tenside, Seife und Waschmittel"
-      },
-      "note": {
-        "de": [
-          "Kernseife",
-          "Schmierseife",
-          "Seife"
-        ]
       }
     }
   ],
@@ -367,12 +138,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -383,16 +148,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

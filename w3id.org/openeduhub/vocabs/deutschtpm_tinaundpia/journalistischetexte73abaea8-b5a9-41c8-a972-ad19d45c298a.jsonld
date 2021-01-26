@@ -11,131 +11,42 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/berichtundmeldung49e25934-78b1-4fb2-9e53-96b4f713e9b5",
       "prefLabel": {
         "de": "Bericht und Meldung"
-      },
-      "note": {
-        "de": [
-          "Ereignis",
-          "Nachricht",
-          "Sachlichkeit",
-          "Unfall",
-          "W-Fragen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/blogbeitrag8860ef42-7abb-49f3-ba6c-203e20f62605",
       "prefLabel": {
         "de": "Blogbeitrag"
-      },
-      "note": {
-        "de": [
-          "Blog",
-          "Internet",
-          "Internetbeitrag"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/glosseb5b5fb09-0d18-4bf1-bae4-2e7bc99a3a8d",
       "prefLabel": {
         "de": "Glosse"
-      },
-      "altLabel": {
-        "de": [
-          "Glosa"
-        ]
-      },
-      "note": {
-        "de": [
-          "Pointe",
-          "Polemik",
-          "Satire",
-          "Satirischer Text",
-          "feuilletonistischen Charakter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/interview3edf245c-c38c-457c-a079-cce17e872512",
       "prefLabel": {
         "de": "Interview"
-      },
-      "altLabel": {
-        "de": [
-          "Fernsehinterview",
-          "xkcd 1094"
-        ],
-        "en": [
-          "Interview Magazine",
-          "The Interview",
-          "xkcd 1094"
-        ]
-      },
-      "note": {
-        "de": [
-          "Befragung",
-          "Fragetechnik",
-          "Interviewer",
-          "Journalismus"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/kommentar3a70876e-0fa6-4ce9-8b11-d69cb23b7d7e",
       "prefLabel": {
         "de": "Kommentar"
-      },
-      "altLabel": {
-        "de": [
-          "//",
-          "Blockkommentar",
-          "Kommi",
-          "Zeilenkommentar"
-        ],
-        "en": [
-          "Comment (Computer programming)",
-          "Comment (computer programming)",
-          "Comment line",
-          "opinion piece"
-        ]
-      },
-      "note": {
-        "de": [
-          "Meinungsbeitrag",
-          "Stellungnahme ",
-          "kommentieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/reportage46c5f62b-2c2f-40be-bc7e-7a50fedaf581",
       "prefLabel": {
         "de": "Reportage"
-      },
-      "note": {
-        "de": [
-          "Fotoreportage",
-          "Mischform",
-          "Radioreportage",
-          "Recherche",
-          "Reporter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zeitungenundzeitschriften191ddf2c-706a-4acd-ae37-5663f69fbb5a",
       "prefLabel": {
         "de": "Zeitungen und Zeitschriften"
-      },
-      "note": {
-        "de": [
-          "BILD-Zeitung",
-          "Bravo",
-          "Journalismus",
-          "Redaktion",
-          "Tageszeitung",
-          "Zeitungssorten"
-        ]
       }
     }
   ],
@@ -191,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -207,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

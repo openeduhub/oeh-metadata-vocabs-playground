@@ -6,63 +6,10 @@
   "prefLabel": {
     "de": "Reaktionstypen zur Herstellung von Kunststoffen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Acetylen",
-      "Anionische Polymerisation",
-      "Copolymer",
-      "Initiator",
-      "Kationische Polymerisation",
-      "Kettenabbruch",
-      "Kettenpolymerisation",
-      "Kettenwachstum",
-      "Monomer",
-      "Polyaddition,",
-      "Polykondensation",
-      "Polymerisation",
-      "Polymerisationsgrad",
-      "Radikalische Polymerisation",
-      "Rekombination"
-    ]
-  },
-  "note": {
-    "de": [
-      "Acetylen",
-      "Anionische Polymerisation",
-      "Copolymer",
-      "Initiator",
-      "Kationische Polymerisation",
-      "Kettenabbruch",
-      "Kettenpolymerisation",
-      "Kettenwachstum",
-      "Monomer",
-      "Polyaddition,",
-      "Polykondensation",
-      "Polymerisation",
-      "Polymerisationsgrad",
-      "Radikalische Polymerisation",
-      "Rekombination"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
     "prefLabel": {
       "de": "Kunststoffe"
-    },
-    "altLabel": {
-      "de": [
-        "Kunstkautschuk",
-        "Kunststoff",
-        "Kunststoffe",
-        "Plaste",
-        "Plastik",
-        "Polymerwerkstoff",
-        "polymerer Werkstoff",
-        "synthetische Polymere"
-      ],
-      "en": [
-        "plastics"
-      ]
     }
   },
   "inScheme": {
@@ -111,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

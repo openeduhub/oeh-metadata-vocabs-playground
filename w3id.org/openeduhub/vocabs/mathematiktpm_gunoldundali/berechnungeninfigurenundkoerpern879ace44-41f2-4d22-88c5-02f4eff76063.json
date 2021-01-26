@@ -11,66 +11,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kegel–oberflaechefed3b9c3-59cd-4dea-b72d-4aaa9221db9b",
       "prefLabel": {
         "de": "Kegel – Oberfläche"
-      },
-      "note": {
-        "de": [
-          "Grundfläche",
-          "Mantelfäche"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kegel–volumen45ecf41c-175a-4195-abec-840ce397925e",
       "prefLabel": {
         "de": "Kegel – Volumen"
-      },
-      "note": {
-        "de": [
-          "Kreis als Grundfläche",
-          "eine Spitze",
-          "geometrischer Körper",
-          "gewölbter Mantel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kreisflaecheundkreisumfang8538fc4c-a554-4e4b-8aae-d76425b379d1",
       "prefLabel": {
         "de": "Kreisfläche und Kreisumfang"
-      },
-      "note": {
-        "de": [
-          "Durchmesser",
-          "Mittelpunkt",
-          "Radius"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kreissektorundkreisbogen6d9fad64-bacb-4054-8797-50aef0e0c1bb",
       "prefLabel": {
         "de": "Kreissektor und Kreisbogen"
-      },
-      "note": {
-        "de": [
-          "Abstand",
-          "Kreisausschnitt",
-          "Kreisbogen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/kreistangente5abe9d73-d54c-4a83-8bc5-bf05f6b36f90",
       "prefLabel": {
         "de": "Kreistangente"
-      },
-      "note": {
-        "de": [
-          "Gerade",
-          "Punkt auf Kreis",
-          "Tangente",
-          "genau ein Punkt"
-        ]
       }
     },
     {
@@ -89,65 +53,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/pyramide6c7615c1-32ad-4707-8c7e-2005b8919ffb",
       "prefLabel": {
         "de": "Pyramide"
-      },
-      "altLabel": {
-        "de": [
-          "Karlsruher Pyramide",
-          "Pyramide"
-        ],
-        "en": [
-          "Pyramid"
-        ]
-      },
-      "note": {
-        "de": [
-          "1 Grundfläche",
-          "3 Dreiecksflächen",
-          "5 Einzelfächen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/volumeneinesprismas7a69e1c6-544f-472a-85c8-278cdd038c09",
       "prefLabel": {
         "de": "Volumen eines Prismas"
-      },
-      "note": {
-        "de": [
-          "Grundfläche mal Höhe des Prismas"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zylinderbf02af44-78cb-4929-9427-dad3a15234db",
       "prefLabel": {
         "de": "Zylinder"
-      },
-      "altLabel": {
-        "de": [
-          "Anzahl der Zylinder",
-          "Harnzylinder",
-          "Hoher Hut",
-          "Kreiszylinder",
-          "Zylinderanzahl",
-          "Zylinderhut",
-          "Zylindermantel",
-          "Zylindrisch"
-        ],
-        "en": [
-          "(Cylinder Sleeving)",
-          "(cylinder liner)",
-          "high hat",
-          "stovepipe",
-          "stovepipe hat",
-          "topper"
-        ]
-      },
-      "note": {
-        "de": [
-          "Oberfläche",
-          "Zylinderfläche"
-        ]
       }
     }
   ],
@@ -197,12 +114,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -213,16 +124,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,36 +6,6 @@
   "prefLabel": {
     "de": "Eigenschaften und Verwendung von Fetten und Ölen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Buttersäure",
-      "Geschmack",
-      "Iodzahl",
-      "Lebensmittel",
-      "Leinöl",
-      "Lösungsmittel",
-      "Pigment",
-      "Verseifung",
-      "cis-Konfiguration",
-      "ranzig",
-      "Ölfarben"
-    ]
-  },
-  "note": {
-    "de": [
-      "Buttersäure",
-      "Geschmack",
-      "Iodzahl",
-      "Lebensmittel",
-      "Leinöl",
-      "Lösungsmittel",
-      "Pigment",
-      "Verseifung",
-      "cis-Konfiguration",
-      "ranzig",
-      "Ölfarben"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/fetteundoeled369c226-2f73-4688-a136-157ebd5c0e3c",
     "prefLabel": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

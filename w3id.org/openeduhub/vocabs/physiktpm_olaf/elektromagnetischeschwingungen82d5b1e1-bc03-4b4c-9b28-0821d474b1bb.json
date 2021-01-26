@@ -6,34 +6,11 @@
   "prefLabel": {
     "de": "Elektromagnetische Schwingungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dipolschwingung",
-      "Hertzscher Dipol",
-      "MEISSNER'sche Rückkopplungsschaltung",
-      "Stabdipol"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dipolschwingung",
-      "Hertzscher Dipol",
-      "MEISSNER'sche Rückkopplungsschaltung",
-      "Stabdipol"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/schwingkreiss.e-lehre6163375b-c115-409a-866d-0d773118faae",
       "prefLabel": {
         "de": "Schwingkreis (s. E-Lehre)"
-      },
-      "note": {
-        "de": [
-          "Elektromagnetischer Schwingkreis",
-          "LC-Schwingkreis",
-          "Resonanzkreis"
-        ]
       }
     }
   ],
@@ -89,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

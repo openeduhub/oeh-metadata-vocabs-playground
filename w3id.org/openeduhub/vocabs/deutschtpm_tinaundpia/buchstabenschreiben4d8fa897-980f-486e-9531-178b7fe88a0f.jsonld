@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Buchstaben schreiben "
   },
-  "hiddenLabel": {
-    "de": [
-      "A",
-      "Alphabet",
-      "B",
-      "C"
-    ]
-  },
-  "note": {
-    "de": [
-      "A",
-      "Alphabet",
-      "B",
-      "C"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/schreiben1183e35d-0ee7-4534-8e8c-743e235d62dd",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

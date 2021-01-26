@@ -6,69 +6,10 @@
   "prefLabel": {
     "de": "Energie"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aktivierungsenergie",
-      "Arbeit",
-      "Atomenergie",
-      "Energie",
-      "Energieabgabe",
-      "Energieaufnahme",
-      "Energiediagramm",
-      "Energieerhaltungssatz",
-      "Energiegewinnung",
-      "Energieumsatz",
-      "Energiezufuhr",
-      "Katalysator",
-      "Leistung",
-      "Umwandlung von Energie",
-      "chemische Energie",
-      "elektrische Energie",
-      "endotherm",
-      "es glüht",
-      "exotherm",
-      "glühen",
-      "potentielle Energie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aktivierungsenergie",
-      "Arbeit",
-      "Atomenergie",
-      "Energie",
-      "Energieabgabe",
-      "Energieaufnahme",
-      "Energiediagramm",
-      "Energieerhaltungssatz",
-      "Energiegewinnung",
-      "Energieumsatz",
-      "Energiezufuhr",
-      "Katalysator",
-      "Leistung",
-      "Umwandlung von Energie",
-      "chemische Energie",
-      "elektrische Energie",
-      "endotherm",
-      "es glüht",
-      "exotherm",
-      "glühen",
-      "potentielle Energie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/thermodynamik542e3a97-d462-4f17-a860-9072fa821844",
     "prefLabel": {
       "de": "Thermodynamik"
-    },
-    "altLabel": {
-      "de": [
-        "Wärmelehre",
-        "Wärmetheorie"
-      ],
-      "en": [
-        "Thermodynamics"
-      ]
     }
   },
   "inScheme": {
@@ -117,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -133,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Logik / Boolsche Algebra"
   },
-  "hiddenLabel": {
-    "de": [
-      "Boolscher Verband",
-      "NICHT Operator",
-      "ODER Operator",
-      "UND Operator",
-      "logische Operatoren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Boolscher Verband",
-      "NICHT Operator",
-      "ODER Operator",
-      "UND Operator",
-      "logische Operatoren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/theoretischeinformatikde958fe3-89e2-4196-b7b7-1eafc6e8cbde",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

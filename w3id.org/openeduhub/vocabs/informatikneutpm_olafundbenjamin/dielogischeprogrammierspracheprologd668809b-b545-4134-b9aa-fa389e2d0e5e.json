@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Die logische Programmiersprache PROLOG"
   },
-  "hiddenLabel": {
-    "de": [
-      "PROLOG",
-      "logische Programiersprache"
-    ]
-  },
-  "note": {
-    "de": [
-      "PROLOG",
-      "logische Programiersprache"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/programmiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,45 +6,17 @@
   "prefLabel": {
     "de": "Geoökologie"
   },
-  "note": {
-    "de": [
-      "Geografie",
-      "Geografieunterricht",
-      "Geographie",
-      "Geographieunterricht",
-      "Geoökologie",
-      "Ökologie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200801",
       "prefLabel": {
         "de": "Ökosystem"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Ökosystem"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200802",
       "prefLabel": {
         "de": "Umweltprobleme"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Umweltprobleme"
-        ]
       }
     }
   ],
@@ -100,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -116,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

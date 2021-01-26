@@ -17,86 +17,6 @@
       "Sz. 111"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Buntfarben",
-      "Buntheit",
-      "Farbe-an-sich-Kontrast",
-      "Farbfamilie",
-      "Farbhelligkeitskontrast",
-      "Farbintensität",
-      "Farbkontraste",
-      "Farbkontraste nach Itten",
-      "Farbkreis",
-      "Farbtemperaturen",
-      "Flimmerkontrast",
-      "Formkontrast",
-      "Gegenfarben",
-      "Gegensätze",
-      "Grundfarbenkontrast",
-      "Größenunterschiede",
-      "Hell-Dunkel-Kontrast",
-      "Intensitätskontrast",
-      "Komplementärfarbe",
-      "Komplementärkontrast",
-      "Leuchtkraft",
-      "Neutralisation der Farben",
-      "Qualitätskontrast",
-      "Quantitätskontrast",
-      "Simultankontrast",
-      "Sukzessivkontrast",
-      "Warm-Kalt-Kontrast",
-      "aufgehellte oder abgedunkelte Farben",
-      "getrübte Farben",
-      "kalte Farben",
-      "kontrastierende Wirkung",
-      "negatives Nachbild",
-      "reinbunte Farben",
-      "sich im Farbkreis gegenüberliegende Farben",
-      "starke Gegensätze",
-      "warme Farben"
-    ]
-  },
-  "note": {
-    "de": [
-      "Buntfarben",
-      "Buntheit",
-      "Farbe-an-sich-Kontrast",
-      "Farbfamilie",
-      "Farbhelligkeitskontrast",
-      "Farbintensität",
-      "Farbkontraste",
-      "Farbkontraste nach Itten",
-      "Farbkreis",
-      "Farbtemperaturen",
-      "Flimmerkontrast",
-      "Formkontrast",
-      "Gegenfarben",
-      "Gegensätze",
-      "Grundfarbenkontrast",
-      "Größenunterschiede",
-      "Hell-Dunkel-Kontrast",
-      "Intensitätskontrast",
-      "Komplementärfarbe",
-      "Komplementärkontrast",
-      "Leuchtkraft",
-      "Neutralisation der Farben",
-      "Qualitätskontrast",
-      "Quantitätskontrast",
-      "Simultankontrast",
-      "Sukzessivkontrast",
-      "Warm-Kalt-Kontrast",
-      "aufgehellte oder abgedunkelte Farben",
-      "getrübte Farben",
-      "kalte Farben",
-      "kontrastierende Wirkung",
-      "negatives Nachbild",
-      "reinbunte Farben",
-      "sich im Farbkreis gegenüberliegende Farben",
-      "starke Gegensätze",
-      "warme Farben"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/wahrnehmungsschulung01f2e26f-63fe-4f5a-abac-26d019e8fd42",
     "prefLabel": {
@@ -149,12 +69,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -165,16 +79,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

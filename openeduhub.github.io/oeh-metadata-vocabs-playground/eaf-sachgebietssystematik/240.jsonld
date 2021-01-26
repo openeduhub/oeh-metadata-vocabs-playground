@@ -6,90 +6,41 @@
   "prefLabel": {
     "de": "GESCHICHTE"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24001",
       "prefLabel": {
         "de": "Quellenkunde"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Quellenkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002",
       "prefLabel": {
         "de": "Epochen"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24003",
       "prefLabel": {
         "de": "Landes- und Regionalgeschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Landesgeschichte",
-          "Regionalgeschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24004",
       "prefLabel": {
         "de": "Geschichtliche Überblicke und thematische Querschnitte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24005",
       "prefLabel": {
         "de": "Biographien"
-      },
-      "note": {
-        "de": [
-          "Biografien",
-          "Biographien",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Persönlichkeiten der Geschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24080",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Geschichtsunterricht",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     }
   ],
@@ -142,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -158,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

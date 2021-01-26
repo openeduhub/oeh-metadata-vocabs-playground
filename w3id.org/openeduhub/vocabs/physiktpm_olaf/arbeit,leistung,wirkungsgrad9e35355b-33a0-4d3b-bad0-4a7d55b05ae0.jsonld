@@ -6,39 +6,10 @@
   "prefLabel": {
     "de": "Arbeit, Leistung, Wirkungsgrad"
   },
-  "hiddenLabel": {
-    "de": [
-      "Arbeit pro Zeit",
-      "Beschleunigungsarbeit",
-      "Energieänderung",
-      "Hubarbeit",
-      "Reibarbeit",
-      "Spannarbeit",
-      "Watt",
-      "Wirkungsgrad"
-    ]
-  },
-  "note": {
-    "de": [
-      "Arbeit pro Zeit",
-      "Beschleunigungsarbeit",
-      "Energieänderung",
-      "Hubarbeit",
-      "Reibarbeit",
-      "Spannarbeit",
-      "Watt",
-      "Wirkungsgrad"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
     "prefLabel": {
       "de": "Mechanik"
-    },
-    "altLabel": {
-      "de": [
-        "Mechanisch"
-      ]
     }
   },
   "inScheme": {
@@ -87,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

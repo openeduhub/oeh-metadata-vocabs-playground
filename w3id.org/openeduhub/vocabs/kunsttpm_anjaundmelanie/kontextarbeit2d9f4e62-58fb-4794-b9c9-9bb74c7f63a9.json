@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Kontextarbeit"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bilderklärungen",
-      "Hintergrund zu Kunstwerk",
-      "Künstlerbiografien",
-      "historische Quelle zum Kunstwerk"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bilderklärungen",
-      "Hintergrund zu Kunstwerk",
-      "Künstlerbiografien",
-      "historische Quelle zum Kunstwerk"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/wahrnehmungsschulung01f2e26f-63fe-4f5a-abac-26d019e8fd42",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

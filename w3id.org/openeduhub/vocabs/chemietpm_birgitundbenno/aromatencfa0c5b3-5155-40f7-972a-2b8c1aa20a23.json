@@ -19,117 +19,38 @@
       "Aromatics"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Benzol"
-    ]
-  },
   "note": {
-    "de": [
-      "Benzol"
-    ]
+    "de": "Benzol"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benzolb2ac5672-a51b-479b-afe8-949c1d84c9d3",
       "prefLabel": {
         "de": "Benzol"
-      },
-      "altLabel": {
-        "de": [
-          "Benzen",
-          "C6H6",
-          "⌬"
-        ],
-        "en": [
-          "(6)annulene",
-          "1,3,5-cyclohexatriene",
-          "BNZ",
-          "C6H6",
-          "[6]annulene",
-          "benzol",
-          "benzole",
-          "benzolene",
-          "bicarburet of hydrogen",
-          "cyclohexa-1,3,5-triene",
-          "cyclohexatriene",
-          "phenyl hydride"
-        ]
-      },
-      "note": {
-        "de": [
-          "C6H6",
-          "Kekule",
-          "Kekulé",
-          "Traummolekül"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonaromaten7a981336-ebdd-419b-a8dd-1efd70080588",
       "prefLabel": {
         "de": "Eigenschaften von Aromaten"
-      },
-      "note": {
-        "de": [
-          "Hückel-Regel",
-          "Mesomerie",
-          "aromatisch",
-          "aromatischer Geruch",
-          "delokalisiertes Pi-Elektronensystem",
-          "konjugierte Doppelbindungen",
-          "konjugiertes Doppelbindungssystem",
-          "mesomere Grenzstrukturen",
-          "p-Orbitale",
-          "sp2-Hybridisierung",
-          "π-Elektronen-System"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/farbstoffealsbeispielefueraromatenb37fde2c-df4e-4ac5-bc45-a7f84b281a6f",
       "prefLabel": {
         "de": "Farbstoffe als Beispiele für Aromaten"
-      },
-      "note": {
-        "de": [
-          "Anthrachinonfarbstoffe",
-          "Azo-Gruppe",
-          "Azofarbstoff",
-          "Indigo"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/phenole2ab82dac-c3cb-4749-9f03-0714be521ebe",
       "prefLabel": {
         "de": "Phenole"
-      },
-      "altLabel": {
-        "en": [
-          "phenol",
-          "phenol compound",
-          "phenolic compound",
-          "phenolics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Phenol",
-          "Phenol-Harz",
-          "Säure,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionstypenvonaromaten6a9e82a3-19a0-4cd6-8f95-68dddd384abf",
       "prefLabel": {
         "de": "Reaktionstypen von Aromaten"
-      },
-      "note": {
-        "de": [
-          "Elektrophile aromatische Substitution"
-        ]
       }
     }
   ],
@@ -185,12 +106,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -201,16 +116,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

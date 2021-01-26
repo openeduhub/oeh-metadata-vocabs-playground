@@ -6,93 +6,29 @@
   "prefLabel": {
     "de": "Laborwissen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Labor",
-      "Umgang mit Geräten",
-      "Verhalten im Labor,",
-      "chemisches Labor"
-    ]
-  },
-  "note": {
-    "de": [
-      "Labor",
-      "Umgang mit Geräten",
-      "Verhalten im Labor,",
-      "chemisches Labor"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/geraeteundihrehandhabung7bc1e061-f9d2-4f2c-9415-2f8856aaccd4",
       "prefLabel": {
         "de": "Geräte und ihre Handhabung"
-      },
-      "note": {
-        "de": [
-          "Becherglas,",
-          "Glasgeräte",
-          "Labor",
-          "Laborgeräte",
-          "Reagenzglas",
-          "Reagenzglasständer"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/sicherexperimentierene2fc6a7f-1806-421a-b65f-07738f0340b9",
       "prefLabel": {
         "de": "Sicher experimentieren"
-      },
-      "note": {
-        "de": [
-          "Entsorgung,",
-          "Feuer",
-          "Feuerlöscher",
-          "Gashahn",
-          "Verbandskasten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/umgangmitdemgasbrennerc72e7ef7-5af7-4322-b570-cceba2c335e3",
       "prefLabel": {
         "de": "Umgang mit dem Gasbrenner"
-      },
-      "note": {
-        "de": [
-          "Bunsenbrenner",
-          "Ceranplatte",
-          "Drahtnetz",
-          "Dreibein",
-          "Erhitzen",
-          "Gasbrenner",
-          "Teclubrenner",
-          "Vierbein,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/wiegenundmessen5681b76b-c86d-4121-9207-7c664ea9ecc7",
       "prefLabel": {
         "de": "Wiegen und Messen"
-      },
-      "note": {
-        "de": [
-          "Laborwaage",
-          "Meniskus",
-          "Messen",
-          "Messpipette",
-          "Messzylinder",
-          "Peleusball",
-          "Pipette",
-          "Pipettierhilfe",
-          "Schellbach Streifen",
-          "Tara",
-          "Vollpipette",
-          "Waage",
-          "Wiegen"
-        ]
       }
     }
   ],
@@ -148,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -164,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

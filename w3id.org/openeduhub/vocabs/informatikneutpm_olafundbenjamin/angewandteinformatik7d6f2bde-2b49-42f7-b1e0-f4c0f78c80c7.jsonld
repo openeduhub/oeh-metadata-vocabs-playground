@@ -16,71 +16,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/3d-druck5d399297-c02f-4a0f-899e-54c4f309abcd",
       "prefLabel": {
         "de": "3D-Druck"
-      },
-      "altLabel": {
-        "de": [
-          "3-D Druck",
-          "3D Druck"
-        ],
-        "en": [
-          "3-D printing",
-          "additive manufacturing"
-        ]
-      },
-      "note": {
-        "de": [
-          "3D-CAD-Daten",
-          "BJ",
-          "Binder Jetting",
-          "DM",
-          "Direct Manufacturing",
-          "Elektronenstrahlschmelzen",
-          "FDM",
-          "Fused Deposition Modeling Manufacturing",
-          "LENS",
-          "Laser Engineered Net Shaping",
-          "Laserschmelzen",
-          "NPJ",
-          "Nanoparticle Jetting",
-          "RM",
-          "RR",
-          "Rapid Manufacturing",
-          "Rapid Repair",
-          "Selektives Laserschmelzen",
-          "WAAM",
-          "Wire Arc Additive",
-          "additive Fertigung",
-          "generative Fertigung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/betriebssystemee4de4e0b-8ced-40dc-91f7-d2459f711088",
       "prefLabel": {
         "de": "Betriebssysteme"
-      },
-      "altLabel": {
-        "de": [
-          "Betriebssystem",
-          "Betriebssysteme",
-          "OS"
-        ],
-        "en": [
-          "OS"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/datenbankenf706c06f-3f88-4525-9449-8df2a0c139b4",
       "prefLabel": {
         "de": "Datenbanken"
-      },
-      "note": {
-        "de": [
-          "CMS",
-          "DMS",
-          "relationale Datenbanken"
-        ]
       }
     },
     {
@@ -93,14 +40,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kuenstlicheintelligenzki81173d10-6ddd-4ac9-9a7e-c76d4449752a",
       "prefLabel": {
         "de": "Künstliche Intelligenz (KI)"
-      },
-      "note": {
-        "de": [
-          "AI",
-          "Artificial Intelligence",
-          "KI",
-          "Künstliche Intelligenz"
-        ]
       }
     }
   ],
@@ -150,12 +89,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -166,16 +99,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

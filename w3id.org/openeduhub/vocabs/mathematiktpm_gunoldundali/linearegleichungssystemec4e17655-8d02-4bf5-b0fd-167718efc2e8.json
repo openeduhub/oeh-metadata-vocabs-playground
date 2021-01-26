@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Lineare Gleichungssysteme"
   },
-  "hiddenLabel": {
-    "de": [
-      "Additionsverfahren",
-      "Einsetzungsverfahren",
-      "Gleichsetzungsverfahren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Additionsverfahren",
-      "Einsetzungsverfahren",
-      "Gleichsetzungsverfahren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

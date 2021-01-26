@@ -7,76 +7,43 @@
     "de": "Hauswirtschaft"
   },
   "note": {
-    "de": [
-      "Hauswirtschaft"
-    ]
+    "de": "Hauswirtschaft"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000101",
       "prefLabel": {
         "de": "Ernährungslehre"
-      },
-      "note": {
-        "de": [
-          "Ernährungslehre"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000102",
       "prefLabel": {
         "de": "Kochen"
-      },
-      "note": {
-        "de": [
-          "Kochen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000103",
       "prefLabel": {
         "de": "Wirtschaften im privaten Haushalt"
-      },
-      "note": {
-        "de": [
-          "Wirtschaften im privaten Haushalt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000104",
       "prefLabel": {
         "de": "Haushalt und Umwelt"
-      },
-      "note": {
-        "de": [
-          "Haushalt",
-          "Umwelt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000105",
       "prefLabel": {
         "de": "Wohnung"
-      },
-      "note": {
-        "de": [
-          "Wohnung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000106",
       "prefLabel": {
         "de": "Unfallverhütung"
-      },
-      "note": {
-        "de": [
-          "Unfallverhütung"
-        ]
       }
     }
   ],
@@ -132,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

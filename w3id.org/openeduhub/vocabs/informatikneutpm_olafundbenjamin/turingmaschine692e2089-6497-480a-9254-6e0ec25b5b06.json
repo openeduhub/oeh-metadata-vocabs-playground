@@ -16,22 +16,6 @@
       "deterministic Turing machine"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Turing-Automat",
-      "Turing-Maschine",
-      "Turingautomat",
-      "Turingmaschine"
-    ]
-  },
-  "note": {
-    "de": [
-      "Turing-Automat",
-      "Turing-Maschine",
-      "Turingautomat",
-      "Turingmaschine"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/automatene0ab53e5-ab0f-47f0-bf9f-be2f54d8302f",
     "prefLabel": {
@@ -84,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

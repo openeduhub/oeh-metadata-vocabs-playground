@@ -6,87 +6,35 @@
   "prefLabel": {
     "de": "Religion"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Primarunterricht",
-      "Religion",
-      "Religionsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800901",
       "prefLabel": {
         "de": "Bibel"
-      },
-      "note": {
-        "de": [
-          "Bibel",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800902",
       "prefLabel": {
         "de": "Kirchenjahr"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Kirchenjahr",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800903",
       "prefLabel": {
         "de": "Glaube, Ethik"
-      },
-      "note": {
-        "de": [
-          "Ethik",
-          "Ethikunterricht",
-          "Glaube",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800904",
       "prefLabel": {
         "de": "Vorbilder, Heilige"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Heilige",
-          "Primarunterricht",
-          "Vorbilder"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2800905",
       "prefLabel": {
         "de": "Christliche und nichtchristliche Religionen"
-      },
-      "note": {
-        "de": [
-          "Christliche und nichtchristliche Religionen",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     }
   ],
@@ -142,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -158,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

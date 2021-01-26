@@ -6,136 +6,47 @@
   "prefLabel": {
     "de": "Anorganische Chemie"
   },
-  "hiddenLabel": {
-    "de": [
-      "AC",
-      "Anorganik",
-      "Anorganische Chemie"
-    ]
-  },
-  "note": {
-    "de": [
-      "AC",
-      "Anorganik",
-      "Anorganische Chemie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/analytikverfahrenfebc884c-e9fd-4165-a4c8-38611f6c85ac",
       "prefLabel": {
         "de": "Analytikverfahren"
-      },
-      "note": {
-        "de": [
-          "Analyse,",
-          "Bestimmung",
-          "Nachweis"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elektrochemie1ef317f4-5da2-49c7-b51a-a89ad9e7491e",
       "prefLabel": {
         "de": "Elektrochemie"
-      },
-      "note": {
-        "de": [
-          "Akku,",
-          "Batterie",
-          "Elektrochemie"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kernchemie180414b6-eb4a-495e-af94-a03e6201589e",
       "prefLabel": {
         "de": "Kernchemie"
-      },
-      "altLabel": {
-        "de": [
-          "Nuklearchemie"
-        ]
-      },
-      "note": {
-        "de": [
-          "Isotop",
-          "Kernchemie",
-          "Kernphysik",
-          "Nuklid"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/metalleunderzeb569e361-e899-4150-bb3b-c57466675069",
       "prefLabel": {
         "de": "Metalle und Erze"
-      },
-      "note": {
-        "de": [
-          "Erz",
-          "Gestein,",
-          "Metall"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/periodensystem4c79fbc7-8aab-4be7-b487-eb447fb7edda",
       "prefLabel": {
         "de": "Periodensystem"
-      },
-      "altLabel": {
-        "de": [
-          "PSE",
-          "Periodensystem der Elemente"
-        ],
-        "en": [
-          "Mendeleev's periodic table",
-          "The periodic table",
-          "periodic table of chemical elements",
-          "periodic table of elements"
-        ]
-      },
-      "note": {
-        "de": [
-          "PSE",
-          "Periodensystem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/saeuren,basenundlaugena331d5d3-ca5a-4289-b205-791b3c8a2a0a",
       "prefLabel": {
         "de": "Säuren, Basen und Laugen"
-      },
-      "note": {
-        "de": [
-          "Essig",
-          "Geschmack,",
-          "Wein",
-          "Zitrone,Kalk"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/salzec19d7a53-b8ea-47d3-9639-e077107edeb2",
       "prefLabel": {
         "de": "Salze"
-      },
-      "altLabel": {
-        "de": [
-          "Salze (Bega)",
-          "zibbel"
-        ],
-        "en": [
-          "Salze (Bega)",
-          "salts"
-        ]
-      },
-      "note": {
-        "de": [
-          "salzartige Verbindungen"
-        ]
       }
     }
   ],
@@ -185,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -201,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -7,42 +7,25 @@
     "de": "Sozialpädagogik"
   },
   "note": {
-    "de": [
-      "Sozialpädagogik"
-    ]
+    "de": "Sozialpädagogik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400701",
       "prefLabel": {
         "de": "Pädagogik der Jugendarbeit"
-      },
-      "note": {
-        "de": [
-          "Pädagogik der Jugendarbeit"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400702",
       "prefLabel": {
         "de": "Sozialarbeit mit Erwachsenen"
-      },
-      "note": {
-        "de": [
-          "Sozialarbeit mit Erwachsenen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4400703",
       "prefLabel": {
         "de": "Seniorenarbeit"
-      },
-      "note": {
-        "de": [
-          "Seniorenarbeit"
-        ]
       }
     }
   ],
@@ -98,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

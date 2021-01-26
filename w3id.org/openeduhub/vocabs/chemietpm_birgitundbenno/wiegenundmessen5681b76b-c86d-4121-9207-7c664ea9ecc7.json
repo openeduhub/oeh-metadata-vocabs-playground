@@ -6,40 +6,6 @@
   "prefLabel": {
     "de": "Wiegen und Messen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Laborwaage",
-      "Meniskus",
-      "Messen",
-      "Messpipette",
-      "Messzylinder",
-      "Peleusball",
-      "Pipette",
-      "Pipettierhilfe",
-      "Schellbach Streifen",
-      "Tara",
-      "Vollpipette",
-      "Waage",
-      "Wiegen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Laborwaage",
-      "Meniskus",
-      "Messen",
-      "Messpipette",
-      "Messzylinder",
-      "Peleusball",
-      "Pipette",
-      "Pipettierhilfe",
-      "Schellbach Streifen",
-      "Tara",
-      "Vollpipette",
-      "Waage",
-      "Wiegen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/laborwissenc6e567a4-7ccd-4d0b-8556-04200dda01ab",
     "prefLabel": {
@@ -92,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

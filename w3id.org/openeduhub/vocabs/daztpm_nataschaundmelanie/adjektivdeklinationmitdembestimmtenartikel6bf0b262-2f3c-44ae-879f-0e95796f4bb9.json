@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Adjektivdeklination mit dem bestimmten Artikel"
   },
-  "hiddenLabel": {
-    "de": [
-      " Eigenschaftwörter",
-      "Adjektive",
-      "Deklination",
-      "Wie-Wörter",
-      "bestimmter Artikel"
-    ]
-  },
-  "note": {
-    "de": [
-      " Eigenschaftwörter",
-      "Adjektive",
-      "Deklination",
-      "Wie-Wörter",
-      "bestimmter Artikel"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adjektive398ad3a4-efd8-4738-8189-e393c181eb03",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

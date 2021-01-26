@@ -6,137 +6,53 @@
   "prefLabel": {
     "de": "POLITISCHE BILDUNG"
   },
-  "note": {
-    "de": [
-      "Gesellschaftslehre",
-      "Politik",
-      "Politische Bildung",
-      "Sozialkunde"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48001",
       "prefLabel": {
         "de": "Politische Theorien"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Politische Theorien",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48002",
       "prefLabel": {
         "de": "Politisches System der Bundesrepublik Deutschland"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Politisches System",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48003",
       "prefLabel": {
         "de": "Politische Systeme anderer Länder"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Politische Systeme anderer Länder",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48004",
       "prefLabel": {
         "de": "Politikfelder"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politikfelder",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48005",
       "prefLabel": {
         "de": "Gesellschaftspolitische Gegenwartsfragen"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Gesellschaftspolitische Gegenwartsfragen",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48006",
       "prefLabel": {
         "de": "Individuum und Gesellschaft"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Individuum und Gesellschaft",
-          "Politik",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48007",
       "prefLabel": {
         "de": "Politische Persönlichkeiten"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Politische Persönlichkeiten",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/48080",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Politikunterricht",
-          "Gesellschaftslehre",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     }
   ],
@@ -189,12 +105,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -205,16 +115,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

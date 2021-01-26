@@ -27,37 +27,10 @@
       "xkcd 848"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "GCode",
-      "STL"
-    ]
-  },
-  "note": {
-    "de": [
-      "GCode",
-      "STL"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kodierungdfbeb15c-0455-414b-930f-a784a7ca959e",
     "prefLabel": {
       "de": "Kodierung"
-    },
-    "altLabel": {
-      "de": [
-        "Code",
-        "Codiert",
-        "Codierung",
-        "Decodierung",
-        "Dekodierung",
-        "Enkodierung",
-        "Kodieren",
-        "Kodierung"
-      ],
-      "en": [
-        "coding, encoding"
-      ]
     }
   },
   "inScheme": {
@@ -106,12 +79,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +89,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,45 +6,10 @@
   "prefLabel": {
     "de": "Außenraum/Plätze"
   },
-  "hiddenLabel": {
-    "de": [
-      "Denkmal",
-      "Kapitolsplatz;",
-      "Mahnmal",
-      "Mittelpunkte des öffentlichen Lebens",
-      "Platzkonzept",
-      "gesellschaftspolitischer Raum",
-      "öffentlicher Raum"
-    ]
-  },
-  "note": {
-    "de": [
-      "Denkmal",
-      "Kapitolsplatz;",
-      "Mahnmal",
-      "Mittelpunkte des öffentlichen Lebens",
-      "Platzkonzept",
-      "gesellschaftspolitischer Raum",
-      "öffentlicher Raum"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/architekturab143af5-db25-42ce-94af-d8c79651549e",
     "prefLabel": {
       "de": "Architektur"
-    },
-    "altLabel": {
-      "de": [
-        "Architektur",
-        "Architekturen",
-        "Architekturgebäude",
-        "FB 15",
-        "TU Darmstadt"
-      ],
-      "en": [
-        "Architektur",
-        "TU Darmstadt"
-      ]
     }
   },
   "inScheme": {
@@ -93,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -109,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

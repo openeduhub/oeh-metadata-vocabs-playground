@@ -17,21 +17,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/lernplattformen03b14dcc-f8bc-44fc-b04d-e031ea471488",
       "prefLabel": {
         "de": "Lernplattformen"
-      },
-      "altLabel": {
-        "de": [
-          "Learning Management System",
-          "Learning-Management-System",
-          "Lernmanagementsystem",
-          "Lernplattform",
-          "Lernplattformen",
-          "Managed learning environment"
-        ],
-        "en": [
-          "LCMS",
-          "LMS",
-          "learning content management"
-        ]
       }
     },
     {
@@ -93,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -109,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -14,217 +14,47 @@
       "Unstöchiometrisch"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Menge,",
-      "Mengen",
-      "Stoffmengen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Menge,",
-      "Mengen",
-      "Stoffmengen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/berechnungenph-werta962946e-194d-44bf-b4b8-044843b01041",
       "prefLabel": {
         "de": "Berechnungen pH - Wert"
-      },
-      "note": {
-        "de": [
-          "Dissoziationskonstante",
-          "Kb-Wert",
-          "Ks-Wert",
-          "mol/l",
-          "negativer dekadischer Logarithmus",
-          "pH = -lg [H3O+]",
-          "pKb-Wert",
-          "pks-Wert",
-          "schwache Base",
-          "schwache Säure"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/berechnungenvonundmitkonzentrationend48b5ddf-a638-44bb-a46d-7090287f520a",
       "prefLabel": {
         "de": "Berechnungen von und mit Konzentrationen"
-      },
-      "note": {
-        "de": [
-          "1-m-Lösung",
-          "Konzentration",
-          "Molar",
-          "Molarität",
-          "einmolare Lösung",
-          "mol/l",
-          "molalität"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/dichtef58bb558-d005-4f50-9e41-1ddaa543c930",
       "prefLabel": {
         "de": "Dichte"
-      },
-      "altLabel": {
-        "de": [
-          "Densität",
-          "Dicht",
-          "Dichte",
-          "Dichtefunktion",
-          "Dichtheit",
-          "Gasdichte",
-          "Gesteinsdichte",
-          "Isodensiten",
-          "Massedichte",
-          "Massendichte",
-          "Stoffdichte",
-          "Verteilungsdichte",
-          "WDF",
-          "Wahrscheinlichkeitsdichte",
-          "optische Densität",
-          "pdf",
-          "ρ"
-        ],
-        "en": [
-          "D or d",
-          "Dord",
-          "PDF",
-          "density",
-          "density function",
-          "mass density",
-          "probability function",
-          "sparseness (inverse of)",
-          "specific gravity",
-          "volumetric mass density",
-          "ρ"
-        ]
-      },
-      "note": {
-        "de": [
-          "Dichte Formel",
-          "Feststoffe",
-          "Flüssigkeit",
-          "Leichtmetall",
-          "Schwermetall,",
-          "Umstellen von einer Gleichung",
-          "Verdrängung",
-          "Verdrängungsmethode",
-          "Volumen bestimmen",
-          "Wiegen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/massenwirkungsgesetz453e28f1-8b08-449e-942e-d64a1456c376",
       "prefLabel": {
         "de": "Massenwirkungsgesetz"
-      },
-      "note": {
-        "de": [
-          " Gleichgewichtspfeil ",
-          "Basen-Konstante",
-          "Edukte",
-          "Gleichgewicht",
-          "Kb",
-          "Konstante",
-          "Ks",
-          "Löslichkeitsprodukt",
-          "MWG",
-          "Massenwirkungskonstante",
-          "Produkte",
-          "SÄure",
-          "pKb,",
-          "pKs"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsgleichungenaufstellenundausgleichen0b1e1e54-2cdc-4cbc-90fc-b019ecd01220",
       "prefLabel": {
         "de": "Reaktionsgleichungen aufstellen und ausgleichen"
-      },
-      "note": {
-        "de": [
-          "Gleichung",
-          "Reaktion beschreiben",
-          "Reaktionsgleichung",
-          "Reaktionsschema",
-          "Stöchiometrische Koeffizienten",
-          "Stöchiometrischer Koeffizient,",
-          "aufstellen",
-          "ausgleichen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/satzvonavogadro723e3ba4-ff46-44d6-b7aa-d44076d03538",
       "prefLabel": {
         "de": "Satz von Avogadro"
-      },
-      "altLabel": {
-        "de": [
-          "Avogadro'sches Gesetz",
-          "Avogadro-Gesetz",
-          "Avogadro-Prinzip",
-          "Avogadrogesetz",
-          "Avogadrosche Gesetz",
-          "Avogadrosches Gesetz",
-          "Avogadrosches Prinzip",
-          "Gesetz von Avogadro",
-          "Satz des Avogadro",
-          "Satz von Avogadro"
-        ],
-        "en": [
-          "Avogadro's hypothesis",
-          "Avogadro's principle"
-        ]
-      },
-      "note": {
-        "de": [
-          "Druck",
-          "Gasgleichung",
-          "Gay-Lussac",
-          "R",
-          "Temperatur",
-          "Volumen",
-          "molare Gaskonstante",
-          "molare Masse",
-          "thermische Zustandsgleichung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoffmenge_mol1967986b-1f93-44f3-b3b3-cedabf112074",
       "prefLabel": {
         "de": "Stoffmenge / Mol"
-      },
-      "note": {
-        "de": [
-          " ideales Gas",
-          "Avogadro Konstante",
-          "Grammatom",
-          "Konzentration",
-          "Mol",
-          "Molekular Gewicht,",
-          "Molmasse",
-          "Molvolumen",
-          "SI",
-          "Stoffmenge",
-          "Teilchenzahl",
-          "Wilhelm Ostwald",
-          "atomare Masseneinheit",
-          "mol",
-          "molare Lösung",
-          "molare Masse",
-          "molares Volumen",
-          "u"
-        ]
       }
     }
   ],
@@ -280,12 +110,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -296,16 +120,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

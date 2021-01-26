@@ -6,84 +6,41 @@
   "prefLabel": {
     "de": "Kompetenzen in der digitalen Welt"
   },
-  "note": {
-    "de": [
-      "KMK-Kompetenzrahmen",
-      "Kompetenzbereiche",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4000401",
       "prefLabel": {
         "de": "Suchen, Verarbeiten und Aufbewahren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Suchen, Verarbeiten und Aufbewahren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4000402",
       "prefLabel": {
         "de": "Kommunizieren und Kooperieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4000403",
       "prefLabel": {
         "de": "Produzieren und Präsentieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Produzieren und Präsentieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4000404",
       "prefLabel": {
         "de": "Schützen und sicher Agieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4000405",
       "prefLabel": {
         "de": "Problemlösen und Handeln"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Problemlösen und Handeln",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4000406",
       "prefLabel": {
         "de": "Analysieren und Reflektieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -139,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -155,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

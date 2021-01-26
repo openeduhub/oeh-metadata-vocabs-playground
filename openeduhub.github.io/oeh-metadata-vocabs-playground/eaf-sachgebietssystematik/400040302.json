@@ -6,35 +6,17 @@
   "prefLabel": {
     "de": "Weiterverarbeiten und Integrieren"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Produzieren und Präsentieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004030201",
       "prefLabel": {
         "de": "Inhalte in verschiedenen Formaten bearbeiten, zusammenführen, präsentieren und veröffentlichen oder teilen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Produzieren und Präsentieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004030202",
       "prefLabel": {
         "de": "Informationen, Inhalte und vorhandene digitale Produkte weiterverarbeiten und in bestehendes Wissen integrieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Produzieren und Präsentieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -90,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

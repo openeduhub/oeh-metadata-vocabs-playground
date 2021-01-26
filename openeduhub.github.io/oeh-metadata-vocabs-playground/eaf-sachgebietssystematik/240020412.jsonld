@@ -6,51 +6,23 @@
   "prefLabel": {
     "de": "Faschismus und Nationalsozialismus"
   },
-  "note": {
-    "de": [
-      "Faschismus",
-      "Geschichte",
-      "Geschichtsunterricht",
-      "Nationalsozialismus"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002041201",
       "prefLabel": {
         "de": "Politische und gesellschaftliche Entwicklung"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002041202",
       "prefLabel": {
         "de": "Verfolgung"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Verfolgung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002041203",
       "prefLabel": {
         "de": "Widerstand"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Widerstand"
-        ]
       }
     }
   ],
@@ -106,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

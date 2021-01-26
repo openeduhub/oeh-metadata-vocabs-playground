@@ -14,47 +14,20 @@
       "Satzteil"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Satzglieder"
-    ]
-  },
   "note": {
-    "de": [
-      "Satzglieder"
-    ]
+    "de": "Satzglieder"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/satzgliederbestimmen03cc4129-e5ed-4aa8-96c7-1e28add6c02c",
       "prefLabel": {
         "de": "Satzglieder bestimmen"
-      },
-      "note": {
-        "de": [
-          "\nAdverbialbestimmung Akkusativobjekt,\n Dativobjekt",
-          "\nPrädikat",
-          "Genitivobjekt",
-          "Objekt",
-          "Satzbau",
-          "Satzglieder",
-          "Subjekt",
-          "Syntax"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/tekamolodb0c6174-5e00-4099-8e77-03236428c286",
       "prefLabel": {
         "de": "Tekamolo"
-      },
-      "note": {
-        "de": [
-          "\nkausale Ergänzungen",
-          "\nmodale Ergänzungen",
-          "lokale Ergänzungen",
-          "temporale Ergänzungen"
-        ]
       }
     }
   ],
@@ -110,12 +83,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +93,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -11,32 +11,10 @@
       "consonant softening"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Wortverlängerung ",
-      "b/p",
-      "d/t",
-      "g/k"
-    ]
-  },
-  "note": {
-    "de": [
-      "Wortverlängerung ",
-      "b/p",
-      "d/t",
-      "g/k"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortbildung854770b9-d180-40fb-84ff-c476a1677ac7",
     "prefLabel": {
       "de": "Wortbildung"
-    },
-    "altLabel": {
-      "de": [
-        "Ableitungssilben",
-        "Wortbildungslehre"
-      ]
     }
   },
   "inScheme": {
@@ -85,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -101,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

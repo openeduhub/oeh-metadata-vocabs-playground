@@ -17,15 +17,8 @@
       "Affine map"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Kongruenz- und Ähnlichkeitsabbildungen"
-    ]
-  },
   "note": {
-    "de": [
-      "Kongruenz- und Ähnlichkeitsabbildungen"
-    ]
+    "de": "Kongruenz- und Ähnlichkeitsabbildungen"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrischeabbildungenundmatrizen5cf6b5e7-aa01-4a4d-ab6c-7f0ced29b256",
@@ -79,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -95,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

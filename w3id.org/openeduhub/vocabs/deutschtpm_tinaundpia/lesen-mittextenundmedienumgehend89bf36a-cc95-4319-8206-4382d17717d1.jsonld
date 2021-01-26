@@ -11,23 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dramatischetexteaf0b03de-9f8f-4cf3-8b00-3e428bb50f79",
       "prefLabel": {
         "de": "Dramatische Texte"
-      },
-      "note": {
-        "de": [
-          "Interpretation"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlendetextefaf12133-99f7-41ae-b848-8006bfef5b59",
       "prefLabel": {
         "de": "Erzählende Texte "
-      },
-      "note": {
-        "de": [
-          "Interpretation",
-          "Prosatext"
-        ]
       }
     },
     {
@@ -46,42 +35,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
       "prefLabel": {
         "de": "Literaturgeschichte"
-      },
-      "altLabel": {
-        "en": [
-          "literary history",
-          "literature history"
-        ]
-      },
-      "note": {
-        "de": [
-          "Der Prozess",
-          "Die Verwandlung",
-          "Kafka"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
       "prefLabel": {
         "de": "Lyrische Texte"
-      },
-      "note": {
-        "de": [
-          "Interpretation"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/pragmatischetexte16b6755a-52d7-4d90-8201-3952cb972c7d",
       "prefLabel": {
         "de": "Pragmatische Texte"
-      },
-      "note": {
-        "de": [
-          "Lexikonartikel",
-          "Sachtext"
-        ]
       }
     },
     {
@@ -137,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -153,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Arrays"
   },
-  "hiddenLabel": {
-    "de": [
-      "Matrix"
-    ]
-  },
   "note": {
-    "de": [
-      "Matrix"
-    ]
+    "de": "Matrix"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/abstraktedatentypen_-strukturen84b48587-e3a1-43cd-9e5c-a1bae5843dbd",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

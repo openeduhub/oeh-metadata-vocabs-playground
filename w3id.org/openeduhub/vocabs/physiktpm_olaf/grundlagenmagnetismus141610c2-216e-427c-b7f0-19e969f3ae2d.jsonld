@@ -11,42 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetismuse499c789-f38a-40cd-9427-78fdfab699fa",
       "prefLabel": {
         "de": "Elektromagnetismus"
-      },
-      "note": {
-        "de": [
-          "LORENTZ-Kraft",
-          "Magnetfeld einer Zylinderspule",
-          "Magnetfeld eines geraden Leiters",
-          "Magnetisches Feld einer Spule",
-          "Rechten-Faust-Regel",
-          "magnetische Kraft",
-          "magnetischen Wirkung",
-          "magnetisches Feld",
-          "ØRSTED-Versuch"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/permanentmagnetismusf5aea0d8-a877-4468-8ce7-6c61d858a0aa",
       "prefLabel": {
         "de": "Permanentmagnetismus"
-      },
-      "note": {
-        "de": [
-          "Dauermagnet",
-          "Elementarmagnete",
-          "Entmagnetisieren",
-          "Ferromagnetismus",
-          "Magnetfeld",
-          "Magnetische Feldlinien",
-          "Magnetische Influenz",
-          "Magnetisieren",
-          "Magnetpole",
-          "Nordpol",
-          "Permanentmagnet",
-          "Permanentmagnetismus",
-          "Südpol"
-        ]
       }
     }
   ],
@@ -102,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

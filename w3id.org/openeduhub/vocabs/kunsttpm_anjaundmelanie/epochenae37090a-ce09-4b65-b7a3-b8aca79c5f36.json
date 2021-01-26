@@ -10,15 +10,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/kunstgeschichteaf35607b-13e6-4dbb-a6a4-189f9305b56f",
     "prefLabel": {
       "de": "Kunstgeschichte"
-    },
-    "altLabel": {
-      "de": [
-        "Kunstwissenschaft"
-      ],
-      "en": [
-        "History of the arts",
-        "history of art"
-      ]
     }
   },
   "inScheme": {
@@ -67,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -83,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

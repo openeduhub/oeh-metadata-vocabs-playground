@@ -6,101 +6,35 @@
   "prefLabel": {
     "de": "Symbolschreibweise"
   },
-  "hiddenLabel": {
-    "de": [
-      "Formel",
-      "Formelschreibweise Chemie",
-      "H2O"
-    ]
-  },
-  "note": {
-    "de": [
-      "Formel",
-      "Formelschreibweise Chemie",
-      "H2O"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elementsymboled6eee215-3435-4a3c-82dc-e06311ce8ed4",
       "prefLabel": {
         "de": "Elementsymbole"
-      },
-      "note": {
-        "de": [
-          "Dalton",
-          "Element",
-          "Elementsymbol",
-          "Verbindungen mit Symbolen darstellen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/formelncf972d56-0fd1-4ead-af48-0b47180c0f72",
       "prefLabel": {
         "de": "Formeln"
-      },
-      "note": {
-        "de": [
-          "Index",
-          "Koeffizient,",
-          "Stöchiometrischer Faktor",
-          "Summenformel",
-          "Verbindung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/geschichtlicheentwicklungderelementsymbole96a37e3c-893d-4102-85f9-fe169d47792b",
       "prefLabel": {
         "de": "Geschichtliche Entwicklung der Elementsymbole"
-      },
-      "note": {
-        "de": [
-          "Alchemisten Symbole",
-          "Anfangsbuchstaben",
-          "Argentum",
-          "Aurum",
-          "Cuprum,",
-          "Dalton",
-          "Hydrogenium",
-          "Jens Jakob Berzelius",
-          "Lateinische Elementnamen",
-          "Plumbum"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsgleichungene095a91c-037d-4dde-a12f-cc77a3be3d65",
       "prefLabel": {
         "de": "Reaktionsgleichungen"
-      },
-      "note": {
-        "de": [
-          "Reaktionsgleichung",
-          "Reaktionsgleichung aufstellen",
-          "Reaktionsschema",
-          "￼ Reaktionsgleichung ausgleichen,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/strukturformeln0a9a692a-0f70-4c8b-84f8-d504252a8d25",
       "prefLabel": {
         "de": "Strukturformeln"
-      },
-      "note": {
-        "de": [
-          " Molekülbaukasten",
-          "Elektronenpaare",
-          "Lewisschreibweise",
-          "Radikal,",
-          "Strukturformel",
-          "Valenzelektronen",
-          "Valenzstrichformel",
-          "gemeinsame Elektronenpaare",
-          "gemeinsames Elektronenpaar"
-        ]
       }
     }
   ],
@@ -156,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -172,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

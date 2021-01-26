@@ -6,30 +6,10 @@
   "prefLabel": {
     "de": "Adverbiale Bestimmungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ortsergänzung",
-      "Zeitergänzung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ortsergänzung",
-      "Zeitergänzung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzglieder4e8e2a08-abcb-4a96-88d1-a1a54dba5835",
     "prefLabel": {
       "de": "Satzglieder"
-    },
-    "altLabel": {
-      "de": [
-        "Satzglied",
-        "Satzglieder",
-        "Satzkonstituente",
-        "Satzteil"
-      ]
     }
   },
   "inScheme": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

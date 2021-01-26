@@ -6,36 +6,17 @@
   "prefLabel": {
     "de": "Betriebswirtschaft"
   },
-  "note": {
-    "de": [
-      "Betriebswirtschaft",
-      "Wirtschaftswissenschaft"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000201",
       "prefLabel": {
         "de": "Unternehmensformen, Unternehmensstrukturen"
-      },
-      "note": {
-        "de": [
-          "Unternehmensformen",
-          "Unternehmensstrukturen",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000202",
       "prefLabel": {
         "de": "Bilanzierung, Leistungserstellung"
-      },
-      "note": {
-        "de": [
-          "Bilanzierung",
-          "Leistungserstellung"
-        ]
       }
     }
   ],
@@ -91,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

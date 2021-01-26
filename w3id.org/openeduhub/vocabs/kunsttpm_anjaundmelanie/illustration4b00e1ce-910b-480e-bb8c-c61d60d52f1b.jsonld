@@ -15,22 +15,6 @@
       "illustration process"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Bebilderung",
-      "Magazingestaltung",
-      "Worte werden zu Bildern",
-      "bildliche Veranschaulichung eines Textes"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bebilderung",
-      "Magazingestaltung",
-      "Worte werden zu Bildern",
-      "bildliche Veranschaulichung eines Textes"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -77,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -93,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

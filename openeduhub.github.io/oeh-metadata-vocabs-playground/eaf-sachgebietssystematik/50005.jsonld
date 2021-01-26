@@ -7,110 +7,61 @@
     "de": "Werken"
   },
   "note": {
-    "de": [
-      "Werken"
-    ]
+    "de": "Werken"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000501",
       "prefLabel": {
         "de": "Holz, Kunststoff"
-      },
-      "note": {
-        "de": [
-          "Holz",
-          "Kunststoff"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000502",
       "prefLabel": {
         "de": "Metall"
-      },
-      "note": {
-        "de": [
-          "Metall"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000503",
       "prefLabel": {
         "de": "Ton"
-      },
-      "note": {
-        "de": [
-          "Ton"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000504",
       "prefLabel": {
         "de": "Papier, Pappe"
-      },
-      "note": {
-        "de": [
-          "Papier",
-          "Pappe"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000505",
       "prefLabel": {
         "de": "Andere Materialien"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000506",
       "prefLabel": {
         "de": "Elektrotechnik"
-      },
-      "note": {
-        "de": [
-          "Elektrotechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000507",
       "prefLabel": {
         "de": "Maschinentechnik"
-      },
-      "note": {
-        "de": [
-          "Maschinentechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000508",
       "prefLabel": {
         "de": "Grundlagen des technischen Zeichnens"
-      },
-      "note": {
-        "de": [
-          "technisches Zeichnen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5000509",
       "prefLabel": {
         "de": "Unfallverhütung"
-      },
-      "note": {
-        "de": [
-          "Unfallverhütung"
-        ]
       }
     }
   ],
@@ -166,12 +117,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -182,16 +127,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

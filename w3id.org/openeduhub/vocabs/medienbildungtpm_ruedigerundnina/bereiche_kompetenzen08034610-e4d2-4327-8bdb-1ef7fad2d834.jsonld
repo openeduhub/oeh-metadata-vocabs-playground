@@ -35,28 +35,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/gestaltung7858c905-e989-455c-84ca-31a713831932",
       "prefLabel": {
         "de": "Gestaltung"
-      },
-      "altLabel": {
-        "de": [
-          "Gestalten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/grafikdesign50caff85-1e46-47cb-ba62-489afe9503aa",
       "prefLabel": {
         "de": "Grafikdesign"
-      },
-      "altLabel": {
-        "de": [
-          "Grafik-Design",
-          "Grafik-Designer",
-          "Grafikdesigner",
-          "Graphic-Design",
-          "Graphikdesign",
-          "Kommunikationsdesign",
-          "Kommunikationsdesigner"
-        ]
       }
     },
     {
@@ -75,30 +59,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produktion8bc506a5-b984-4a64-bf3c-04fa148ecf29",
       "prefLabel": {
         "de": "Produktion"
-      },
-      "altLabel": {
-        "de": [
-          "Fabrikation",
-          "Fertigung",
-          "Filmproduzent",
-          "Herstellung",
-          "Herstellungsverfahren",
-          "Musikproduzent",
-          "PS-Regel",
-          "Phrasenstrukturregel",
-          "Plattenproduzent",
-          "Produktion",
-          "Produzentin",
-          "Regel",
-          "Schallplattenproduzent"
-        ],
-        "en": [
-          "film producer",
-          "manufacturing",
-          "produced by",
-          "production",
-          "record producer"
-        ]
       }
     },
     {
@@ -111,20 +71,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/webdesign2955d648-7bf6-46ad-b1c2-b5ba7b8164bf",
       "prefLabel": {
         "de": "Webdesign"
-      },
-      "altLabel": {
-        "de": [
-          "Web Design",
-          "Web-Design",
-          "Webauthoring",
-          "Webgestaltung",
-          "Webprogrammierung",
-          "Webseitengestaltung"
-        ],
-        "en": [
-          "website design",
-          "website designing"
-        ]
       }
     }
   ],
@@ -180,12 +126,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -196,16 +136,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

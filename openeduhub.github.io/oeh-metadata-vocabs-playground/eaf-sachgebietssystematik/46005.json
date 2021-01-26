@@ -6,63 +6,29 @@
   "prefLabel": {
     "de": "Elektrizitätslehre"
   },
-  "note": {
-    "de": [
-      "Elektrizitätslehre",
-      "Physik",
-      "Physikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600501",
       "prefLabel": {
         "de": "Elektrostatik"
-      },
-      "note": {
-        "de": [
-          "Elektrostatik",
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600502",
       "prefLabel": {
         "de": "Elektrodynamik"
-      },
-      "note": {
-        "de": [
-          "Elektrodynamik",
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600503",
       "prefLabel": {
         "de": "Elektronik"
-      },
-      "note": {
-        "de": [
-          "Elektronik",
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4600504",
       "prefLabel": {
         "de": "Technische Anwendungen"
-      },
-      "note": {
-        "de": [
-          "Physik",
-          "Physikunterricht"
-        ]
       }
     }
   ],
@@ -118,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -134,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

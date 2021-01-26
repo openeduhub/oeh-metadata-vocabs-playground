@@ -6,35 +6,17 @@
   "prefLabel": {
     "de": "Teilen"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Kommunizieren und Kooperieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020201",
       "prefLabel": {
         "de": "Dateien, Informationen und Links teilen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020202",
       "prefLabel": {
         "de": "Referenzierungspraxis beherrschen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -90,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

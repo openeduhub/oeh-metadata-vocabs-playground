@@ -20,26 +20,6 @@
       "historical painting"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Handlung und Inszenierung",
-      "Schlachtenbild",
-      "Schlachtendarstellung",
-      "bedeutender Moment",
-      "historisches Ereignis",
-      "zeigt historisch verbürgte Ereignisse"
-    ]
-  },
-  "note": {
-    "de": [
-      "Handlung und Inszenierung",
-      "Schlachtenbild",
-      "Schlachtendarstellung",
-      "bedeutender Moment",
-      "historisches Ereignis",
-      "zeigt historisch verbürgte Ereignisse"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/genre_bildgattungen9e0af10a-93fd-4170-b339-91699d446a0e",
     "prefLabel": {
@@ -92,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

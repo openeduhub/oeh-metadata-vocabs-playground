@@ -6,85 +6,41 @@
   "prefLabel": {
     "de": "Medien in der digitalen Welt verstehen und reflektieren"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Analysieren und Reflektieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060201",
       "prefLabel": {
         "de": "Vielfalt der digitalen Medienlandschaft kennen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060202",
       "prefLabel": {
         "de": "Chancen und Risiken des Mediengebrauchs in unterschiedlichen Lebensbereichen erkennen, eigenen Mediengebrauch reflektieren und ggf. modifizieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt",
-          "Mediennutzung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060203",
       "prefLabel": {
         "de": "Vorteile und Risiken von Geschäftsaktivitäten und Services im Internet analysieren und beurteilen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060204",
       "prefLabel": {
         "de": "Wirtschaftliche Bedeutung der digitalen Medien und digitaler Technologien kennen und sie für eigene Geschäftsideen nutzen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060205",
       "prefLabel": {
         "de": "Die Bedeutung von digitalen Medien für die politische Meinungsbildung und Entscheidungsfindung kennen und nutzen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt",
-          "Medienwirkung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060206",
       "prefLabel": {
         "de": "Potenziale der Digitalisierung im Sinne sozialer Integration und sozialer Teilhabe erkennen, analysieren und reflektieren"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -140,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -156,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

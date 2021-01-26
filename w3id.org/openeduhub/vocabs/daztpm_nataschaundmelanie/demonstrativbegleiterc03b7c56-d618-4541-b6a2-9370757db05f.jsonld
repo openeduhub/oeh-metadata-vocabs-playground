@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Demonstrativbegleiter"
   },
-  "hiddenLabel": {
-    "de": [
-      "Demonstrativartikel",
-      "Demonstrativbegleiter",
-      "Geschlechtswörter",
-      "Nomenbegleiter"
-    ]
-  },
-  "note": {
-    "de": [
-      "Demonstrativartikel",
-      "Demonstrativbegleiter",
-      "Geschlechtswörter",
-      "Nomenbegleiter"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/artikel_begleiterc468c20c-efa6-447b-9af7-a41ae3903483",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

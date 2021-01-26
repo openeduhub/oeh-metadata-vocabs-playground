@@ -11,54 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benennungderaldehydeundketone844c7aa8-e8c6-404b-995f-fa0be923bc79",
       "prefLabel": {
         "de": "Benennung der Aldehyde und Ketone"
-      },
-      "note": {
-        "de": [
-          "Aceton",
-          "Aldehyd",
-          "Alkanal",
-          "Carbonylgruppe",
-          "Ethanal",
-          "Formaldehyd",
-          "Formalin",
-          "Keto-Gruppe",
-          "Keton",
-          "Methanal",
-          "primärer Alkohol",
-          "sekundärer Alkohol "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonaldehydenundketonenfdaafa26-56ec-44fd-8f8a-b0e9acb48bc7",
       "prefLabel": {
         "de": "Eigenschaften von Aldehyden und Ketonen"
-      },
-      "note": {
-        "de": [
-          "C=O–Bindung",
-          "Keto-Enol-Tautomerie ",
-          "Polymerisationsreaktion",
-          "Reduktionsmittel",
-          "Stoffwechsel",
-          "nucleophile Additionsreaktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/nachweisfueraldehydeundketone9b618a7a-a575-45bf-a0a2-f873bea2a3c6",
       "prefLabel": {
         "de": "Nachweis  für Aldehyde und Ketone"
-      },
-      "note": {
-        "de": [
-          "Fehling I",
-          "Fehling II",
-          "Fehling-Probe",
-          "Schiffsche Probe\r\n",
-          "Silberspiegel",
-          "Tollensprobe"
-        ]
       }
     }
   ],
@@ -114,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

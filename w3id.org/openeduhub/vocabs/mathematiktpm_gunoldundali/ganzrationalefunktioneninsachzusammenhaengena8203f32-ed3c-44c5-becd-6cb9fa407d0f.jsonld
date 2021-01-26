@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Ganzrationale Funktionen in Sachzusammenhängen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Extremalpunkte",
-      "Funktionsgleichunge;",
-      "Konstruktion",
-      "Realitätsbezug"
-    ]
-  },
-  "note": {
-    "de": [
-      "Extremalpunkte",
-      "Funktionsgleichunge;",
-      "Konstruktion",
-      "Realitätsbezug"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ableitungenganz-rationalerfunktionenc032870f-9a7f-435f-8f6d-33dcca99f1a4",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

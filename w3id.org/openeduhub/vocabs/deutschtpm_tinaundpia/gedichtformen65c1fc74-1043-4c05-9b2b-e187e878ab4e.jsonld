@@ -6,30 +6,6 @@
   "prefLabel": {
     "de": "Gedichtformen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ballade",
-      "Elegie",
-      "Elfchen",
-      "Epigramm",
-      "Hymne",
-      "Ode",
-      "Sonett",
-      "Volkslied"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ballade",
-      "Elegie",
-      "Elfchen",
-      "Epigramm",
-      "Hymne",
-      "Ode",
-      "Sonett",
-      "Volkslied"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
     "prefLabel": {
@@ -82,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

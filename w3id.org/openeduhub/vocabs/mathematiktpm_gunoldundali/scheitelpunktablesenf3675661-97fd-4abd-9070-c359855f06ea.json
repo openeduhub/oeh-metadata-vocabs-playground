@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Scheitelpunkt ablesen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Der Scheitelpunkt ist der höchste bzw. tiefste Punkt einer Parabel."
-    ]
-  },
   "note": {
-    "de": [
-      "Der Scheitelpunkt ist der höchste bzw. tiefste Punkt einer Parabel."
-    ]
+    "de": "Der Scheitelpunkt ist der höchste bzw. tiefste Punkt einer Parabel."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quadratischefunktionenaae2ae2a-3bfb-4ad1-9e5d-ce2b9bb3629b",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

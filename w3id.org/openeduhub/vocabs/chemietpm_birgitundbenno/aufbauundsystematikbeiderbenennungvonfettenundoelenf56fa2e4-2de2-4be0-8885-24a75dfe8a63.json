@@ -6,52 +6,6 @@
   "prefLabel": {
     "de": "Aufbau und Systematik bei der Benennung von Fetten und Ölen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Arachidonsäure",
-      "Caprinsäure",
-      "Capronsäure",
-      "Caprylsäure",
-      "Fettsäure",
-      "Larinsäure",
-      "Linolsäure",
-      "Omega-6",
-      "Omega-6-Fettsäure,",
-      "Palmitinsäure",
-      "Stearinsäure",
-      "Trigylcerid",
-      "gesättigt",
-      "mehrfach ungesättigt",
-      "omega-Fettsäure",
-      "trans-Fette",
-      "ungesättigt",
-      "Ölsäure",
-      "α-Linolensäure"
-    ]
-  },
-  "note": {
-    "de": [
-      "Arachidonsäure",
-      "Caprinsäure",
-      "Capronsäure",
-      "Caprylsäure",
-      "Fettsäure",
-      "Larinsäure",
-      "Linolsäure",
-      "Omega-6",
-      "Omega-6-Fettsäure,",
-      "Palmitinsäure",
-      "Stearinsäure",
-      "Trigylcerid",
-      "gesättigt",
-      "mehrfach ungesättigt",
-      "omega-Fettsäure",
-      "trans-Fette",
-      "ungesättigt",
-      "Ölsäure",
-      "α-Linolensäure"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/fetteundoeled369c226-2f73-4688-a136-157ebd5c0e3c",
     "prefLabel": {
@@ -104,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

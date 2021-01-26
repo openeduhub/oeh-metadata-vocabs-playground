@@ -6,42 +6,6 @@
   "prefLabel": {
     "de": "quantitativ"
   },
-  "hiddenLabel": {
-    "de": [
-      "Elementaranalyse",
-      "Fällungstitration",
-      "Gravimetrie",
-      "Ionen-Trennungsgang",
-      "Ionennachweis",
-      "Kolorimetrie",
-      "Komplexometrie",
-      "Konduktometrie",
-      "Photometrie",
-      "Redox-Titration",
-      "Säure-Base-Titration",
-      "Titration",
-      "messen",
-      "wiegen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Elementaranalyse",
-      "Fällungstitration",
-      "Gravimetrie",
-      "Ionen-Trennungsgang",
-      "Ionennachweis",
-      "Kolorimetrie",
-      "Komplexometrie",
-      "Konduktometrie",
-      "Photometrie",
-      "Redox-Titration",
-      "Säure-Base-Titration",
-      "Titration",
-      "messen",
-      "wiegen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/analytikverfahrenfebc884c-e9fd-4165-a4c8-38611f6c85ac",
     "prefLabel": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

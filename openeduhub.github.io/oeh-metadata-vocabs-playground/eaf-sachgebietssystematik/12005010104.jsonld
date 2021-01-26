@@ -6,15 +6,6 @@
   "prefLabel": {
     "de": "Soziale Kontakte"
   },
-  "note": {
-    "de": [
-      "DAF",
-      "DAZ",
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Soziale Kontakte"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/120050101",
     "prefLabel": {
@@ -67,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -83,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

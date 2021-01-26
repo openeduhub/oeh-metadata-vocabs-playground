@@ -6,30 +6,6 @@
   "prefLabel": {
     "de": "Kausale Präpositionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Lagewörter",
-      "Präpositionen",
-      "Verhältniswörter",
-      "Vorwörter",
-      "Warum?",
-      "Weshalb?",
-      "begründete Präpositionen",
-      "kausale Präpositionen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Lagewörter",
-      "Präpositionen",
-      "Verhältniswörter",
-      "Vorwörter",
-      "Warum?",
-      "Weshalb?",
-      "begründete Präpositionen",
-      "kausale Präpositionen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praepositonen1bf4f1c3-45d2-46f7-a6b8-2e603146b8b2",
     "prefLabel": {
@@ -82,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,53 +6,23 @@
   "prefLabel": {
     "de": "Deutschland"
   },
-  "note": {
-    "de": [
-      "Deutschland",
-      "Geschichte",
-      "Geschichtsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002050101",
       "prefLabel": {
         "de": "Alliierte Besatzung 1945 -1949"
-      },
-      "note": {
-        "de": [
-          "Alliierte Besatzung 1945 -1949",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002050102",
       "prefLabel": {
         "de": "Deutsche Demokratische Republik 1949 - 1990"
-      },
-      "note": {
-        "de": [
-          "DDR 1949 bis 1990",
-          "Deutsche Demokratische Republik 1949 - 1990",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/24002050103",
       "prefLabel": {
         "de": "Bundesrepublik Deutschland 1949 - 1990"
-      },
-      "note": {
-        "de": [
-          "BRD 1949 bis 1990",
-          "Bundesrepublik Deutschland 1949 - 1990",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     }
   ],
@@ -108,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -124,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

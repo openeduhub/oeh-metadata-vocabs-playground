@@ -21,91 +21,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/arithmetischesmittel63aa0c4e-c910-4a52-a1e7-3a382ffcfbe6",
       "prefLabel": {
         "de": "Arithmetisches Mittel"
-      },
-      "note": {
-        "de": [
-          "Durchschnitt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/boxplots592a90f6-6864-49b7-8207-f222512ff335",
       "prefLabel": {
         "de": "Boxplots"
-      },
-      "note": {
-        "de": [
-          "graphische Darstellung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/boxplotsf3084415-9396-478c-b52f-98f70393aca9",
       "prefLabel": {
         "de": "Boxplots"
-      },
-      "note": {
-        "de": [
-          "graphische Darstellung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/boxplotsfcc6faa8-1a48-4c3e-a7b9-cbcd6d7f1326",
       "prefLabel": {
         "de": "Boxplots"
-      },
-      "note": {
-        "de": [
-          "graphische Darstellung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/median39151910-98f9-4168-b86b-9c90619630c1",
       "prefLabel": {
         "de": "Median"
-      },
-      "altLabel": {
-        "de": [
-          "Median",
-          "Medianwert",
-          "Obermedian",
-          "Schwerlinie",
-          "Seitenhalbierende",
-          "Untermedian",
-          "Zentralwert"
-        ],
-        "en": [
-          "2-quantile",
-          "2nd quartile",
-          "50th percentile",
-          "5th decile",
-          "statistical median"
-        ]
-      },
-      "note": {
-        "de": [
-          "Mittelwert und Lageparameter",
-          "Zentralwert"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/urliste,strichlister,absoluteundrelativehaeufigkeiten7b840243-0deb-444a-87fa-8821cd8cf288",
       "prefLabel": {
         "de": "Urliste, Strichlister, absolute und relative Häufigkeiten"
-      },
-      "note": {
-        "de": [
-          "Balkendiagramme",
-          "Häufigkeitstabellen",
-          "Kreisdiagramme",
-          "Liniendiagramme",
-          "Strichlisten",
-          "Urlisten",
-          "statistischen Daten\n"
-        ]
       }
     }
   ],
@@ -155,12 +100,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -171,16 +110,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

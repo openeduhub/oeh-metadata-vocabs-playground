@@ -6,39 +6,10 @@
   "prefLabel": {
     "de": "Kernreaktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bildung von Elementen",
-      "Heliumbrennen",
-      "Kernreaktoren",
-      "Kernwaffen",
-      "Kohlenstoffbrennen",
-      "Nuklearmedizin,",
-      "Sterne",
-      "Wasserstoffbrennen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bildung von Elementen",
-      "Heliumbrennen",
-      "Kernreaktoren",
-      "Kernwaffen",
-      "Kohlenstoffbrennen",
-      "Nuklearmedizin,",
-      "Sterne",
-      "Wasserstoffbrennen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kernchemie180414b6-eb4a-495e-af94-a03e6201589e",
     "prefLabel": {
       "de": "Kernchemie"
-    },
-    "altLabel": {
-      "de": [
-        "Nuklearchemie"
-      ]
     }
   },
   "inScheme": {
@@ -87,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

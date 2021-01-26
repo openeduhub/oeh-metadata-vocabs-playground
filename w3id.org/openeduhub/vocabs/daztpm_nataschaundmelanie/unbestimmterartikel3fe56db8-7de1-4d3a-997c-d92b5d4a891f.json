@@ -22,26 +22,6 @@
       "linguistic article"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Geschlechtswörter",
-      "Nomenbegleiter",
-      "ein",
-      "eine",
-      "indefiniter Artikel",
-      "unbestimmter Artikel"
-    ]
-  },
-  "note": {
-    "de": [
-      "Geschlechtswörter",
-      "Nomenbegleiter",
-      "ein",
-      "eine",
-      "indefiniter Artikel",
-      "unbestimmter Artikel"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/artikel_begleiterc468c20c-efa6-447b-9af7-a41ae3903483",
     "prefLabel": {
@@ -94,12 +74,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +84,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

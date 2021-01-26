@@ -6,43 +6,17 @@
   "prefLabel": {
     "de": "Deutsch als Zweit- und Fremdsprache"
   },
-  "note": {
-    "de": [
-      "DAF",
-      "DAZ",
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1200501",
       "prefLabel": {
         "de": "Sprachliche Fertigkeiten"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Sprachliche Fertigkeiten"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1200502",
       "prefLabel": {
         "de": "Landeskunde Deutschland"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Landeskunde Deutschland"
-        ]
       }
     }
   ],
@@ -98,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

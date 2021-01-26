@@ -11,86 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/bluetooth95bae12f-b9a9-41cd-906e-0c03746bcaa8",
       "prefLabel": {
         "de": "Bluetooth"
-      },
-      "altLabel": {
-        "de": [
-          "802.15.1",
-          "Blue Tooth",
-          "IEEE 802.15",
-          "IEEE 802.15.1",
-          "xkcd 2055"
-        ],
-        "en": [
-          "bluetooth",
-          "xkcd 2055"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/internet072ff99c-ff65-4312-ab92-466b752d61e5",
       "prefLabel": {
         "de": "Internet"
-      },
-      "altLabel": {
-        "de": [
-          "Netz",
-          "interconnected network"
-        ],
-        "en": [
-          "Net",
-          "global Internet",
-          "internet",
-          "the Internet",
-          "the Net"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/osi87a7b4da-82bf-45c7-9556-f943d2e6b3ce",
       "prefLabel": {
         "de": "OSI"
-      },
-      "altLabel": {
-        "de": [
-          "OSF",
-          "OSI",
-          "Open Society Institute",
-          "Open Source Initiative",
-          "Otto-Selz-Institut für Psychologie und Erziehungswissenschaft"
-        ],
-        "en": [
-          "OSF",
-          "OSI",
-          "Open Society Institute",
-          "Otto Selz Institute",
-          "Otto Selz Institute of Applied Psychology",
-          "Otto-Selz-Institut",
-          "Otto-Selz-Institut fur Psychologie und Erziehungswissenschaft",
-          "Otto-Selz-Institut für Psychologie und Erziehungswissenschaft"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/wlane41de31b-5214-4f12-a997-bb6d021bc0fa",
       "prefLabel": {
         "de": "WLAN"
-      },
-      "altLabel": {
-        "de": [
-          "Drahtlosnetzwerk",
-          "W-LAN",
-          "WLAN",
-          "Wi-Fi",
-          "Wifi",
-          "Wireless LAN",
-          "drahtloses Netzwerk"
-        ],
-        "en": [
-          "WLAN",
-          "Wi-Fi",
-          "Wireless Local Area Network",
-          "wifi"
-        ]
       }
     }
   ],
@@ -146,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -162,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

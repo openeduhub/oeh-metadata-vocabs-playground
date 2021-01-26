@@ -7,56 +7,31 @@
     "de": "FREIZEIT"
   },
   "note": {
-    "de": [
-      "Freizeit"
-    ]
+    "de": "Freizeit"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/18001",
       "prefLabel": {
         "de": "Freizeitbetätigung, Hobby"
-      },
-      "note": {
-        "de": [
-          "Freizeitbetätigung",
-          "Hobby"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/18002",
       "prefLabel": {
         "de": "Freizeitsport"
-      },
-      "note": {
-        "de": [
-          "Freizeitsport"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/18003",
       "prefLabel": {
         "de": "Reisen"
-      },
-      "note": {
-        "de": [
-          "Reisen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/18004",
       "prefLabel": {
         "de": "Familie, Gemeinschaft, Verein"
-      },
-      "note": {
-        "de": [
-          "Familie",
-          "Gemeinschaft",
-          "Verein"
-        ]
       }
     }
   ],
@@ -109,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -125,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

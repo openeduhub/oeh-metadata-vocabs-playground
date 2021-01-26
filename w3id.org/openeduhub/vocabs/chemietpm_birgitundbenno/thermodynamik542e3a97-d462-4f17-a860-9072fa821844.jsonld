@@ -20,137 +20,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/energie26ed27e9-46de-47e0-92f1-f30eac8119b0",
       "prefLabel": {
         "de": "Energie"
-      },
-      "note": {
-        "de": [
-          "Aktivierungsenergie",
-          "Arbeit",
-          "Atomenergie",
-          "Energie",
-          "Energieabgabe",
-          "Energieaufnahme",
-          "Energiediagramm",
-          "Energieerhaltungssatz",
-          "Energiegewinnung",
-          "Energieumsatz",
-          "Energiezufuhr",
-          "Katalysator",
-          "Leistung",
-          "Umwandlung von Energie",
-          "chemische Energie",
-          "elektrische Energie",
-          "endotherm",
-          "es glüht",
-          "exotherm",
-          "glühen",
-          "potentielle Energie"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/entropie_enthalpie7a3f9305-e678-4828-80f1-3ba267d5f1f7",
       "prefLabel": {
         "de": "Entropie / Enthalpie "
-      },
-      "note": {
-        "de": [
-          "Bildungsenthalpie",
-          "Bindungsenergie",
-          "Bindungsenthalpie",
-          "Delta H",
-          "Enthalpie",
-          "Enthalpiedifferenz",
-          "Entropie",
-          "Kalorimeter",
-          "Reaktionsenthalpie",
-          "Unordnung",
-          "Verbrennungsenthalpie",
-          "Wärme",
-          "Wärmeenergie",
-          "Wärmeinhalt",
-          "endotherm",
-          "exotherm",
-          "kJ/mol",
-          "ΔH"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/katalysator32be91f2-bdd0-454d-8e1d-ad703d0f9370",
       "prefLabel": {
         "de": "Katalysator"
-      },
-      "note": {
-        "de": [
-          "Abgaskatalysator",
-          "Aktivkohle",
-          "Ammoniaksynthese",
-          "Asche",
-          "Enzym",
-          "Fahrzeugkatalysator",
-          "Haber-Bosch-Verfahren",
-          "Kontaktverfahren",
-          "Ostwaldverfahren",
-          "Palladium,",
-          "Verringerung Aktivierungsenergie",
-          "Wilhelm Ostwald",
-          "Ziegler-Natta-Katalysator"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsgeschwindigkeitc97a612e-e22d-4329-8a3a-23e5a6e4a9a4",
       "prefLabel": {
         "de": "Reaktionsgeschwindigkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Chemische Kinetik",
-          "Mikrokinetik",
-          "Reaktionsgeschwindigkeit",
-          "Reaktionskinetik"
-        ],
-        "en": [
-          "rate of reaction",
-          "reaction kinetics",
-          "speed of reaction"
-        ]
-      },
-      "note": {
-        "de": [
-          "Arrhenius",
-          "Arrhenius-Gleichung",
-          "Geschwindigkeitsgesetze",
-          "Gleichgewichtsreaktion",
-          "Kinetik",
-          "Konzentrationsänderung",
-          "Massenwirkungsgesetz",
-          "Reaktion erster Ordnung",
-          "Reaktion nullter Ordnung",
-          "Reaktion zweiter Ordnung",
-          "Reaktionsgeschwindigkeit",
-          "Reaktionskinetik",
-          "Stoffmenge",
-          "Temperaturabhängigkeit"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/satzvonhesse31769be-5914-443e-91db-ff96a39a21d4",
       "prefLabel": {
         "de": "Satz  von Hess"
-      },
-      "note": {
-        "de": [
-          "Energieerhaltungssatz",
-          "Enthalpie-Zyklus",
-          "Enthalpieänderung",
-          "Gesamtprozess",
-          "Hessscher Wärmesatz",
-          "Hess’scher Wärmesatz",
-          "Reaktionsweg",
-          "Standardreaktionsenthalpie,"
-        ]
       }
     }
   ],
@@ -206,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -222,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

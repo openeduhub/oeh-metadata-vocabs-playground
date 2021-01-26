@@ -6,34 +6,6 @@
   "prefLabel": {
     "de": "Assemblage"
   },
-  "hiddenLabel": {
-    "de": [
-      "Akkumulation",
-      "Compression",
-      "Daniel Spoerri",
-      "Fundstück",
-      "Kurt Schwitters",
-      "Louise Nevelson",
-      "Marisol",
-      "Montageverfahren",
-      "Objektkunst",
-      "objet trouvé"
-    ]
-  },
-  "note": {
-    "de": [
-      "Akkumulation",
-      "Compression",
-      "Daniel Spoerri",
-      "Fundstück",
-      "Kurt Schwitters",
-      "Louise Nevelson",
-      "Marisol",
-      "Montageverfahren",
-      "Objektkunst",
-      "objet trouvé"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plastikundinstallatione1cf2f8a-9e71-45ea-8ab2-bedfe1f00cf0",
     "prefLabel": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

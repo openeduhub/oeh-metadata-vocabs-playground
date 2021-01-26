@@ -11,44 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gedichtvortrag7e3d40c6-cd35-4a48-82eb-0e68d74e247b",
       "prefLabel": {
         "de": "Gedichtvortrag"
-      },
-      "note": {
-        "de": [
-          "Betonung",
-          "Sprechpausen",
-          "auswendig lernen "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/szenischesspiel8e204a1a-c7f1-496c-88ee-adf59ff87c14",
       "prefLabel": {
         "de": "Szenisches Spiel"
-      },
-      "note": {
-        "de": [
-          "Drama",
-          "Inszenierung eines Gedichts",
-          "Requisiten ",
-          "Rolle",
-          "Rollenspiel",
-          "Szene",
-          "Theater"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/vorlesen1b9dc370-a145-4351-9cff-da13ca5a91eb",
       "prefLabel": {
         "de": "Vorlesen"
-      },
-      "note": {
-        "de": [
-          "Betonung",
-          "Spannungspausen",
-          "Sprechpause",
-          "flüssig lesen "
-        ]
       }
     }
   ],
@@ -104,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

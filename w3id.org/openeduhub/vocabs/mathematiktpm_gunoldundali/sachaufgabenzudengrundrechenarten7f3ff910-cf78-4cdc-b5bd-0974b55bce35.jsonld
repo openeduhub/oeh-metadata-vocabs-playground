@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Sachaufgaben zu den Grundrechenarten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Addition",
-      "Division",
-      "Multiplikation",
-      "Subtraktion",
-      "Textaufgaben"
-    ]
-  },
-  "note": {
-    "de": [
-      "Addition",
-      "Division",
-      "Multiplikation",
-      "Subtraktion",
-      "Textaufgaben"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechnen6d68f650-037c-4b85-9480-5ba151515fc4",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

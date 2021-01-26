@@ -6,34 +6,17 @@
   "prefLabel": {
     "de": "Privater Haushalt"
   },
-  "note": {
-    "de": [
-      "Privater Haushalt",
-      "Privathaushalt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000101",
       "prefLabel": {
         "de": "Umgang mit Geld"
-      },
-      "note": {
-        "de": [
-          "Umgang mit Geld"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000102",
       "prefLabel": {
         "de": "Verbrauchererziehung, Verbraucherschutz"
-      },
-      "note": {
-        "de": [
-          "Verbrauchererziehung",
-          "Verbraucherschutz"
-        ]
       }
     }
   ],
@@ -89,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

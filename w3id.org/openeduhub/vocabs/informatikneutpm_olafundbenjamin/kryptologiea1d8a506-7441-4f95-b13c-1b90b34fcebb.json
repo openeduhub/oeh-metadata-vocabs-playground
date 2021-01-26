@@ -6,34 +6,6 @@
   "prefLabel": {
     "de": "Kryptologie"
   },
-  "hiddenLabel": {
-    "de": [
-      "ENIGMA",
-      "Homomorphe Verschlüsselung",
-      "Informationssicherheit",
-      "Kerckhoffs’ Prinzip",
-      "Kryptographie",
-      "PGP",
-      "Public-Key",
-      "RSA",
-      "Schlüsselaustausch",
-      "Wissenschaft der Verschlüsselung von Informationen"
-    ]
-  },
-  "note": {
-    "de": [
-      "ENIGMA",
-      "Homomorphe Verschlüsselung",
-      "Informationssicherheit",
-      "Kerckhoffs’ Prinzip",
-      "Kryptographie",
-      "PGP",
-      "Public-Key",
-      "RSA",
-      "Schlüsselaustausch",
-      "Wissenschaft der Verschlüsselung von Informationen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/asymmetrischeverschluesselung9ff8c8d7-099d-44ad-8c56-d690d1133fc7",
@@ -45,43 +17,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/blockchaind27e239b-e88e-43e4-a0eb-95353df366e4",
       "prefLabel": {
         "de": "Blockchain"
-      },
-      "altLabel": {
-        "en": [
-          "block chain",
-          "block chain technology",
-          "blockchain technology"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/elektronischesignatur069cabdd-2967-4a2a-8a24-fc7d55e0af3e",
       "prefLabel": {
         "de": "elektronische Signatur"
-      },
-      "altLabel": {
-        "de": [
-          "Digitale Unterschrift",
-          "Electronic signature",
-          "Elektronische Unterschrift"
-        ],
-        "en": [
-          "e-signatur"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kryptoanalyse9708ed69-f214-41c4-b606-b2eb5f3515f1",
       "prefLabel": {
         "de": "Kryptoanalyse"
-      },
-      "altLabel": {
-        "de": [
-          "Angriff mit frei wählbarem Klartext",
-          "Chosen-Plaintext-Angriff",
-          "Chosen-Plaintext-Attacke",
-          "Kryptanalyse"
-        ]
       }
     },
     {
@@ -143,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -159,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -14,97 +14,10 @@
       "edifice"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Architektur aus Eis und Schnee",
-      "Architekturikone",
-      "Ausstellungsarchitektur",
-      "Baukörper",
-      "Coworking Spaces",
-      "Dachformen",
-      "Einkaufszentrum",
-      "Geschichte des Sakralbaus",
-      "Großbauten",
-      "Hochhausbau",
-      "Hochhäuser",
-      "Ingenieurbau",
-      "Kathedralen",
-      "Kirche",
-      "Kommunalbauten",
-      "Massivbau",
-      "Meditationsbau",
-      "Museumsbau",
-      "Profanbau",
-      "Pyramiden",
-      "Sakralbau",
-      "Schaufassade",
-      "Schlossbau",
-      "Schulen",
-      "Shopping-Mall",
-      "Stadien",
-      "Tempel",
-      "Verkehrsbauten",
-      "Wolkenkratzer",
-      "energieeffizientes Bauen",
-      "gotischer Sakralbau",
-      "wehrhafte Gottesburgen",
-      "öffentliche Bauaufgaben"
-    ]
-  },
-  "note": {
-    "de": [
-      "Architektur aus Eis und Schnee",
-      "Architekturikone",
-      "Ausstellungsarchitektur",
-      "Baukörper",
-      "Coworking Spaces",
-      "Dachformen",
-      "Einkaufszentrum",
-      "Geschichte des Sakralbaus",
-      "Großbauten",
-      "Hochhausbau",
-      "Hochhäuser",
-      "Ingenieurbau",
-      "Kathedralen",
-      "Kirche",
-      "Kommunalbauten",
-      "Massivbau",
-      "Meditationsbau",
-      "Museumsbau",
-      "Profanbau",
-      "Pyramiden",
-      "Sakralbau",
-      "Schaufassade",
-      "Schlossbau",
-      "Schulen",
-      "Shopping-Mall",
-      "Stadien",
-      "Tempel",
-      "Verkehrsbauten",
-      "Wolkenkratzer",
-      "energieeffizientes Bauen",
-      "gotischer Sakralbau",
-      "wehrhafte Gottesburgen",
-      "öffentliche Bauaufgaben"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/architekturab143af5-db25-42ce-94af-d8c79651549e",
     "prefLabel": {
       "de": "Architektur"
-    },
-    "altLabel": {
-      "de": [
-        "Architektur",
-        "Architekturen",
-        "Architekturgebäude",
-        "FB 15",
-        "TU Darmstadt"
-      ],
-      "en": [
-        "Architektur",
-        "TU Darmstadt"
-      ]
     }
   },
   "inScheme": {
@@ -153,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -169,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

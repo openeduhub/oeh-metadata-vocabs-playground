@@ -6,204 +6,17 @@
   "prefLabel": {
     "de": "Schriftlicher Ausdruck"
   },
-  "hiddenLabel": {
-    "de": [
-      "Alltagssprache BICS",
-      "Begriffsnetze",
-      "Berichte",
-      "Beschreibungen",
-      "Bewerbung",
-      "Bilder",
-      "Bildergeschichten",
-      "Bildungssprache CALP",
-      "Briefe",
-      "Comic",
-      "E-Mails",
-      "Fantasiegeschichten schreiben",
-      "Gedichte",
-      "Geschichten",
-      "Hintergrundwissen fördern",
-      "Inhaltsangaben",
-      "Jugendbücher",
-      "Kontext der Schreibaufgaben",
-      "Lernen ohne Aufgaben",
-      "Lerntagebuch",
-      "Lieder",
-      "Opperatoren",
-      "Personen / Tiere / Bilder / Bücher / Gegenstände raten",
-      "Phasen Schreibprozess",
-      "Plakate",
-      "Portfolio",
-      "Poster",
-      "Protokoll",
-      "Präsentationsfolien",
-      "Sachtexte",
-      "Schreibaufgaben",
-      "Schreiben mit Bausteinen",
-      "Schreiben zu Bildern / Büchern / Gegenständen",
-      "Schreibprozesse planen",
-      "Segelboot / Papierflieger falten",
-      "Stellungsnahmen",
-      "Tagebucheinträge",
-      "Textsorten",
-      "Vater und Sohn Bildergeschichten",
-      "Vorgangsbeschreibung",
-      "Wortwolken",
-      "Writers Long-term-Memory",
-      "adressatenbezogen",
-      "argumentierendes Schreiben",
-      "berichten",
-      "beschreiben",
-      "erzählen",
-      "generatives Schreiben",
-      "informierendes Schreiben",
-      "komplexe Beschreibung / Anleitung",
-      "kreatives Schreiben",
-      "präsentieren",
-      "reflexives Schrieben",
-      "scaffolding",
-      "vom Bild zum Wort zum Satz zum Text",
-      "vom einfachen Satz zum Satzgefüge",
-      "zusammenfassen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alltagssprache BICS",
-      "Begriffsnetze",
-      "Berichte",
-      "Beschreibungen",
-      "Bewerbung",
-      "Bilder",
-      "Bildergeschichten",
-      "Bildungssprache CALP",
-      "Briefe",
-      "Comic",
-      "E-Mails",
-      "Fantasiegeschichten schreiben",
-      "Gedichte",
-      "Geschichten",
-      "Hintergrundwissen fördern",
-      "Inhaltsangaben",
-      "Jugendbücher",
-      "Kontext der Schreibaufgaben",
-      "Lernen ohne Aufgaben",
-      "Lerntagebuch",
-      "Lieder",
-      "Opperatoren",
-      "Personen / Tiere / Bilder / Bücher / Gegenstände raten",
-      "Phasen Schreibprozess",
-      "Plakate",
-      "Portfolio",
-      "Poster",
-      "Protokoll",
-      "Präsentationsfolien",
-      "Sachtexte",
-      "Schreibaufgaben",
-      "Schreiben mit Bausteinen",
-      "Schreiben zu Bildern / Büchern / Gegenständen",
-      "Schreibprozesse planen",
-      "Segelboot / Papierflieger falten",
-      "Stellungsnahmen",
-      "Tagebucheinträge",
-      "Textsorten",
-      "Vater und Sohn Bildergeschichten",
-      "Vorgangsbeschreibung",
-      "Wortwolken",
-      "Writers Long-term-Memory",
-      "adressatenbezogen",
-      "argumentierendes Schreiben",
-      "berichten",
-      "beschreiben",
-      "erzählen",
-      "generatives Schreiben",
-      "informierendes Schreiben",
-      "komplexe Beschreibung / Anleitung",
-      "kreatives Schreiben",
-      "präsentieren",
-      "reflexives Schrieben",
-      "scaffolding",
-      "vom Bild zum Wort zum Satz zum Text",
-      "vom einfachen Satz zum Satzgefüge",
-      "zusammenfassen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/operatoren6bd99faa-10ef-43ab-bd73-8f8dd4fc1e5c",
       "prefLabel": {
         "de": "Operatoren"
-      },
-      "note": {
-        "de": [
-          "Operatoren",
-          "berichten",
-          "beschreiben",
-          "erzählen",
-          "präsentieren",
-          "zusammenfassen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/schreibtraining3c1a9073-2c8e-4962-b6f9-9470a162791e",
       "prefLabel": {
         "de": "Schreibtraining"
-      },
-      "note": {
-        "de": [
-          "Alltagssprache BICS",
-          "Begriffsnetze",
-          "Berichte",
-          "Beschreibungen",
-          "Bewerbung",
-          "Bilder",
-          "Bildergeschichten",
-          "Bildungssprache CALP",
-          "Briefe",
-          "Comic",
-          "E-Mails",
-          "Fantasiegeschichten schreiben",
-          "Gedichte",
-          "Geschichten",
-          "Hintergrundwissen fördern",
-          "Inhaltsangaben",
-          "Jugendbücher",
-          "Kontext der Schreibaufgaben",
-          "Lernen ohne Aufgaben",
-          "Lerntagebuch",
-          "Lieder",
-          "Personen / Tiere / Bilder / Bücher / Gegenstände raten",
-          "Phasen Schreibprozess",
-          "Plakate",
-          "Portfolio",
-          "Poster",
-          "Protokoll",
-          "Präsentationsfolien",
-          "Sachtexte",
-          "Schreiben mit Bausteinen",
-          "Schreiben zu Bildern / Büchern / Gegenständen",
-          "Schreibförderung",
-          "Schreibprozesse planen",
-          "Segelboot / Papierflieger falten",
-          "Stellungsnahmen",
-          "Tagebucheinträge",
-          "Textsorten",
-          "Vater und Sohn Bildergeschichten",
-          "Vorgangsbeschreibung",
-          "Wortwolken",
-          "Writers Long-term-Memory",
-          "adressatenbezogen",
-          "argumentierendes Schreiben",
-          "generatives Schreiben",
-          "informierendes Schreiben",
-          "komplexe Beschreibung / Anleitung",
-          "kreatives Schreiben",
-          "reflexives Schreiben",
-          "scaffolding",
-          "vom Bild zum Wort zum Satz zum Text",
-          "vom einfachen Satz zum Satzgefüge"
-        ]
       }
     }
   ],
@@ -211,11 +24,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/sprachdidaktik1e9f432e-27e3-481b-97cb-3bb3dc708a7e",
     "prefLabel": {
       "de": "Sprachdidaktik"
-    },
-    "altLabel": {
-      "en": [
-        "language didactics"
-      ]
     }
   },
   "inScheme": {
@@ -264,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -280,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

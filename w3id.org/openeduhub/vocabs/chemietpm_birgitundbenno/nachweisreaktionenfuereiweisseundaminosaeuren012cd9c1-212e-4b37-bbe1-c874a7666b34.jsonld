@@ -6,39 +6,10 @@
   "prefLabel": {
     "de": "Nachweisreaktionen für Eiweiße und Aminosäuren"
   },
-  "hiddenLabel": {
-    "de": [
-      " Ninhydrin-Test",
-      " chromatographische Trennung",
-      "Biuret-Reaktion",
-      "Xanthoprotein-Reaktion",
-      "elektrophoretische Trennung"
-    ]
-  },
-  "note": {
-    "de": [
-      " Ninhydrin-Test",
-      " chromatographische Trennung",
-      "Biuret-Reaktion",
-      "Xanthoprotein-Reaktion",
-      "elektrophoretische Trennung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
     "prefLabel": {
       "de": "Eiweiße"
-    },
-    "altLabel": {
-      "de": [
-        "Eiweiß",
-        "Eiweiße",
-        "Protein",
-        "Proteine"
-      ],
-      "en": [
-        "proteins"
-      ]
     }
   },
   "inScheme": {
@@ -87,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,116 +6,53 @@
   "prefLabel": {
     "de": "Informatik"
   },
-  "note": {
-    "de": [
-      "Informatik",
-      "Informatikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200201",
       "prefLabel": {
         "de": "Technische Informatik"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "Technische Informatik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200202",
       "prefLabel": {
         "de": "Angewandte Informatik"
-      },
-      "note": {
-        "de": [
-          "Angewandte Informatik",
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200203",
       "prefLabel": {
         "de": "Theoretische Informatik"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "Theoretische Informatik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200204",
       "prefLabel": {
         "de": "Praktische Informatik"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "Praktische Informatik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200205",
       "prefLabel": {
         "de": "Informatik und andere Wissenschaften"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200206",
       "prefLabel": {
         "de": "Informatik und Gesellschaft"
-      },
-      "note": {
-        "de": [
-          "Gesellschaft",
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200207",
       "prefLabel": {
         "de": "Künstliche Intelligenz"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "KI",
-          "Künstliche Intelligenz"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3200208",
       "prefLabel": {
         "de": "Didaktik und Methodik des Informationsunterrichts"
-      },
-      "note": {
-        "de": [
-          "Didaktik",
-          "Informatik",
-          "Informatikunterricht",
-          "Methodik"
-        ]
       }
     }
   ],
@@ -171,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -187,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

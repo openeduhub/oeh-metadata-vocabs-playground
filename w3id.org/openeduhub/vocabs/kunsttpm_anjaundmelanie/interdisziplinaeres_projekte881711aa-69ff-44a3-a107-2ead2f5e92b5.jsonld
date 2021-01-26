@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Interdisziplinäres / Projekte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Architektur in Minetest",
-      "Calliope Mini in der Kunst",
-      "Farbprojekt mit Bio",
-      "Malroboter",
-      "Mikrocontroller in der Kunst",
-      "Physik und Kunst",
-      "interdisziplinäre Projekte"
-    ]
-  },
-  "note": {
-    "de": [
-      "Architektur in Minetest",
-      "Calliope Mini in der Kunst",
-      "Farbprojekt mit Bio",
-      "Malroboter",
-      "Mikrocontroller in der Kunst",
-      "Physik und Kunst",
-      "interdisziplinäre Projekte"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/ueberdentellerrandae918d0c-4996-4cae-b974-713b28359722",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

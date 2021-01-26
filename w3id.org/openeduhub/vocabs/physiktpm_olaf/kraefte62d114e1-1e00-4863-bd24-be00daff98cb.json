@@ -6,71 +6,23 @@
   "prefLabel": {
     "de": "Kräfte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Abbremsen",
-      "Physikalische Kräfte haben Wirkungen wie Beschleunigen",
-      "Ändern einer Bewegungsrichtung oder ein Verformen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abbremsen",
-      "Physikalische Kräfte haben Wirkungen wie Beschleunigen",
-      "Ändern einer Bewegungsrichtung oder ein Verformen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/additionundzerlegung184b1544-5933-481d-9a29-3567bb8745b8",
       "prefLabel": {
         "de": "Addition und Zerlegung"
-      },
-      "note": {
-        "de": [
-          "Kraftvektor",
-          "Kräftedreieck",
-          "Kräftegleichgewicht",
-          "Kräfteparallelogramm",
-          "Parallelverschiebung eines Kraftvektors",
-          "resultierende Kraft"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/artenfb3422e1-3449-4944-aaf1-414405bdc1a7",
       "prefLabel": {
         "de": "Arten"
-      },
-      "note": {
-        "de": [
-          "Abgeleitete Kraft",
-          "Abgeleitete Kräfte",
-          "Auftriebskraft",
-          "Federkraft",
-          "Fundamentale Kraft",
-          "Fundemantale Kräfte",
-          "Gravitationskraft",
-          "Reibungskraft",
-          "elektrische Kraft"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/hookschesgesetz3a5dbcf2-5b51-402b-9995-93d7f766b76a",
       "prefLabel": {
         "de": "Hooksches Gesetz"
-      },
-      "note": {
-        "de": [
-          "Elastizität",
-          "Feder",
-          "Federhärte",
-          "Federkonstante",
-          "Federwaage",
-          "Kraftwirkung auf elastische Körper",
-          "Wirkung einer Kraft auf elastische Körper"
-        ]
       }
     }
   ],
@@ -78,11 +30,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
     "prefLabel": {
       "de": "Mechanik"
-    },
-    "altLabel": {
-      "de": [
-        "Mechanisch"
-      ]
     }
   },
   "inScheme": {
@@ -131,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

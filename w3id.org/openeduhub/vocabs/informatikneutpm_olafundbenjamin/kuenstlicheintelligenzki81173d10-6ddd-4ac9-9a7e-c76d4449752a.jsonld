@@ -6,62 +6,23 @@
   "prefLabel": {
     "de": "Künstliche Intelligenz (KI)"
   },
-  "hiddenLabel": {
-    "de": [
-      "AI",
-      "Artificial Intelligence",
-      "KI",
-      "Künstliche Intelligenz"
-    ]
-  },
-  "note": {
-    "de": [
-      "AI",
-      "Artificial Intelligence",
-      "KI",
-      "Künstliche Intelligenz"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/bots4590d271-dc41-462c-b015-12fb48766a6b",
       "prefLabel": {
         "de": "Bots"
-      },
-      "altLabel": {
-        "de": [
-          "Bonkie Bongaerts",
-          "Hans Sanders"
-        ]
-      },
-      "note": {
-        "de": [
-          "Chatbot"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/digitaleethik456e3d92-bebb-448c-8715-74c6c333c357",
       "prefLabel": {
         "de": "Digitale Ethik"
-      },
-      "note": {
-        "de": [
-          "Algorithmenethik",
-          "Datenethik",
-          "Digitale Ethik"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kuenstlicheneuronalenetze1174a7fd-0185-4a35-85b9-da2e5b8b8e20",
       "prefLabel": {
         "de": "Künstliche Neuronale Netze"
-      },
-      "note": {
-        "de": [
-          "backpropagation"
-        ]
       }
     },
     {
@@ -75,11 +36,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/angewandteinformatik7d6f2bde-2b49-42f7-b1e0-f4c0f78c80c7",
     "prefLabel": {
       "de": "Angewandte Informatik"
-    },
-    "altLabel": {
-      "de": [
-        "Applied Computer Science"
-      ]
     }
   },
   "inScheme": {
@@ -128,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -144,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

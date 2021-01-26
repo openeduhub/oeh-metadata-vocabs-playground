@@ -6,58 +6,6 @@
   "prefLabel": {
     "de": "Persönliche Daten und Privatsphäre schützen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Account",
-      "Accounts",
-      "Daten schützen",
-      "Datenmissbrauch",
-      "Datenschutz",
-      "Datensicherheit",
-      "Nutzername",
-      "Passwort",
-      "Passwort schützen",
-      "Passworterstellung",
-      "Passwörter",
-      "Passwörter schützen",
-      "Persönlichkeitsrecht",
-      "Privatsphäre und Informationssicherheit beachten",
-      "Privatsphäreeinstellungen",
-      "Profil",
-      "Selbstdarstellung",
-      "Siherheitseinstellungen",
-      "Verbraucherschutz",
-      "Verbraucherschutzmaßnahmen",
-      "Zugangsdaten",
-      "sensible Daten"
-    ]
-  },
-  "note": {
-    "de": [
-      "Account",
-      "Accounts",
-      "Daten schützen",
-      "Datenmissbrauch",
-      "Datenschutz",
-      "Datensicherheit",
-      "Nutzername",
-      "Passwort",
-      "Passwort schützen",
-      "Passworterstellung",
-      "Passwörter",
-      "Passwörter schützen",
-      "Persönlichkeitsrecht",
-      "Privatsphäre und Informationssicherheit beachten",
-      "Privatsphäreeinstellungen",
-      "Profil",
-      "Selbstdarstellung",
-      "Siherheitseinstellungen",
-      "Verbraucherschutz",
-      "Verbraucherschutzmaßnahmen",
-      "Zugangsdaten",
-      "sensible Daten"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/bedienenundanwenden6043a17b-7d82-4fef-b751-036a9b18d009",
     "prefLabel": {
@@ -110,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,179 +6,71 @@
   "prefLabel": {
     "de": "GRUNDSCHULE"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Primarunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28001",
       "prefLabel": {
         "de": "Deutsch"
-      },
-      "note": {
-        "de": [
-          "Deutsch",
-          "Deutsch in der Grundschule",
-          "Deutschunterricht",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28002",
       "prefLabel": {
         "de": "Deutsch für Kinder anderer Muttersprache"
-      },
-      "note": {
-        "de": [
-          "Deutsch für Kinder anderer Muttersprache",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28003",
       "prefLabel": {
         "de": "Medienerziehung"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Medienerziehung",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28004",
       "prefLabel": {
         "de": "Ethik"
-      },
-      "note": {
-        "de": [
-          "Ethik",
-          "Ethikunterricht",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28005",
       "prefLabel": {
         "de": "Fremdsprachen"
-      },
-      "note": {
-        "de": [
-          "Fremdsprachen",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28006",
       "prefLabel": {
         "de": "Kunst, Werken, Textiles Gestalten"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Kunst",
-          "Primarunterricht",
-          "Textiles Gestalten",
-          "Werken"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28007",
       "prefLabel": {
         "de": "Mathematik"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht",
-          "Primarunterricht",
-          "Rechnen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28008",
       "prefLabel": {
         "de": "Musik"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Musik",
-          "Musikunterricht",
-          "Primarunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28009",
       "prefLabel": {
         "de": "Religion"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Religion",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28010",
       "prefLabel": {
         "de": "Sachkunde"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28011",
       "prefLabel": {
         "de": "Sport"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sport",
-          "Sportunterricht"
-        ]
       }
     }
   ],
@@ -231,12 +123,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -247,16 +133,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

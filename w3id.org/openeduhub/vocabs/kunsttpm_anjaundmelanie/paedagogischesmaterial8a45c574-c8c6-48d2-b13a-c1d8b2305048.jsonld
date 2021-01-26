@@ -6,39 +6,10 @@
   "prefLabel": {
     "de": "pädagogisches Material"
   },
-  "hiddenLabel": {
-    "de": [
-      "Angebote für Schulen",
-      "Begleitmaterial",
-      "Lehrer*innenmaterial",
-      "Lehrermaterial",
-      "Schüler*innenmaterial",
-      "Schülermaterial",
-      "museumspädagogisches Material;",
-      "pädagogisches Material"
-    ]
-  },
-  "note": {
-    "de": [
-      "Angebote für Schulen",
-      "Begleitmaterial",
-      "Lehrer*innenmaterial",
-      "Lehrermaterial",
-      "Schüler*innenmaterial",
-      "Schülermaterial",
-      "museumspädagogisches Material;",
-      "pädagogisches Material"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/museen2e2ac839-df74-4c9b-b0ff-8d84f55a4d7c",
     "prefLabel": {
       "de": "Museen"
-    },
-    "altLabel": {
-      "de": [
-        "NACE 91.02"
-      ]
     }
   },
   "inScheme": {
@@ -87,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

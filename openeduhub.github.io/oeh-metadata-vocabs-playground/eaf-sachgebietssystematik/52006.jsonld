@@ -6,91 +6,41 @@
   "prefLabel": {
     "de": "Religiöse Kunst"
   },
-  "note": {
-    "de": [
-      "Religion",
-      "Religionslehre",
-      "Religionsunterricht",
-      "Religiöse Kunst"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200601",
       "prefLabel": {
         "de": "Bild und Plastik"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200602",
       "prefLabel": {
         "de": "Musik"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200603",
       "prefLabel": {
         "de": "Theater"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200604",
       "prefLabel": {
         "de": "Film"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200605",
       "prefLabel": {
         "de": "Literatur"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/5200606",
       "prefLabel": {
         "de": "Architektur"
-      },
-      "note": {
-        "de": [
-          "Religion",
-          "Religionslehre",
-          "Religionsunterricht"
-        ]
       }
     }
   ],
@@ -146,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -162,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -16,70 +16,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bedingtewahrscheinlichkeit7dab130d-070a-471b-aa14-e03a1de5d4f2",
       "prefLabel": {
         "de": "bedingte Wahrscheinlichkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Schnittmengenwahrscheinlichkeit",
-          "Schnittwahrscheinlichkeit",
-          "Verbundwahrscheinlichkeit",
-          "bedingte Wahrscheinlichkeiten",
-          "gemeinsame Wahrscheinlichkeit",
-          "konditionale Wahrscheinlichkeit",
-          "konjunktive Wahrscheinlichkeit"
-        ]
-      },
-      "note": {
-        "de": [
-          " (bedingte) Wahrscheinlichkeit von A unter der Bedingung B"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/stochastischeunabhaengigkeitee1a3438-d288-4ba2-84b3-854e9d670984",
       "prefLabel": {
         "de": "stochastische Unabhängigkeit"
-      },
-      "altLabel": {
-        "de": [
-          "statistische Unabhängigkeit",
-          "stochastisch unabhängig",
-          "stochastische Abhängigkeit",
-          "unabhängig"
-        ],
-        "en": [
-          "independent",
-          "statistically independent",
-          "stochastically independent"
-        ]
-      },
-      "note": {
-        "de": [
-          "Unabhängigkeit von Ereignissen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/vierfeldertafelea34ea50-5929-40fd-b413-5f8e1d329fea",
       "prefLabel": {
         "de": "Vierfeldertafel"
-      },
-      "note": {
-        "de": [
-          "Verknüpfungen von Ereignissen visualisieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zufallsexperimenteundwahrscheinlichkeiten9d4474bc-5062-4bb1-b32e-febc752f475b",
       "prefLabel": {
         "de": "Zufallsexperimente und Wahrscheinlichkeiten"
-      },
-      "note": {
-        "de": [
-          "Glücksrad",
-          "Laplace",
-          "Würfelwurf"
-        ]
       }
     }
   ],
@@ -129,12 +83,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -145,16 +93,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

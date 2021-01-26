@@ -6,93 +6,41 @@
   "prefLabel": {
     "de": "Musiktheorie"
   },
-  "note": {
-    "de": [
-      "Musik",
-      "Musiktheorie",
-      "Musikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200701",
       "prefLabel": {
         "de": "Akustik"
-      },
-      "note": {
-        "de": [
-          "Akustik",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200702",
       "prefLabel": {
         "de": "Formenlehre"
-      },
-      "note": {
-        "de": [
-          "Formenlehre",
-          "Formenlehre in der Musik",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200703",
       "prefLabel": {
         "de": "Harmonielehre"
-      },
-      "note": {
-        "de": [
-          "Harmonielehre",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200704",
       "prefLabel": {
         "de": "Instrumentenkunde"
-      },
-      "note": {
-        "de": [
-          "Instrumentenkunde",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200705",
       "prefLabel": {
         "de": "Notation"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Notation",
-          "Notation in der Musik",
-          "Notenschrift"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200706",
       "prefLabel": {
         "de": "Arrangement"
-      },
-      "note": {
-        "de": [
-          "Arrangement",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     }
   ],
@@ -148,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -164,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

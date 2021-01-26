@@ -11,29 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/aehnlichkeit1c04d9de-94fb-403d-94a8-64dad7e12f9a",
       "prefLabel": {
         "de": "Ähnlichkeit"
-      },
-      "altLabel": {
-        "de": [
-          "ähnlich"
-        ],
-        "en": [
-          "Identity",
-          "identity relation",
-          "identity relationship",
-          "itself"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
       "prefLabel": {
         "de": "Analysis"
-      },
-      "altLabel": {
-        "en": [
-          "Mathematical analysis",
-          "analysis"
-        ]
       }
     },
     {
@@ -46,15 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/arithmetikaf0c9401-704c-46e5-9632-d47b37006408",
       "prefLabel": {
         "de": "Arithmetik"
-      },
-      "altLabel": {
-        "de": [
-          "Arithmetisch",
-          "Zahlenrechnen"
-        ],
-        "en": [
-          "arithmetics"
-        ]
       }
     },
     {
@@ -67,51 +41,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/brueche387d7c70-34da-4ff6-8cf8-2b267ac36778",
       "prefLabel": {
         "de": "Brüche"
-      },
-      "altLabel": {
-        "de": [
-          "NSG Brüche",
-          "Naturschutzgebiet Brüche"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/dezimalzahlen444c27b3-7086-47a9-8820-3dcbba856669",
       "prefLabel": {
         "de": "Dezimalzahlen"
-      },
-      "altLabel": {
-        "de": [
-          "Dekadisches System",
-          "Denär",
-          "Denärsystem",
-          "Dezimaldarstellung",
-          "Dezimalschreibweise",
-          "Dezimalsystem",
-          "Dezimalzahl",
-          "Dezimalzahlen",
-          "Periode",
-          "Zehnersystem"
-        ],
-        "en": [
-          "Decimal system",
-          "base 10",
-          "base ten",
-          "decimal numeral system",
-          "denary"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/figurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
       "prefLabel": {
         "de": "Figuren"
-      },
-      "altLabel": {
-        "de": [
-          "Charaktere",
-          "Rollen"
-        ]
       }
     },
     {
@@ -124,71 +65,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrie14c29fbf-09d7-49fd-98be-b99cfbe00d6a",
       "prefLabel": {
         "de": "Geometrie"
-      },
-      "altLabel": {
-        "en": [
-          "Geometry"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometriec35f7dfe-65a6-4ad7-b803-6b0a357f2ada",
       "prefLabel": {
         "de": "Geometrie"
-      },
-      "altLabel": {
-        "en": [
-          "Geometry"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/koerper5ddda5ff-527f-47a0-998b-d810aed8be66",
       "prefLabel": {
         "de": "Körper"
-      },
-      "altLabel": {
-        "de": [
-          "Humanphysiologie",
-          "Körper",
-          "Körperaxiome",
-          "Körperlichkeit",
-          "geometrischer Körper",
-          "menschlicher Körper",
-          "physikalischer Körper",
-          "physikalisches Objekt"
-        ],
-        "en": [
-          "Corp",
-          "body",
-          "body (physics)",
-          "cohesive object",
-          "concrete physical object",
-          "object (physics)",
-          "physical body",
-          "solid",
-          "tangible physical object"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzen1f493cf6-9f6e-4714-809e-e299b203aa48",
       "prefLabel": {
         "de": "Potenzen"
-      },
-      "altLabel": {
-        "de": [
-          "Exponent",
-          "Potenz",
-          "Potenzen",
-          "Potenzrechnung",
-          "Potenzzahl",
-          "¹"
-        ],
-        "en": [
-          "exponentiations",
-          "power"
-        ]
       }
     },
     {
@@ -225,16 +119,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/statistikfda80d2b-a4e2-4025-aebb-195873d6f0af",
       "prefLabel": {
         "de": "Statistik"
-      },
-      "altLabel": {
-        "de": [
-          "Statistik",
-          "Stichprobenfunktion"
-        ],
-        "en": [
-          "Statistics",
-          "sample statistic"
-        ]
       }
     },
     {
@@ -259,22 +143,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeit8abf3a5d-aa98-4e1b-a3c3-104a3cf42701",
       "prefLabel": {
         "de": "Wahrscheinlichkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Probabilität"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeitcf7f74e0-e25d-49a6-9cf6-09ddf83c7364",
       "prefLabel": {
         "de": "Wahrscheinlichkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Probabilität"
-        ]
       }
     },
     {
@@ -357,12 +231,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -373,16 +241,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

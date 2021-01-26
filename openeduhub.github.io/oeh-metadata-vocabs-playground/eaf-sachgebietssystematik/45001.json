@@ -7,53 +7,31 @@
     "de": "Außereuropäische Philosophie"
   },
   "note": {
-    "de": [
-      "Außereuropäische Philosophie"
-    ]
+    "de": "Außereuropäische Philosophie"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500101",
       "prefLabel": {
         "de": "Indische Philosophie"
-      },
-      "note": {
-        "de": [
-          "Indische Philosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500102",
       "prefLabel": {
         "de": "Chinesische Philosophie"
-      },
-      "note": {
-        "de": [
-          "Chinesische Philosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500103",
       "prefLabel": {
         "de": "Japanische Philosophie"
-      },
-      "note": {
-        "de": [
-          "Japanische Philosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500104",
       "prefLabel": {
         "de": "Philosophie des arabisch-islamischen Kulturraums"
-      },
-      "note": {
-        "de": [
-          "Philosophie des arabisch-islamischen Kulturraums"
-        ]
       }
     }
   ],
@@ -109,12 +87,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -125,16 +97,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

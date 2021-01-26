@@ -11,88 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/algorithmenerkennen1224e72b-50c8-4368-9a2a-cd7c8745b072",
       "prefLabel": {
         "de": "Algorithmen erkennen"
-      },
-      "note": {
-        "de": [
-          "Befehlsfolge",
-          "Bezeichnungen",
-          "Grenzen der Berechenbarkeit",
-          "Handlungsanweisungen",
-          "Kriterien von Algorithmen",
-          "Schleife",
-          "Verzweigung",
-          "algorithmische Grundbausteine",
-          "algorithmische Verfahren",
-          "benennen und befolgen Handlungsvorschriften",
-          "komplexe Algorithmen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/bedeutungvonalgorithmen4d02b2ac-96d5-466c-885c-0749a94f4b9a",
       "prefLabel": {
         "de": "Bedeutung von Algorithmen"
-      },
-      "note": {
-        "de": [
-          "Algorithmus Algorithmen und Ethik",
-          "Big data",
-          "Bot",
-          "Bots",
-          "KI",
-          "Künstliche Intelligenz",
-          "Netzpolitik",
-          "Nutzerdaten",
-          "Plattform",
-          "Plattformen",
-          "Vorteile und Nachteile automatisierter Prozesse",
-          "digitale Ethik",
-          "digitale automatisierte Prozesse",
-          "Überwachung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/modellierenundprogrammierena69d407d-00f6-4023-852c-149ec2373e61",
       "prefLabel": {
         "de": "Modellieren und Programmieren"
-      },
-      "note": {
-        "de": [
-          " Daten aus Umwelt darstellen strukturieren und auswerten",
-          "Algorithmus",
-          "Code",
-          "Coding",
-          "Programmcode",
-          "Programmieren",
-          "algorithmische Sequenz",
-          "algorithmische Sequenzen",
-          "algorithmische Struktur"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/prinzipienderdigitalenweltd1560efa-7a83-408f-9eec-d3e1ca20d24d",
       "prefLabel": {
         "de": "Prinzipien der digitalen Welt"
-      },
-      "note": {
-        "de": [
-          "Automatisierung",
-          "Baumstruktur",
-          "Baumstruturen",
-          "Binärsystem",
-          "Dateityp",
-          "Datenbank",
-          "Datenmodell",
-          "Datenstruktur",
-          "Datentypen",
-          "Netzstruktur",
-          "Netzstrukturen",
-          "Speicherung und Weitergabe von Daten und Informationen",
-          "Verarbeitung",
-          "zwischen Daten und Informationen unterscheiden"
-        ]
       }
     }
   ],
@@ -142,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -158,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

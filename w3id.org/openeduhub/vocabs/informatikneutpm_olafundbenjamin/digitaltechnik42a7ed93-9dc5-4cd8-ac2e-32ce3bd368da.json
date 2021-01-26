@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Digitaltechnik"
   },
-  "hiddenLabel": {
-    "de": [
-      "Funktionen digitaler Schaltungen",
-      "Signalverarbeitung",
-      "digitale Signale"
-    ]
-  },
-  "note": {
-    "de": [
-      "Funktionen digitaler Schaltungen",
-      "Signalverarbeitung",
-      "digitale Signale"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/funktionsweiseeinesrechners19e7f35f-df1a-42b5-aff9-1c9da8979622",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

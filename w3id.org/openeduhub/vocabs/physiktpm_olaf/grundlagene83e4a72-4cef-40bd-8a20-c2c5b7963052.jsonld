@@ -6,34 +6,10 @@
   "prefLabel": {
     "de": "Grundlagen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Fähigkeit zur Interferenz",
-      "Komplementarität",
-      "Quantenobjekten",
-      "Statistische Vorhersagbarkeit"
-    ]
-  },
-  "note": {
-    "de": [
-      "Fähigkeit zur Interferenz",
-      "Komplementarität",
-      "Quantenobjekten",
-      "Statistische Vorhersagbarkeit"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/quantenphysikb7ba13f9-73ea-47de-9a61-94cb2e5adff1",
     "prefLabel": {
       "de": "Quantenphysik"
-    },
-    "altLabel": {
-      "de": [
-        "Quantenfotonik",
-        "Quantenhypothese",
-        "Quantensystem",
-        "Quantentheorie"
-      ]
     }
   },
   "inScheme": {
@@ -82,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

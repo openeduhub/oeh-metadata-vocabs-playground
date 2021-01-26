@@ -7,53 +7,31 @@
     "de": "SPIEL- UND DOKUMENTARFILM"
   },
   "note": {
-    "de": [
-      "NaN"
-    ]
+    "de": "NaN"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58001",
       "prefLabel": {
         "de": "Kurzfilm"
-      },
-      "note": {
-        "de": [
-          "Kurzfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58002",
       "prefLabel": {
         "de": "Langfilm"
-      },
-      "note": {
-        "de": [
-          "Langfilm"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58003",
       "prefLabel": {
         "de": "Zielgruppenfilm"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58004",
       "prefLabel": {
         "de": "Dokumentarfilm"
-      },
-      "note": {
-        "de": [
-          "Dokumentarfilm"
-        ]
       }
     }
   ],
@@ -106,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

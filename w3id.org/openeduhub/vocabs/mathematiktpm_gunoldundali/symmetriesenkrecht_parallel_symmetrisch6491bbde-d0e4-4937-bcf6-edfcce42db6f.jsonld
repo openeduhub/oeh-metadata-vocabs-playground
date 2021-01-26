@@ -11,34 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/abstaende306040a3-969d-48c3-a809-383d51929297",
       "prefLabel": {
         "de": "Abstände"
-      },
-      "note": {
-        "de": [
-          "Entfernung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/achsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
       "prefLabel": {
         "de": "Achsensymmetrie"
-      },
-      "altLabel": {
-        "de": [
-          "Spiegelsymmetrie",
-          "Spiegelsymmetrisch",
-          "Symmetrieachse"
-        ],
-        "en": [
-          "axisymmetry",
-          "line symmetry",
-          "reflection symmetry"
-        ]
-      },
-      "note": {
-        "de": [
-          "Spiegelsymmetrie"
-        ]
       }
     },
     {
@@ -51,56 +29,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/koordinatensystem530a7be6-73a2-43e4-aef3-38bf713f77ce",
       "prefLabel": {
         "de": "Koordinatensystem"
-      },
-      "altLabel": {
-        "de": [
-          "KOS",
-          "Koordinaten"
-        ],
-        "en": [
-          "system of coordinates"
-        ]
-      },
-      "note": {
-        "de": [
-          "Abszisse",
-          "Ordinate",
-          "Position von Punkten",
-          "geometrischer Raum"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/punktsymmetriea8fa8bc0-ab5d-489b-bacf-b47932d6a791",
       "prefLabel": {
         "de": "Punktsymmetrie"
-      },
-      "altLabel": {
-        "de": [
-          "Symmetriepunkt"
-        ],
-        "en": [
-          "Point symmetry, point reflection",
-          "point symmetry"
-        ]
-      },
-      "note": {
-        "de": [
-          "punktsymmetrisch"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/senkrechteundparallelegeradene77dd061-fefc-4cda-8409-c6af83f6a06f",
       "prefLabel": {
         "de": "Senkrechte und parallele Geraden"
-      },
-      "note": {
-        "de": [
-          "Element ",
-          "Linie",
-          "Parallelität"
-        ]
       }
     }
   ],
@@ -150,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -166,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

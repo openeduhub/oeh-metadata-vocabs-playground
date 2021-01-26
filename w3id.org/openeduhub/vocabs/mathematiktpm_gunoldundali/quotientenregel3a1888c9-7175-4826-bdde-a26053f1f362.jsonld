@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Quotientenregel"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bruch ableiten",
-      "Nenner und Zähler ableiten"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bruch ableiten",
-      "Nenner und Zähler ableiten"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ableitungenweitererfunktionsklassen21466b3a-ba4e-4339-8a69-da1ea98ab607",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

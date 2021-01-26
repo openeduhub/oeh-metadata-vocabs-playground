@@ -14,100 +14,29 @@
       "Kohlenwasserstoffkette"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Alkane",
-      "Alkene",
-      "Alkine",
-      "Aromaten",
-      "Cycloalkan"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alkane",
-      "Alkene",
-      "Alkine",
-      "Aromaten",
-      "Cycloalkan"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benennungderkohlenwasserstoffed74688bc-a9f8-46dc-a78a-02d528f8d264",
       "prefLabel": {
         "de": "Benennung der Kohlenwasserstoffe"
-      },
-      "note": {
-        "de": [
-          "-an",
-          "-en",
-          "-in",
-          "Butan",
-          "Ethan",
-          "Ethen",
-          "Ethin",
-          "Hexan",
-          "Homologe Reihe",
-          "Methan",
-          "Pentan",
-          "Propan",
-          "Strukturformel",
-          "Summenformel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenderkohlenwasserstoffe6d8ce6f2-2318-4841-a5be-6276d11eeb18",
       "prefLabel": {
         "de": "Eigenschaften der  Kohlenwasserstoffe"
-      },
-      "note": {
-        "de": [
-          "Benzin",
-          "Cetanzahl",
-          "Diesel",
-          "Klopfen,",
-          "Oktanzahl",
-          "Verbrennungsmotor",
-          "aliphatische Kohlenwasserstoffe",
-          "aromatische",
-          "gesättigt",
-          "ungesättigt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/erdoel-entstehung,gewinnung,verarbeitung48236be4-4d6e-497d-ad31-d674d5edeeab",
       "prefLabel": {
         "de": "Erdöl - Entstehung, Gewinnung, Verarbeitung"
-      },
-      "note": {
-        "de": [
-          "Bitumen",
-          "Bohrturm",
-          "Brent",
-          "Erdöl",
-          "Erdölförderung",
-          "Glockenboden",
-          "Rohöl",
-          "Süßes Erdöl",
-          "fraktionierte Destillation",
-          "leichtes Erdöl"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsmechanismenbeikohlenwasserstoffenf41f970b-8d28-4c53-ad8d-546ed4435eac",
       "prefLabel": {
         "de": "Reaktionsmechanismen bei Kohlenwasserstoffen"
-      },
-      "note": {
-        "de": [
-          "Elektrophile Addition",
-          "Nucleophile Substitution,",
-          "Radikalische Substitution"
-        ]
       }
     }
   ],
@@ -163,12 +92,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -179,16 +102,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

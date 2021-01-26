@@ -20,178 +20,47 @@
       "atomic model"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Atomismus",
-      "Atommodell",
-      "Kontinuitätsprinzip"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atomismus",
-      "Atommodell",
-      "Kontinuitätsprinzip"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellnachbohr_schalenmodell8c9fcb8d-58fd-4baa-a8b9-9fa3de64ad1e",
       "prefLabel": {
         "de": "Atommodell nach Bohr / Schalenmodell"
-      },
-      "note": {
-        "de": [
-          "2n²",
-          "Atomhülle",
-          "Atomkern",
-          "Edelgas Regel,",
-          "Elektron",
-          "K-Schale",
-          "Kreisbahn",
-          "L-Schale",
-          "Oktett Regel",
-          "Periode",
-          "Schalen",
-          "Spektrum",
-          "Valenzelektronen",
-          "acht Schalen",
-          "elektrostatische Anziehung",
-          "negative Ladung",
-          "positive Ladung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellnachdalton062fa784-0802-4241-aa38-a94464cfd37a",
       "prefLabel": {
         "de": "Atommodell nach Dalton"
-      },
-      "note": {
-        "de": [
-          "Atom",
-          "Atommasse",
-          "Atomsorte",
-          "Element",
-          "Molekül"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellnachkimball_kugelwolkenmodell8996202a-6431-4205-b0a1-f704e9c8ded0",
       "prefLabel": {
         "de": "Atommodell nach Kimball / Kugelwolkenmodell"
-      },
-      "note": {
-        "de": [
-          "Aufenthaltsraum der Elektronen",
-          "Bindungselektronenpaar",
-          "Doppelbindung",
-          "Dreifachbindung",
-          "Elektronenformel",
-          "Elektronenpaar",
-          "Elektronenwolken",
-          "Keilstrichformel",
-          "Lewisschreibweise",
-          "Skelettformel,",
-          "Valenzstrichformel",
-          "einzelnes Elektron",
-          "freies Elektronenpaar",
-          "Überlappung der Elektronenwolken"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellnachrutherford_kern-huelle-modell78984611-8fe3-4482-acad-4306df6f703e",
       "prefLabel": {
         "de": "Atommodell nach Rutherford / Kern-Hülle-Modell"
-      },
-      "note": {
-        "de": [
-          "Ablenkung",
-          "Alpha Teilchen",
-          "Alpha-Teilchen",
-          "Bleimantel",
-          "Elektron",
-          "Elementarteilchen",
-          "Elementarteilchen Anzahl bestimmen",
-          "Foto-Schirm",
-          "Goldfolie",
-          "Hülle",
-          "Ionen",
-          "Kern",
-          "Leuchtschirm",
-          "Neutron",
-          "Proton",
-          "Streuversuch",
-          "Teilchenstrahlung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellnachthomson_rosinenkuchenmodell707480d3-0896-44b6-8cbc-6aaf011541db",
       "prefLabel": {
         "de": "Atommodell nach Thomson / Rosinenkuchenmodell"
-      },
-      "note": {
-        "de": [
-          "Elektrodenröhre",
-          "Elektron",
-          "Elektronen entfernen,",
-          "Isolator",
-          "Joseph Thomson",
-          "Kathodenröhre",
-          "Kathodenstrahl-Röhre",
-          "Kathodenstrahlung",
-          "Leiter",
-          "Plumpudding",
-          "Rosinen",
-          "Rosinenkuchenmodell",
-          "Stromleitfähigkeit",
-          "positive Masse",
-          "stromleitfähig"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/historischeentwicklung767536c4-7ac6-47a0-87d4-f679a7385a22",
       "prefLabel": {
         "de": "Historische Entwicklung"
-      },
-      "note": {
-        "de": [
-          "Atom",
-          "Demokrit",
-          "Leukipp",
-          "Materie",
-          "Platon",
-          "Teilchen",
-          "atomos"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/orbitalmodellcaf91ccf-5534-4f10-add6-3ed348d1e0e9",
       "prefLabel": {
         "de": "Orbitalmodell"
-      },
-      "note": {
-        "de": [
-          "Aufenthaltswahrscheinlichkeit",
-          "Doppelspaltexperiment",
-          "Doppelspaltexperiment,",
-          "Hybridisierung",
-          "Orbital",
-          "Pi-Bindung",
-          "Schrödinger",
-          "Sigma-Bindung",
-          "Wellen",
-          "p-Orbital",
-          "s-Orbital",
-          "sp-Hybridisierung",
-          "sp2-Hybridisierung",
-          "sp3-Hybridisierung"
-        ]
       }
     }
   ],
@@ -247,12 +116,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -263,16 +126,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,61 +6,26 @@
   "prefLabel": {
     "de": "Abstrakte Datentypen / -strukturen"
   },
-  "hiddenLabel": {
-    "de": [
-      "ADT"
-    ]
-  },
   "note": {
-    "de": [
-      "ADT"
-    ]
+    "de": "ADT"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/arraysbeefd583-d968-4106-a0f6-05e02720acf3",
       "prefLabel": {
         "de": "Arrays"
-      },
-      "note": {
-        "de": [
-          "Matrix"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/baeume4b16c4ce-9349-4b2f-abd2-7bb14abd9fae",
       "prefLabel": {
         "de": "Bäume"
-      },
-      "note": {
-        "de": [
-          "Binärbaum",
-          "Graph"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/graphen5afebbbe-5ca4-4da5-a844-83ae1f0009fa",
       "prefLabel": {
         "de": "Graphen"
-      },
-      "altLabel": {
-        "de": [
-          "Graphene"
-        ],
-        "en": [
-          "Graphene",
-          "monolayer graphite"
-        ]
-      },
-      "note": {
-        "de": [
-          "Baum",
-          "Graphentheorie",
-          "Knoten und Kanten",
-          "Netz"
-        ]
       }
     },
     {
@@ -73,63 +38,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/listen50bb346d-4a0c-48f5-b19d-3e9c20a4ffd5",
       "prefLabel": {
         "de": "Listen"
-      },
-      "note": {
-        "de": [
-          "1 dimensionalles Array ",
-          "Vektor",
-          "list"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/schlangen31d2f5c2-2874-4bc4-ab65-8070353fdb93",
       "prefLabel": {
         "de": "Schlangen"
-      },
-      "altLabel": {
-        "de": [
-          "Schlangen <Kreis Lippe>"
-        ],
-        "en": [
-          "serpent",
-          "serpents",
-          "snakes"
-        ]
-      },
-      "note": {
-        "de": [
-          "FIFO",
-          "queue"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/stapela1225f7e-20a0-45dc-ac49-d62caab7b2ea",
       "prefLabel": {
         "de": "Stapel"
-      },
-      "altLabel": {
-        "de": [
-          "Palle",
-          "Pallen",
-          "Pallung",
-          "Stapel",
-          "Stapelfaser",
-          "Stapelung"
-        ],
-        "en": [
-          "pile",
-          "staple fiber",
-          "staple fibre",
-          "wool staple"
-        ]
-      },
-      "note": {
-        "de": [
-          "LIFO",
-          "stack"
-        ]
       }
     },
     {
@@ -197,12 +117,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -213,16 +127,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

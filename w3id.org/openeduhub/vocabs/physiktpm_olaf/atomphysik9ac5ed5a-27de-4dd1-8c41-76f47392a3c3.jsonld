@@ -17,91 +17,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/atomarerenergieaustausch31493101-46f1-4343-b0bb-17d427148548",
       "prefLabel": {
         "de": "Atomarer Energieaustausch"
-      },
-      "note": {
-        "de": [
-          "Absorptionsspektrum",
-          "Atomares Spektrum",
-          "Emissionsspektrum",
-          "Linienspektren",
-          "Photonenabsorbtion",
-          "Photonenemission",
-          "Stoßionisation",
-          "diskrete Energieniveaus",
-          "diskrete Energiezustände"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/historischeatommodellea95dea6c-c7fc-47a2-afb1-f88f24258cd5",
       "prefLabel": {
         "de": "Historische Atommodelle"
-      },
-      "note": {
-        "de": [
-          "Bohrsches Atommodell",
-          "Rosinenkuchenmodell",
-          "Rutherfordsches Modell",
-          "Tröpfchenmodell"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/quantenmechanischesatommodelle2b1fcbc-65a3-4704-89d6-9568d0639cb3",
       "prefLabel": {
         "de": "Quantenmechanisches Atommodell"
-      },
-      "note": {
-        "de": [
-          "Elektronenkonfigurationen",
-          "Hauptquantenzahl",
-          "Linearer Potentialtopf",
-          "Nebenquantenzahl",
-          "Orbitalmodell",
-          "Pauli-Prinzip",
-          "Potentialtopf",
-          "Quantenzahlen",
-          "Spin-Quantenzahl",
-          "Wahrscheinlichkeitsverteilungen beim H-Atom",
-          "Wahrscheinlichkeitsverteilungen beim Wasserstoffatom",
-          "magnetische Quantenzahl"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/roentgen-strahlung3dbd1908-8118-417c-b74a-7c9452884f33",
       "prefLabel": {
         "de": "Röntgen-Strahlung"
-      },
-      "altLabel": {
-        "de": [
-          "Röntgen-Strahlen",
-          "Röntgen-Strahlung",
-          "Röntgenbestrahlung",
-          "Röntgenstrahl",
-          "Röntgenstrahlen",
-          "Röntgenstrahlung",
-          "X-Rays",
-          "X-Strahlen"
-        ],
-        "en": [
-          "X-radiation"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bremsstrahlung",
-          "Gesetz von Moseley",
-          "Röntgen-Spektroskopie",
-          "Röntgenbilder",
-          "Röntgenröhren",
-          "Röntgenspektroskopie",
-          "Röntgenspektrum",
-          "Röntgenstrahlung",
-          "Strahlenbelastung",
-          "X-Ray",
-          "X-Strahlen"
-        ]
       }
     }
   ],
@@ -151,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -167,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

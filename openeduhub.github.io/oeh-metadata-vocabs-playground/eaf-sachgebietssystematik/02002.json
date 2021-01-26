@@ -6,66 +6,29 @@
   "prefLabel": {
     "de": "Berufskunde"
   },
-  "note": {
-    "de": [
-      "Arbeitslehre",
-      "Berufskunde"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0200201",
       "prefLabel": {
         "de": "Berufswahlkriterien"
-      },
-      "note": {
-        "de": [
-          "Arbeitslehre",
-          "Berufsvorbereitung",
-          "Berufswahl",
-          "Berufswahlkriterien"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0200202",
       "prefLabel": {
         "de": "Berufsbilder"
-      },
-      "note": {
-        "de": [
-          "Arbeitslehre",
-          "Berufsbilder"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0200203",
       "prefLabel": {
         "de": "Wandel von Berufen"
-      },
-      "note": {
-        "de": [
-          "Arbeitslehre",
-          "Berufe im Wandel",
-          "Wandel von Berufen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0200204",
       "prefLabel": {
         "de": "Berufsweg, Fort- und Weiterbildung"
-      },
-      "note": {
-        "de": [
-          "Arbeitslehre",
-          "Berufsweg",
-          "Fortbildung",
-          "Weiterbildung",
-          "berufliche Entwicklung",
-          "berufliche Laufbahn"
-        ]
       }
     }
   ],
@@ -121,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -137,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,92 +6,23 @@
   "prefLabel": {
     "de": "Energie"
   },
-  "hiddenLabel": {
-    "de": [
-      "Eine fundamentale physikalische Größe",
-      "Erhaltungsgröße"
-    ]
-  },
-  "note": {
-    "de": [
-      "Eine fundamentale physikalische Größe",
-      "Erhaltungsgröße"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/energieformeneb2b35a2-7740-425a-812f-e8604b44b5f4",
       "prefLabel": {
         "de": "Energieformen"
-      },
-      "note": {
-        "de": [
-          "Atomenergie",
-          "Bewegungsenergie",
-          "Chemische Energie",
-          "Elektrische Energie",
-          "Kernenergie",
-          "Lageenergie",
-          "Sonnenenergie",
-          "Strahlungsenergie",
-          "Wärmeenergie",
-          "kinetische Energie",
-          "potentielle Energie"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/energiespeicher7a985848-c476-4283-b843-4c09c766d1eb",
       "prefLabel": {
         "de": "Energiespeicher"
-      },
-      "altLabel": {
-        "en": [
-          "storage capacity"
-        ]
-      },
-      "note": {
-        "de": [
-          "Akkumulator",
-          "Batterie",
-          "Batterie-Speicherkraftwerk",
-          "Druckluftspeicherkraftwerk",
-          "Fernwärmespeicher",
-          "Hubspeicherkraftwerk",
-          "Kondensator",
-          "Latentwärmespeicher",
-          "Pumpspeicherkraftwerk",
-          "Redox-Flow-Batterie",
-          "Schwungradspeicher",
-          "Supraleitender Magnetischer Energiespeicher",
-          "Thermochemische Wärmespeicher",
-          "Wärmespeicher",
-          "galvanische Zelle"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/energieumwandlung5e77cf50-727f-44c4-8a63-f4e801b44b77",
       "prefLabel": {
         "de": "Energieumwandlung"
-      },
-      "altLabel": {
-        "de": [
-          "Energiewandler",
-          "Energiewandlung"
-        ],
-        "en": [
-          "conversion",
-          "energy conversion"
-        ]
-      },
-      "note": {
-        "de": [
-          "Energieerhaltungssatz",
-          "Energieflussdiagrammen",
-          "Energierhaltung",
-          "Erhaltungssatz der Energie"
-        ]
       }
     }
   ],
@@ -141,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -157,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

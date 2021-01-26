@@ -6,43 +6,13 @@
   "prefLabel": {
     "de": "Körper und Netze"
   },
-  "hiddenLabel": {
-    "de": [
-      "Auffaltung"
-    ]
-  },
   "note": {
-    "de": [
-      "Auffaltung"
-    ]
+    "de": "Auffaltung"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/koerper5ddda5ff-527f-47a0-998b-d810aed8be66",
     "prefLabel": {
       "de": "Körper"
-    },
-    "altLabel": {
-      "de": [
-        "Humanphysiologie",
-        "Körper",
-        "Körperaxiome",
-        "Körperlichkeit",
-        "geometrischer Körper",
-        "menschlicher Körper",
-        "physikalischer Körper",
-        "physikalisches Objekt"
-      ],
-      "en": [
-        "Corp",
-        "body",
-        "body (physics)",
-        "cohesive object",
-        "concrete physical object",
-        "object (physics)",
-        "physical body",
-        "solid",
-        "tangible physical object"
-      ]
     }
   },
   "inScheme": {
@@ -91,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

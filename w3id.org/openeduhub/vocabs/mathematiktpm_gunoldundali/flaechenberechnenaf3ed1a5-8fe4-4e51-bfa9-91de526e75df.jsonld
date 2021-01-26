@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Flächen berechnen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Integral stellt einen orientierten Flächeninhalt dar"
-    ]
-  },
   "note": {
-    "de": [
-      "Integral stellt einen orientierten Flächeninhalt dar"
-    ]
+    "de": "Integral stellt einen orientierten Flächeninhalt dar"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/integralrechnunge2e1f759-c3f7-4c1b-a640-6a83e587e5cb",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

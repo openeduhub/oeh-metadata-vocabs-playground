@@ -6,45 +6,17 @@
   "prefLabel": {
     "de": "Siedlungsgeographie"
   },
-  "note": {
-    "de": [
-      "Geografie",
-      "Geografieunterricht",
-      "Geographie",
-      "Geographieunterricht",
-      "Siedlungsgeografie",
-      "Siedlungsgeographie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201101",
       "prefLabel": {
         "de": "Ländliche Siedlungen und Prozesse"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Ländliche Siedlungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2201102",
       "prefLabel": {
         "de": "Städtische Strukturen und Prozesse"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Städtische Strukturen"
-        ]
       }
     }
   ],
@@ -100,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -116,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

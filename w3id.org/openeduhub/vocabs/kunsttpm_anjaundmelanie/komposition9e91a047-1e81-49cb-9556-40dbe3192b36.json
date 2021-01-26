@@ -78,113 +78,11 @@
       "∘"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Aufbau des Kunstwerkes",
-      "Ausgewogenheit",
-      "Bildformat",
-      "Blickführung",
-      "Bögen",
-      "Detailanalyse",
-      "Farbkomposition",
-      "Flächenkomposition",
-      "Gliederung",
-      "Gliederungen",
-      "Hell-Dunkel-Komposition",
-      "Horizontale",
-      "Kompositionsskizze",
-      "Motivkomposition",
-      "Ordnung",
-      "Proportionen",
-      "Rhythmisierung",
-      "Richtungen",
-      "Schrägen",
-      "Stabilität",
-      "Teilung",
-      "Teilungen",
-      "Verteilung und Vernetzung der einzelnen Bildelemente auf der Bildfläche",
-      "Vertikale",
-      "anordnen der Bildgegenstände",
-      "arrangieren der Bildgegenstände",
-      "der Goldene Schnitt",
-      "der goldene Schnitt: die geometrische als harmonisch empfundene Teilung einer Linie oder Fläche",
-      "die Figura piramidale: die sich in ein gleichschenkliges oder gleichseitiges Dreieck einfügende Anordnung einer Figurengruppe",
-      "die Figura serpentinata: die sich um eine imaginäre Achse emporschraubende Kompositon einer Figur oder Figurengruppe",
-      "die Isokephalie: die Reihung einer Figurengruppe in gleichbleibender Kopfhöhe",
-      "die Struktur eines Werkes untergliedert sich in drei verschiedene Ebenen",
-      "freie Komposition",
-      "gebundene Komposition",
-      "geschlossene Komposition",
-      "offene Kompostion",
-      "sodass der kleinere Teil sich zum größeren verhält wie der größer zum Ganzen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aufbau des Kunstwerkes",
-      "Ausgewogenheit",
-      "Bildformat",
-      "Blickführung",
-      "Bögen",
-      "Detailanalyse",
-      "Farbkomposition",
-      "Flächenkomposition",
-      "Gliederung",
-      "Gliederungen",
-      "Hell-Dunkel-Komposition",
-      "Horizontale",
-      "Kompositionsskizze",
-      "Motivkomposition",
-      "Ordnung",
-      "Proportionen",
-      "Rhythmisierung",
-      "Richtungen",
-      "Schrägen",
-      "Stabilität",
-      "Teilung",
-      "Teilungen",
-      "Verteilung und Vernetzung der einzelnen Bildelemente auf der Bildfläche",
-      "Vertikale",
-      "anordnen der Bildgegenstände",
-      "arrangieren der Bildgegenstände",
-      "der Goldene Schnitt",
-      "der goldene Schnitt: die geometrische als harmonisch empfundene Teilung einer Linie oder Fläche",
-      "die Figura piramidale: die sich in ein gleichschenkliges oder gleichseitiges Dreieck einfügende Anordnung einer Figurengruppe",
-      "die Figura serpentinata: die sich um eine imaginäre Achse emporschraubende Kompositon einer Figur oder Figurengruppe",
-      "die Isokephalie: die Reihung einer Figurengruppe in gleichbleibender Kopfhöhe",
-      "die Struktur eines Werkes untergliedert sich in drei verschiedene Ebenen",
-      "freie Komposition",
-      "gebundene Komposition",
-      "geschlossene Komposition",
-      "offene Kompostion",
-      "sodass der kleinere Teil sich zum größeren verhält wie der größer zum Ganzen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/goldenerschnittd344a307-e519-4a06-a467-f73a43c234cb",
       "prefLabel": {
         "de": "Goldener Schnitt"
-      },
-      "note": {
-        "de": [
-          "Bildformat",
-          "Der Goldene Schnitt",
-          "Fibonacci",
-          "Goldenes Rechteck",
-          "Multiplikator",
-          "Ordnung im Bild",
-          "Proportionierung einzelnder Bildelemente",
-          "Teilung der Bildfläche",
-          "Verhältnis zur Strecke oder Fläche",
-          "Zahlenreihe",
-          "den goldenen Schnitt ausrechnen",
-          "den goldenen Schnitt auszirkeln",
-          "harmonische Teilung",
-          "harmonisches Maßverhältnis",
-          "schematische Gliederung",
-          "stetige Teilung"
-        ]
       }
     }
   ],
@@ -240,12 +138,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -256,16 +148,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

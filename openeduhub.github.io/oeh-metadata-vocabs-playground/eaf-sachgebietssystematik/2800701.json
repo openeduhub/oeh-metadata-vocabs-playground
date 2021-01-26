@@ -6,17 +6,6 @@
   "prefLabel": {
     "de": "Zahlen, Grundrechenarten"
   },
-  "note": {
-    "de": [
-      "Grundrechenarten",
-      "Grundschule",
-      "Grundschulunterricht",
-      "Mathematikunterricht",
-      "Matheunterricht",
-      "Primarunterricht",
-      "Zahlen"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/28007",
     "prefLabel": {
@@ -69,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -85,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

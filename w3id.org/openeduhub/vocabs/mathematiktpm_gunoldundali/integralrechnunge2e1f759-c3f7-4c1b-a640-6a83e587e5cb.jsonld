@@ -11,38 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/einfuehrungdesintegralsa89c527f-fe92-41bc-b01b-9ce5ee8398fe",
       "prefLabel": {
         "de": "Einführung des Integrals"
-      },
-      "note": {
-        "de": [
-          "Einleitung in die Integralrechnung",
-          "Flächenberechnung",
-          "Umkehrung Differentialrechnung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/eingeschlosseneflaechenberechnenc53d5b25-00a3-4d26-9b92-ed3c4b395a30",
       "prefLabel": {
         "de": "Eingeschlossene Flächen berechnen"
-      },
-      "note": {
-        "de": [
-          " Fläche zwischen einer Funktion und der x-Achse",
-          "Differenzfunktion berechnen",
-          "Schnittpunkte der beiden Geraden",
-          "integrieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/flaechenberechnenaf3ed1a5-8fe4-4e51-bfa9-91de526e75df",
       "prefLabel": {
         "de": "Flächen berechnen"
-      },
-      "note": {
-        "de": [
-          "Integral stellt einen orientierten Flächeninhalt dar"
-        ]
       }
     },
     {
@@ -55,70 +35,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/numerischeintegration8f9de3d1-54b1-44c9-ae4f-1174a130521b",
       "prefLabel": {
         "de": "Numerische Integration"
-      },
-      "altLabel": {
-        "de": [
-          "Numerische Quadratur",
-          "Quadraturformel"
-        ]
-      },
-      "note": {
-        "de": [
-          "näherungsweisen Berechnung bestimmter Integrale eingesetzt."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rauminhaltevonrotationskoerpern748928d9-ecf0-43fd-8914-673e5328f599",
       "prefLabel": {
         "de": "Rauminhalte von Rotationskörpern"
-      },
-      "note": {
-        "de": [
-          "Drehung",
-          "Kreiskegel oder auch Zylinder",
-          "Kugel",
-          "Kurvenebene",
-          "Rotationskörper",
-          "Rotationsvolumen bei der Drehung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/stammfunktionen90ee2ad7-d936-41a1-b769-c9ae1d5b7253",
       "prefLabel": {
         "de": "Stammfunktionen"
-      },
-      "altLabel": {
-        "de": [
-          "Aufleitung",
-          "Stammfunktion",
-          "Stammfunktionen"
-        ],
-        "en": [
-          "primitive function",
-          "primitive integral"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aufleiten",
-          "Integralrechung",
-          "Umkehroption des Ableitens",
-          "integrieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/stammfunktionenbilden357f4ae1-225a-4917-915f-969216cd5022",
       "prefLabel": {
         "de": "Stammfunktionen bilden"
-      },
-      "note": {
-        "de": [
-          "aufleiten",
-          "integrieren"
-        ]
       }
     }
   ],
@@ -126,12 +60,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
     "prefLabel": {
       "de": "Analysis"
-    },
-    "altLabel": {
-      "en": [
-        "Mathematical analysis",
-        "analysis"
-      ]
     }
   },
   "inScheme": {
@@ -180,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -196,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

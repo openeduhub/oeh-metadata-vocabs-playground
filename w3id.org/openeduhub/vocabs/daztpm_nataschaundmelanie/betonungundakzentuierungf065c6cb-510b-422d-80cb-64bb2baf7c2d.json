@@ -6,42 +6,10 @@
   "prefLabel": {
     "de": "Betonung und Akzentuierung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Akzentuierung",
-      "Akzentwechsel in Wortfamilien",
-      "Betonung",
-      "Betonung von Wortgruppen und Sätzen",
-      "Betonungsregeln",
-      "Deutsch",
-      "Kontrastakzent",
-      "Wortakzent"
-    ]
-  },
-  "note": {
-    "de": [
-      "Akzentuierung",
-      "Akzentwechsel in Wortfamilien",
-      "Betonung",
-      "Betonung von Wortgruppen und Sätzen",
-      "Betonungsregeln",
-      "Deutsch",
-      "Kontrastakzent",
-      "Wortakzent"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/aussprache469ceddb-1d92-48ba-84d4-39f7544d7f87",
     "prefLabel": {
       "de": "Aussprache"
-    },
-    "altLabel": {
-      "de": [
-        "Aussprache",
-        "Aussprache (Audiodatei)",
-        "Aussprachedatei",
-        "Lautung"
-      ]
     }
   },
   "inScheme": {
@@ -90,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

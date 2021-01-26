@@ -7,36 +7,19 @@
     "de": "Tierische Produktion"
   },
   "note": {
-    "de": [
-      "Tierische Produktion"
-    ]
+    "de": "Tierische Produktion"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040010301",
       "prefLabel": {
         "de": "Tierzucht und Tierhaltung, Tierpflege"
-      },
-      "note": {
-        "de": [
-          "Massentierhaltung",
-          "Tierhaltung",
-          "Tierpflege",
-          "Tierzucht",
-          "artgerechte Haltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040010302",
       "prefLabel": {
         "de": "Tierernährung"
-      },
-      "note": {
-        "de": [
-          "Futtermittel",
-          "Tierernährung"
-        ]
       }
     }
   ],
@@ -92,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

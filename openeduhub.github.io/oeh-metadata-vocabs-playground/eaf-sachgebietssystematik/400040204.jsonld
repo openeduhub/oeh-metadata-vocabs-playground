@@ -6,60 +6,29 @@
   "prefLabel": {
     "de": "Umgangsregeln kennen und einhalten"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Kommunizieren und Kooperieren",
-      "Kompetenzen in der digitalen Welt",
-      "Netiquette"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020401",
       "prefLabel": {
         "de": "Verhaltensregeln bei digitaler Interaktion und Kooperation kennen und anwenden"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020402",
       "prefLabel": {
         "de": "Kommunikation der jeweiligen Umgebung anpassen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020403",
       "prefLabel": {
         "de": "Ethische Prinzipien bei der Kommunikation kennen und berücksichtigen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004020404",
       "prefLabel": {
         "de": "Kulturelle Vielfalt in digitalen Umgebungen berücksichtigen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Kommunizieren und Kooperieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -115,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -131,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Operatoren"
   },
-  "hiddenLabel": {
-    "de": [
-      "Operatoren",
-      "berichten",
-      "beschreiben",
-      "erzählen",
-      "präsentieren",
-      "zusammenfassen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Operatoren",
-      "berichten",
-      "beschreiben",
-      "erzählen",
-      "präsentieren",
-      "zusammenfassen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/schriftlicherausdruck0f4acd73-0b76-4485-8f9a-72c268386004",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,99 +6,44 @@
   "prefLabel": {
     "de": "Dramatische Texte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Interpretation"
-    ]
-  },
   "note": {
-    "de": [
-      "Interpretation"
-    ]
+    "de": "Interpretation"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dramenformenc080fa93-3e73-4557-87aa-d12d66382a75",
       "prefLabel": {
         "de": "Dramenformen"
-      },
-      "note": {
-        "de": [
-          "Komödie",
-          "Tragikömodie ",
-          "Tragödie",
-          "geschlossene Form",
-          "offene Form"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/figurenkonstellation92c1563e-e7bf-4e30-9db5-549a0cd409f5",
       "prefLabel": {
         "de": "Figurenkonstellation"
-      },
-      "note": {
-        "de": [
-          "Beziehungen",
-          "Beziehungsgeflecht",
-          "Figuren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/figurenredea764456e-cb3a-4d71-9371-30831d9edbc2",
       "prefLabel": {
         "de": "Figurenrede"
-      },
-      "note": {
-        "de": [
-          "Botenbericht",
-          "Dialog",
-          "Gesprächsformen",
-          "Mauerschau",
-          "Monolog"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/klassischesundepischestheaterba296fdf-a25c-4804-88e5-f6ba2bee6d0f",
       "prefLabel": {
         "de": "Klassisches und episches Theater"
-      },
-      "note": {
-        "de": [
-          "Aristoteles",
-          "Bertholt Brecht",
-          "Dramenmodell ",
-          "Gustav Freytag"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/regieanweisungen743f0452-a31a-4e4f-9282-a44870436b25",
       "prefLabel": {
         "de": "Regieanweisungen"
-      },
-      "note": {
-        "de": [
-          "Anmerkungen",
-          "Bühnenanweisungen ",
-          "Nebentext"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/szenenanalysec4dcc09e-5bed-4c6e-8711-7b3e0a269d3e",
       "prefLabel": {
         "de": "Szenenanalyse"
-      },
-      "note": {
-        "de": [
-          "Deutungshypothese",
-          "Dialoganalyse",
-          "Inhaltsangabe Drama",
-          "Szene"
-        ]
       }
     }
   ],
@@ -154,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -170,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

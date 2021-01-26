@@ -23,11 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/nullstellen709c54ca-4edd-45aa-96af-632c19d88609",
       "prefLabel": {
         "de": "Nullstellen"
-      },
-      "note": {
-        "de": [
-          "Die y-Koordinate eines Schnittpunktes mit der x-Achse ist Null."
-        ]
       }
     }
   ],
@@ -35,12 +30,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
     "prefLabel": {
       "de": "Analysis"
-    },
-    "altLabel": {
-      "en": [
-        "Mathematical analysis",
-        "analysis"
-      ]
     }
   },
   "inScheme": {
@@ -89,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

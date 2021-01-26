@@ -6,44 +6,6 @@
   "prefLabel": {
     "de": "Gewinnung von Fetten und Ölen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Estraktion",
-      "Fetthärtung",
-      "Hydrierung,",
-      "Magarine",
-      "Milch",
-      "Pressen",
-      "Presskuchen",
-      "Raffination",
-      "Raps",
-      "Schmalz",
-      "Sonnenblumen",
-      "Talg",
-      "Tran",
-      "Ölpflanzen",
-      "Ölsaat"
-    ]
-  },
-  "note": {
-    "de": [
-      "Estraktion",
-      "Fetthärtung",
-      "Hydrierung,",
-      "Magarine",
-      "Milch",
-      "Pressen",
-      "Presskuchen",
-      "Raffination",
-      "Raps",
-      "Schmalz",
-      "Sonnenblumen",
-      "Talg",
-      "Tran",
-      "Ölpflanzen",
-      "Ölsaat"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/fetteundoeled369c226-2f73-4688-a136-157ebd5c0e3c",
     "prefLabel": {
@@ -96,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

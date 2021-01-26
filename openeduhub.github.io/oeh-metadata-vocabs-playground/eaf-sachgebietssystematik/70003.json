@@ -6,98 +6,47 @@
   "prefLabel": {
     "de": "Volkswirtschaft"
   },
-  "note": {
-    "de": [
-      "Volkswirtschaft",
-      "Wirtschaftswissenschaft"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000301",
       "prefLabel": {
         "de": "Markt und Preis"
-      },
-      "note": {
-        "de": [
-          "Markt und Preis",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000302",
       "prefLabel": {
         "de": "Geld und Kredit"
-      },
-      "note": {
-        "de": [
-          "Geld und Kredit",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000303",
       "prefLabel": {
         "de": "Arbeit und Lohn"
-      },
-      "note": {
-        "de": [
-          "Arbeit und Lohn",
-          "Arbeitsentgelt",
-          "Einkommen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000304",
       "prefLabel": {
         "de": "Sozialpolitik, Wirtschaftspolitik"
-      },
-      "note": {
-        "de": [
-          "Politikwissenschaft",
-          "Sozialpolitik",
-          "Wirtschaftspolitik",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000305",
       "prefLabel": {
         "de": "Öffentliche Finanzwirtschaft, Steuern"
-      },
-      "note": {
-        "de": [
-          "Steuern",
-          "Öffentliche Finanzwirtschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000306",
       "prefLabel": {
         "de": "Weltwirtschaft"
-      },
-      "note": {
-        "de": [
-          "Weltwirtschaft",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/7000307",
       "prefLabel": {
         "de": "Wirtschaftssysteme"
-      },
-      "note": {
-        "de": [
-          "Wirtschaftssysteme",
-          "Wirtschaftswissenschaft"
-        ]
       }
     }
   ],
@@ -153,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -169,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

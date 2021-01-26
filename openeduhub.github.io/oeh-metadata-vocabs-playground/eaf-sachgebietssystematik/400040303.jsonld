@@ -6,51 +6,23 @@
   "prefLabel": {
     "de": "Rechtliche Vorgaben beachten"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Produzieren und Präsentieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004030301",
       "prefLabel": {
         "de": "Bedeutung von Urheberrecht und geistigem Eigentum kennen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Produzieren und Präsentieren",
-          "Kompetenzen in der digitalen Welt",
-          "Urheberrecht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004030302",
       "prefLabel": {
         "de": "Urheber- und Nutzungsrechte"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Produzieren und Präsentieren",
-          "Kompetenzen in der digitalen Welt",
-          "Nutzungsrechte",
-          "Urheberrecht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004030303",
       "prefLabel": {
         "de": "Persönlichkeitsrechte beachten"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Produzieren und Präsentieren",
-          "Kompetenzen in der digitalen Welt",
-          "Persönlichkeitsrechte"
-        ]
       }
     }
   ],
@@ -106,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

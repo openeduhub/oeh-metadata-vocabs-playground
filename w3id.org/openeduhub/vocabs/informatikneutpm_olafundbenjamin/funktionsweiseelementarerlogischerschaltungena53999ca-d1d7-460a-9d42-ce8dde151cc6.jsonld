@@ -6,34 +6,6 @@
   "prefLabel": {
     "de": "Funktionsweise elementarer logischer Schaltungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "AND",
-      "NAND",
-      "NOR",
-      "NOT",
-      "OR",
-      "Parallelschaltung",
-      "Reihenschaltung",
-      "Relais",
-      "XNOR",
-      "XOR"
-    ]
-  },
-  "note": {
-    "de": [
-      "AND",
-      "NAND",
-      "NOR",
-      "NOT",
-      "OR",
-      "Parallelschaltung",
-      "Reihenschaltung",
-      "Relais",
-      "XNOR",
-      "XOR"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/funktionsweiseeinesrechners19e7f35f-df1a-42b5-aff9-1c9da8979622",
     "prefLabel": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

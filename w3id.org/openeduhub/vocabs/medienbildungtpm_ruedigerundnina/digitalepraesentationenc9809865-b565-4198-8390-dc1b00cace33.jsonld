@@ -6,46 +6,6 @@
   "prefLabel": {
     "de": "Digitale Präsentationen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Keynote",
-      "Keynotepräsentation",
-      "Power Point",
-      "Powerpoint",
-      "Powerpointpräsentation",
-      "Präsentation beurteilen",
-      "Präsentation bewerten",
-      "Präsentation erstellen",
-      "Präsentation vorführen",
-      "Präsentationen beurteilen",
-      "Präsentationen vorführen",
-      "Präsentationsapp",
-      "Präsentationsprogramm",
-      "Präsentationsregeln",
-      "Präsentationssoftware",
-      "Prästentationen erstellen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Keynote",
-      "Keynotepräsentation",
-      "Power Point",
-      "Powerpoint",
-      "Powerpointpräsentation",
-      "Präsentation beurteilen",
-      "Präsentation bewerten",
-      "Präsentation erstellen",
-      "Präsentation vorführen",
-      "Präsentationen beurteilen",
-      "Präsentationen vorführen",
-      "Präsentationsapp",
-      "Präsentationsprogramm",
-      "Präsentationsregeln",
-      "Präsentationssoftware",
-      "Prästentationen erstellen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
     "prefLabel": {
@@ -98,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

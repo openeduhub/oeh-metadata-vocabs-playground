@@ -6,70 +6,6 @@
   "prefLabel": {
     "de": "Audios und Podcasts"
   },
-  "hiddenLabel": {
-    "de": [
-      "Audacity",
-      "Audioaufnahme",
-      "Audioaufnahmen",
-      "Audioprojekt",
-      "Audioprojekte",
-      "Audioprojekte beurteilen",
-      "Audioprojekte bewerten",
-      "Audioprojekte durchführen",
-      "Hörspiel",
-      "Hörspielaufnahme",
-      "Hörspielaufnahmen",
-      "Hörspiele",
-      "Hörspiele aufnehmen",
-      "Hörspiele erstellen",
-      "Hörspiele gestalten",
-      "Interview,Interviews",
-      "Interviews aufnehmen",
-      "Podcast",
-      "Podcasts",
-      "Podcasts aufnehmen",
-      "Podcasts erstellen",
-      "Radiobeitrag",
-      "Radiobeiträge aufnehmen",
-      "Radiobeiträge. Garage Band",
-      "Radiosendung",
-      "Radiosendungen",
-      "Tonaufnahme",
-      "Vertonung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Audacity",
-      "Audioaufnahme",
-      "Audioaufnahmen",
-      "Audioprojekt",
-      "Audioprojekte",
-      "Audioprojekte beurteilen",
-      "Audioprojekte bewerten",
-      "Audioprojekte durchführen",
-      "Hörspiel",
-      "Hörspielaufnahme",
-      "Hörspielaufnahmen",
-      "Hörspiele",
-      "Hörspiele aufnehmen",
-      "Hörspiele erstellen",
-      "Hörspiele gestalten",
-      "Interview,Interviews",
-      "Interviews aufnehmen",
-      "Podcast",
-      "Podcasts",
-      "Podcasts aufnehmen",
-      "Podcasts erstellen",
-      "Radiobeitrag",
-      "Radiobeiträge aufnehmen",
-      "Radiobeiträge. Garage Band",
-      "Radiosendung",
-      "Radiosendungen",
-      "Tonaufnahme",
-      "Vertonung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
     "prefLabel": {
@@ -122,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -138,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

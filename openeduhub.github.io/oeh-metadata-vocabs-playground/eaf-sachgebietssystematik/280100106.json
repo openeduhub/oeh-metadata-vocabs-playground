@@ -6,19 +6,6 @@
   "prefLabel": {
     "de": "Rollen, Interessen, Konflikte"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Interessen",
-      "Konflikte",
-      "Primarunterricht",
-      "Rollen",
-      "Sachkunde",
-      "Sachkundeunterricht",
-      "Sachunterrich"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2801001",
     "prefLabel": {
@@ -71,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -87,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,34 +6,17 @@
   "prefLabel": {
     "de": "Konstruktionstechnik, Maschinenelemente"
   },
-  "note": {
-    "de": [
-      "Konstruktionstechnik",
-      "Maschinenelemente"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110201",
       "prefLabel": {
         "de": "Maschinenelemente"
-      },
-      "note": {
-        "de": [
-          "Maschinenelemente"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040110202",
       "prefLabel": {
         "de": "Kraftmaschinen, Arbeitsmaschinen"
-      },
-      "note": {
-        "de": [
-          "Arbeitsmaschinen",
-          "Kraftmaschinen"
-        ]
       }
     }
   ],
@@ -89,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,77 +6,10 @@
   "prefLabel": {
     "de": "Spezielle Relativitätstheorie (SRT)"
   },
-  "hiddenLabel": {
-    "de": [
-      "Albert Einstein",
-      "Effekte",
-      "Einstein",
-      "Einsteins Postulate",
-      "Energie-Impuls-Beziehung",
-      "Geschwindigkeitsbetrachtung",
-      "Gleichzeitigkeit",
-      "Grundaussagen der speziellen Relativitätstheorie",
-      "Inertialsystem",
-      "Längenkontraktion",
-      "Längenänderung",
-      "Paradoxien",
-      "Raum-Zeit",
-      "Raumzeit",
-      "Relativistische Energie",
-      "Relativistische Masse und Impuls",
-      "Spezielle Relativitätstheorie",
-      "Zeit",
-      "Zeitdehnung",
-      "Zeitdilatation",
-      "kürzer",
-      "länger",
-      "relativ",
-      "spezielle Relativitätstheorie"
-    ]
-  },
-  "note": {
-    "de": [
-      "Albert Einstein",
-      "Effekte",
-      "Einstein",
-      "Einsteins Postulate",
-      "Energie-Impuls-Beziehung",
-      "Geschwindigkeitsbetrachtung",
-      "Gleichzeitigkeit",
-      "Grundaussagen der speziellen Relativitätstheorie",
-      "Inertialsystem",
-      "Längenkontraktion",
-      "Längenänderung",
-      "Paradoxien",
-      "Raum-Zeit",
-      "Raumzeit",
-      "Relativistische Energie",
-      "Relativistische Masse und Impuls",
-      "Spezielle Relativitätstheorie",
-      "Zeit",
-      "Zeitdehnung",
-      "Zeitdilatation",
-      "kürzer",
-      "länger",
-      "relativ",
-      "spezielle Relativitätstheorie"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/relativitaetstheoriefbe20c1c-7479-424b-a44b-b35e2464c99d",
     "prefLabel": {
       "de": "Relativitätstheorie"
-    },
-    "altLabel": {
-      "de": [
-        "Einsteinsche Kausalität",
-        "Relativistisch",
-        "Relativistische Mechanik",
-        "Relativistische Physik"
-      ],
-      "en": [
-        "relativity"
-      ]
     }
   },
   "inScheme": {
@@ -125,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -141,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

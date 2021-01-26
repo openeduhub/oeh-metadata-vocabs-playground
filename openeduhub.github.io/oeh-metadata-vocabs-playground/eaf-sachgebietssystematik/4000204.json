@@ -6,36 +6,17 @@
   "prefLabel": {
     "de": "Film, Video"
   },
-  "note": {
-    "de": [
-      "Film",
-      "Medienpädagogik",
-      "Video"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400020401",
       "prefLabel": {
         "de": "Medienkundlicher Aspekt"
-      },
-      "note": {
-        "de": [
-          "Medienkundlicher Aspekt",
-          "Medienpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400020402",
       "prefLabel": {
         "de": "Medienpädagogischer Aspekt"
-      },
-      "note": {
-        "de": [
-          "Medienpädagogik",
-          "Medienpädagogischer Aspekt"
-        ]
       }
     }
   ],
@@ -91,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

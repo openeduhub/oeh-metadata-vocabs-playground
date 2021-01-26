@@ -6,79 +6,35 @@
   "prefLabel": {
     "de": "Praktische Informatik"
   },
-  "note": {
-    "de": [
-      "Informatik",
-      "Informatikunterricht",
-      "Praktische Informatik"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/320020401",
       "prefLabel": {
         "de": "Algorithmen und Datenstrukturen"
-      },
-      "note": {
-        "de": [
-          "Algorithmen",
-          "Algorithmus",
-          "Datenstruktur",
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/320020402",
       "prefLabel": {
         "de": "Betriebssysteme"
-      },
-      "note": {
-        "de": [
-          "Betriebssystem",
-          "Informatik",
-          "Informatikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/320020403",
       "prefLabel": {
         "de": "Programmiersprachen"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "Programmiersprache"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/320020404",
       "prefLabel": {
         "de": "Programmierung"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "Programmierung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/320020405",
       "prefLabel": {
         "de": "Software-Projekte"
-      },
-      "note": {
-        "de": [
-          "Informatik",
-          "Informatikunterricht",
-          "Software-Projekt"
-        ]
       }
     }
   ],
@@ -134,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -150,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,62 +6,6 @@
   "prefLabel": {
     "de": "Entwicklung der Tenside"
   },
-  "hiddenLabel": {
-    "de": [
-      "Alkansulfonat",
-      "Detergentien",
-      "Emulgator",
-      "Esterquats",
-      "Henkel",
-      "Micelle",
-      "Oberflächenspannung",
-      "Persil",
-      "Pflanzenasche",
-      "Pottasche",
-      "Seifenkraut",
-      "Seifensieder",
-      "Soda",
-      "Solvay-Verfahren",
-      "Sumerer",
-      "Tensid",
-      "Waschnuss",
-      "Wasserhärte",
-      "Weichspüler",
-      "Zuckertenside",
-      "amphotere Tenside",
-      "anionische Tenside",
-      "kationische Tenside",
-      "nichtionische Tenside"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alkansulfonat",
-      "Detergentien",
-      "Emulgator",
-      "Esterquats",
-      "Henkel",
-      "Micelle",
-      "Oberflächenspannung",
-      "Persil",
-      "Pflanzenasche",
-      "Pottasche",
-      "Seifenkraut",
-      "Seifensieder",
-      "Soda",
-      "Solvay-Verfahren",
-      "Sumerer",
-      "Tensid",
-      "Waschnuss",
-      "Wasserhärte",
-      "Weichspüler",
-      "Zuckertenside",
-      "amphotere Tenside",
-      "anionische Tenside",
-      "kationische Tenside",
-      "nichtionische Tenside"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/tenside,seifeundwaschmittel1766eb28-5c6e-477c-b7e8-70de5967e066",
     "prefLabel": {
@@ -114,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

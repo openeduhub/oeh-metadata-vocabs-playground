@@ -11,215 +11,66 @@
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adjektive398ad3a4-efd8-4738-8189-e393c181eb03",
       "prefLabel": {
         "de": "Adjektive"
-      },
-      "note": {
-        "de": [
-          "Adjektive",
-          "Bildung",
-          "Deklination",
-          "Eigenschaftwörter",
-          "Steigerung",
-          "Wie-Wörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adverbien22760c05-49c1-46a0-b63f-6e6bf8f41839",
       "prefLabel": {
         "de": "Adverbien"
-      },
-      "altLabel": {
-        "de": [
-          "Adverb",
-          "Adverben",
-          "Adverbien",
-          "Adverbium",
-          "Nebenwort",
-          "Umstandswort"
-        ],
-        "en": [
-          "ad.",
-          "adv."
-        ]
-      },
-      "note": {
-        "de": [
-          "Adverbien",
-          "Nebenwörter",
-          "Umstandswörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/artikel_begleiterc468c20c-efa6-447b-9af7-a41ae3903483",
       "prefLabel": {
         "de": "Artikel / Begleiter"
-      },
-      "note": {
-        "de": [
-          "Geschlechtswörter",
-          "Nomenbegleiter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interjektionenc79e8e7c-ca40-4e69-adcf-138126135937",
       "prefLabel": {
         "de": "Interjektionen"
-      },
-      "note": {
-        "de": [
-          "Ausrufewörter",
-          "Empfindungswörter",
-          "Interjektionen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
       "prefLabel": {
         "de": "Konnektoren"
-      },
-      "note": {
-        "de": [
-          "Bindewörter",
-          "Konjunktionen",
-          "Konnektoren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nomenafeb2dfd-c8bb-45d4-9822-f04f52038fad",
       "prefLabel": {
         "de": "Nomen"
-      },
-      "altLabel": {
-        "de": [
-          "Gentilname",
-          "Gentilnomen",
-          "Nomen",
-          "Nomina",
-          "nominal"
-        ],
-        "en": [
-          "Nomen",
-          "nomen gentilicium",
-          "nominal"
-        ]
-      },
-      "note": {
-        "de": [
-          "Hauptwort",
-          "Namenwort",
-          "Nomen",
-          "Substantiv"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/numeraled7396bac-1912-4567-91a2-b8a9e7e196dc",
       "prefLabel": {
         "de": "Numerale"
-      },
-      "altLabel": {
-        "de": [
-          "Multiplikativum",
-          "Numeral",
-          "Unbestimmtes Zahlwort",
-          "Vervielfältigungszahlwort",
-          "Wiederholungszahlwort",
-          "Zahlwort"
-        ],
-        "en": [
-          "num."
-        ]
-      },
-      "note": {
-        "de": [
-          "Numerale",
-          "Zahlwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praepositonen1bf4f1c3-45d2-46f7-a6b8-2e603146b8b2",
       "prefLabel": {
         "de": "Präpositonen"
-      },
-      "note": {
-        "de": [
-          "Lagewörter",
-          "Präpositonen",
-          "Verhältniswörter",
-          "Vorwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/pronomena4c4526b-30f8-4765-8514-664780639cb8",
       "prefLabel": {
         "de": "Pronomen"
-      },
-      "altLabel": {
-        "de": [
-          "Fürwort",
-          "Personalpronomen",
-          "Pronomen",
-          "Pronomina",
-          "Pronominal",
-          "bevorzugtes Pronomen"
-        ],
-        "en": [
-          "personal pronoun",
-          "pronoun"
-        ]
-      },
-      "note": {
-        "de": [
-          "Fürwörter",
-          "Pronomen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/verben1f705a86-39a2-445e-924d-83b36db71f77",
       "prefLabel": {
         "de": "Verben"
-      },
-      "note": {
-        "de": [
-          "Tuwörter",
-          "Tätigkeitswörter",
-          "Verben",
-          "Zeitwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/zeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
       "prefLabel": {
         "de": "Zeitformen"
-      },
-      "altLabel": {
-        "de": [
-          "Deutsche Tempusformen",
-          "Tempora",
-          "Tempus",
-          "Zeit",
-          "Zeitform",
-          "Zeitformen"
-        ],
-        "en": [
-          "grammatical tense"
-        ]
-      },
-      "note": {
-        "de": [
-          "Tempora",
-          "Tempus",
-          "Zeitform",
-          "Zeitformen"
-        ]
       }
     }
   ],
@@ -269,12 +120,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -285,16 +130,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

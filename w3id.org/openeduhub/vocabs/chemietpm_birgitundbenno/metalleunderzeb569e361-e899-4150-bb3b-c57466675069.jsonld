@@ -6,264 +6,65 @@
   "prefLabel": {
     "de": "Metalle und Erze"
   },
-  "hiddenLabel": {
-    "de": [
-      "Erz",
-      "Gestein,",
-      "Metall"
-    ]
-  },
-  "note": {
-    "de": [
-      "Erz",
-      "Gestein,",
-      "Metall"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenmetalleaa02e197-3399-468d-9e22-2f4b493e3c89",
       "prefLabel": {
         "de": "Eigenschaften Metalle"
-      },
-      "note": {
-        "de": [
-          "Atomrumpf",
-          "Blei",
-          "Elektronengas",
-          "Glanz",
-          "Metallgitter",
-          "Osmium",
-          "Schmelztemperatur",
-          "Siedetemperatur",
-          "Wolfram,",
-          "Wärmeleitfähigkeit.\nplastische Verformbarkeit",
-          "elektrische Leitfähigkeit"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eisen30c3282b-2466-4b13-adee-60fffe7c2bb2",
       "prefLabel": {
         "de": "Eisen"
-      },
-      "altLabel": {
-        "de": [
-          "Eisen (Nohfelden)",
-          "Fe"
-        ],
-        "en": [
-          "26Fe",
-          "Eisen",
-          "Fe",
-          "Ferrum",
-          "Ferrum metallicum",
-          "Hierro",
-          "element 26",
-          "fer"
-        ]
-      },
-      "note": {
-        "de": [
-          "Eisenzeit",
-          "Gusseisen",
-          "Legierung",
-          "Magnetismus",
-          "Rennofen",
-          "Stahl",
-          "Windofen,",
-          "verformbar",
-          "weiches Metall"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elektrolyseverfahrenzurherstellungvonmetallen3d2397fe-d17c-476a-b68b-0b30b032b005",
       "prefLabel": {
         "de": "Elektrolyseverfahren zur Herstellung von Metallen"
-      },
-      "note": {
-        "de": [
-          "Aluminium",
-          "Bauxit",
-          "Gemisch",
-          "Kryolith",
-          "Metall",
-          "Recycling",
-          "Salz",
-          "Salzschmelze",
-          "Schmelzflusselektrolyse",
-          "Spannung",
-          "Strom"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/gewinnungundabbauvonerzen3528faa8-db4b-42e8-b59e-62a9f4499a2e",
       "prefLabel": {
         "de": "Gewinnung und Abbau von Erzen"
-      },
-      "note": {
-        "de": [
-          "Bergbau",
-          "Bleiglanz",
-          "Gangart",
-          "Mine,",
-          "Montan",
-          "mineralische Rohstoffe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/gewinnungvonmetallena02358b1-3e62-4f9e-a87e-edddd4b2fc7e",
       "prefLabel": {
         "de": "Gewinnung von Metallen"
-      },
-      "note": {
-        "de": [
-          " Kohlungszone",
-          "Gestell",
-          "Gicht",
-          "Gichtgas",
-          "Hochofen",
-          "Koks",
-          "Möller",
-          "Reduktionsmittel",
-          "Roheisen",
-          "Rösten",
-          "Schlacke",
-          "Stahl",
-          "Thermitverfahren",
-          "Verkokung",
-          "Windblasen,",
-          "Winderhitzer",
-          "Zuschläge",
-          "elektrolytische Raffination"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/halbmetalle744e802e-b20d-4b08-a9c4-3130a203ac2f",
       "prefLabel": {
         "de": "Halbmetalle"
-      },
-      "altLabel": {
-        "en": [
-          "semimetal"
-        ]
-      },
-      "note": {
-        "de": [
-          "Eigenschaften Metall und Nichtmetall",
-          "Periodensystem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kupferd59e5bd5-cf74-431c-971c-db5c79aecc08",
       "prefLabel": {
         "de": "Kupfer"
-      },
-      "altLabel": {
-        "de": [
-          "Brachbach",
-          "Cu",
-          "Enslingen",
-          "Kupfer",
-          "Untermünkheim",
-          "Übrigshausen"
-        ],
-        "en": [
-          "CU-7",
-          "Cu",
-          "E. M. Kupfer",
-          "Elsie Kupfer",
-          "Elsie M. Kupfer",
-          "Kupfer",
-          "Paragard T 380A",
-          "Tatum-T",
-          "cuprum",
-          "element 29"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bronzezeit",
-          "Chuiquicamata",
-          "Halbedelmetall",
-          "Münzmetalle",
-          "Rösten",
-          "Stromleiter",
-          "Wärmeleiter",
-          "elektrolytische Kupferraffination",
-          "gut formbar",
-          "weiches Metall",
-          "zäh"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/legierung7f7356a3-011c-40c1-9a46-902aded514e1",
       "prefLabel": {
         "de": "Legierung"
-      },
-      "altLabel": {
-        "de": [
-          "Feste Lösung",
-          "Gusslegierung"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bronze",
-          "Gemisch",
-          "Messing",
-          "Metallcharakter",
-          "Mischkristalle",
-          "Stahl,",
-          "Zink",
-          "Zinn",
-          "heterogen",
-          "homogen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/leichtmetalle02464205-432e-45cb-ba86-c9b444f379e7",
       "prefLabel": {
         "de": "Leichtmetalle"
-      },
-      "altLabel": {
-        "de": [
-          "Leichtmetall"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aluminium",
-          "Dichte",
-          "Lithium",
-          "Magnesium",
-          "Schwermetalle",
-          "Titan",
-          "metallischer Werkstoff"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/redoxreaktionen029561f7-538e-4678-a3e5-e866ea37cf96",
       "prefLabel": {
         "de": "Redoxreaktionen"
-      },
-      "note": {
-        "de": [
-          "Elektronenabgabe",
-          "Elektronenaufnahme",
-          "Oxidationsmittel",
-          "Oxidationsvermögen",
-          "Reduktionsmittel",
-          "Reduktionsvermögen"
-        ]
       }
     }
   ],
@@ -319,12 +120,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -335,16 +130,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

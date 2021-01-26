@@ -6,63 +6,10 @@
   "prefLabel": {
     "de": "Entropie / Enthalpie "
   },
-  "hiddenLabel": {
-    "de": [
-      "Bildungsenthalpie",
-      "Bindungsenergie",
-      "Bindungsenthalpie",
-      "Delta H",
-      "Enthalpie",
-      "Enthalpiedifferenz",
-      "Entropie",
-      "Kalorimeter",
-      "Reaktionsenthalpie",
-      "Unordnung",
-      "Verbrennungsenthalpie",
-      "Wärme",
-      "Wärmeenergie",
-      "Wärmeinhalt",
-      "endotherm",
-      "exotherm",
-      "kJ/mol",
-      "ΔH"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bildungsenthalpie",
-      "Bindungsenergie",
-      "Bindungsenthalpie",
-      "Delta H",
-      "Enthalpie",
-      "Enthalpiedifferenz",
-      "Entropie",
-      "Kalorimeter",
-      "Reaktionsenthalpie",
-      "Unordnung",
-      "Verbrennungsenthalpie",
-      "Wärme",
-      "Wärmeenergie",
-      "Wärmeinhalt",
-      "endotherm",
-      "exotherm",
-      "kJ/mol",
-      "ΔH"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/thermodynamik542e3a97-d462-4f17-a860-9072fa821844",
     "prefLabel": {
       "de": "Thermodynamik"
-    },
-    "altLabel": {
-      "de": [
-        "Wärmelehre",
-        "Wärmetheorie"
-      ],
-      "en": [
-        "Thermodynamics"
-      ]
     }
   },
   "inScheme": {
@@ -111,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

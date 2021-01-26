@@ -20,22 +20,6 @@
       "job application"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Anschreiben",
-      "Bewerbungsgespräch ",
-      "Bewerbungsschreiben",
-      "Lebenslauf"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anschreiben",
-      "Bewerbungsgespräch ",
-      "Bewerbungsschreiben",
-      "Lebenslauf"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/formelletextedc643c73-193d-43c4-8473-9570bd0243d6",
     "prefLabel": {
@@ -88,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

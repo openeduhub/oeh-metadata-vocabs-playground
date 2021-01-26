@@ -6,129 +6,65 @@
   "prefLabel": {
     "de": "Gartenbau und Landwirtschaft, Natur und Umwelt"
   },
-  "note": {
-    "de": [
-      "Gartenbau",
-      "Landwirtschaft",
-      "Natur und Umwelt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400101",
       "prefLabel": {
         "de": "Pflanzliche Produktion"
-      },
-      "note": {
-        "de": [
-          "Pflanzliche Produktion"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400102",
       "prefLabel": {
         "de": "Bodenkunde und Kulturtechnik"
-      },
-      "note": {
-        "de": [
-          "Bodenkunde",
-          "Kulturtechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400103",
       "prefLabel": {
         "de": "Tierische Produktion"
-      },
-      "note": {
-        "de": [
-          "Tierische Produktion"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400104",
       "prefLabel": {
         "de": "Landtechnik"
-      },
-      "note": {
-        "de": [
-          "Landtechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400105",
       "prefLabel": {
         "de": "Betriebswirtschaftslehre"
-      },
-      "note": {
-        "de": [
-          "BWL",
-          "Betriebswirtschaft",
-          "Betriebswirtschaftslehre",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400106",
       "prefLabel": {
         "de": "Agrarpolitik"
-      },
-      "note": {
-        "de": [
-          "Agrarpolitik",
-          "Politikwissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400108",
       "prefLabel": {
         "de": "Umweltschutz und Naturschutz"
-      },
-      "note": {
-        "de": [
-          "Naturschutz",
-          "Umweltschutz"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400109",
       "prefLabel": {
         "de": "Forstwirtschaft"
-      },
-      "note": {
-        "de": [
-          "Forstwirtschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400110",
       "prefLabel": {
         "de": "Gartenbau, Floristik"
-      },
-      "note": {
-        "de": [
-          "Floristik",
-          "Gartenbau"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400112",
       "prefLabel": {
         "de": "Agrargeschichte"
-      },
-      "note": {
-        "de": [
-          "Agrargeschichte"
-        ]
       }
     }
   ],
@@ -184,12 +120,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -200,16 +130,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

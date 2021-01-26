@@ -6,104 +6,47 @@
   "prefLabel": {
     "de": "Musikarten"
   },
-  "note": {
-    "de": [
-      "Musik",
-      "Musikarten",
-      "Musikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200301",
       "prefLabel": {
         "de": "Vokalmusik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Vokalmusik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200302",
       "prefLabel": {
         "de": "Instrumentalmusik"
-      },
-      "note": {
-        "de": [
-          "Instrumentalmusik",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200303",
       "prefLabel": {
         "de": "Theater- und Filmmusik"
-      },
-      "note": {
-        "de": [
-          "Filmmusik",
-          "Musik",
-          "Musikunterricht",
-          "Theatermusik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200304",
       "prefLabel": {
         "de": "Populäre Musik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Populäre Musik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200305",
       "prefLabel": {
         "de": "Religiöse Musik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Religiöse Musik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200306",
       "prefLabel": {
         "de": "Funktionelle Musik"
-      },
-      "note": {
-        "de": [
-          "Funktionelle Musik",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4200307",
       "prefLabel": {
         "de": "Tanzmusik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Tanzmusik"
-        ]
       }
     }
   ],
@@ -159,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -175,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

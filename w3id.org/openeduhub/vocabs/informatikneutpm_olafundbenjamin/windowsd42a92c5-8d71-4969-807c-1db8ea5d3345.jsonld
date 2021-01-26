@@ -27,16 +27,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/betriebssystemee4de4e0b-8ced-40dc-91f7-d2459f711088",
     "prefLabel": {
       "de": "Betriebssysteme"
-    },
-    "altLabel": {
-      "de": [
-        "Betriebssystem",
-        "Betriebssysteme",
-        "OS"
-      ],
-      "en": [
-        "OS"
-      ]
     }
   },
   "inScheme": {
@@ -85,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -101,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

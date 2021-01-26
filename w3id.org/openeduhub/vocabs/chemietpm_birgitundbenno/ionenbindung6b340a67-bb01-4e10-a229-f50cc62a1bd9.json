@@ -18,44 +18,10 @@
       "ionic bonding"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Anion",
-      "Aufnahme und Abgabe von Elektronen",
-      "Kation",
-      "Kochsalz",
-      "Kristallgitter",
-      "Würfelform",
-      "elektropositive und elektronegative Elemente",
-      "elektrostatische Anziehungskräfte"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anion",
-      "Aufnahme und Abgabe von Elektronen",
-      "Kation",
-      "Kochsalz",
-      "Kristallgitter",
-      "Würfelform",
-      "elektropositive und elektronegative Elemente",
-      "elektrostatische Anziehungskräfte"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/salzec19d7a53-b8ea-47d3-9639-e077107edeb2",
     "prefLabel": {
       "de": "Salze"
-    },
-    "altLabel": {
-      "de": [
-        "Salze (Bega)",
-        "zibbel"
-      ],
-      "en": [
-        "Salze (Bega)",
-        "salts"
-      ]
     }
   },
   "inScheme": {
@@ -104,12 +70,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +80,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -19,71 +19,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/betonungundakzentuierungf065c6cb-510b-422d-80cb-64bb2baf7c2d",
       "prefLabel": {
         "de": "Betonung und Akzentuierung"
-      },
-      "note": {
-        "de": [
-          "Akzentuierung",
-          "Akzentwechsel in Wortfamilien",
-          "Betonung",
-          "Betonung von Wortgruppen und Sätzen",
-          "Betonungsregeln",
-          "Deutsch",
-          "Kontrastakzent",
-          "Wortakzent"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/intonation,pausenundrhythmus7402784a-1969-419a-8026-357ab0d24ba1",
       "prefLabel": {
         "de": "Intonation, Pausen und Rhythmus"
-      },
-      "note": {
-        "de": [
-          "Akzentmuster",
-          "Deutsch",
-          "Intonation",
-          "Prosodie",
-          "Rhythmus",
-          "Satzmelodie"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/lauteundbuchstaben8cac493c-19ca-43d0-9c3e-74dbedd5f77f",
       "prefLabel": {
         "de": "Laute und Buchstaben"
-      },
-      "note": {
-        "de": [
-          "Auslautverhärtung",
-          "Aussprache Alphabet",
-          "Deutsch",
-          "Diphthonge",
-          "Laut-Buchstabenbeziehungen",
-          "Lautbildung",
-          "Umlaute",
-          "Vokale",
-          "Zungenbrecher",
-          "stimmhafte Konsonanten",
-          "stimmlose Konsonanten"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/silben5cbfbdc5-95ac-4bde-9fa9-04f8d5012cce",
       "prefLabel": {
         "de": "Silben"
-      },
-      "note": {
-        "de": [
-          "Abzählreime",
-          "Deutsch",
-          "Silben",
-          "Silbengrenzen",
-          "Silbenregeln",
-          "Silbenstruktur"
-        ]
       }
     }
   ],
@@ -133,12 +86,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -149,16 +96,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

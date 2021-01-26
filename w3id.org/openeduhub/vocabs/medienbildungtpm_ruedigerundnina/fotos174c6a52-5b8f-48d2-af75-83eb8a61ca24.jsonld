@@ -6,44 +6,6 @@
   "prefLabel": {
     "de": "Fotos  "
   },
-  "hiddenLabel": {
-    "de": [
-      "Bildbearbeitung",
-      "Fotobearbeitung",
-      "Fotoprojekt",
-      "Fotoprojekt beurteilen",
-      "Fotoprojekt bewerten",
-      "Fotoprojekte",
-      "Fotoprojekte beurteilen ",
-      "Fotoprojekte bewerten",
-      "Fotos aufnehmen",
-      "Fotos bearbeiten",
-      "Fotos machen",
-      "Fotos präsentieren",
-      "Fotos speichern",
-      "Fotos verändern",
-      "Irfanview"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bildbearbeitung",
-      "Fotobearbeitung",
-      "Fotoprojekt",
-      "Fotoprojekt beurteilen",
-      "Fotoprojekt bewerten",
-      "Fotoprojekte",
-      "Fotoprojekte beurteilen ",
-      "Fotoprojekte bewerten",
-      "Fotos aufnehmen",
-      "Fotos bearbeiten",
-      "Fotos machen",
-      "Fotos präsentieren",
-      "Fotos speichern",
-      "Fotos verändern",
-      "Irfanview"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
     "prefLabel": {
@@ -96,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

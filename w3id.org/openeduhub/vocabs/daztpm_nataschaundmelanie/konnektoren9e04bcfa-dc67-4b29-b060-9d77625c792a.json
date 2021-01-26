@@ -6,149 +6,29 @@
   "prefLabel": {
     "de": "Konnektoren"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bindewörter",
-      "Konjunktionen",
-      "Konnektoren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bindewörter",
-      "Konjunktionen",
-      "Konnektoren"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konjunktionaladverbien94c097cc-a22f-4b57-9382-4e6994c000b8",
       "prefLabel": {
         "de": "Konjunktionaladverbien"
-      },
-      "note": {
-        "de": [
-          "Bindewörter",
-          "Konnektoren",
-          "allerdings",
-          "also",
-          "anschließend",
-          "außerdem",
-          "beziehungsweise",
-          "dabei",
-          "dadurch",
-          "dafür",
-          "dagegen",
-          "damit",
-          "danach",
-          "dann",
-          "darauf",
-          "darum",
-          "davor",
-          "dazu",
-          "dennoch",
-          "deshalb",
-          "deswegen",
-          "ferner",
-          "folglich",
-          "genauso",
-          "immerhin",
-          "inzwischen",
-          "jedoch",
-          "schließlich",
-          "seitdem",
-          "somit",
-          "sonst",
-          "später",
-          "trotzdem",
-          "vorher",
-          "zuerst",
-          "zuvor",
-          "zwar"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konjunktionen48dfbbcf-74a7-431f-8814-ea0460fda568",
       "prefLabel": {
         "de": "Konjunktionen"
-      },
-      "note": {
-        "de": [
-          "Bindewörter",
-          "Konjunktionen",
-          "Konnektoren",
-          "aber",
-          "denn",
-          "doch",
-          "nebenordnende Konjunktionen",
-          "oder",
-          "sondern",
-          "und\n"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/subjunktionencfd3fe05-16b0-4f2d-bec2-ad5beafd4b5c",
       "prefLabel": {
         "de": "Subjunktionen"
-      },
-      "note": {
-        "de": [
-          "Bindewörter",
-          "Konnektoren",
-          "Subjunktionen",
-          "als",
-          "bevor",
-          "bis",
-          "da",
-          "damit",
-          "dass",
-          "ehe",
-          "falls",
-          "indem",
-          "nachdem",
-          "ob",
-          "obgleich",
-          "obschon",
-          "obwohl",
-          "seit",
-          "seitdem",
-          "sobald",
-          "sodass",
-          "sofern",
-          "solange",
-          "sooft",
-          "soviel",
-          "soweit",
-          "untergeordnete Konjunktionen",
-          "weil",
-          "wenn",
-          "wie",
-          "wohingegen",
-          "während"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/zweigliedrigekonnektorenc13ec7c5-0861-4175-853c-164dd8c660c0",
       "prefLabel": {
         "de": "Zweigliedrige Konnektoren"
-      },
-      "note": {
-        "de": [
-          "einerseits andererseits",
-          "entweder oder",
-          "je desto",
-          "je umso",
-          "mehrteilige Konnektoren",
-          "nicht nur sondern auch",
-          "sowohl als auch",
-          "weder noch",
-          "zwar aber",
-          "zweigliedrige Konnektoren",
-          "zweiteilige Konnektoren"
-        ]
       }
     }
   ],
@@ -204,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -220,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

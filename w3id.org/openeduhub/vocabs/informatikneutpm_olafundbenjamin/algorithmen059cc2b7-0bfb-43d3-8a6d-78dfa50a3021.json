@@ -17,17 +17,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/backtrackinge3dc3329-8f31-42c1-842f-7a6116f52110",
       "prefLabel": {
         "de": "Backtracking"
-      },
-      "altLabel": {
-        "de": [
-          "Backtrace",
-          "Rücksetzverfahren"
-        ]
-      },
-      "note": {
-        "de": [
-          "Backtracking"
-        ]
       }
     },
     {
@@ -40,126 +29,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/grenzen4f9d5da4-fe69-42c2-a791-abbd00412ef7",
       "prefLabel": {
         "de": "Grenzen"
-      },
-      "altLabel": {
-        "de": [
-          "Grenzen",
-          "Groß Sodehnen",
-          "Nekrassowo (Kaliningrad, Nesterow)"
-        ]
-      },
-      "note": {
-        "de": [
-          "Halteproblem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/heuristiken0d0e4a23-cfcc-4a97-a3c2-25d66894a5f6",
       "prefLabel": {
         "de": "Heuristiken"
-      },
-      "note": {
-        "de": [
-          "Heuristik"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/komplexitaet_aufwanda578afc5-fc47-42d2-9148-b26fece7a541",
       "prefLabel": {
         "de": "Komplexität / Aufwand"
-      },
-      "note": {
-        "de": [
-          "Landau-Symbole",
-          "Laufzeitanalyse",
-          "P-NP-Problem",
-          "Ressourcenbedarf",
-          "Skalierbarkeit",
-          "Tracetabelle",
-          "benötiget Rechenschritte"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/rekursion2ed8402c-8991-4d4c-8c64-e7062484a0ba",
       "prefLabel": {
         "de": "Rekursion"
-      },
-      "altLabel": {
-        "de": [
-          "C++-Programmierung/ Weitere Grundelemente/ Rekursion",
-          "Entscheidbare Sprache",
-          "Rekursion",
-          "Rekursionsformel",
-          "Rekursionstiefe",
-          "Rekursiv",
-          "Rekursive Endlosschleife",
-          "Rekursive Funktion",
-          "Rekursive Zuordnungsvorschrift",
-          "Rekursivität"
-        ],
-        "en": [
-          "recursive",
-          "recursively"
-        ]
-      },
-      "note": {
-        "de": [
-          "Rekursion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/sortieren5b7a0ca4-b5f0-42dd-87af-c156b0dab781",
       "prefLabel": {
         "de": "Sortieren"
-      },
-      "altLabel": {
-        "de": [
-          "Sortieren",
-          "Sortierung"
-        ],
-        "en": [
-          "ordering",
-          "sort"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bubble Sort",
-          "Merge Sort",
-          "Ordnen",
-          "Quick Sort",
-          "Selection Sort",
-          "bubblesort",
-          "mergesort",
-          "quicksort",
-          "selectionsort"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/suchen3e350a7e-4d3e-4bce-af3c-e832e829674b",
       "prefLabel": {
         "de": "Suchen"
-      },
-      "altLabel": {
-        "de": [
-          "Suche",
-          "Suchen"
-        ]
-      },
-      "note": {
-        "de": [
-          "Auchverfahren",
-          "Suchalgorithmen",
-          "Suchalgorithmus",
-          "Suchbäume",
-          "Suchstrategie",
-          "Suchverfahren"
-        ]
       }
     }
   ],
@@ -215,12 +114,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -231,16 +124,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

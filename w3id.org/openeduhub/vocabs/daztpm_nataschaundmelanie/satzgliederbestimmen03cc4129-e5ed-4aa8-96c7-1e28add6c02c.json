@@ -6,42 +6,10 @@
   "prefLabel": {
     "de": "Satzglieder bestimmen"
   },
-  "hiddenLabel": {
-    "de": [
-      "\nAdverbialbestimmung Akkusativobjekt,\n Dativobjekt",
-      "\nPrädikat",
-      "Genitivobjekt",
-      "Objekt",
-      "Satzbau",
-      "Satzglieder",
-      "Subjekt",
-      "Syntax"
-    ]
-  },
-  "note": {
-    "de": [
-      "\nAdverbialbestimmung Akkusativobjekt,\n Dativobjekt",
-      "\nPrädikat",
-      "Genitivobjekt",
-      "Objekt",
-      "Satzbau",
-      "Satzglieder",
-      "Subjekt",
-      "Syntax"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/satzglieder70905a73-11fa-4b20-abd8-f9034586300e",
     "prefLabel": {
       "de": "Satzglieder"
-    },
-    "altLabel": {
-      "de": [
-        "Satzglied",
-        "Satzglieder",
-        "Satzkonstituente",
-        "Satzteil"
-      ]
     }
   },
   "inScheme": {
@@ -90,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

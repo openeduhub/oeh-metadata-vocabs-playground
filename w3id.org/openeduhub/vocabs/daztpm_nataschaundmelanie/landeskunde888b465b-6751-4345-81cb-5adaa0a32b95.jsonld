@@ -20,32 +20,6 @@
       "regionalistics"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Deutschland",
-      "Geschichte",
-      "Gesellschaft",
-      "Integration",
-      "Landeskunde",
-      "Migration",
-      "Politik",
-      "Städte und Regionen",
-      "soziokulturelles Orientierungswissen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Deutschland",
-      "Geschichte",
-      "Gesellschaft",
-      "Integration",
-      "Landeskunde",
-      "Migration",
-      "Politik",
-      "Städte und Regionen",
-      "soziokulturelles Orientierungswissen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interkulturellekompetenzen06ead4a9-5e71-4031-9b13-56527108e4ce",
     "prefLabel": {
@@ -98,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

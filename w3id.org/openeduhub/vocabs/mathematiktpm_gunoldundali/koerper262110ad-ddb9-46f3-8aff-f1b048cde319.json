@@ -29,25 +29,13 @@
       "tangible physical object"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Grundkörper"
-    ]
-  },
   "note": {
-    "de": [
-      "Grundkörper"
-    ]
+    "de": "Grundkörper"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometriec35f7dfe-65a6-4ad7-b803-6b0a357f2ada",
     "prefLabel": {
       "de": "Geometrie"
-    },
-    "altLabel": {
-      "en": [
-        "Geometry"
-      ]
     }
   },
   "inScheme": {
@@ -96,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

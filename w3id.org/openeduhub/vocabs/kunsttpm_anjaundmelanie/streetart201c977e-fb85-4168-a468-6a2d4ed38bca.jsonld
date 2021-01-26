@@ -6,56 +6,6 @@
   "prefLabel": {
     "de": "Street Art"
   },
-  "hiddenLabel": {
-    "de": [
-      "Banksy",
-      "Dieter Glasmacher",
-      "Gerard Zlotykamien",
-      "Graffiti-Schrift entwickeln",
-      "Installation mit Minifiguren",
-      "Joseph Kyselak",
-      "Keith Haring",
-      "Moos-Graffiti",
-      "Schablonen-Graffito",
-      "Shepard Fairy Obay",
-      "Stencil",
-      "Style-Writings",
-      "Swoon-Cutouts",
-      "Tagging",
-      "Tags",
-      "Tavar Zawacki",
-      "Tona",
-      "Urban Art",
-      "Werner Nöfer",
-      "nichtkommerzielle Formen von Kunst im öffentlichen Raum",
-      "the medium is the message Marshall McLuhan"
-    ]
-  },
-  "note": {
-    "de": [
-      "Banksy",
-      "Dieter Glasmacher",
-      "Gerard Zlotykamien",
-      "Graffiti-Schrift entwickeln",
-      "Installation mit Minifiguren",
-      "Joseph Kyselak",
-      "Keith Haring",
-      "Moos-Graffiti",
-      "Schablonen-Graffito",
-      "Shepard Fairy Obay",
-      "Stencil",
-      "Style-Writings",
-      "Swoon-Cutouts",
-      "Tagging",
-      "Tags",
-      "Tavar Zawacki",
-      "Tona",
-      "Urban Art",
-      "Werner Nöfer",
-      "nichtkommerzielle Formen von Kunst im öffentlichen Raum",
-      "the medium is the message Marshall McLuhan"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -102,12 +52,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -118,16 +62,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

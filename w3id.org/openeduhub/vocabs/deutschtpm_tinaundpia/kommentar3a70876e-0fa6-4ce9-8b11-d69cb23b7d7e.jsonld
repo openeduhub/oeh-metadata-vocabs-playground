@@ -20,20 +20,6 @@
       "opinion piece"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Meinungsbeitrag",
-      "Stellungnahme ",
-      "kommentieren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Meinungsbeitrag",
-      "Stellungnahme ",
-      "kommentieren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/journalistischetexte73abaea8-b5a9-41c8-a972-ad19d45c298a",
     "prefLabel": {
@@ -86,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

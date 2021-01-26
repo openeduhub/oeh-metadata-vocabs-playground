@@ -19,50 +19,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektronencc5a4c65-a4b9-4e60-b74c-e97207c8b3eb",
       "prefLabel": {
         "de": "Elektronen"
-      },
-      "note": {
-        "de": [
-          "Beugung und Interferenz von Quantenobjekten",
-          "De Broglie Wellenlänge",
-          "Interferenz von Quantenobjekten",
-          "Quantenobjekte",
-          "Statistische Deutung",
-          "Unschärferelation",
-          "Welle - Teilchen - Dualismus"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagene83e4a72-4cef-40bd-8a20-c2c5b7963052",
       "prefLabel": {
         "de": "Grundlagen"
-      },
-      "note": {
-        "de": [
-          "Fähigkeit zur Interferenz",
-          "Komplementarität",
-          "Quantenobjekten",
-          "Statistische Vorhersagbarkeit"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/photonen28226bba-a51b-4533-b91f-26f1447204aa",
       "prefLabel": {
         "de": "Photonen"
-      },
-      "note": {
-        "de": [
-          "COMPTON-Effekt",
-          "EINSTEINs Theorie des Lichts",
-          "Energie-Impuls-Beziehung beim Photon",
-          "Lichtteilchen",
-          "Photoeffekt",
-          "Photon",
-          "Photonenimpuls",
-          "Photonenmodell",
-          "lichtelektrischer Effekt"
-        ]
       }
     }
   ],
@@ -112,12 +80,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -128,16 +90,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -7,87 +7,49 @@
     "de": "Lebensmittellehre"
   },
   "note": {
-    "de": [
-      "Lebensmittellehre"
-    ]
+    "de": "Lebensmittellehre"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190301",
       "prefLabel": {
         "de": "Nahrungsmittel"
-      },
-      "note": {
-        "de": [
-          "Nahrungsmittel"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190302",
       "prefLabel": {
         "de": "Genussmittel"
-      },
-      "note": {
-        "de": [
-          "Genussmittel"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190303",
       "prefLabel": {
         "de": "Lebensmittelzubereitung"
-      },
-      "note": {
-        "de": [
-          "Lebensmittelzubereitung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190304",
       "prefLabel": {
         "de": "Haltbarmachung"
-      },
-      "note": {
-        "de": [
-          "Haltbarmachung",
-          "Lebensmittelkonservierung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190305",
       "prefLabel": {
         "de": "Vorratshaltung"
-      },
-      "note": {
-        "de": [
-          "Vorratshaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190306",
       "prefLabel": {
         "de": "Lebensmittelhygiene"
-      },
-      "note": {
-        "de": [
-          "Lebensmittelhygiene"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040190307",
       "prefLabel": {
         "de": "Lebensmittelrecht"
-      },
-      "note": {
-        "de": [
-          "Lebensmittelrecht"
-        ]
       }
     }
   ],
@@ -143,12 +105,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -159,16 +115,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -40,46 +40,10 @@
       "ρ"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Dichte Formel",
-      "Feststoffe",
-      "Flüssigkeit",
-      "Leichtmetall",
-      "Schwermetall,",
-      "Umstellen von einer Gleichung",
-      "Verdrängung",
-      "Verdrängungsmethode",
-      "Volumen bestimmen",
-      "Wiegen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dichte Formel",
-      "Feststoffe",
-      "Flüssigkeit",
-      "Leichtmetall",
-      "Schwermetall,",
-      "Umstellen von einer Gleichung",
-      "Verdrängung",
-      "Verdrängungsmethode",
-      "Volumen bestimmen",
-      "Wiegen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
     "prefLabel": {
       "de": "Stöchiometrie"
-    },
-    "altLabel": {
-      "de": [
-        "Stöchiometrisch",
-        "Umsatz",
-        "Umsatzgrad",
-        "Unstöchiometrisch"
-      ]
     }
   },
   "inScheme": {
@@ -128,12 +92,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -144,16 +102,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

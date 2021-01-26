@@ -6,64 +6,6 @@
   "prefLabel": {
     "de": "Reaktionen mit Sauerstoff"
   },
-  "hiddenLabel": {
-    "de": [
-      "Branddreieck",
-      "Brandschutz",
-      "Brennen",
-      "Brennpunkt",
-      "Explosion",
-      "Feuer",
-      "Feuer löschen",
-      "Feuerlöscher",
-      "Feuerwehr",
-      "Flamme",
-      "Flammpunkt",
-      "Kohlendioxid",
-      "Luft",
-      "Löschdecke",
-      "Löschsand",
-      "Oberfläche",
-      "Oxidation",
-      "Pyrolyse,",
-      "Sauerstoff",
-      "Verbrennung",
-      "Volumen und Oberfläche",
-      "Zündtemperatur",
-      "ersticken",
-      "exotherm",
-      "explodieren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Branddreieck",
-      "Brandschutz",
-      "Brennen",
-      "Brennpunkt",
-      "Explosion",
-      "Feuer",
-      "Feuer löschen",
-      "Feuerlöscher",
-      "Feuerwehr",
-      "Flamme",
-      "Flammpunkt",
-      "Kohlendioxid",
-      "Luft",
-      "Löschdecke",
-      "Löschsand",
-      "Oberfläche",
-      "Oxidation",
-      "Pyrolyse,",
-      "Sauerstoff",
-      "Verbrennung",
-      "Volumen und Oberfläche",
-      "Zündtemperatur",
-      "ersticken",
-      "exotherm",
-      "explodieren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/einfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
     "prefLabel": {
@@ -116,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -132,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

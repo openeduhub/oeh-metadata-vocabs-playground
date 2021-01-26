@@ -11,32 +11,6 @@
       "photo editing"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Bildbearbeitungsprogramm",
-      "Digitaldruck",
-      "Grafiksoftware",
-      "Pixelprogramm",
-      "Vektorgrafikprogramm",
-      "animiertes Gif",
-      "digitale Bildbearbeitung",
-      "digitale Zeichnung",
-      "nutzen von Filtern"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bildbearbeitungsprogramm",
-      "Digitaldruck",
-      "Grafiksoftware",
-      "Pixelprogramm",
-      "Vektorgrafikprogramm",
-      "animiertes Gif",
-      "digitale Bildbearbeitung",
-      "digitale Zeichnung",
-      "nutzen von Filtern"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/medialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
     "prefLabel": {
@@ -89,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

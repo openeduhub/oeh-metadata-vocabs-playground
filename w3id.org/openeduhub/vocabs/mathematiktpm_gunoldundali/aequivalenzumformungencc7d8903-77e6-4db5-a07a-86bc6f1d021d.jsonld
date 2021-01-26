@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Äquivalenzumformungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Operationszeichen",
-      "rüberholen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Operationszeichen",
-      "rüberholen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/termeundgleichungen03aaa98c-aaaf-4197-b2f9-d7361c70a393",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

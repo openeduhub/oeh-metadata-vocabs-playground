@@ -6,32 +6,6 @@
   "prefLabel": {
     "de": "Mimik, Gestik, Körpersprache"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ausdruck",
-      "Emotionen",
-      "Gefühle",
-      "Gesicht",
-      "Gesichtsausdruck",
-      "Gesten",
-      "Handzeichen",
-      "Körperhaltung",
-      "nonverbale Kommunikation"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ausdruck",
-      "Emotionen",
-      "Gefühle",
-      "Gesicht",
-      "Gesichtsausdruck",
-      "Gesten",
-      "Handzeichen",
-      "Körperhaltung",
-      "nonverbale Kommunikation"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zuanderensprechen_praesentieren72e28551-1991-4732-9d02-a5c117d4b826",
     "prefLabel": {
@@ -84,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,206 +6,53 @@
   "prefLabel": {
     "de": "Erzählende Texte "
   },
-  "hiddenLabel": {
-    "de": [
-      "Interpretation",
-      "Prosatext"
-    ]
-  },
-  "note": {
-    "de": [
-      "Interpretation",
-      "Prosatext"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlverhalten,erzaehlperspektivenunderzaehlformenaa8b7068-9214-41a4-bc38-e9b9f9e4bf3a",
       "prefLabel": {
         "de": "Erzählverhalten, Erzählperspektiven und Erzählformen"
-      },
-      "note": {
-        "de": [
-          "Auktorial",
-          "Außenperspektive",
-          "Du-Form",
-          "Er-/Sie-Form",
-          "Erzähler",
-          "Ich-Form",
-          "Innenperspektive",
-          "Neutral",
-          "Personal"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/fabelafc63ac2-4c1c-4621-9a7a-3b41c037c61b",
       "prefLabel": {
         "de": "Fabel"
-      },
-      "altLabel": {
-        "de": [
-          "Fabel",
-          "Fabula",
-          "Geschichte"
-        ],
-        "en": [
-          "Fabel",
-          "fabula"
-        ]
-      },
-      "note": {
-        "de": [
-          "Mischwesen",
-          "Moral",
-          "Tiere",
-          "Tierfabel",
-          "fantastische Geschichte",
-          "sprechende Tiere",
-          "Äsop"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/figurenrede9c7a1722-b126-408e-a4c3-1ff390082e0d",
       "prefLabel": {
         "de": "Figurenrede"
-      },
-      "note": {
-        "de": [
-          "Bewusststeinsstrom",
-          "Gesprächsform",
-          "Personenrede",
-          "Redeform",
-          "direkte Rede",
-          "erlebte Rede",
-          "indirekte Rede",
-          "innerer Monolog"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/kurzgeschichtedc8af060-01e4-4aff-946c-3f54302a2c45",
       "prefLabel": {
         "de": "Kurzgeschichte"
-      },
-      "altLabel": {
-        "de": [
-          "Erzählung"
-        ],
-        "en": [
-          "tale"
-        ]
-      },
-      "note": {
-        "de": [
-          "Spannung",
-          "kurz",
-          "moderne literarische Form ",
-          "offenes Ende"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/luegen-undschelmengeschichtendc191d95-7fc9-4418-9f4d-083f0a8e00e6",
       "prefLabel": {
         "de": "Lügen- und Schelmengeschichten"
-      },
-      "note": {
-        "de": [
-          "Lüge",
-          "Münchhausen",
-          "unglaubliche Dinge",
-          "Übertreibungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/maerchenc4e81787-7834-4b7d-9899-64a576eb500f",
       "prefLabel": {
         "de": "Märchen"
-      },
-      "altLabel": {
-        "en": [
-          "A Tale",
-          "Fairy Tale",
-          "Marchen",
-          "Pohadka",
-          "fairy story"
-        ]
-      },
-      "note": {
-        "de": [
-          "Es war einmal",
-          "Gebrüder Grimm",
-          "Grimm",
-          "Gut und Böse",
-          "Hans Christian Andersen",
-          "König",
-          "Prinzessin",
-          "Rapunzel",
-          "Rotkäppchen",
-          "Stiefmutter",
-          "Tradion",
-          "Veränderte Märchen",
-          "Überlieferung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/novellea92c48a8-ab17-496e-8f83-b242342331fb",
       "prefLabel": {
         "de": "Novelle"
-      },
-      "altLabel": {
-        "en": [
-          "novelle"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bahnwärter Thiel",
-          "Gerhart Hauptmann",
-          "Leidmotiv",
-          "Schimmelreiter",
-          "einzelnes Ereignis",
-          "kleine Neuigkeit",
-          "unerhörte Gegebenheit"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/sage14de91e2-0b1b-4419-af56-9926b82e9567",
       "prefLabel": {
         "de": "Sage"
-      },
-      "altLabel": {
-        "de": [
-          "Sage",
-          "Sage (Großenkneten)",
-          "Sage Gruppe"
-        ],
-        "en": [
-          "Sage",
-          "Sage Accounting",
-          "SageMath",
-          "System for Algebra and Geometry Experimentation",
-          "The Sage Group plc"
-        ]
-      },
-      "note": {
-        "de": [
-          "Feen",
-          "Legende",
-          "Loreley",
-          "Mythos",
-          "Riesen",
-          "Ritter",
-          "Volkssage",
-          "mystisch",
-          "mündliche Überlieferung",
-          "wundersame Wesen"
-        ]
       }
     }
   ],
@@ -261,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -277,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

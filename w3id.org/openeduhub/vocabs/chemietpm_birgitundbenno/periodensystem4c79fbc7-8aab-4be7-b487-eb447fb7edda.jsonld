@@ -18,146 +18,47 @@
       "periodic table of elements"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "PSE",
-      "Periodensystem"
-    ]
-  },
-  "note": {
-    "de": [
-      "PSE",
-      "Periodensystem"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/einzelnehauptgruppen0c6afaa8-05d8-44de-a0d5-495e4e7dd43a",
       "prefLabel": {
         "de": "Einzelne Hauptgruppen"
-      },
-      "note": {
-        "de": [
-          "Alkalimetalle",
-          "Borgruppe",
-          "Chalkogene",
-          "Edelgase",
-          "Erdalkalimetalle",
-          "Erzbildner",
-          "Halogene",
-          "Kohlenstoffgruppe",
-          "Stickstoffgruppe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elektronegativitaetundperiodensystem9126fa7c-4efa-4c22-9a54-e57c0e7698f1",
       "prefLabel": {
         "de": "Elektronegativität und Periodensystem"
-      },
-      "note": {
-        "de": [
-          "Bindungselektronen",
-          "Differenz der EN-Werte",
-          "EN-Werte",
-          "Edelgas",
-          "Ektronegativitätsdifferenz",
-          "Elektronegativität",
-          "Elektronenaffinität",
-          "Fluor",
-          "Pauling",
-          "Valenzelektronen",
-          "ionischer Bindungscharakter",
-          "stark elektronegativ"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/historischeentwicklungdesperiodensystems8dada205-27d8-4f71-adcc-d3778ff22260",
       "prefLabel": {
         "de": "Historische Entwicklung des Periodensystems"
-      },
-      "note": {
-        "de": [
-          "Dmitrij Mendelejew",
-          "Döbereiner",
-          "Lothar Meyer",
-          "Triaden"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/nebengruppenelemente2f688b12-a6d7-4bbe-9073-77e6f6b5bc18",
       "prefLabel": {
         "de": "Nebengruppenelemente"
-      },
-      "note": {
-        "de": [
-          "Actinoide",
-          "Eisengruppe",
-          "Elektronenschale",
-          "Kupfergruppe",
-          "Lanthanoide",
-          "d- und f-Block"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/periodensystemeiminternetundalsappf5635a43-83c1-463f-bd38-e8d7fc45f840",
       "prefLabel": {
         "de": "Periodensysteme im Internet und als App"
-      },
-      "note": {
-        "de": [
-          "Klassifikation der chemischen Elemente",
-          "Schmelztemperatur,",
-          "Tool",
-          "interaktives Periodensystem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/strukturdesperiodensystems1452421d-2994-4779-8e7f-04497471cd97",
       "prefLabel": {
         "de": "Struktur des Periodensystems"
-      },
-      "note": {
-        "de": [
-          "Edelgase",
-          "Element",
-          "Elementsymbol",
-          "Gruppe",
-          "Halbmetalle",
-          "Hauptgruppe",
-          "Masse",
-          "Metalle",
-          "Nichtmetalle",
-          "Periode"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/zusammenhangperiodensystemundatombauc1fc2068-1b27-4aab-9d89-808109e35b1d",
       "prefLabel": {
         "de": "Zusammenhang Periodensystem und Atombau"
-      },
-      "note": {
-        "de": [
-          "Atommasse",
-          "Elektronenhülle",
-          "Gruppennummer",
-          "Ion",
-          "Isotop",
-          "Kernladung",
-          "Masse",
-          "Neutron",
-          "Ordnungszahl",
-          "Periodenzahl",
-          "Protonenanzahl",
-          "Schalenanzahl",
-          "Schalennummer",
-          "Schalenzahl"
-        ]
       }
     }
   ],
@@ -213,12 +114,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -229,16 +124,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

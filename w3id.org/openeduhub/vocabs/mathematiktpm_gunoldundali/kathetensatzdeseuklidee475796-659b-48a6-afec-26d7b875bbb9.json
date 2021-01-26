@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Kathetensatz des Euklid"
   },
-  "hiddenLabel": {
-    "de": [
-      "Kathetensatz mit Berechnungen in rechtwinkligen Dreiecken",
-      "Satzgruppe des Pythagoras"
-    ]
-  },
-  "note": {
-    "de": [
-      "Kathetensatz mit Berechnungen in rechtwinkligen Dreiecken",
-      "Satzgruppe des Pythagoras"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechtwinkligedreieckeb1ff6180-e07c-4a24-89b1-fbb25e89e419",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

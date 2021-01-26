@@ -11,28 +11,6 @@
       "Leichtmetall"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Aluminium",
-      "Dichte",
-      "Lithium",
-      "Magnesium",
-      "Schwermetalle",
-      "Titan",
-      "metallischer Werkstoff"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aluminium",
-      "Dichte",
-      "Lithium",
-      "Magnesium",
-      "Schwermetalle",
-      "Titan",
-      "metallischer Werkstoff"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/metalleunderzeb569e361-e899-4150-bb3b-c57466675069",
     "prefLabel": {
@@ -85,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -101,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -34,72 +34,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/koerperundnetzefb195631-a976-44d3-a6be-c457b7d03bea",
       "prefLabel": {
         "de": "Körper und Netze"
-      },
-      "note": {
-        "de": [
-          "Auffaltung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/oberflaecheninhaltevonquadernundwuerfeln297ad087-106c-4219-89b8-344592fa1f2e",
       "prefLabel": {
         "de": "Oberflächeninhalte von Quadern und Würfeln"
-      },
-      "note": {
-        "de": [
-          "Oberflächeninhalt "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quaderundwuerfel06a5eaf1-80b1-4996-8b2e-c88528f7b013",
       "prefLabel": {
         "de": "Quader und Würfel"
-      },
-      "note": {
-        "de": [
-          "Ecke",
-          "Kanten",
-          "Rechtecke"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/schraegbilderf6360366-7e6f-4903-b2d7-c29718515ad5",
       "prefLabel": {
         "de": "Schrägbilder"
-      },
-      "note": {
-        "de": [
-          "Räumlicher Körper",
-          "abgeschrägte Form"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/volumeneinesquaders048979b5-698a-436a-a8a5-41a575245589",
       "prefLabel": {
         "de": "Volumen eines Quaders"
-      },
-      "note": {
-        "de": [
-          "Rauminhalt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/volumeneinheiten7ea4df5a-f984-4443-8854-e5d7f7f7ffc5",
       "prefLabel": {
         "de": "Volumeneinheiten"
-      },
-      "note": {
-        "de": [
-          "Kubikdezimenter",
-          "Kubikmeter",
-          "Kubikmillimeter",
-          "Kubikzentimenter"
-        ]
       }
     }
   ],
@@ -149,12 +113,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -165,16 +123,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

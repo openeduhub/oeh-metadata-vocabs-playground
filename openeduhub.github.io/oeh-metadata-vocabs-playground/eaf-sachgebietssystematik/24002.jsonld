@@ -6,91 +6,41 @@
   "prefLabel": {
     "de": "Epochen"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400201",
       "prefLabel": {
         "de": "Vor- und Frühgeschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Prähistorie",
-          "Urgeschichte",
-          "Vor- und Frühgeschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400202",
       "prefLabel": {
         "de": "Alte Geschichte"
-      },
-      "note": {
-        "de": [
-          "Alte Geschichte",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400203",
       "prefLabel": {
         "de": "Mittelalterliche Geschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Mittelalterliche Geschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400204",
       "prefLabel": {
         "de": "Neuere Geschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Neuere Geschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400205",
       "prefLabel": {
         "de": "Geschichte von 1945 bis 1990"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichte von 1945 bis 1990",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2400206",
       "prefLabel": {
         "de": "Neueste Geschichte seit 1990"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Neueste Geschichte seit 1990"
-        ]
       }
     }
   ],
@@ -146,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -162,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

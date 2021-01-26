@@ -17,68 +17,20 @@
       "relativity"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Albert Einsteins Relativitätstheorien"
-    ]
-  },
   "note": {
-    "de": [
-      "Albert Einsteins Relativitätstheorien"
-    ]
+    "de": "Albert Einsteins Relativitätstheorien"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/allgemeinerelativitaetstheorieart1256037d-6b37-4dbd-b540-95f755b5c361",
       "prefLabel": {
         "de": "Allgemeine Relativitätstheorie (ART)"
-      },
-      "note": {
-        "de": [
-          "Albert Einstein",
-          "Die ART beschreibt die Wechselwirkung zwischen Materie (einschließlich Feldern) einerseits",
-          "E=mc²",
-          "Einstein",
-          "Raum-Zeit",
-          "Raumzeit",
-          "allgemeine Relativitätstheorie",
-          "sowie Raum und Zeit andererseits. Sie deutet Gravitation als geometrische Eigenschaft der gekrümmten vierdimensionalen Raumzeit",
-          "vierdimensional"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/speziellerelativitaetstheoriesrtfaf267a6-614f-4414-ba6f-3b1c1c46392c",
       "prefLabel": {
         "de": "Spezielle Relativitätstheorie (SRT)"
-      },
-      "note": {
-        "de": [
-          "Albert Einstein",
-          "Effekte",
-          "Einstein",
-          "Einsteins Postulate",
-          "Energie-Impuls-Beziehung",
-          "Geschwindigkeitsbetrachtung",
-          "Gleichzeitigkeit",
-          "Grundaussagen der speziellen Relativitätstheorie",
-          "Inertialsystem",
-          "Längenkontraktion",
-          "Längenänderung",
-          "Paradoxien",
-          "Raum-Zeit",
-          "Raumzeit",
-          "Relativistische Energie",
-          "Relativistische Masse und Impuls",
-          "Spezielle Relativitätstheorie",
-          "Zeit",
-          "Zeitdehnung",
-          "Zeitdilatation",
-          "kürzer",
-          "länger",
-          "relativ",
-          "spezielle Relativitätstheorie"
-        ]
       }
     }
   ],
@@ -128,12 +80,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -144,16 +90,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

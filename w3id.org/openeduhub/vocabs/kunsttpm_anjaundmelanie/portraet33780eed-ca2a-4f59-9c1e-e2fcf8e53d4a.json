@@ -18,50 +18,6 @@
       "portraiture"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      " Abbild",
-      "Brustbild",
-      "Büste;",
-      "Doppelporträt",
-      "Dreiviertelprofil",
-      "Einzelporträt",
-      "Gruppenporträt",
-      "Idealbild",
-      "Kopfporträt",
-      "Künstler deuten die eigene Person",
-      "Künstlerinnen deuten die eigene Person",
-      "Profildarstellung",
-      "Selbstbildnis",
-      "Selbstporträt",
-      "der Künstler als Objekt seiner Malerei",
-      "die Künstlerin als Objekt ihrer Malerei",
-      "en face-Darstellung",
-      "ganzfiguriges Porträt"
-    ]
-  },
-  "note": {
-    "de": [
-      " Abbild",
-      "Brustbild",
-      "Büste;",
-      "Doppelporträt",
-      "Dreiviertelprofil",
-      "Einzelporträt",
-      "Gruppenporträt",
-      "Idealbild",
-      "Kopfporträt",
-      "Künstler deuten die eigene Person",
-      "Künstlerinnen deuten die eigene Person",
-      "Profildarstellung",
-      "Selbstbildnis",
-      "Selbstporträt",
-      "der Künstler als Objekt seiner Malerei",
-      "die Künstlerin als Objekt ihrer Malerei",
-      "en face-Darstellung",
-      "ganzfiguriges Porträt"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/genre_bildgattungen9e0af10a-93fd-4170-b339-91699d446a0e",
     "prefLabel": {
@@ -114,12 +70,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +80,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,83 +6,41 @@
   "prefLabel": {
     "de": "Kunst, Kultur, Gestaltung"
   },
-  "note": {
-    "de": [
-      "Gestaltung",
-      "Kultur",
-      "Kunst"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0402001",
       "prefLabel": {
         "de": "Musik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0402002",
       "prefLabel": {
         "de": "Schmuck"
-      },
-      "note": {
-        "de": [
-          "Schmuck"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0402003",
       "prefLabel": {
         "de": "Kunsthandwerk"
-      },
-      "note": {
-        "de": [
-          "Kunsthandwerk"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0402004",
       "prefLabel": {
         "de": "Museen, Restaurierung, Denkmalschutz"
-      },
-      "note": {
-        "de": [
-          "Denkmalschutz",
-          "Museum",
-          "Restaurierung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0402005",
       "prefLabel": {
         "de": "Design, Gestaltung"
-      },
-      "note": {
-        "de": [
-          "Design",
-          "Gestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0402006",
       "prefLabel": {
         "de": "Bühne, Theater"
-      },
-      "note": {
-        "de": [
-          "Bühne",
-          "Theater"
-        ]
       }
     }
   ],
@@ -138,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -154,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

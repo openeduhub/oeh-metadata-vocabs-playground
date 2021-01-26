@@ -6,55 +6,23 @@
   "prefLabel": {
     "de": "Angewandte Kunst der Gegenwart"
   },
-  "note": {
-    "de": [
-      "Angewandte Kunst der Gegenwart",
-      "Gegenwartskunst",
-      "Kunst",
-      "Kunstunterricht",
-      "Zeitgenössische Kunst"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0600401",
       "prefLabel": {
         "de": "Architektur und Landschaftsgestaltung"
-      },
-      "note": {
-        "de": [
-          "Architektur",
-          "Kunst",
-          "Kunstunterricht",
-          "Landschaftsgestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0600402",
       "prefLabel": {
         "de": "Produktgestaltung, Design"
-      },
-      "note": {
-        "de": [
-          "Design",
-          "Kunst",
-          "Kunstunterricht",
-          "Produktgestaltung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0600403",
       "prefLabel": {
         "de": "Werbung"
-      },
-      "note": {
-        "de": [
-          "Kunst",
-          "Kunstunterricht",
-          "Werbung"
-        ]
       }
     }
   ],
@@ -110,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

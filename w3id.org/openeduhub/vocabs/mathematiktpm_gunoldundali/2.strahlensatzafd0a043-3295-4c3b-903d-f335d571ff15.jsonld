@@ -6,33 +6,10 @@
   "prefLabel": {
     "de": "2. Strahlensatz"
   },
-  "hiddenLabel": {
-    "de": [
-      "Strahlensätze befassen sich mit dem Verhältnis von Strecken",
-      "zweiter Strahlensatz"
-    ]
-  },
-  "note": {
-    "de": [
-      "Strahlensätze befassen sich mit dem Verhältnis von Strecken",
-      "zweiter Strahlensatz"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/aehnlichkeit1c04d9de-94fb-403d-94a8-64dad7e12f9a",
     "prefLabel": {
       "de": "Ähnlichkeit"
-    },
-    "altLabel": {
-      "de": [
-        "ähnlich"
-      ],
-      "en": [
-        "Identity",
-        "identity relation",
-        "identity relationship",
-        "itself"
-      ]
     }
   },
   "inScheme": {
@@ -81,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -97,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

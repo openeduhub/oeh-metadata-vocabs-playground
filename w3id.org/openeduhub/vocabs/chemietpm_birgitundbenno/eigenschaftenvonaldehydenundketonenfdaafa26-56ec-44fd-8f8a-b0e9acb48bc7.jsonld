@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Eigenschaften von Aldehyden und Ketonen"
   },
-  "hiddenLabel": {
-    "de": [
-      "C=O–Bindung",
-      "Keto-Enol-Tautomerie ",
-      "Polymerisationsreaktion",
-      "Reduktionsmittel",
-      "Stoffwechsel",
-      "nucleophile Additionsreaktion"
-    ]
-  },
-  "note": {
-    "de": [
-      "C=O–Bindung",
-      "Keto-Enol-Tautomerie ",
-      "Polymerisationsreaktion",
-      "Reduktionsmittel",
-      "Stoffwechsel",
-      "nucleophile Additionsreaktion"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aldehydeundketone32876318-b7c7-40b0-8c48-8e0a7190223a",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

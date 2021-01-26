@@ -6,34 +6,6 @@
   "prefLabel": {
     "de": "Transformator Generator Motor"
   },
-  "hiddenLabel": {
-    "de": [
-      "Elektrischer Generator",
-      "Elektromotor",
-      "Energieübertragung durch Hochspannung",
-      "Generatorprinzip",
-      "Hochspannungsleitung",
-      "Motorprinzip",
-      "Primärspule",
-      "Sekundärspule",
-      "Stator",
-      "Transformator"
-    ]
-  },
-  "note": {
-    "de": [
-      "Elektrischer Generator",
-      "Elektromotor",
-      "Energieübertragung durch Hochspannung",
-      "Generatorprinzip",
-      "Hochspannungsleitung",
-      "Motorprinzip",
-      "Primärspule",
-      "Sekundärspule",
-      "Stator",
-      "Transformator"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/vertiefunge-lehre1b2555a6-c55b-4673-a823-15ca9baf5d55",
     "prefLabel": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

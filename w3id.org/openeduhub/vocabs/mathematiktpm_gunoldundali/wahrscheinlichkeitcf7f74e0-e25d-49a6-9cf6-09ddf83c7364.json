@@ -16,51 +16,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/absoluteundrelativehaeufigkeit7324dab6-b1d6-4a2c-b9aa-14c19295b3a8",
       "prefLabel": {
         "de": "Absolute und relative Häufigkeit"
-      },
-      "note": {
-        "de": [
-          "Anzahl von Elementen oder Objekten mit einem bestimmten Merkmal"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/baumdiagrammundpfadregelbd4dabe2-c771-4139-afd7-3337f48e8beb",
       "prefLabel": {
         "de": "Baumdiagramm und Pfadregel"
-      },
-      "note": {
-        "de": [
-          "1. Pfadregel",
-          "2. Pfadregel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bedingtewahrscheinlichkeit6701a05d-049e-4459-8ba3-0fdb666c553f",
       "prefLabel": {
         "de": "bedingte Wahrscheinlichkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Schnittmengenwahrscheinlichkeit",
-          "Schnittwahrscheinlichkeit",
-          "Verbundwahrscheinlichkeit",
-          "bedingte Wahrscheinlichkeiten",
-          "gemeinsame Wahrscheinlichkeit",
-          "konditionale Wahrscheinlichkeit",
-          "konjunktive Wahrscheinlichkeit"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/begriffderwahrscheinlichkeit2ab36561-d9be-42f6-8fa1-82ebdc423427",
       "prefLabel": {
         "de": "Begriff der Wahrscheinlichkeit"
-      },
-      "note": {
-        "de": [
-          "setzt die absolute Anzahl eines Ereignisses in ein Verhältnis zum Ganzen. Sie wird in Prozent angegeben und hat somit in der Dezimalschreibweise einen Wert zwischen 0 und 1."
-        ]
       }
     },
     {
@@ -73,19 +46,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/stochastischeunabhaengigkeit17ee887c-a246-47b0-ade6-e91ddd5716e1",
       "prefLabel": {
         "de": "stochastische Unabhängigkeit"
-      },
-      "altLabel": {
-        "de": [
-          "statistische Unabhängigkeit",
-          "stochastisch unabhängig",
-          "stochastische Abhängigkeit",
-          "unabhängig"
-        ],
-        "en": [
-          "independent",
-          "statistically independent",
-          "stochastically independent"
-        ]
       }
     },
     {
@@ -141,12 +101,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -157,16 +111,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

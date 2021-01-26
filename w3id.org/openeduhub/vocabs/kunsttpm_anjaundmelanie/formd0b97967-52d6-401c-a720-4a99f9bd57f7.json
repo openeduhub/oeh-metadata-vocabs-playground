@@ -36,48 +36,6 @@
       "xkcd 608"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Abgleich mit der Wirklichkeit",
-      "Bedeutungsverlust",
-      "Flächenkante",
-      "Formbegrenzung",
-      "Formbereich",
-      "Formerkennung",
-      "Formgenauigkeit",
-      "Formkontrast;",
-      "Formqualität",
-      "Formrichtigkeit",
-      "Ikonizität",
-      "Verallgemeinerung",
-      "Vereinfachung",
-      "Wahrnehmung des Motivs",
-      "Wirklichkeitsanspruch",
-      "fotorealistische Darstellung",
-      "illusionsbild"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abgleich mit der Wirklichkeit",
-      "Bedeutungsverlust",
-      "Flächenkante",
-      "Formbegrenzung",
-      "Formbereich",
-      "Formerkennung",
-      "Formgenauigkeit",
-      "Formkontrast;",
-      "Formqualität",
-      "Formrichtigkeit",
-      "Ikonizität",
-      "Verallgemeinerung",
-      "Vereinfachung",
-      "Wahrnehmung des Motivs",
-      "Wirklichkeitsanspruch",
-      "fotorealistische Darstellung",
-      "illusionsbild"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/wahrnehmungsschulung01f2e26f-63fe-4f5a-abac-26d019e8fd42",
     "prefLabel": {
@@ -130,12 +88,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -146,16 +98,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

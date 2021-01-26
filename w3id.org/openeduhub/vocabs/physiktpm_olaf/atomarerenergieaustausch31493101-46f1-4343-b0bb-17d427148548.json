@@ -6,132 +6,23 @@
   "prefLabel": {
     "de": "Atomarer Energieaustausch"
   },
-  "hiddenLabel": {
-    "de": [
-      "Absorptionsspektrum",
-      "Atomares Spektrum",
-      "Emissionsspektrum",
-      "Linienspektren",
-      "Photonenabsorbtion",
-      "Photonenemission",
-      "Stoßionisation",
-      "diskrete Energieniveaus",
-      "diskrete Energiezustände"
-    ]
-  },
-  "note": {
-    "de": [
-      "Absorptionsspektrum",
-      "Atomares Spektrum",
-      "Emissionsspektrum",
-      "Linienspektren",
-      "Photonenabsorbtion",
-      "Photonenemission",
-      "Stoßionisation",
-      "diskrete Energieniveaus",
-      "diskrete Energiezustände"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/festkoerperphysik25d0c3fa-8b01-4fb7-ac66-4af1e239ee25",
       "prefLabel": {
         "de": "Festkörperphysik"
-      },
-      "altLabel": {
-        "de": [
-          "a34"
-        ],
-        "en": [
-          "solid state physics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Gitterschwingung",
-          "Hochtemperatursupraleiter",
-          "Kondensierte Materie",
-          "Kristallgitter",
-          "Kristallographie",
-          "Quasikristalle",
-          "Supraleiter",
-          "Supraleitung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/halbleiterphysik70d6ddbe-5333-479d-a80f-aab065d3c496",
       "prefLabel": {
         "de": "Halbleiterphysik"
-      },
-      "altLabel": {
-        "de": [
-          "Elementhalbleiter",
-          "Halbleiter",
-          "Halbleiterphysik",
-          "Intrinsischer Halbleiter",
-          "Semikonduktor",
-          "Shockley-Diode",
-          "Verbindungshalbleiter"
-        ],
-        "en": [
-          "semiconductor material"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bandlücke",
-          "Dotierung",
-          "Halbleiter",
-          "Halbleiterdiode",
-          "Leuchtdioden",
-          "Löcherleitung",
-          "Transistor",
-          "p-n-Übergang"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/laserbb7207d7-4bdb-4567-afdf-7bf9618ef515",
       "prefLabel": {
         "de": "Laser"
-      },
-      "altLabel": {
-        "de": [
-          "Farbzentrenlaser",
-          "Laser 4.7",
-          "Laser radial",
-          "Laserklassen",
-          "Lasern",
-          "Laserphysik",
-          "Laserschutz",
-          "Laserschutzklasse",
-          "Laserstrahlung",
-          "Lasertechnik",
-          "Lichtverstärker",
-          "Light Amplification by Stimulated Emission of Radiation"
-        ],
-        "en": [
-          "International Laser Class sailboat",
-          "Laser One",
-          "Laser Standard",
-          "lasers",
-          "lasing",
-          "light amplification by stimulated emission of radiation"
-        ]
-      },
-      "note": {
-        "de": [
-          " Laserresonator",
-          "Dauerstrichlaser",
-          "Helium-Neon-Laser",
-          "Laserdiode",
-          "Lasermedien",
-          "Licht-Verstärkung durch stimulierte Emission von Strahlung",
-          "Stimulierte Emission",
-          "light amplification by stimulated emission of radiation",
-          "optisches Punkten"
-        ]
       }
     }
   ],
@@ -139,12 +30,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/atomphysik9ac5ed5a-27de-4dd1-8c41-76f47392a3c3",
     "prefLabel": {
       "de": "Atomphysik"
-    },
-    "altLabel": {
-      "de": [
-        "Atomphysiker",
-        "Atomphysikerin"
-      ]
     }
   },
   "inScheme": {
@@ -193,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -209,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

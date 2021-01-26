@@ -11,33 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/additionundsubtraktionvonvektorend43ccd74-8f3d-4b78-9b40-48f01fbdda51",
       "prefLabel": {
         "de": "Addition und Subtraktion von Vektoren"
-      },
-      "note": {
-        "de": [
-          "Die Addition und Subtraktion von Vektoren wird komponentenweise berechnet."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/betrageinesvektorsf10a047f-ab29-407e-84bc-e9392a416725",
       "prefLabel": {
         "de": "Betrag eines Vektors"
-      },
-      "note": {
-        "de": [
-          "Länge eines Vektors"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/derbegriffdesvektors4ca16c4f-70f5-4f58-9d92-79eca5039273",
       "prefLabel": {
         "de": "Der Begriff des Vektors"
-      },
-      "note": {
-        "de": [
-          "Ein Vektor ist ein Element von einem Vektorraum"
-        ]
       }
     },
     {
@@ -50,52 +35,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geradenundebenenf6cf880a-9ba5-445f-b87c-2621cc0100ed",
       "prefLabel": {
         "de": "Geraden und Ebenen"
-      },
-      "note": {
-        "de": [
-          "Gerade liegt in Ebene",
-          "Gerade und Ebene echt parallel",
-          "Gerade und Ebene schneiden sich"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/lineareabhaengigkeit_unabhaengigkeitcaa02907-583f-4b8b-9702-c765e2717cd7",
       "prefLabel": {
         "de": "Lineare Abhängigkeit / Unabhängigkeit"
-      },
-      "note": {
-        "de": [
-          "Determinante",
-          "Gauß-Algortihmus",
-          "Linearkombination",
-          "Nullvektor",
-          "linear abhängig"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/linearegleichungssystemec4e17655-8d02-4bf5-b0fd-167718efc2e8",
       "prefLabel": {
         "de": "Lineare Gleichungssysteme"
-      },
-      "note": {
-        "de": [
-          "Additionsverfahren",
-          "Einsetzungsverfahren",
-          "Gleichsetzungsverfahren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/multiplikationeinesvektorsmiteinerzahl6ec6962c-e738-49b9-9506-416a2614c04d",
       "prefLabel": {
         "de": "Multiplikation eines Vektors mit einer Zahl"
-      },
-      "note": {
-        "de": [
-          "Skalarmultiplikation: Vektor mit einer Zahl multiplizieren"
-        ]
       }
     },
     {
@@ -108,23 +65,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/punkteundvektorenimkoordinatensystem33ff7059-f7dd-4380-b748-70fb8e1f34ce",
       "prefLabel": {
         "de": "Punkte und Vektoren im Koordinatensystem"
-      },
-      "note": {
-        "de": [
-          "Dreidimensionale Punkte werden in der Form (x1 l x2 l x3) angegeben."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeitsrechnung2021bc31-e59f-4f92-85ee-acca8620186d",
       "prefLabel": {
         "de": "Wahrscheinlichkeitsrechnung"
-      },
-      "altLabel": {
-        "de": [
-          "Wahrscheinlichkeitsrechnung",
-          "Wahrscheinlichkeitstheorie"
-        ]
       }
     },
     {
@@ -137,24 +83,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
       "prefLabel": {
         "de": "Winkel und Abstände"
-      },
-      "note": {
-        "de": [
-          "Abstand berechnen",
-          "Abstand eines Punktes von einer",
-          "Abstand eines Punktes zu einer Geraden berechnen (Analytische Geometrie)",
-          "Abstand zweier Ebenen bestimmen",
-          "Abstand zweier Geraden",
-          "Abstand zweier Punkte berechnen",
-          "Aufgaben ",
-          "Aufgaben zum Schnittwinkel von Geraden und Ebenen",
-          "Ebene berechnen (Projektionsverfahren)",
-          "Schnittwinkel in der analytischen Geometrie",
-          "Schnittwinkel von Geraden und Ebenen",
-          "Schnittwinkel zwischen Gerade und Ebene\n",
-          "Video ",
-          "Zwei zueinander senkrechte Geraden (analytische Geometrie)"
-        ]
       }
     }
   ],
@@ -204,12 +132,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -220,16 +142,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

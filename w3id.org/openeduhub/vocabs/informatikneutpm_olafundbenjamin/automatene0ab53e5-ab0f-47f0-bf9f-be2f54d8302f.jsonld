@@ -11,62 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/deterministischerendlicherautomatdeaba2f0d8e-ef8c-44c5-9f1b-0d9d42da85ac",
       "prefLabel": {
         "de": "Deterministischer endlicher Automat (DEA)"
-      },
-      "note": {
-        "de": [
-          "DFA",
-          "Zustandsmaschine",
-          "deterministic finate state machine",
-          "deterministic finite automaton"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kellerautomaten629f9b16-9178-44ff-bf52-49f510492f8e",
       "prefLabel": {
         "de": "Kellerautomaten "
-      },
-      "note": {
-        "de": [
-          "Stackmaschine",
-          "Stapelverarbeitung: LIFO",
-          "pushdown automaton"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/nichtdeterministischerendlicherautomatnea221ee4bf-8b7d-4c6d-9d56-ad2bf69fc4d5",
       "prefLabel": {
         "de": "Nichtdeterministischer endlicher Automat (NEA)"
-      },
-      "note": {
-        "de": [
-          "nondeterministic finite automaton"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/turingmaschine692e2089-6497-480a-9254-6e0ec25b5b06",
       "prefLabel": {
         "de": "Turingmaschine"
-      },
-      "altLabel": {
-        "de": [
-          "Turing Maschine",
-          "Turing-Maschine",
-          "Turingmodell"
-        ],
-        "en": [
-          "deterministic Turing machine"
-        ]
-      },
-      "note": {
-        "de": [
-          "Turing-Automat",
-          "Turing-Maschine",
-          "Turingautomat",
-          "Turingmaschine"
-        ]
       }
     }
   ],
@@ -122,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -138,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

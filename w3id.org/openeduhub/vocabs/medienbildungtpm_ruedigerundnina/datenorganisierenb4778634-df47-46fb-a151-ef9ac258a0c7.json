@@ -6,72 +6,6 @@
   "prefLabel": {
     "de": "Daten organisieren"
   },
-  "hiddenLabel": {
-    "de": [
-      "Cloud",
-      "Cloudsystem",
-      "Datei",
-      "Dateienablage",
-      "Datenorganisation",
-      "Explorer",
-      "Finder",
-      "Hashtag",
-      "Informationen und Daten sicher speichern",
-      "Ordner",
-      "Ordner anlegen",
-      "Ordner erstellen",
-      "Ordnerstruktur",
-      "Ordnerstrukturen",
-      "Ordnerstrukturen anlegen",
-      "Portable Apps",
-      "Portableapps",
-      "Sicherheitskopie",
-      "Sicherheitskopien",
-      "Sicherheitskopien erstellen",
-      "Suchen",
-      "Tag",
-      "Tags",
-      "USB Stick",
-      "Verzeichnis",
-      "Verzeichnisse",
-      "Verzeichnisse anlegen",
-      "Verzeichnisser erstellen",
-      "wiederfinden und von verschiedenen Orten abrufen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Cloud",
-      "Cloudsystem",
-      "Datei",
-      "Dateienablage",
-      "Datenorganisation",
-      "Explorer",
-      "Finder",
-      "Hashtag",
-      "Informationen und Daten sicher speichern",
-      "Ordner",
-      "Ordner anlegen",
-      "Ordner erstellen",
-      "Ordnerstruktur",
-      "Ordnerstrukturen",
-      "Ordnerstrukturen anlegen",
-      "Portable Apps",
-      "Portableapps",
-      "Sicherheitskopie",
-      "Sicherheitskopien",
-      "Sicherheitskopien erstellen",
-      "Suchen",
-      "Tag",
-      "Tags",
-      "USB Stick",
-      "Verzeichnis",
-      "Verzeichnisse",
-      "Verzeichnisse anlegen",
-      "Verzeichnisser erstellen",
-      "wiederfinden und von verschiedenen Orten abrufen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/bedienenundanwenden6043a17b-7d82-4fef-b751-036a9b18d009",
     "prefLabel": {
@@ -124,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -140,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

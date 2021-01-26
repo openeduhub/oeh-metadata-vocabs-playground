@@ -6,63 +6,10 @@
   "prefLabel": {
     "de": "Radioaktivität und Zerfallsarten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Alphateilchen",
-      "Bequerel",
-      "Curie",
-      "Hahn",
-      "Halbwertszeit",
-      "Meitner,",
-      "Nebelkammer",
-      "Radioaktiver Zerfall",
-      "Radioaktivität",
-      "Röntgenstrahlung",
-      "Soddy",
-      "Strahlung",
-      "alpha",
-      "beta",
-      "gamma",
-      "ionisierende Strahlung",
-      "radioaktive Strahlung",
-      "ɣ-Strahlung",
-      "α-Strahlung",
-      "β-Strahlung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alphateilchen",
-      "Bequerel",
-      "Curie",
-      "Hahn",
-      "Halbwertszeit",
-      "Meitner,",
-      "Nebelkammer",
-      "Radioaktiver Zerfall",
-      "Radioaktivität",
-      "Röntgenstrahlung",
-      "Soddy",
-      "Strahlung",
-      "alpha",
-      "beta",
-      "gamma",
-      "ionisierende Strahlung",
-      "radioaktive Strahlung",
-      "ɣ-Strahlung",
-      "α-Strahlung",
-      "β-Strahlung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kernchemie180414b6-eb4a-495e-af94-a03e6201589e",
     "prefLabel": {
       "de": "Kernchemie"
-    },
-    "altLabel": {
-      "de": [
-        "Nuklearchemie"
-      ]
     }
   },
   "inScheme": {
@@ -111,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -23,11 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/massenmedien716c983d-57b8-468a-8421-c4f145dd4d13",
       "prefLabel": {
         "de": "Massenmedien"
-      },
-      "altLabel": {
-        "en": [
-          "Mass Media Games"
-        ]
       }
     },
     {
@@ -46,11 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/mediengeschichtef4290dd7-89b4-4e6b-97cf-bbfa150e8b5a",
       "prefLabel": {
         "de": "Mediengeschichte"
-      },
-      "altLabel": {
-        "de": [
-          "Geschichte der Medien"
-        ]
       }
     },
     {
@@ -63,19 +53,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/symbole96701af2-c88d-4740-ba14-8798a53332ec",
       "prefLabel": {
         "de": "Symbole"
-      },
-      "altLabel": {
-        "de": [
-          "Symbol",
-          "Symbole",
-          "Symbolisation",
-          "Symbolisationen",
-          "Symbolisierung",
-          "symbolisieren"
-        ],
-        "en": [
-          "symbols"
-        ]
       }
     },
     {
@@ -131,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

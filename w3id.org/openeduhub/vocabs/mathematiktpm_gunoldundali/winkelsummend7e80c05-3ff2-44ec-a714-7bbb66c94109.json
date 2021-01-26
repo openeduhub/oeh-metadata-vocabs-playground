@@ -6,25 +6,13 @@
   "prefLabel": {
     "de": "Winkelsummen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Innenwinkelsumme"
-    ]
-  },
   "note": {
-    "de": [
-      "Innenwinkelsumme"
-    ]
+    "de": "Innenwinkelsumme"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrie14c29fbf-09d7-49fd-98be-b99cfbe00d6a",
     "prefLabel": {
       "de": "Geometrie"
-    },
-    "altLabel": {
-      "en": [
-        "Geometry"
-      ]
     }
   },
   "inScheme": {
@@ -73,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -89,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

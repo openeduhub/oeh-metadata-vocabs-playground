@@ -6,28 +6,6 @@
   "prefLabel": {
     "de": "Partizip 1 und 2 als Adjektive"
   },
-  "hiddenLabel": {
-    "de": [
-      " Adjektive",
-      "Eigenschaftwörter",
-      "Partizip 1 als Adjektiv",
-      "Partizip 2 als Adjektiv",
-      "Partizip I als Adjektiv",
-      "Partizip II als Adjektiv",
-      "Wie-Wörter"
-    ]
-  },
-  "note": {
-    "de": [
-      " Adjektive",
-      "Eigenschaftwörter",
-      "Partizip 1 als Adjektiv",
-      "Partizip 2 als Adjektiv",
-      "Partizip I als Adjektiv",
-      "Partizip II als Adjektiv",
-      "Wie-Wörter"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adjektive398ad3a4-efd8-4738-8189-e393c181eb03",
     "prefLabel": {
@@ -80,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -96,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

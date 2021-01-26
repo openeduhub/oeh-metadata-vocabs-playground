@@ -6,50 +6,10 @@
   "prefLabel": {
     "de": "Eigenschaften und Nachweisreaktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      " chromatographische Trennverfahren,",
-      "Cm(H20)n",
-      "Glycogen",
-      "Iodprobe",
-      "Lugolsche Lösung",
-      "Stärke",
-      "Summenformel",
-      "aufquellen",
-      "vergären",
-      "verkleistern"
-    ]
-  },
-  "note": {
-    "de": [
-      " chromatographische Trennverfahren,",
-      "Cm(H20)n",
-      "Glycogen",
-      "Iodprobe",
-      "Lugolsche Lösung",
-      "Stärke",
-      "Summenformel",
-      "aufquellen",
-      "vergären",
-      "verkleistern"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenhydrate084c65d7-a9f1-4b9d-9ada-5ba3bb8c4978",
     "prefLabel": {
       "de": "Kohlenhydrate"
-    },
-    "altLabel": {
-      "de": [
-        "Kohlehydrate",
-        "Kohlenstoffhydrate",
-        "Makrosaccharide",
-        "Saccharide"
-      ],
-      "en": [
-        "carb",
-        "carbohydrates"
-      ]
     }
   },
   "inScheme": {
@@ -98,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

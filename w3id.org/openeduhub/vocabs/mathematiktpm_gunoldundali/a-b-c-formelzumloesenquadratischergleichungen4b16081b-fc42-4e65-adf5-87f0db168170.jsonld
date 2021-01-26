@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "A-b-c-Formel zum Lösen quadratischer Gleichungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "ähnelt sehr stark der PQ-Formel und dient der Lösung quadratischer Gleichungen"
-    ]
-  },
   "note": {
-    "de": [
-      "ähnelt sehr stark der PQ-Formel und dient der Lösung quadratischer Gleichungen"
-    ]
+    "de": "ähnelt sehr stark der PQ-Formel und dient der Lösung quadratischer Gleichungen"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/grundlagenc194b92d-f2aa-4e04-a1a3-3ac759498197",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

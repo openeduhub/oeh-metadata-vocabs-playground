@@ -6,49 +6,10 @@
   "prefLabel": {
     "de": "Mündlicher Ausdruck / Übungstypologien"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dialoggeländer mit Stichworten / Sprechintentionen",
-      "Informationen austauschen",
-      "Informationen austauschen mit Grammatik",
-      "Kurzinterview",
-      "Meinungsäußerungen",
-      "Rollenspiele",
-      "Sprechimpulse",
-      "angeleitetes Sprechen",
-      "aufbauende und strukturierende Übungen",
-      "chorisches Sprechen",
-      "simulierende Übungen",
-      "vorbereiten Übungen",
-      "über Bilder / Texte sprechen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dialoggeländer mit Stichworten / Sprechintentionen",
-      "Informationen austauschen",
-      "Informationen austauschen mit Grammatik",
-      "Kurzinterview",
-      "Meinungsäußerungen",
-      "Rollenspiele",
-      "Sprechimpulse",
-      "angeleitetes Sprechen",
-      "aufbauende und strukturierende Übungen",
-      "chorisches Sprechen",
-      "simulierende Übungen",
-      "vorbereiten Übungen",
-      "über Bilder / Texte sprechen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/sprachdidaktik1e9f432e-27e3-481b-97cb-3bb3dc708a7e",
     "prefLabel": {
       "de": "Sprachdidaktik"
-    },
-    "altLabel": {
-      "en": [
-        "language didactics"
-      ]
     }
   },
   "inScheme": {
@@ -97,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -113,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

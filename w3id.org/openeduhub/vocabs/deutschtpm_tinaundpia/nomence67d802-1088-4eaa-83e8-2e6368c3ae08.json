@@ -21,24 +21,6 @@
       "nominal"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Gegenstand",
-      "Namenwort",
-      "Nominalgruppe",
-      "Substantiv",
-      "anfassen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Gegenstand",
-      "Namenwort",
-      "Nominalgruppe",
-      "Substantiv",
-      "anfassen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortarten39dba6c8-9aec-4e40-b29b-d251b57e31cc",
     "prefLabel": {
@@ -91,12 +73,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +83,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

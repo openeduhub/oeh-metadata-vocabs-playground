@@ -6,148 +6,44 @@
   "prefLabel": {
     "de": "Methoden"
   },
-  "hiddenLabel": {
-    "de": [
-      "Methoden und Werkzeuge der Physik"
-    ]
-  },
   "note": {
-    "de": [
-      "Methoden und Werkzeuge der Physik"
-    ]
+    "de": "Methoden und Werkzeuge der Physik"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/dokumentieren7d65fc9c-2714-400a-a614-4a510251328c",
       "prefLabel": {
         "de": "Dokumentieren"
-      },
-      "note": {
-        "de": [
-          "Experimente machen",
-          "Protokoll",
-          "Versuch",
-          "Versuche anstellen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/experimentierenf1d55679-65ba-4e05-b5a6-a9660bfa3a4c",
       "prefLabel": {
         "de": "Experimentieren"
-      },
-      "note": {
-        "de": [
-          "Experiment",
-          "Experimente",
-          "Experimente machen",
-          "Untersuchung",
-          "Versuch",
-          "Versuche anstellen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mathematik6e134d5b-1e62-4429-8cd1-b3e90b8475bd",
       "prefLabel": {
         "de": "Mathematik"
-      },
-      "altLabel": {
-        "de": [
-          "Mathe",
-          "Mathematik",
-          "Zahlenkunde"
-        ],
-        "en": [
-          "math",
-          "maths"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bruchrechnung",
-          "Formeln",
-          "Integralrechnung",
-          "Potenzschreibweise",
-          "Rechnen",
-          "Termumformung",
-          "Umformen",
-          "Umstellen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/modellierencc076436-2a06-452f-ba32-6c3668b673c5",
       "prefLabel": {
         "de": "Modellieren"
-      },
-      "note": {
-        "de": [
-          "Abstraktion",
-          "Modell",
-          "Teilaspekte",
-          "Vereinfachung",
-          "phänomenologische Beschreibung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/physikalischekonstanten517601f4-80b2-42ef-a4d8-8169d2df717c",
       "prefLabel": {
         "de": "Physikalische Konstanten"
-      },
-      "note": {
-        "de": [
-          "Atomare Masseneinheit",
-          "Avogadrozahl",
-          "Boltzmannkonstante",
-          "Elektrische Feldkonstante",
-          "Elementarladung",
-          "Energieäquivalent",
-          "Fallbeschleunigung",
-          "Faraday Konstante",
-          "Gaskonstante",
-          "Gravitationskonstante",
-          "Hubble-Konstante",
-          "Konstanten",
-          "Lichtgeschwindigkeit",
-          "Magnetische",
-          "Naturkonstante",
-          "Planck Konstante",
-          "Rydberg-Konstante",
-          "Stefan-Boltzmann-Konstante",
-          "Wien-Verschiebungskonstante",
-          "physikalische Konstante"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/si-einheiten15e3debd-de80-4eb6-bb26-54238ad37e38",
       "prefLabel": {
         "de": "SI-Einheiten"
-      },
-      "note": {
-        "de": [
-          " Basiseinheit",
-          "Ampere",
-          "Candela",
-          "Internationales Einheitensystem",
-          "Kelvin",
-          "Kilogramm",
-          "Lichtstärke",
-          "Länge",
-          "Masse",
-          "Meter",
-          "Mol",
-          "SI",
-          "Sekunde",
-          "Stoffmenge",
-          "Stromstärke",
-          "Système international d’unités",
-          "Thermodynamische\nTemperatur",
-          "Zeit",
-          "metrisches Einheitensystem"
-        ]
       }
     }
   ],
@@ -197,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -213,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

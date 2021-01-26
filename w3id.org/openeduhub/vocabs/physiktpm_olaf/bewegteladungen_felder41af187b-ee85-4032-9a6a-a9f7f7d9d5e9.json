@@ -11,78 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektrischesfelda25fafe8-61a3-4e1a-88f1-a1b87e543e0f",
       "prefLabel": {
         "de": "Elektrisches Feld"
-      },
-      "note": {
-        "de": [
-          "Elektrischen Querfeld",
-          "Elektrisches Längsfeld",
-          "Elektronenkanone",
-          "Elektronenquelle",
-          "Elektronenstrahlablenkröhre",
-          "Elektronenstrahlsystem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/gluehelektrischereffekt0fc0cc9b-ec65-46c7-b31e-1dbbf7e3ec99",
       "prefLabel": {
         "de": "Glühelektrischer Effekt"
-      },
-      "altLabel": {
-        "de": [
-          "Edison-Effekt",
-          "Edison-Richardson-Effekt",
-          "Glühelektrischer Effekt",
-          "Glühemission",
-          "Richardson-Effekt",
-          "Thermische Emission"
-        ],
-        "en": [
-          "Edison effect"
-        ]
-      },
-      "note": {
-        "de": [
-          "EDISON-Effekt",
-          "Elektronenemission",
-          "Glühelektrischer Effekt",
-          "Glühwedel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraftaufleitere72789c8-6e0c-41d9-ac0b-71a24fb31a46",
       "prefLabel": {
         "de": "Kraft auf Leiter"
-      },
-      "note": {
-        "de": [
-          "E-motor",
-          "Elektromotor",
-          "Kraft auf Stromleiter",
-          "LORENTZ-Kraft"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/magnetfeldf2d6fdd0-abd3-4926-b297-b9def4e2d915",
       "prefLabel": {
         "de": "Magnetfeld"
-      },
-      "altLabel": {
-        "de": [
-          "magnetisches Feld"
-        ]
-      },
-      "note": {
-        "de": [
-          "Fadenstrahlrohr",
-          "HALL-Effekt",
-          "Magnetischen Querfeld",
-          "Magnetisches Längsfeld",
-          "WIENsches Geschwindigkeitsfilter",
-          "Wienfilter"
-        ]
       }
     }
   ],
@@ -138,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -154,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

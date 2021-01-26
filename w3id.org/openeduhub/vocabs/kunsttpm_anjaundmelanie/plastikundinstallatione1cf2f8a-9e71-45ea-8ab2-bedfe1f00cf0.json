@@ -6,168 +6,29 @@
   "prefLabel": {
     "de": "Plastik und Installation"
   },
-  "hiddenLabel": {
-    "de": [
-      "Arrangement",
-      "Environment",
-      "Klangraum",
-      "Land-Art",
-      "Zusammenstellung von Werken;",
-      "bewegte Betrachter",
-      "die Kunst Raum einzunehmen",
-      "dreidimensionale Kunstwerke",
-      "inszenierte Räume"
-    ]
-  },
-  "note": {
-    "de": [
-      "Arrangement",
-      "Environment",
-      "Klangraum",
-      "Land-Art",
-      "Zusammenstellung von Werken;",
-      "bewegte Betrachter",
-      "die Kunst Raum einzunehmen",
-      "dreidimensionale Kunstwerke",
-      "inszenierte Räume"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/assemblage7ca3c21e-a384-49a7-a06a-8b4d30f0fd57",
       "prefLabel": {
         "de": "Assemblage"
-      },
-      "note": {
-        "de": [
-          "Akkumulation",
-          "Compression",
-          "Daniel Spoerri",
-          "Fundstück",
-          "Kurt Schwitters",
-          "Louise Nevelson",
-          "Marisol",
-          "Montageverfahren",
-          "Objektkunst",
-          "objet trouvé"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/denkmaeler7e4bc85f-384a-4009-a94c-5d92135e2429",
       "prefLabel": {
         "de": "Denkmäler"
-      },
-      "note": {
-        "de": [
-          "Bauplastik",
-          "Herrscherbild",
-          "Mahnmal",
-          "Nationaldenkmal",
-          "Platzgestaltung",
-          "abstraktes Denkmal;",
-          "demokratisierung des Denkmals",
-          "die Rolle des Auftraggebers in der Kunst",
-          "unsichtbares Mahnmal",
-          "unterschiedliche Arten von Denkmälern",
-          "öffentliche Kunst"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/kinetischekunst20105ded-caa2-4a41-8b3c-2aa35536a76c",
       "prefLabel": {
         "de": "Kinetische Kunst"
-      },
-      "note": {
-        "de": [
-          "Alexander Calder",
-          "Bewegung in der Kunst",
-          "Einbeziehung von Bewegung",
-          "Jean Tinguely",
-          "Marcel Duchamp",
-          "Maschinentheater;",
-          "Naum Gabo",
-          "Raum und Zeit",
-          "Rebecca Horn",
-          "kinetische Plastik"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/skulptur_plastik8e2c13cb-ca1c-448b-aca9-9aeea2926271",
       "prefLabel": {
         "de": "Skulptur/Plastik"
-      },
-      "note": {
-        "de": [
-          "Abformen",
-          "Abtragen des Werkstoffs",
-          "Addition von Material",
-          "Alberto Giacometti",
-          "Allansichtigkeit",
-          "Ansichtigkeit",
-          "Armierung",
-          "Aufbautechnik",
-          "Auguste Rodin",
-          "Bildnisplastik",
-          "Blockhafte Plastik",
-          "Bodenplastik",
-          "Camille Claudel",
-          "Donatello",
-          "Duane Hanson",
-          "Ernst Barlach",
-          "Fertigteil",
-          "Figur-Sockel-Bezug",
-          "Flachrelief",
-          "Formen mit Papiermaché",
-          "Franz Bernhard",
-          "George Segal",
-          "Gips- und Betonguss",
-          "Gipsabdruck",
-          "Gussformen",
-          "Halbrelief",
-          "Henry Moore",
-          "Hinzufügen von Material",
-          "Hochrelief",
-          "Hohlguss",
-          "Holzskulptur",
-          "Kaschieren von Formen",
-          "Konstruktive Plastik",
-          "Körper-Raum-Verhältnis",
-          "Massivguss",
-          "Materialgerechtigkeit",
-          "Michelangelo Buonarotti",
-          "Modellieren",
-          "Modellieren mit Gips",
-          "Modellieren mit Ton",
-          "Niki de Saint Phalle",
-          "Pablo Picasso",
-          "Porträtmodellieren",
-          "Raumlineatur",
-          "Raumoffene und raumhaltige Plastik",
-          "Raumvolumen",
-          "Raumweisende Plastik",
-          "Ready-made",
-          "Relief",
-          "Reliefguss",
-          "Renée Sintenis",
-          "Schema des Kontrapost",
-          "Sockel",
-          "Stand- und Spielbein",
-          "Steinbearbeitung",
-          "Subtraktion des Werkstoffs",
-          "Tektonische Plastik",
-          "Ulrich Rückriem",
-          "Verhüllen",
-          "Wachsausschmelzverfahren",
-          "Wachsmodell",
-          "abstrakte Plastik",
-          "aufbauende Arbeitsweise",
-          "organische Plastik",
-          "sockelsprengende Figur",
-          "wegnehmende Arbeitsweise"
-        ]
       }
     }
   ],
@@ -217,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -233,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

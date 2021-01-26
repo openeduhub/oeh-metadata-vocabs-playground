@@ -11,36 +11,10 @@
       "rückbezügliches Fürwort"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Reflexivpronomen",
-      "rückbezügliche Fürwörter"
-    ]
-  },
-  "note": {
-    "de": [
-      "Reflexivpronomen",
-      "rückbezügliche Fürwörter"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/pronomena4c4526b-30f8-4765-8514-664780639cb8",
     "prefLabel": {
       "de": "Pronomen"
-    },
-    "altLabel": {
-      "de": [
-        "Fürwort",
-        "Personalpronomen",
-        "Pronomen",
-        "Pronomina",
-        "Pronominal",
-        "bevorzugtes Pronomen"
-      ],
-      "en": [
-        "personal pronoun",
-        "pronoun"
-      ]
     }
   },
   "inScheme": {
@@ -89,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

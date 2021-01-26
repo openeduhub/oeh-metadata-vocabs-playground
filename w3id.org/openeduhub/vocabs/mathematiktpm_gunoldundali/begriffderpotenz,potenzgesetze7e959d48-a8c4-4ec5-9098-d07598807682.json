@@ -6,34 +6,13 @@
   "prefLabel": {
     "de": "Begriff der Potenz, Potenzgesetze"
   },
-  "hiddenLabel": {
-    "de": [
-      "Eine Potenz ist eine abkürzende Schreibweise für die wiederholte Multiplikation eines Faktors."
-    ]
-  },
   "note": {
-    "de": [
-      "Eine Potenz ist eine abkürzende Schreibweise für die wiederholte Multiplikation eines Faktors."
-    ]
+    "de": "Eine Potenz ist eine abkürzende Schreibweise für die wiederholte Multiplikation eines Faktors."
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzen1f493cf6-9f6e-4714-809e-e299b203aa48",
     "prefLabel": {
       "de": "Potenzen"
-    },
-    "altLabel": {
-      "de": [
-        "Exponent",
-        "Potenz",
-        "Potenzen",
-        "Potenzrechnung",
-        "Potenzzahl",
-        "¹"
-      ],
-      "en": [
-        "exponentiations",
-        "power"
-      ]
     }
   },
   "inScheme": {
@@ -82,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

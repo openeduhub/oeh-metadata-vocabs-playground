@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Eingeschlossene Flächen berechnen"
   },
-  "hiddenLabel": {
-    "de": [
-      " Fläche zwischen einer Funktion und der x-Achse",
-      "Differenzfunktion berechnen",
-      "Schnittpunkte der beiden Geraden",
-      "integrieren"
-    ]
-  },
-  "note": {
-    "de": [
-      " Fläche zwischen einer Funktion und der x-Achse",
-      "Differenzfunktion berechnen",
-      "Schnittpunkte der beiden Geraden",
-      "integrieren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/integralrechnunge2e1f759-c3f7-4c1b-a640-6a83e587e5cb",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

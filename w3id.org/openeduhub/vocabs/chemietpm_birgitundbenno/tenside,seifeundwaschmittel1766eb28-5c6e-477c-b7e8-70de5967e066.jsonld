@@ -6,111 +6,23 @@
   "prefLabel": {
     "de": "Tenside, Seife und Waschmittel"
   },
-  "hiddenLabel": {
-    "de": [
-      "Kernseife",
-      "Schmierseife",
-      "Seife"
-    ]
-  },
-  "note": {
-    "de": [
-      "Kernseife",
-      "Schmierseife",
-      "Seife"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/entwicklungdertenside3a598396-cae7-4fb2-bd5e-31d4ad6ac79e",
       "prefLabel": {
         "de": "Entwicklung der Tenside"
-      },
-      "note": {
-        "de": [
-          "Alkansulfonat",
-          "Detergentien",
-          "Emulgator",
-          "Esterquats",
-          "Henkel",
-          "Micelle",
-          "Oberflächenspannung",
-          "Persil",
-          "Pflanzenasche",
-          "Pottasche",
-          "Seifenkraut",
-          "Seifensieder",
-          "Soda",
-          "Solvay-Verfahren",
-          "Sumerer",
-          "Tensid",
-          "Waschnuss",
-          "Wasserhärte",
-          "Weichspüler",
-          "Zuckertenside",
-          "amphotere Tenside",
-          "anionische Tenside",
-          "kationische Tenside",
-          "nichtionische Tenside"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/herstellungodergewinnungvonseife475b688d-efd6-4d7a-baac-9fa44e177492",
       "prefLabel": {
         "de": "Herstellung oder Gewinnung von Seife"
-      },
-      "note": {
-        "de": [
-          "Kalkseife,",
-          "Kernseife",
-          "Kokosfett",
-          "Schmierseife",
-          "Seife",
-          "Verseifung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/waschmittelzusaetzeundihrefunktion1b445e8e-edf2-4197-b4e1-2b4d99fe048e",
       "prefLabel": {
         "de": "Waschmittelzusätze und ihre Funktion"
-      },
-      "note": {
-        "de": [
-          "Amylase",
-          "Aufheller,Schichtsilikate",
-          "Bleichaktivatoren",
-          "Bleichmittel",
-          "Bleichstabilisatoren",
-          "Builder",
-          "Burnus",
-          "Carboxymethylcellulose",
-          "Cellulase",
-          "Duftstoffe",
-          "EDTA",
-          "Enthärter",
-          "Entschäume",
-          "Enzyme",
-          "Farbübertragungsinhibitoren",
-          "Füllsalze",
-          "Komplexbildner",
-          "Lipase",
-          "Maschinenwäsche",
-          "Natriumperborat",
-          "Optische Aufheller",
-          "Pankreasenzym",
-          "Persil",
-          "Phosphat",
-          "Phosphonate",
-          "Rieselhilfe",
-          "Stellmittel",
-          "Streckmittel",
-          "TAED",
-          "Waschalkalien",
-          "Weichspüler,",
-          "Zeolith"
-        ]
       }
     }
   ],
@@ -166,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -182,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,38 +6,6 @@
   "prefLabel": {
     "de": "Benennung der Aldehyde und Ketone"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aceton",
-      "Aldehyd",
-      "Alkanal",
-      "Carbonylgruppe",
-      "Ethanal",
-      "Formaldehyd",
-      "Formalin",
-      "Keto-Gruppe",
-      "Keton",
-      "Methanal",
-      "primärer Alkohol",
-      "sekundärer Alkohol "
-    ]
-  },
-  "note": {
-    "de": [
-      "Aceton",
-      "Aldehyd",
-      "Alkanal",
-      "Carbonylgruppe",
-      "Ethanal",
-      "Formaldehyd",
-      "Formalin",
-      "Keto-Gruppe",
-      "Keton",
-      "Methanal",
-      "primärer Alkohol",
-      "sekundärer Alkohol "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aldehydeundketone32876318-b7c7-40b0-8c48-8e0a7190223a",
     "prefLabel": {
@@ -90,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

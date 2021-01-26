@@ -6,50 +6,17 @@
   "prefLabel": {
     "de": "Geomorphologie"
   },
-  "note": {
-    "de": [
-      "Geografie",
-      "Geografieunterricht",
-      "Geographie",
-      "Geographieunterricht",
-      "Geomorphologie",
-      "Morphologie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200401",
       "prefLabel": {
         "de": "Erdgestaltende Kräfte"
-      },
-      "note": {
-        "de": [
-          "Erdgestaltende Kräfte",
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "endogene Kräfte",
-          "exogene Kräfte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200402",
       "prefLabel": {
         "de": "Oberflächenformen"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Landschaftsformen",
-          "Oberflächenformen",
-          "Oberflächengestalt",
-          "Relief"
-        ]
       }
     }
   ],
@@ -105,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -121,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,32 +6,6 @@
   "prefLabel": {
     "de": "Arten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Abgeleitete Kraft",
-      "Abgeleitete Kräfte",
-      "Auftriebskraft",
-      "Federkraft",
-      "Fundamentale Kraft",
-      "Fundemantale Kräfte",
-      "Gravitationskraft",
-      "Reibungskraft",
-      "elektrische Kraft"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abgeleitete Kraft",
-      "Abgeleitete Kräfte",
-      "Auftriebskraft",
-      "Federkraft",
-      "Fundamentale Kraft",
-      "Fundemantale Kräfte",
-      "Gravitationskraft",
-      "Reibungskraft",
-      "elektrische Kraft"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraefte62d114e1-1e00-4863-bd24-be00daff98cb",
     "prefLabel": {
@@ -84,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

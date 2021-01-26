@@ -6,166 +6,35 @@
   "prefLabel": {
     "de": "Teilchenmodell"
   },
-  "hiddenLabel": {
-    "de": [
-      "Alkohol und Wasser mischen",
-      "Teilchenmodell",
-      "Volumenkontraktion",
-      "Volumenänderung",
-      "kleinstes Teilchen",
-      "mischen",
-      "Änderung des Volumens"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alkohol und Wasser mischen",
-      "Teilchenmodell",
-      "Volumenkontraktion",
-      "Volumenänderung",
-      "kleinstes Teilchen",
-      "mischen",
-      "Änderung des Volumens"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aggregatzustaendef899a2db-f50d-404c-aa5e-52e0c2c299be",
       "prefLabel": {
         "de": "Aggregatzustände"
-      },
-      "note": {
-        "de": [
-          "Anordnung der Teilchen",
-          "Brown'sche Bewegung",
-          "Brownsche Bewegung",
-          "Diffusion",
-          "Feststoff",
-          "Flüssigkeit",
-          "Gallilei-Thermometer",
-          "Gas",
-          "Komprimierbarkeit von Gasen",
-          "Plasma",
-          "Schmelzpunkt",
-          "Schmelztemperatur",
-          "Siedepunkt",
-          "Siedetemperatur",
-          "Teilchen Geschwindigkeit",
-          "Wärme",
-          "Wärmeenergie",
-          "absoluter Nullpunkt",
-          "erstarren",
-          "fest",
-          "flüssig",
-          "gasförmig",
-          "kondensieren",
-          "resublimieren",
-          "schmelzen",
-          "sieden",
-          "sublimieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atomundmolekuel401e94a8-d44f-4707-a98e-6caa4257f195",
       "prefLabel": {
         "de": "Atom und Molekül"
-      },
-      "note": {
-        "de": [
-          "Atom",
-          "Molekül",
-          "kleinstes Teilchen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/elementundverbindung7509c5e2-4bbf-4f5d-aa1b-90b022307267",
       "prefLabel": {
         "de": "Element und Verbindung"
-      },
-      "note": {
-        "de": [
-          "Ammoniak,",
-          "Gold",
-          "Silber",
-          "Wasser",
-          "Wasserstoff"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/gemische39ce5a03-a61a-4209-aee9-b5c6306d3da2",
       "prefLabel": {
         "de": "Gemische"
-      },
-      "altLabel": {
-        "de": [
-          "Gemenge",
-          "Gemengen",
-          "Gemisch",
-          "Gemische",
-          "Gemischtyp",
-          "Gemischtypen",
-          "Stoffgemenge",
-          "Stoffgemisch",
-          "Stoffgemische",
-          "Stoffmengen",
-          "Vermengen",
-          "homogene Gemische",
-          "homogenes Gemisch"
-        ],
-        "en": [
-          "chemical mixture",
-          "chemical mixtures",
-          "mixtures"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aerosole",
-          "Branntwein",
-          "Bronze",
-          "Emulsion",
-          "Essig",
-          "Feststoffgemisch",
-          "Gasgemisch",
-          "Gelber Sack",
-          "Gemenge",
-          "Gemisch",
-          "Granit",
-          "Heterogen",
-          "Homogen",
-          "Legierung",
-          "Lösung",
-          "Matsch",
-          "Milch",
-          "Nebel",
-          "Rauch",
-          "Schaum",
-          "Sprudel",
-          "Suspension",
-          "Tinte",
-          "Trinkwasser",
-          "Trinkwasser-Gewinnung",
-          "Verpackungsmüll"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/historischeentwicklung27f3af6b-478f-44f4-9d8a-c89dc8a76ef0",
       "prefLabel": {
         "de": "Historische Entwicklung"
-      },
-      "note": {
-        "de": [
-          "Atomismus",
-          "Atommodell",
-          "Demokrit",
-          "Elementarteilchen",
-          "Kontinuumsmodell",
-          "Leukipp"
-        ]
       }
     }
   ],
@@ -221,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -237,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

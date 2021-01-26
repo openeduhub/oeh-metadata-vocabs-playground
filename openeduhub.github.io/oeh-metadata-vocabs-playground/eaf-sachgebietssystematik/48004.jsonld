@@ -6,145 +6,53 @@
   "prefLabel": {
     "de": "Politikfelder"
   },
-  "note": {
-    "de": [
-      "Gesellschaftslehre",
-      "Politik",
-      "Politikfelder",
-      "Politikwissenschaft",
-      "Politische Bildung",
-      "Sozialkunde"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800401",
       "prefLabel": {
         "de": "Bildung, Kultur, Forschung"
-      },
-      "note": {
-        "de": [
-          "Bildungspolitik",
-          "Gesellschaftslehre",
-          "Kulturpolitik",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800402",
       "prefLabel": {
         "de": "Innere Sicherheit"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Innere Sicherheit",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sicherheitspolitik",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800403",
       "prefLabel": {
         "de": "Internationale Beziehungen"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Internationale Beziehungen",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800404",
       "prefLabel": {
         "de": "Raumordnung, Städtebau, Verkehr"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Raumordnung",
-          "Sozialkunde",
-          "Städtebau",
-          "Verkehr"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800405",
       "prefLabel": {
         "de": "Recht"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politische Bildung",
-          "Recht",
-          "Sozialkunde"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800406",
       "prefLabel": {
         "de": "Sozialpolitik"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Sozialpolitik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800407",
       "prefLabel": {
         "de": "Verteidigungspolitik"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Verteidigungspolitik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4800408",
       "prefLabel": {
         "de": "Wirtschaftspolitik"
-      },
-      "note": {
-        "de": [
-          "Gesellschaftslehre",
-          "Politik",
-          "Politikwissenschaft",
-          "Politische Bildung",
-          "Sozialkunde",
-          "Wirtschaftspolitik"
-        ]
       }
     }
   ],
@@ -200,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -216,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

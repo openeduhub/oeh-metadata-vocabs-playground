@@ -6,32 +6,6 @@
   "prefLabel": {
     "de": "Erzählverhalten, Erzählperspektiven und Erzählformen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Auktorial",
-      "Außenperspektive",
-      "Du-Form",
-      "Er-/Sie-Form",
-      "Erzähler",
-      "Ich-Form",
-      "Innenperspektive",
-      "Neutral",
-      "Personal"
-    ]
-  },
-  "note": {
-    "de": [
-      "Auktorial",
-      "Außenperspektive",
-      "Du-Form",
-      "Er-/Sie-Form",
-      "Erzähler",
-      "Ich-Form",
-      "Innenperspektive",
-      "Neutral",
-      "Personal"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlen_gestaltenac2926de-fc3c-46c5-830c-22c293e2e387",
     "prefLabel": {
@@ -84,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

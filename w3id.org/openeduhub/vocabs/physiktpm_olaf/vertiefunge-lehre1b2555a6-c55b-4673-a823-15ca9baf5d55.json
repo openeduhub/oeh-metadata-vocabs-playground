@@ -11,129 +11,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/induktion4c83dc78-6da5-44b9-9853-b55f5efffe3e",
       "prefLabel": {
         "de": "Induktion"
-      },
-      "altLabel": {
-        "de": [
-          "Induktion",
-          "Induktion im Film",
-          "Induktionsanfang",
-          "Induktionsbehauptung",
-          "Induktionsbeweis",
-          "Induktionsprinzip",
-          "Induktionsschluss",
-          "Induktionsschritt",
-          "Induktionsvoraussetzung",
-          "Induktiv",
-          "Induzieren"
-        ],
-        "en": [
-          "induction",
-          "inductive logic",
-          "inductive reasoning",
-          "natural number induction",
-          "proof by induction"
-        ]
-      },
-      "note": {
-        "de": [
-          "Elektromagnetische Induktion",
-          "Induktionserscheinung",
-          "Induktionsgesetz",
-          "Induktionsvorgang",
-          "Induktivität",
-          "Magnetischer Fluss",
-          "RL-Kreis",
-          "Regel von LENZ",
-          "Selbstinduktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/komplexeschaltkreise857f1e37-2607-40d7-90fc-b45a070f55bd",
       "prefLabel": {
         "de": "Komplexe Schaltkreise"
-      },
-      "note": {
-        "de": [
-          "Berechnung von Schaltungen",
-          "Effektivwerte",
-          "KIRCHHOFFsche Gesetze",
-          "Komplexer Widerstand",
-          "Schaltung von Messgeräten",
-          "Wechselstromtechnik",
-          "Wechselstromwiderstände",
-          "Zeigerdiagramm"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kondensator_kapazitaet9ae99c65-4a00-4875-8065-2bb6f258a38c",
       "prefLabel": {
         "de": "Kondensator / Kapazität"
-      },
-      "note": {
-        "de": [
-          "Elektrische Energie im geladenen Kondensator",
-          "Entladekurve",
-          "Kapazität",
-          "Kondensator",
-          "Ladekurve",
-          "Plattenkondensator",
-          "RC-Kreis"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/spule0a81c592-0c91-468e-b251-78a537858302",
       "prefLabel": {
         "de": "Spule"
-      },
-      "altLabel": {
-        "de": [
-          "Drossel",
-          "Drosselspule",
-          "Garnrolle",
-          "Kabelrolle",
-          "Kabeltrommel",
-          "Leitungsroller",
-          "Spule"
-        ],
-        "en": [
-          "electromagnetic coil",
-          "passive two terminal",
-          "spool"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bandpass",
-          "HELMHOLTZ-Spule",
-          "Hochpass",
-          "LC-Schwingkreis",
-          "Tiefpass",
-          "Zylinderspule",
-          "langgestreckten Spule"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/transformatorgeneratormotor8b5f6cbb-aea6-4e9e-9eab-7b7c0c308f18",
       "prefLabel": {
         "de": "Transformator Generator Motor"
-      },
-      "note": {
-        "de": [
-          "Elektrischer Generator",
-          "Elektromotor",
-          "Energieübertragung durch Hochspannung",
-          "Generatorprinzip",
-          "Hochspannungsleitung",
-          "Motorprinzip",
-          "Primärspule",
-          "Sekundärspule",
-          "Stator",
-          "Transformator"
-        ]
       }
     }
   ],
@@ -189,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -205,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

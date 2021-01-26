@@ -20,15 +20,8 @@
       "power"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Potenzieren"
-    ]
-  },
   "note": {
-    "de": [
-      "Potenzieren"
-    ]
+    "de": "Potenzieren"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechnen6d68f650-037c-4b85-9480-5ba151515fc4",
@@ -82,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

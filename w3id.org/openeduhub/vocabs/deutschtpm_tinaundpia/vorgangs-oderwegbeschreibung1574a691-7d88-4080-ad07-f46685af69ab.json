@@ -6,32 +6,6 @@
   "prefLabel": {
     "de": "Vorgangs- oder Wegbeschreibung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ablauf",
-      "Anleitung",
-      "Bastelanleitung",
-      "Experiment",
-      "Rezept",
-      "Spielanleitung",
-      "Vorgang",
-      "Weg",
-      "Zaubertrick"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ablauf",
-      "Anleitung",
-      "Bastelanleitung",
-      "Experiment",
-      "Rezept",
-      "Spielanleitung",
-      "Vorgang",
-      "Weg",
-      "Zaubertrick"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/beschreiben,berichtenundinformieren1403a45b-db53-442e-ae6d-cf20b01f3379",
     "prefLabel": {
@@ -84,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

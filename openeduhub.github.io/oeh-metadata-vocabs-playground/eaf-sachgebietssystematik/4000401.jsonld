@@ -6,48 +6,23 @@
   "prefLabel": {
     "de": "Suchen, Verarbeiten und Aufbewahren"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Suchen, Verarbeiten und Aufbewahren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040101",
       "prefLabel": {
         "de": "Suchen und Filtern"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Suchen, Verarbeiten und Aufbewahren",
-          "Kompetenzen in der digitalen Welt",
-          "Suchstrategien"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040102",
       "prefLabel": {
         "de": "Auswerten und Bewerten"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Suchen, Verarbeiten und Aufbewahren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/400040103",
       "prefLabel": {
         "de": "Speichern und Abrufen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Suchen, Verarbeiten und Aufbewahren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -103,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -119,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

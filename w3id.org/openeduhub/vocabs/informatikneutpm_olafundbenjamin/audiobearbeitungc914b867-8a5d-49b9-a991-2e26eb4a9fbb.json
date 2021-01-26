@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Audiobearbeitung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Audacity"
-    ]
-  },
   "note": {
-    "de": [
-      "Audacity"
-    ]
+    "de": "Audacity"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/grundlagen461731cb-82e3-429c-acc8-a8019080d22a",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

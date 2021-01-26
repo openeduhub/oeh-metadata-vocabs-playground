@@ -6,45 +6,17 @@
   "prefLabel": {
     "de": "Sozialgeographie"
   },
-  "note": {
-    "de": [
-      "Geografie",
-      "Geografieunterricht",
-      "Geographie",
-      "Geographieunterricht",
-      "Sozialgeografie",
-      "Sozialgeographie"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200901",
       "prefLabel": {
         "de": "Sozialstrukturen"
-      },
-      "note": {
-        "de": [
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht",
-          "Sozialstrukturen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/2200902",
       "prefLabel": {
         "de": "Daseinsgrundfunktionen"
-      },
-      "note": {
-        "de": [
-          "Daseinsgrundfunktionen",
-          "Geografie",
-          "Geografieunterricht",
-          "Geographie",
-          "Geographieunterricht"
-        ]
       }
     }
   ],
@@ -100,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -116,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

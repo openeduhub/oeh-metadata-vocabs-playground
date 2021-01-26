@@ -11,105 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/jugendmedienschutzbeachten02f7d795-18cd-4329-b03b-01fb37339410",
       "prefLabel": {
         "de": "Jugendmedienschutz beachten"
-      },
-      "note": {
-        "de": [
-          "Altersbewertung",
-          "Altersfreigabe",
-          "Computerspiel",
-          "Computerspiele",
-          "Freiwillige Selbstkontrolle",
-          "Gewalt verharmlosen",
-          "Gewalt verherrlichen",
-          "Grooming",
-          "Jugendmedienschutz",
-          "Jugendschutz",
-          "Kriterien des Jugendmedienschutzes",
-          "LMS",
-          "Landesmedienanstalt",
-          "Landesmedienanstalten",
-          "Mediennutzung",
-          "Pornografie",
-          "Prüfverfahren",
-          "beeinträchtigende Einflüsse",
-          "gefährdende Einflüsse",
-          "gesetzlicher Jugendschutz"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/medienanalysierenundbewerten9b55e245-859b-432e-8f48-788a24eff7b6",
       "prefLabel": {
         "de": "Medien analysieren und bewerten"
-      },
-      "note": {
-        "de": [
-          "Bewertung von Medien",
-          "Casting",
-          "Castinshow",
-          "Medien analysieren",
-          "Medienanalyse",
-          "Medienbewertung",
-          "Medienformate",
-          "Mediengestaltung",
-          "Medienkritik",
-          "kritischer Umgang mit Medien",
-          "mediale Konstrukte"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/medieninderdigitalenweltverstehenundreflektierenab267676-7d08-45c4-87af-96a8c5c92c61",
       "prefLabel": {
         "de": "Medien in der digitalen Welt verstehen und reflektieren"
-      },
-      "note": {
-        "de": [
-          "Digitalisierung",
-          "Medienbildung",
-          "Medienerfahrungen",
-          "Medienwirkung",
-          "Product Placement",
-          "Schleichwerbung",
-          "Werbestrategie",
-          "Werbestrategien",
-          "Werbung",
-          "digitale Gesellschaft",
-          "digitale Medienlandschaft ",
-          "digitale Technologien",
-          "e commerce",
-          "e-commerce"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/selbstgesteuertemediennutzungfoerderndf6d6cbe-43a3-4f60-97ad-411340022129",
       "prefLabel": {
         "de": "Selbstgesteuerte Mediennutzung fördern"
-      },
-      "note": {
-        "de": [
-          " Medienethik",
-          "4K",
-          "Coding",
-          "Computerspiel",
-          "Computerspiele",
-          "Cybergroming",
-          "Cybermobbing",
-          "Individuelles Lernen",
-          "Kreativität",
-          "Making",
-          "Medienerziehung",
-          "Mediengebrauch",
-          "Medienkonsum",
-          "Mediennutzung",
-          "Mediensucht",
-          "Medientagebuch",
-          "Medienverhalten",
-          "Selbtsgesteuertes Lernen,",
-          "Suchtgefahr",
-          "kreative Mediennutzung"
-        ]
       }
     }
   ],
@@ -159,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -175,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

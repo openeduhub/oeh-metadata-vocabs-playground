@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Persönlichkeiten der Physik"
   },
-  "hiddenLabel": {
-    "de": [
-      "Physiker",
-      "Physikerin"
-    ]
-  },
-  "note": {
-    "de": [
-      "Physiker",
-      "Physikerin"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/geschichte_ausblick8fb0382b-e3bf-4fbd-9f1e-4efe910558b8",
     "prefLabel": {
@@ -70,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -86,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

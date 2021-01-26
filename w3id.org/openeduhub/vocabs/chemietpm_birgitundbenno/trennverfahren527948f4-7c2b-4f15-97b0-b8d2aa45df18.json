@@ -19,68 +19,6 @@
       "Trennmethoden"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Abdampfen",
-      "Chromatographie",
-      "Destillation",
-      "Eindampfen",
-      "Einengen",
-      "Extraktion",
-      "Extraktionsmittel",
-      "Filter",
-      "Filterpapier",
-      "Filtration",
-      "Kaffee",
-      "Meersalz",
-      "Rotwein",
-      "Scheidetrichter",
-      "Sediment",
-      "Sedimentation",
-      "Sieb",
-      "Sieben",
-      "Steinsalz",
-      "Tee",
-      "Trennverfahren",
-      "Verdampfen",
-      "Wasserreinigung,",
-      "destillieren",
-      "extrahieren",
-      "filtiereren",
-      "sedimentieren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abdampfen",
-      "Chromatographie",
-      "Destillation",
-      "Eindampfen",
-      "Einengen",
-      "Extraktion",
-      "Extraktionsmittel",
-      "Filter",
-      "Filterpapier",
-      "Filtration",
-      "Kaffee",
-      "Meersalz",
-      "Rotwein",
-      "Scheidetrichter",
-      "Sediment",
-      "Sedimentation",
-      "Sieb",
-      "Sieben",
-      "Steinsalz",
-      "Tee",
-      "Trennverfahren",
-      "Verdampfen",
-      "Wasserreinigung,",
-      "destillieren",
-      "extrahieren",
-      "filtiereren",
-      "sedimentieren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoffeundstoffeigenschaften6d68df51-df9e-4ed0-ac75-2059ea735a86",
     "prefLabel": {
@@ -133,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -149,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -26,72 +26,23 @@
       "laws of motion"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Gesetze der Bewegung",
-      "Grundsätze der Bewegung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Gesetze der Bewegung",
-      "Grundsätze der Bewegung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundgleichungdermechanikd9e6103a-394b-44e7-ae97-f6e7ed44a976",
       "prefLabel": {
         "de": "Grundgleichung der Mechanik"
-      },
-      "note": {
-        "de": [
-          "Aktionsprinzip",
-          "Grundgleichung der Mechanik",
-          "lex secunda"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/traegheitsprinzip4cea5738-2eac-4d9c-976e-fa31e0c26876",
       "prefLabel": {
         "de": "Trägheitsprinzip"
-      },
-      "note": {
-        "de": [
-          "Inertialgesetz",
-          "Trägheitsgesetz",
-          "Trägheitsprinzip",
-          "lex prima"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/wechselwirkungsprinzip339d6f8e-29e9-4914-80e8-6047d7c62e7b",
       "prefLabel": {
         "de": "Wechselwirkungsprinzip"
-      },
-      "altLabel": {
-        "de": [
-          "Actio est Reactio",
-          "Actio und Reactio",
-          "Actio und reactio",
-          "Aktion und Reaktion",
-          "Gegenwirkungsprinzip",
-          "Kraft und Gegenkraft",
-          "Wechselwirkungsprinzip",
-          "drittes newtonsches Axiom",
-          "drittes newtonsches Gesetz"
-        ]
-      },
-      "note": {
-        "de": [
-          "Gegenwirkungsprinzip",
-          "Reaktionsprinzip",
-          "Wechselwirkung",
-          "Wechselwirkungsprinzip",
-          "lex tertia"
-        ]
       }
     }
   ],
@@ -99,11 +50,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
     "prefLabel": {
       "de": "Mechanik"
-    },
-    "altLabel": {
-      "de": [
-        "Mechanisch"
-      ]
     }
   },
   "inScheme": {
@@ -152,12 +98,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -168,16 +108,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

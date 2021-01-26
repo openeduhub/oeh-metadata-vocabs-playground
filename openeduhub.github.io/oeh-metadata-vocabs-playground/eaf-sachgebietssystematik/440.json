@@ -7,132 +7,73 @@
     "de": "PÄDAGOGIK"
   },
   "note": {
-    "de": [
-      "Pädagogik"
-    ]
+    "de": "Pädagogik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44001",
       "prefLabel": {
         "de": "Allgemeine Pädagogik"
-      },
-      "note": {
-        "de": [
-          "Allgemeine Pädagogik",
-          "Pädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44002",
       "prefLabel": {
         "de": "Pädagogische Psychologie"
-      },
-      "note": {
-        "de": [
-          "Pädagogische Psychologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44003",
       "prefLabel": {
         "de": "Vorschulpädagogik"
-      },
-      "note": {
-        "de": [
-          "Vorschulpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44004",
       "prefLabel": {
         "de": "Schulpädagogik"
-      },
-      "note": {
-        "de": [
-          "Schulpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44005",
       "prefLabel": {
         "de": "Berufspädagogik"
-      },
-      "note": {
-        "de": [
-          "Berufspädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44006",
       "prefLabel": {
         "de": "Sonderpädagogik"
-      },
-      "note": {
-        "de": [
-          "Sonderpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44007",
       "prefLabel": {
         "de": "Sozialpädagogik"
-      },
-      "note": {
-        "de": [
-          "Sozialpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44008",
       "prefLabel": {
         "de": "Erwachsenenpädagogik"
-      },
-      "note": {
-        "de": [
-          "Erwachsenenpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44009",
       "prefLabel": {
         "de": "Ausländerpädagogik"
-      },
-      "note": {
-        "de": [
-          "Ausländerpädagogik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44010",
       "prefLabel": {
         "de": "Eltern und Erziehung"
-      },
-      "note": {
-        "de": [
-          "Eltern",
-          "Erziehung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/44011",
       "prefLabel": {
         "de": "Inklusion"
-      },
-      "note": {
-        "de": [
-          "Inklusion"
-        ]
       }
     }
   ],
@@ -185,12 +126,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -201,16 +136,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

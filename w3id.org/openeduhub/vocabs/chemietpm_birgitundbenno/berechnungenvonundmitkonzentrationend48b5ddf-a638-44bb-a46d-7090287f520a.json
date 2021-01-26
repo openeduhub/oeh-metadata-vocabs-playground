@@ -6,40 +6,10 @@
   "prefLabel": {
     "de": "Berechnungen von und mit Konzentrationen"
   },
-  "hiddenLabel": {
-    "de": [
-      "1-m-Lösung",
-      "Konzentration",
-      "Molar",
-      "Molarität",
-      "einmolare Lösung",
-      "mol/l",
-      "molalität"
-    ]
-  },
-  "note": {
-    "de": [
-      "1-m-Lösung",
-      "Konzentration",
-      "Molar",
-      "Molarität",
-      "einmolare Lösung",
-      "mol/l",
-      "molalität"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
     "prefLabel": {
       "de": "Stöchiometrie"
-    },
-    "altLabel": {
-      "de": [
-        "Stöchiometrisch",
-        "Umsatz",
-        "Umsatzgrad",
-        "Unstöchiometrisch"
-      ]
     }
   },
   "inScheme": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

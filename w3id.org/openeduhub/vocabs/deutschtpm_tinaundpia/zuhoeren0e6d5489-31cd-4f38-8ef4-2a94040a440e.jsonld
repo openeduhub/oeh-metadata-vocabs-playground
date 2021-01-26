@@ -20,13 +20,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/hoerverstehenedb1560d-ff15-4feb-80fa-1a6ca928e1cd",
       "prefLabel": {
         "de": "Hörverstehen"
-      },
-      "note": {
-        "de": [
-          "Hörspiel",
-          "Hörtexte",
-          "Zuhören"
-        ]
       }
     }
   ],
@@ -82,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

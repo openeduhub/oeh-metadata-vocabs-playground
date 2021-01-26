@@ -7,42 +7,25 @@
     "de": "Lebensmittel"
   },
   "note": {
-    "de": [
-      "Lebensmittel"
-    ]
+    "de": "Lebensmittel"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401901",
       "prefLabel": {
         "de": "Lebensmitteltechnik"
-      },
-      "note": {
-        "de": [
-          "Lebensmitteltechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401902",
       "prefLabel": {
         "de": "Lebensmittelproduktion"
-      },
-      "note": {
-        "de": [
-          "Lebensmittelproduktion"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0401903",
       "prefLabel": {
         "de": "Lebensmittellehre"
-      },
-      "note": {
-        "de": [
-          "Lebensmittellehre"
-        ]
       }
     }
   ],
@@ -98,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

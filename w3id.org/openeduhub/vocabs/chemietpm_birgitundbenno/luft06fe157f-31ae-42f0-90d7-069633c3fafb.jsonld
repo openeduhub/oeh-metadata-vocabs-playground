@@ -20,38 +20,6 @@
       "Russian-German Society of Air Communications"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Atemprobleme",
-      "Feinstaub",
-      "Kohlenmonoxid",
-      "Kohlenstoffdioxid",
-      "Methan",
-      "Ozon",
-      "Ozonloch",
-      "Stickoxide",
-      "Verbrennung fossiler Treibstoffe",
-      "anthropogen",
-      "saurer Regen",
-      "Ökosystem"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atemprobleme",
-      "Feinstaub",
-      "Kohlenmonoxid",
-      "Kohlenstoffdioxid",
-      "Methan",
-      "Ozon",
-      "Ozonloch",
-      "Stickoxide",
-      "Verbrennung fossiler Treibstoffe",
-      "anthropogen",
-      "saurer Regen",
-      "Ökosystem"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/chemieundumwelta35d7e42-02e6-426c-a0d9-ae13168d311b",
     "prefLabel": {
@@ -104,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

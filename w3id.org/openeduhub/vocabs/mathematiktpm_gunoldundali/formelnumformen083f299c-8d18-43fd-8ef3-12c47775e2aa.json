@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Formeln umformen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Abwandeln der Formel"
-    ]
-  },
   "note": {
-    "de": [
-      "Abwandeln der Formel"
-    ]
+    "de": "Abwandeln der Formel"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentrechnung3687bece-a821-4421-93a6-03758544588f",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

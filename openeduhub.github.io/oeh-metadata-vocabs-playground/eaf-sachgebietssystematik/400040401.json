@@ -6,35 +6,17 @@
   "prefLabel": {
     "de": "Sicher in digitalen Umgebungen agieren"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Schützen und sicher Agieren",
-      "Kompetenzen in der digitalen Welt"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004040101",
       "prefLabel": {
         "de": "Risiken und Gefahren in digitalen Umgebungen kennen, reflektieren und berücksichtigen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004040102",
       "prefLabel": {
         "de": "Strategien zum Schutz entwickeln und anwenden"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Schützen und sicher Agieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -90,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

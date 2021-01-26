@@ -6,93 +6,35 @@
   "prefLabel": {
     "de": "Fachsprachliche Vertiefungen"
   },
-  "note": {
-    "de": [
-      "DAF",
-      "DAZ",
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Fachsprachliche Vertiefungen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010301",
       "prefLabel": {
         "de": "Handwerk"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Handwerk"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010302",
       "prefLabel": {
         "de": "Medizin und Pflege"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Medizin",
-          "Medizin und Pflege",
-          "Pflege"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010303",
       "prefLabel": {
         "de": "Naturwissenschaft und Technik"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Naturwissenschaft",
-          "Naturwissenschaft und Technik",
-          "Technik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010304",
       "prefLabel": {
         "de": "Recht"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Recht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010305",
       "prefLabel": {
         "de": "Wirtschaft"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Wirtschaft"
-        ]
       }
     }
   ],
@@ -148,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -164,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

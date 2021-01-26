@@ -17,101 +17,48 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/artenvonbruechena4772e3a-37d8-449d-846f-03bc278ca713",
       "prefLabel": {
         "de": "Arten von Brüchen"
-      },
-      "note": {
-        "de": [
-          "Dezimalbrüche",
-          "Echte Brüche",
-          "Stammbrüche",
-          "Unechte Brüche",
-          "Uneigentliche Brüche"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bruecheaddierenundsubtrahierencae01af4-86bc-42cb-aec6-30ebbf6a8531",
       "prefLabel": {
         "de": "Brüche addieren und subtrahieren"
-      },
-      "note": {
-        "de": [
-          "Bilden des Hauptnenners durch Kürzen",
-          "Gleichnamige Brüche",
-          "Ungleichnamige Brüche"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bruecheaufdemzahlenstrahl0c07b0ed-37be-4ccf-93b9-bdd70170408d",
       "prefLabel": {
         "de": "Brüche auf dem Zahlenstrahl"
-      },
-      "note": {
-        "de": [
-          "Zahlenstrahl",
-          "Zeichnen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bruechemultiplizierend72a03a8-c0ba-4db4-b319-85e9274760c6",
       "prefLabel": {
         "de": "Brüche multiplizieren"
-      },
-      "note": {
-        "de": [
-          "Nenner x Nenner",
-          "Zähler und Nenner jeweils miteinander multipliziert",
-          "Zähler x Zähler"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/bruechevergleichenffa015f9-cc57-4703-af22-f3dc6ee79792",
       "prefLabel": {
         "de": "Brüche vergleichen"
-      },
-      "note": {
-        "de": [
-          "nennergleich",
-          "zählergleich"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/durchbruechedividieren4fc84d34-a801-4b31-b227-ceee6081d4dc",
       "prefLabel": {
         "de": "Durch Brüche dividieren"
-      },
-      "note": {
-        "de": [
-          "Kehrwert multiplizieren"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/https___www.mathetools.de_bruch_kuerzen_9b9bca89-a2d3-4730-a84d-edf225f15cdd",
       "prefLabel": {
         "de": "https://www.mathetools.de/bruch_kuerzen/"
-      },
-      "note": {
-        "de": [
-          "Kleinste gemeinsame Vielfache",
-          "kgV"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wasisteinbruch?7c287f85-2dd8-487b-a7bc-5a75378fdb99",
       "prefLabel": {
         "de": "Was ist ein Bruch ?"
-      },
-      "note": {
-        "de": [
-          "Bruchstrich",
-          "Nenner",
-          "Zähler"
-        ]
       }
     }
   ],
@@ -161,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -177,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

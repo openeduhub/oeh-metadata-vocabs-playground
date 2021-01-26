@@ -16,103 +16,32 @@
       "salts"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "salzartige Verbindungen"
-    ]
-  },
   "note": {
-    "de": [
-      "salzartige Verbindungen"
-    ]
+    "de": "salzartige Verbindungen"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/bildungsreaktionen1923c255-45c3-4c45-b3c1-d3ddb74886a0",
       "prefLabel": {
         "de": "Bildungsreaktionen"
-      },
-      "note": {
-        "de": [
-          "Metall mit Säure",
-          "Metalloxid mit Säure",
-          "Neutralisation\r\n",
-          "Neutralisation von Säure und Lauge",
-          "Nichtmetalloxid mit Lauge",
-          "Salz mit Säure",
-          "Synthese aus den Elementen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonsalzen42bbfa07-3ec3-4259-9f4e-e0ada19e46bf",
       "prefLabel": {
         "de": "Eigenschaften von Salzen"
-      },
-      "note": {
-        "de": [
-          "Düngemittel",
-          "Giftigkeit",
-          "Gitterenergie",
-          "Hydratation",
-          "Härte",
-          "Löslichkeit",
-          "Lösungsvorgang",
-          "Mineralien",
-          "Schmelzpunkt",
-          "Siedepunkt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/gewinnungvonsalzen093b8140-4f1d-4334-9e62-0f41d49d0455",
       "prefLabel": {
         "de": "Gewinnung von Salzen"
-      },
-      "note": {
-        "de": [
-          " Gradieren",
-          "Atacama Wüste",
-          "Gradierwerk",
-          "Salar",
-          "Saline",
-          "Salzstock",
-          "Siedegefäße",
-          "Sole",
-          "Solequellen",
-          "Speisesalz",
-          "bergmännischer Abbau"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ionenbindung6b340a67-bb01-4e10-a229-f50cc62a1bd9",
       "prefLabel": {
         "de": "Ionenbindung"
-      },
-      "altLabel": {
-        "de": [
-          "Heteropolare Bindung",
-          "Ionenbeziehung",
-          "Ionenbindung",
-          "Ionische Bindung"
-        ],
-        "en": [
-          "chemical bond (ionic)",
-          "ionic bonding"
-        ]
-      },
-      "note": {
-        "de": [
-          "Anion",
-          "Aufnahme und Abgabe von Elektronen",
-          "Kation",
-          "Kochsalz",
-          "Kristallgitter",
-          "Würfelform",
-          "elektropositive und elektronegative Elemente",
-          "elektrostatische Anziehungskräfte"
-        ]
       }
     }
   ],
@@ -168,12 +97,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -184,16 +107,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

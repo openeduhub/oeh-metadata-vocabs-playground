@@ -44,21 +44,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/zeitstrahl43fd5517-5386-4add-8de7-4099cc781d20",
       "prefLabel": {
         "de": "Zeitstrahl"
-      },
-      "altLabel": {
-        "de": [
-          "Chronologie",
-          "TL",
-          "Timeline",
-          "Zeitleiste",
-          "Zeitstrahl",
-          "Zeittafel"
-        ],
-        "en": [
-          "TL",
-          "TLs",
-          "timelines"
-        ]
       }
     }
   ],
@@ -108,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -124,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

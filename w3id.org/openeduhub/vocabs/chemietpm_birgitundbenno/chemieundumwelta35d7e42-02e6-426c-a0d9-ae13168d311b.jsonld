@@ -11,195 +11,48 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/chemischeindustrie-bedeutungundprobleme7e4e52c8-b7c4-44a0-82bb-461076fa6987",
       "prefLabel": {
         "de": "Chemische Industrie - Bedeutung und Probleme"
-      },
-      "note": {
-        "de": [
-          "Chemie-Unfall",
-          "Gentechnik",
-          "Herbizide",
-          "Pestizide"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/dieselmotorenundstickoxideae029983-a83b-4df3-9b07-cd9b0204403b",
       "prefLabel": {
         "de": "Dieselmotoren und Stickoxide"
-      },
-      "note": {
-        "de": [
-          "AdBlue",
-          "Diesel-Skandal",
-          "Fahrverbot",
-          "Feinstaub,",
-          "N2O",
-          "N2O4",
-          "NO",
-          "NO2",
-          "NOx",
-          "Stickoxid",
-          "Urethan",
-          "VW"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/luft06fe157f-31ae-42f0-90d7-069633c3fafb",
       "prefLabel": {
         "de": "Luft"
-      },
-      "altLabel": {
-        "de": [
-          "Deruluft",
-          "Hohenbrand",
-          "In der Luft",
-          "Luft",
-          "Luftberg"
-        ],
-        "en": [
-          "Deutsch-Russische Luftverkehrs A.G.",
-          "Luft",
-          "Russian-German Society of Air Communications"
-        ]
-      },
-      "note": {
-        "de": [
-          "Atemprobleme",
-          "Feinstaub",
-          "Kohlenmonoxid",
-          "Kohlenstoffdioxid",
-          "Methan",
-          "Ozon",
-          "Ozonloch",
-          "Stickoxide",
-          "Verbrennung fossiler Treibstoffe",
-          "anthropogen",
-          "saurer Regen",
-          "Ökosystem"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/muellvermeidungund-verarbeitung3161db6f-0230-4ffe-8e34-829c1f47c4d3",
       "prefLabel": {
         "de": "Müllvermeidung und -verarbeitung"
-      },
-      "note": {
-        "de": [
-          "Abfallvermeidung",
-          "Gelber Sack",
-          "Recycling",
-          "nachwachsende Rohstoffe,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/regenerativeenergiencd6db6f9-fb0f-4019-837e-135da962e14b",
       "prefLabel": {
         "de": "Regenerative Energien"
-      },
-      "note": {
-        "de": [
-          "Ameisensäure",
-          "Methan",
-          "Methanol,",
-          "PtX",
-          "Wasserstoff-Auto",
-          "power to x"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/schwermetallefc3b1719-9379-4370-a492-17307c9db14d",
       "prefLabel": {
         "de": "Schwermetalle"
-      },
-      "altLabel": {
-        "de": [
-          "Schwermetall",
-          "Schwermetallatom"
-        ],
-        "en": [
-          "Metals, Heavy"
-        ]
-      },
-      "note": {
-        "de": [
-          "Aluminium",
-          "Blei",
-          "Deo,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/verschmutzungvonnaturundumwelt044fc7ee-02a4-4e21-bdea-f92a403f6e6c",
       "prefLabel": {
         "de": "Verschmutzung von Natur und Umwelt"
-      },
-      "note": {
-        "de": [
-          " Ökosystem",
-          "Abfallvermeidung",
-          "Eutrophierung,",
-          "Gelber Sack",
-          "Hausmüll",
-          "Industriemüll",
-          "Recycling",
-          "Restmüll",
-          "nachwachsende Rohstoffe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/wasser8df61bff-032c-4875-b692-a7bd3c1a5392",
       "prefLabel": {
         "de": "Wasser"
-      },
-      "altLabel": {
-        "de": [
-          "Bichtlingen",
-          "Bietingen",
-          "Das Schwein und das Pferd",
-          "Das Wildschwein und das Pferd",
-          "Der Eber und das Pferd",
-          "H2O",
-          "Hölzle",
-          "Krumbach",
-          "Reute",
-          "Roth",
-          "Sauldorf",
-          "Wackershofen",
-          "Wasser",
-          "Wasser, Geliebte Marco Polos",
-          "Windenreute",
-          "blaues Gold",
-          "pures Wasser"
-        ],
-        "en": [
-          "H2O",
-          "HOH",
-          "Wasser",
-          "Wasser (Emmendingen)",
-          "Water (Chinese astrology)",
-          "Water (Wu Xing)",
-          "Water (element)",
-          "[OH2]",
-          "dihydridooxygen",
-          "dihydrogen monoxide",
-          "dihydrogen oxide",
-          "hydrogen hydroxide",
-          "hydrogen oxide",
-          "oxidane",
-          "pure water"
-        ]
-      },
-      "note": {
-        "de": [
-          "Wasserverschmutzung",
-          "Ökosystem",
-          "Überdüngung",
-          "Übersäuerung"
-        ]
       }
     }
   ],
@@ -249,12 +102,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -265,16 +112,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

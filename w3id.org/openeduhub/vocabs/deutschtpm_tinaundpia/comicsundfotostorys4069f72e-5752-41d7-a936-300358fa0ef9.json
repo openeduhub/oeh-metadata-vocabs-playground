@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Comics und Fotostorys"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bilder",
-      "Cartoons",
-      "Gedankenblasen",
-      "Sprechblasen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bilder",
-      "Cartoons",
-      "Gedankenblasen",
-      "Sprechblasen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/weiteremedienbda978e9-a197-462e-b511-2a14f11f2efc",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

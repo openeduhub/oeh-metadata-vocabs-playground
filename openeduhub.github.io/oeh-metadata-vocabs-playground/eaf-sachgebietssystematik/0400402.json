@@ -6,33 +6,17 @@
   "prefLabel": {
     "de": "Druck und Medien"
   },
-  "note": {
-    "de": [
-      "Drucktechnik",
-      "Medientechnik"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040040201",
       "prefLabel": {
         "de": "Medientechnologie"
-      },
-      "note": {
-        "de": [
-          "Medientechnologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040040202",
       "prefLabel": {
         "de": "Mediengestaltung"
-      },
-      "note": {
-        "de": [
-          "Mediengestaltung"
-        ]
       }
     }
   ],
@@ -88,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

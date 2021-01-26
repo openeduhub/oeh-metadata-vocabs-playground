@@ -11,30 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/fuenf-schritt-methode66807388-ab25-4ded-8623-8ff2e259201a",
       "prefLabel": {
         "de": "Fünf-Schritt-Methode"
-      },
-      "note": {
-        "de": [
-          "Abschnittsweise",
-          "Lesemethode",
-          "Schlüsselwörter",
-          "Überblick"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lesetechniken95f9ec53-ed72-4933-9311-daec8fc14813",
       "prefLabel": {
         "de": "Lesetechniken"
-      },
-      "note": {
-        "de": [
-          "Betontes Lesen",
-          "Gezieltes Lesen",
-          "Intensives Lesen",
-          "Lernendes Lesen",
-          "Lesetempo",
-          "Überfliegendes Lesen"
-        ]
       }
     }
   ],
@@ -90,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

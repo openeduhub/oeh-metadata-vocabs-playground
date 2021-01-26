@@ -6,54 +6,6 @@
   "prefLabel": {
     "de": "Präpositionen mit Dativ"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dativ",
-      "Lagewörter,",
-      "Präpositionen Verhältniswörter",
-      "Vorwörter",
-      "aus",
-      "außer",
-      "bei",
-      "binnen",
-      "entgegen",
-      "entsprechend",
-      "gegenüber",
-      "gemäß",
-      "mit",
-      "nach",
-      "nahe",
-      "samt",
-      "seit",
-      "zu",
-      "zufolge",
-      "zuliebe"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dativ",
-      "Lagewörter,",
-      "Präpositionen Verhältniswörter",
-      "Vorwörter",
-      "aus",
-      "außer",
-      "bei",
-      "binnen",
-      "entgegen",
-      "entsprechend",
-      "gegenüber",
-      "gemäß",
-      "mit",
-      "nach",
-      "nahe",
-      "samt",
-      "seit",
-      "zu",
-      "zufolge",
-      "zuliebe"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praepositonen1bf4f1c3-45d2-46f7-a6b8-2e603146b8b2",
     "prefLabel": {
@@ -106,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

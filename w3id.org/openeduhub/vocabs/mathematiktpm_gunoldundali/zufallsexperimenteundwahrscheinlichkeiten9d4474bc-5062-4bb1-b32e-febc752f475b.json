@@ -6,29 +6,10 @@
   "prefLabel": {
     "de": "Zufallsexperimente und Wahrscheinlichkeiten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Glücksrad",
-      "Laplace",
-      "Würfelwurf"
-    ]
-  },
-  "note": {
-    "de": [
-      "Glücksrad",
-      "Laplace",
-      "Würfelwurf"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeit8abf3a5d-aa98-4e1b-a3c3-104a3cf42701",
     "prefLabel": {
       "de": "Wahrscheinlichkeit"
-    },
-    "altLabel": {
-      "de": [
-        "Probabilität"
-      ]
     }
   },
   "inScheme": {
@@ -77,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -93,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

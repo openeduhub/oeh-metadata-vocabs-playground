@@ -11,77 +11,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/antiproportionalezuordnungenbd8fb7a5-8a73-45a4-a29a-5589ccf53e7f",
       "prefLabel": {
         "de": "Antiproportionale Zuordnungen"
-      },
-      "note": {
-        "de": [
-          "Hyperbel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionstermeundfunktionsgleichungend4da26c2-5c25-4f60-91ec-c6d4a85d912c",
       "prefLabel": {
         "de": "Funktionsterme und Funktionsgleichungen"
-      },
-      "note": {
-        "de": [
-          "lineare Funktion",
-          "quadratische Funktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/linearefunktionen24ef9ef3-5aeb-4de5-90ab-b8e901bc4bc6",
       "prefLabel": {
         "de": "Lineare Funktionen"
-      },
-      "note": {
-        "de": [
-          "Gerade\n",
-          "Nullstellen",
-          "Schnittpunkte",
-          "Steigung",
-          "Y-Achsenabschnitt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/linearefunktionenablesen793a0f2e-7202-443a-88d8-67d61407be13",
       "prefLabel": {
         "de": "Lineare Funktionen ablesen"
-      },
-      "note": {
-        "de": [
-          "Gerade\n",
-          "Nullstellen",
-          "Schnittpunkte",
-          "Steigung",
-          "Y-Achsenabschnitt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/proportionalezuordnungen195b181f-fb8e-497e-9f11-aeb56dc392f3",
       "prefLabel": {
         "de": "Proportionale Zuordnungen"
-      },
-      "note": {
-        "de": [
-          "Linear "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zuordnungendarstellen86bebfc7-7af3-4973-940b-404f2a70212f",
       "prefLabel": {
         "de": "Zuordnungen darstellen"
-      },
-      "note": {
-        "de": [
-          "Tabelle oder Graphik zuordnen",
-          "Zahlen",
-          "in Worten"
-        ]
       }
     }
   ],
@@ -131,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

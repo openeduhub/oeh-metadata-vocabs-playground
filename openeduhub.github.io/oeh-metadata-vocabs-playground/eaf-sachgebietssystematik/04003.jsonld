@@ -6,85 +6,41 @@
   "prefLabel": {
     "de": "Naturwissenschaften und Mathematik"
   },
-  "note": {
-    "de": [
-      "Mathematik",
-      "Naturwissenschaften"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400301",
       "prefLabel": {
         "de": "Labor"
-      },
-      "note": {
-        "de": [
-          "Labor",
-          "Labortechnik",
-          "Labortechnologie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400302",
       "prefLabel": {
         "de": "Produktionstechnik"
-      },
-      "note": {
-        "de": [
-          "Energietechnik",
-          "Fertigungstechnik",
-          "Produktionstechnik",
-          "Verfahrenstechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400303",
       "prefLabel": {
         "de": "Chemie"
-      },
-      "note": {
-        "de": [
-          "Chemie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400304",
       "prefLabel": {
         "de": "Geowissenschaften"
-      },
-      "note": {
-        "de": [
-          "Geowissenschaften"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400305",
       "prefLabel": {
         "de": "Mathematik und Statistik"
-      },
-      "note": {
-        "de": [
-          "Mathematik",
-          "Mathematikunterricht",
-          "Matheunterricht",
-          "Statistik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400306",
       "prefLabel": {
         "de": "Pharmazie"
-      },
-      "note": {
-        "de": [
-          "Pharmazie"
-        ]
       }
     }
   ],
@@ -140,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -156,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

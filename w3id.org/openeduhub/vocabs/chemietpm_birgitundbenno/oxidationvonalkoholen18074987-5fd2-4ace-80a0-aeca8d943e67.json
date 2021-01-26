@@ -6,38 +6,10 @@
   "prefLabel": {
     "de": "Oxidation von Alkoholen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aldehyd",
-      "Carbonsäure",
-      "Keton",
-      "Oxidation,",
-      "Oxidationszahl bei Alkohol bestimmen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aldehyd",
-      "Carbonsäure",
-      "Keton",
-      "Oxidation,",
-      "Oxidationszahl bei Alkohol bestimmen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/alkohole0dd669d7-0774-41b3-bf59-967b08d37b45",
     "prefLabel": {
       "de": "Alkohole"
-    },
-    "altLabel": {
-      "de": [
-        "Alkanol",
-        "Alkohol",
-        "Alkohole"
-      ],
-      "en": [
-        "alcohol"
-      ]
     }
   },
   "inScheme": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -7,76 +7,43 @@
     "de": "Epochen"
   },
   "note": {
-    "de": [
-      "NaN"
-    ]
+    "de": "NaN"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500201",
       "prefLabel": {
         "de": "Antike Philosophie"
-      },
-      "note": {
-        "de": [
-          "Antike Philosophie",
-          "Philosophie der Antike"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500202",
       "prefLabel": {
         "de": "Philosophie des Mittelalters"
-      },
-      "note": {
-        "de": [
-          "Philosophie des Mittelalters"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500203",
       "prefLabel": {
         "de": "Frühneuzeitliche Philosophie"
-      },
-      "note": {
-        "de": [
-          "Frühneuzeitliche Philosophie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500204",
       "prefLabel": {
         "de": "Philosophie des 19. Jahrhunderts"
-      },
-      "note": {
-        "de": [
-          "Philosophie des 19. Jahrhunderts"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500205",
       "prefLabel": {
         "de": "Philosophie des 20. Jahrhunderts"
-      },
-      "note": {
-        "de": [
-          "Philosophie des 20. Jahrhunderts"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/4500206",
       "prefLabel": {
         "de": "Philosophie der Gegenwart"
-      },
-      "note": {
-        "de": [
-          "Philosophie der Gegenwart"
-        ]
       }
     }
   ],
@@ -132,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -148,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

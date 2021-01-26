@@ -11,20 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/ausserschulischelernortef7d19c36-9547-4add-8b5b-f1f0ae3d189f",
       "prefLabel": {
         "de": "außerschulische Lernorte"
-      },
-      "note": {
-        "de": [
-          "Artville",
-          "Denkmäler",
-          "Kunst im Kino",
-          "Kunst im Wald",
-          "Kunstparcour",
-          "Künstlerpfade",
-          "Lichtparcour",
-          "Mahnmal",
-          "Skulpturenpark",
-          "Stadtbild erkunden"
-        ]
       }
     },
     {
@@ -37,51 +23,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/interdisziplinaeres_projekte881711aa-69ff-44a3-a107-2ead2f5e92b5",
       "prefLabel": {
         "de": "Interdisziplinäres / Projekte"
-      },
-      "note": {
-        "de": [
-          "Architektur in Minetest",
-          "Calliope Mini in der Kunst",
-          "Farbprojekt mit Bio",
-          "Malroboter",
-          "Mikrocontroller in der Kunst",
-          "Physik und Kunst",
-          "interdisziplinäre Projekte"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/szenischesspiel82913ce4-d17d-4472-bd55-3071e9ce7bcd",
       "prefLabel": {
         "de": "Szenisches Spiel"
-      },
-      "note": {
-        "de": [
-          "Bild und Plastiken nachstellen",
-          "Bildertheater",
-          "Erzähltheater",
-          "Figurentheater",
-          "Gipsmasken",
-          "Handpuppen",
-          "Handschattenspiel",
-          "Kamishibai",
-          "Marionetten",
-          "Maskentheater",
-          "Papierkaschée-Masken",
-          "Papiertheater",
-          "Pappmaschée-Masken",
-          "Puppenspiel",
-          "Schattenspielfiguren",
-          "Schattentheater",
-          "Scherenschnitt",
-          "Standbild",
-          "Standbilder bauen",
-          "Stefan Fichert",
-          "Stockpuppen",
-          "Tableau Vivant",
-          "Tellermasken",
-          "Verbindung von Kunst und Theater"
-        ]
       }
     }
   ],
@@ -131,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

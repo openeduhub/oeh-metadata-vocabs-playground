@@ -29,42 +29,10 @@
       "polarization density"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "BREWSTER-Winkel",
-      "Gesetz von MALUS",
-      "Polarisationsachsen",
-      "Polarisationsfilter",
-      "Schwingungsrichtung einer Transversalwelle",
-      "polarisiertes Licht",
-      "unpolarisiertes Licht"
-    ]
-  },
-  "note": {
-    "de": [
-      "BREWSTER-Winkel",
-      "Gesetz von MALUS",
-      "Polarisationsachsen",
-      "Polarisationsfilter",
-      "Schwingungsrichtung einer Transversalwelle",
-      "polarisiertes Licht",
-      "unpolarisiertes Licht"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/wellenoptik71b1c29f-ef0f-4155-b59c-27d45b048e60",
     "prefLabel": {
       "de": "Wellenoptik"
-    },
-    "altLabel": {
-      "de": [
-        "Physikalische Optik",
-        "Undulationstheorie",
-        "Wellentheorie des Lichts"
-      ],
-      "en": [
-        "wave optics"
-      ]
     }
   },
   "inScheme": {
@@ -113,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -129,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -11,52 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/extremstellen02a0200e-d11f-4a4f-a216-3c391d95efd1",
       "prefLabel": {
         "de": "Extremstellen"
-      },
-      "note": {
-        "de": [
-          "Hochpunkte",
-          "Tiefpunkte"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/extremwertaufgaben479c4b58-8f56-4d6e-a0b6-46e8adad2c2d",
       "prefLabel": {
         "de": "Extremwertaufgaben"
-      },
-      "note": {
-        "de": [
-          "Extremwert",
-          "Hauptbedingungen",
-          "Nebenbedingungen",
-          "Optimierungsaufgaben",
-          "Variable in Zielfunktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ganzrationalefunktioneninsachzusammenhaengena8203f32-ed3c-44c5-becd-6cb9fa407d0f",
       "prefLabel": {
         "de": "Ganzrationale Funktionen in Sachzusammenhängen"
-      },
-      "note": {
-        "de": [
-          "Extremalpunkte",
-          "Funktionsgleichunge;",
-          "Konstruktion",
-          "Realitätsbezug"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzregel,faktorregel,summenregel1b856e7b-8812-46e8-9608-69ccd38c41be",
       "prefLabel": {
         "de": "Potenzregel, Faktorregel, Summenregel"
-      },
-      "note": {
-        "de": [
-          "Ableitungsregeln"
-        ]
       }
     },
     {
@@ -69,28 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wendepunkte2a38017f-ce91-406e-9cdf-a1f8b644ab62",
       "prefLabel": {
         "de": "Wendepunkte"
-      },
-      "altLabel": {
-        "de": [
-          "Bogenwechsel",
-          "Wendepunkt",
-          "Wendepunkte",
-          "Wendestelle",
-          "Wendetangente"
-        ],
-        "en": [
-          "flex",
-          "inflection",
-          "inflexion",
-          "point of inflection"
-        ]
-      },
-      "note": {
-        "de": [
-          "Links-Rechts-Wendepunkt",
-          "Rechts-Links-Wendepunkt",
-          "Wendestelle"
-        ]
       }
     }
   ],
@@ -98,12 +48,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
     "prefLabel": {
       "de": "Analysis"
-    },
-    "altLabel": {
-      "en": [
-        "Mathematical analysis",
-        "analysis"
-      ]
     }
   },
   "inScheme": {
@@ -152,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -168,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

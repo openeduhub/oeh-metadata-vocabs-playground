@@ -6,42 +6,6 @@
   "prefLabel": {
     "de": "Feste und Traditionen "
   },
-  "hiddenLabel": {
-    "de": [
-      "Fasching",
-      "Feste",
-      "Geburtstag",
-      "Halloween",
-      "Heilige Drei Könige",
-      "Karneval",
-      "Nikolaus",
-      "Ostern",
-      "Pfingsten",
-      "Reformationstag",
-      "Silvester",
-      "Tag der Deutschen Einheit",
-      "Traditionen",
-      "Weihnachten"
-    ]
-  },
-  "note": {
-    "de": [
-      "Fasching",
-      "Feste",
-      "Geburtstag",
-      "Halloween",
-      "Heilige Drei Könige",
-      "Karneval",
-      "Nikolaus",
-      "Ostern",
-      "Pfingsten",
-      "Reformationstag",
-      "Silvester",
-      "Tag der Deutschen Einheit",
-      "Traditionen",
-      "Weihnachten"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interkulturellekompetenzen06ead4a9-5e71-4031-9b13-56527108e4ce",
     "prefLabel": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

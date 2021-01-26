@@ -11,61 +11,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/a-b-c-formelzumloesenquadratischergleichungen4b16081b-fc42-4e65-adf5-87f0db168170",
       "prefLabel": {
         "de": "A-b-c-Formel zum Lösen quadratischer Gleichungen"
-      },
-      "note": {
-        "de": [
-          "ähnelt sehr stark der PQ-Formel und dient der Lösung quadratischer Gleichungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/binomischeformeln496f4b81-c9a8-45f0-accb-c4eca0b052cb",
       "prefLabel": {
         "de": "Binomische Formeln"
-      },
-      "note": {
-        "de": [
-          "dritte binomische Formel",
-          "erste binomische Formel",
-          "zweite binomische Formel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/p-q-formelzumloesenquadratischergleichungena09d02bb-5b95-476e-b6e3-e84b9ca0ddb8",
       "prefLabel": {
         "de": "P-q-Formel zum Lösen quadratischer Gleichungen"
-      },
-      "note": {
-        "de": [
-          "Lösungsformel für quadratische Gleichungen in Normalform"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzenmitgebrochenenexponenten4fc3e4bd-522b-4795-8a88-389161082729",
       "prefLabel": {
         "de": "Potenzen mit gebrochenen Exponenten"
-      },
-      "note": {
-        "de": [
-          "Multiplikation",
-          "Neue Exponenten",
-          "Rechenoperation"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzenmitnegativenexponentenf68757ec-56ab-42ca-ac05-96a060b2f4b9",
       "prefLabel": {
         "de": "Potenzen mit negativen Exponenten"
-      },
-      "note": {
-        "de": [
-          "Basis",
-          "Exponent",
-          "Potenzwert"
-        ]
       }
     }
   ],
@@ -73,12 +42,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
     "prefLabel": {
       "de": "Analysis"
-    },
-    "altLabel": {
-      "en": [
-        "Mathematical analysis",
-        "analysis"
-      ]
     }
   },
   "inScheme": {
@@ -127,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -143,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

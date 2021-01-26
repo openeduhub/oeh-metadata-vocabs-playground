@@ -15,67 +15,10 @@
       "Ungegenständliche Kunst"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Abstrahierung",
-      "Action Painting",
-      "Der Blaue Reiter",
-      "Emil Schuhmacher",
-      "Futurismus",
-      "Gerhard Richter",
-      "Informell",
-      "Jackson Pollock",
-      "Kandinsky",
-      "Konstruktivismus",
-      "Kubismus",
-      "Picasso",
-      "Piet Mondrian",
-      "Tachismus",
-      "Vereinfachung",
-      "expressiver Malstil",
-      "gegenstandslose Malerei",
-      "geometrische Abstraktion",
-      "informelle Kunst",
-      "informelle Malerei",
-      "konkrete Kunst",
-      "vereinfachte Kunst"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abstrahierung",
-      "Action Painting",
-      "Der Blaue Reiter",
-      "Emil Schuhmacher",
-      "Futurismus",
-      "Gerhard Richter",
-      "Informell",
-      "Jackson Pollock",
-      "Kandinsky",
-      "Konstruktivismus",
-      "Kubismus",
-      "Picasso",
-      "Piet Mondrian",
-      "Tachismus",
-      "Vereinfachung",
-      "expressiver Malstil",
-      "gegenstandslose Malerei",
-      "geometrische Abstraktion",
-      "informelle Kunst",
-      "informelle Malerei",
-      "konkrete Kunst",
-      "vereinfachte Kunst"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/malereic86f88f8-d0eb-4f47-987a-c103aec8df39",
     "prefLabel": {
       "de": "Malerei"
-    },
-    "altLabel": {
-      "en": [
-        "painting"
-      ]
     }
   },
   "inScheme": {
@@ -124,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -140,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

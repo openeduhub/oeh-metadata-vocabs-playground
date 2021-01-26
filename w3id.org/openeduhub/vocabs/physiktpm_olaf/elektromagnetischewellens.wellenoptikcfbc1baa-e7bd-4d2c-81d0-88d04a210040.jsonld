@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Elektromagnetische Wellen (s. Wellenoptik)"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ausbreitung Elektromagnetischer Wellen",
-      "Dipolstrahlung",
-      "Elektromagnetische Wellen",
-      "Licht",
-      "Transversalwellen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ausbreitung Elektromagnetischer Wellen",
-      "Dipolstrahlung",
-      "Elektromagnetische Wellen",
-      "Licht",
-      "Transversalwellen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/schwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

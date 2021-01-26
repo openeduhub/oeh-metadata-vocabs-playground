@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Schreibplan / Gliederung "
   },
-  "hiddenLabel": {
-    "de": [
-      "Brainstorming",
-      "Ideen",
-      "Inhaltsverzeichnis",
-      "Mind-Map"
-    ]
-  },
-  "note": {
-    "de": [
-      "Brainstorming",
-      "Ideen",
-      "Inhaltsverzeichnis",
-      "Mind-Map"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/schreibprozessplanen,formulieren,ueberarbeiten5c501d65-5606-4863-bbad-8e9d5d2ef752",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

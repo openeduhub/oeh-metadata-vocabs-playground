@@ -6,42 +6,10 @@
   "prefLabel": {
     "de": "Wasserstoffbrückenbindungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Alkohole,",
-      "Eiweiß",
-      "Teilladung",
-      "Wasser",
-      "Wasserstoffbrücke",
-      "Wechselwirkung",
-      "freies Elektronenpaar",
-      "intermolekulare Kräfte",
-      "kovalent gebundenes Wasserstoffatom"
-    ]
-  },
-  "note": {
-    "de": [
-      "Alkohole,",
-      "Eiweiß",
-      "Teilladung",
-      "Wasser",
-      "Wasserstoffbrücke",
-      "Wechselwirkung",
-      "freies Elektronenpaar",
-      "intermolekulare Kräfte",
-      "kovalent gebundenes Wasserstoffatom"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/zwischenmolekularekraeftecd7ae455-af4e-45d0-ac9f-c1c103bcab00",
     "prefLabel": {
       "de": "Zwischenmolekulare Kräfte"
-    },
-    "altLabel": {
-      "en": [
-        "IMFs",
-        "intermolecular forces"
-      ]
     }
   },
   "inScheme": {
@@ -90,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

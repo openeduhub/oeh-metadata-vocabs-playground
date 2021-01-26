@@ -16,30 +16,6 @@
       "Statische Elektrizität"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Bandgenerator",
-      "Bernstein",
-      "COULOMB-Gesetz",
-      "Elektrisches Feld",
-      "Ladungsverteilungen",
-      "Reibungselektrizität",
-      "coulombschen Gesetz",
-      "ruhenden elektrischen Ladungen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bandgenerator",
-      "Bernstein",
-      "COULOMB-Gesetz",
-      "Elektrisches Feld",
-      "Ladungsverteilungen",
-      "Reibungselektrizität",
-      "coulombschen Gesetz",
-      "ruhenden elektrischen Ladungen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagene-lehreb0f34bfd-fa0f-4f64-abfb-24d920614d64",
     "prefLabel": {
@@ -92,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

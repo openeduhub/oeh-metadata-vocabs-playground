@@ -6,136 +6,53 @@
   "prefLabel": {
     "de": "Fertigkeitsbezogene Ordnung"
   },
-  "note": {
-    "de": [
-      "DAF",
-      "DAZ",
-      "Deutsch als Fremdsprache",
-      "Deutsch als Zweitsprache",
-      "Fertigkeitsbezogene Ordnung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010201",
       "prefLabel": {
         "de": "Alphabetisierung"
-      },
-      "note": {
-        "de": [
-          "Alphabetisierung",
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010202",
       "prefLabel": {
         "de": "Seh-/Hörverstehen und Hörverstehen"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Hörverstehen",
-          "Sehverstehen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010203",
       "prefLabel": {
         "de": "Interkulturelles Verstehen"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Interkulturelles Verstehen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010204",
       "prefLabel": {
         "de": "Leseverstehen"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Leseverstehen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010205",
       "prefLabel": {
         "de": "Schreiben"
-      },
-      "note": {
-        "de": [
-          "DA",
-          "DAF",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Schreiben"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010206",
       "prefLabel": {
         "de": "Sprechen"
-      },
-      "note": {
-        "de": [
-          "DA",
-          "DAF",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Sprechen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010207",
       "prefLabel": {
         "de": "Übersetzen"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Übersetzen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12005010208",
       "prefLabel": {
         "de": "Grammatik/Systematisierung"
-      },
-      "note": {
-        "de": [
-          "DAF",
-          "DAZ",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Grammatik",
-          "Systematisierung"
-        ]
       }
     }
   ],
@@ -191,12 +108,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -207,16 +118,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

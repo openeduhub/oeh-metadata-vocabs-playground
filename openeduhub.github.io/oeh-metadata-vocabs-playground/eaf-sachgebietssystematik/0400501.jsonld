@@ -7,100 +7,55 @@
     "de": "Aufgabenbereiche"
   },
   "note": {
-    "de": [
-      "NaN"
-    ]
+    "de": "NaN"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050101",
       "prefLabel": {
         "de": "Energietechnik"
-      },
-      "note": {
-        "de": [
-          "Energietechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050102",
       "prefLabel": {
         "de": "Antriebstechnik"
-      },
-      "note": {
-        "de": [
-          "Antriebstechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050103",
       "prefLabel": {
         "de": "Nachrichtentechnik"
-      },
-      "note": {
-        "de": [
-          "Nachrichtentechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050104",
       "prefLabel": {
         "de": "Elektronik"
-      },
-      "note": {
-        "de": [
-          "Elektronik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050105",
       "prefLabel": {
         "de": "Mechatronik, Automatisierungstechnik"
-      },
-      "note": {
-        "de": [
-          "Automatisierungstechnik",
-          "Mechatronik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050106",
       "prefLabel": {
         "de": "Elektronische Gerätetechnik"
-      },
-      "note": {
-        "de": [
-          "Elektronische Gerätetechnik",
-          "Gerätetechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050107",
       "prefLabel": {
         "de": "Haustechnik/Gebäudetechnik"
-      },
-      "note": {
-        "de": [
-          "Gebäudetechnik",
-          "Haustechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040050108",
       "prefLabel": {
         "de": "Theoretische Elektrotechnik"
-      },
-      "note": {
-        "de": [
-          "Theoretische Elektrotechnik"
-        ]
       }
     }
   ],
@@ -156,12 +111,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -172,16 +121,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

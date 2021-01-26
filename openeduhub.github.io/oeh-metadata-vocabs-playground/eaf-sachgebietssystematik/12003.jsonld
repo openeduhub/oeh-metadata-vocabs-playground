@@ -6,16 +6,6 @@
   "prefLabel": {
     "de": "Nichtliterarische Texte"
   },
-  "note": {
-    "de": [
-      "Deutsch",
-      "Deutschunterricht",
-      "Jounalistik",
-      "Nichtliterarische Texte",
-      "Reden",
-      "wissenschaftliche Texte"
-    ]
-  },
   "broader": {
     "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/120",
     "prefLabel": {
@@ -68,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

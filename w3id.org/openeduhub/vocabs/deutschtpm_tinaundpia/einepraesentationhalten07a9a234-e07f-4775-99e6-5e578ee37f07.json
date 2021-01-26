@@ -6,30 +6,6 @@
   "prefLabel": {
     "de": "Eine Präsentation halten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Blickkontakt",
-      "Buchvorstellungen",
-      "Körperhaltung",
-      "Körpersprache",
-      "Power-Point",
-      "Präsentationstechniken",
-      "Referat",
-      "Vortrag "
-    ]
-  },
-  "note": {
-    "de": [
-      "Blickkontakt",
-      "Buchvorstellungen",
-      "Körperhaltung",
-      "Körpersprache",
-      "Power-Point",
-      "Präsentationstechniken",
-      "Referat",
-      "Vortrag "
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zuanderensprechen_praesentieren72e28551-1991-4732-9d02-a5c117d4b826",
     "prefLabel": {
@@ -82,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -98,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,39 +6,10 @@
   "prefLabel": {
     "de": "Großschreibung und Kleinschreibung"
   },
-  "hiddenLabel": {
-    "de": [
-      "Großbuchstabe",
-      "Großschreibung",
-      "Kleinbuchstabe",
-      "Kleinschreibung",
-      "Majuskel",
-      "Minuskel"
-    ]
-  },
-  "note": {
-    "de": [
-      "Großbuchstabe",
-      "Großschreibung",
-      "Kleinbuchstabe",
-      "Kleinschreibung",
-      "Majuskel",
-      "Minuskel"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/rechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
     "prefLabel": {
       "de": "Rechtschreibung"
-    },
-    "altLabel": {
-      "de": [
-        "Orthografie",
-        "Orthographie",
-        "Orthographisch",
-        "Rechtschreibregeln",
-        "Rechtschreibung"
-      ]
     }
   },
   "inScheme": {
@@ -87,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

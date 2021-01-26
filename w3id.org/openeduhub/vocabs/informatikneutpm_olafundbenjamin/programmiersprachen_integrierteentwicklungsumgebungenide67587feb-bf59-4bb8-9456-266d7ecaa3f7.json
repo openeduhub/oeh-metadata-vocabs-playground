@@ -6,114 +6,35 @@
   "prefLabel": {
     "de": "Programmiersprachen / Integrierte Entwicklungsumgebungen (IDE)"
   },
-  "hiddenLabel": {
-    "de": [
-      "IDE",
-      "Integrierte Entwicklungsumgebung",
-      "Lazarus",
-      "Programmiersprache",
-      "Programmierung",
-      "PyCharm",
-      "Schleife",
-      "Variablen",
-      "bedingte Anweisung"
-    ]
-  },
-  "note": {
-    "de": [
-      "IDE",
-      "Integrierte Entwicklungsumgebung",
-      "Lazarus",
-      "Programmiersprache",
-      "Programmierung",
-      "PyCharm",
-      "Schleife",
-      "Variablen",
-      "bedingte Anweisung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/blockbasiertesprachen6fd9b445-1ac4-4ad6-8ab7-3ab17ada97f9",
       "prefLabel": {
         "de": "Blockbasierte Sprachen"
-      },
-      "note": {
-        "de": [
-          "Blockly",
-          "SCRATCH",
-          "SNAP;BYOB"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/dielogischeprogrammierspracheprologd668809b-b545-4134-b9aa-fa389e2d0e5e",
       "prefLabel": {
         "de": "Die logische Programmiersprache PROLOG"
-      },
-      "note": {
-        "de": [
-          "PROLOG",
-          "logische Programiersprache"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/funktionaleprogrammiersprachen95fb2115-c3fe-40bd-814e-4f80c71947eb",
       "prefLabel": {
         "de": "Funktionale Programmiersprachen"
-      },
-      "altLabel": {
-        "de": [
-          "Funktionale Programmiersprache",
-          "Funktionale Programmiersprachen",
-          "Funktionales Programmieren",
-          "funktionale Programmierung"
-        ],
-        "en": [
-          "functional language"
-        ]
-      },
-      "note": {
-        "de": [
-          "Haskel",
-          "ML",
-          "Scheme"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/imperativeprogrammierung120e4b7a-a449-431f-8a58-ae73a96bd586",
       "prefLabel": {
         "de": "Imperative Programmierung"
-      },
-      "note": {
-        "de": [
-          "ALGOL",
-          "Ada",
-          "Assembler",
-          "C",
-          "Cobol",
-          "Fortran",
-          "PL/I",
-          "Pascal"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/objektorientiertemodellierungebc0739a-fec9-4ec1-9cb0-b76ad45f2654",
       "prefLabel": {
         "de": "Objektorientierte Modellierung"
-      },
-      "note": {
-        "de": [
-          "C++",
-          "Java",
-          "OOP",
-          "Objektorientierte Sprache",
-          "Python",
-          "Smalltalk"
-        ]
       }
     }
   ],
@@ -169,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -185,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

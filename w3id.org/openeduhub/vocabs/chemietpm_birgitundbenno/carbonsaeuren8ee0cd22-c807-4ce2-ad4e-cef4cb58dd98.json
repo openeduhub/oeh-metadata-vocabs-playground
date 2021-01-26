@@ -26,73 +26,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/benennungvoncarbonsaeurena9410271-ad52-4b31-a51b-2cd28110931e",
       "prefLabel": {
         "de": "Benennung von Carbonsäuren"
-      },
-      "note": {
-        "de": [
-          "Ameisensäure",
-          "Buttersäure,",
-          "COOH-Gruppe",
-          "Carboxylgruppe",
-          "Essigsäure",
-          "Fettsäuren",
-          "funktionelle Gruppe",
-          "homologen Reihe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvoncarbonsaeuren2673e558-fd2d-45bd-b929-3cc131ffaabc",
       "prefLabel": {
         "de": "Eigenschaften von Carbonsäuren"
-      },
-      "note": {
-        "de": [
-          "-I-Effekt",
-          "Mesomeriestabilisierung",
-          "Schmelz- und Siedepunkt",
-          "Wasserlöslichkeit",
-          "Wasserstoffbrücken",
-          "funktionelle Gruppe",
-          "hydrophil",
-          "induktiver Effekt",
-          "lipophil",
-          "lipophob",
-          "polarisiert",
-          "unpolare Eigenschaften der Kette"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionenvoncarbonsaeuren206040d1-486e-4bd7-8f01-8288f2163b67",
       "prefLabel": {
         "de": "Reaktionen von Carbonsäuren"
-      },
-      "note": {
-        "de": [
-          "Dehydratisierung,",
-          "Dimerisierung",
-          "Neutralisation",
-          "Nucleophile Substitution",
-          "Salzbildung",
-          "Veresterung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/vorkommenvoncarbonsaeuren6e9bd4f8-aef2-4649-8417-09c7b1395273",
       "prefLabel": {
         "de": "Vorkommen von Carbonsäuren"
-      },
-      "note": {
-        "de": [
-          "Ameisensäure",
-          "Essigsäure",
-          "Fette",
-          "Fettsäuren",
-          "Kernseife",
-          "Wachse",
-          "Öle"
-        ]
       }
     }
   ],
@@ -148,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -164,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

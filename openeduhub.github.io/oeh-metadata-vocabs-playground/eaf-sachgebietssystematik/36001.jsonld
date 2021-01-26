@@ -6,34 +6,17 @@
   "prefLabel": {
     "de": "Lebensbewältigung"
   },
-  "note": {
-    "de": [
-      "Lebensbewältigung von Jugendlichen",
-      "Lebensbewältigung von Kindern"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3600101",
       "prefLabel": {
         "de": "Beziehungen und Beziehungskonflikte"
-      },
-      "note": {
-        "de": [
-          "Beziehungen",
-          "Beziehungskonflikte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/3600102",
       "prefLabel": {
         "de": "Lebenskrisen"
-      },
-      "note": {
-        "de": [
-          "Lebenskrisen"
-        ]
       }
     }
   ],
@@ -89,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -105,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

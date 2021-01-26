@@ -17,119 +17,35 @@
       "proteins"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Eiweiß",
-      "Protein,"
-    ]
-  },
-  "note": {
-    "de": [
-      "Eiweiß",
-      "Protein,"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aminosaeurena0911c33-a630-46a4-838d-a84621cb610c",
       "prefLabel": {
         "de": "Aminosäuren"
-      },
-      "note": {
-        "de": [
-          "Aminogruppe",
-          "Carbonsäuregruppe",
-          "Carboxylgruppe",
-          "Histidin",
-          "Isoleucin",
-          "Leucin",
-          "Lysin",
-          "Methionin",
-          "Phenylalanin",
-          "Threonin",
-          "Tryptophan",
-          "basische Aminogruppe",
-          "essentielle Aminosäuren ",
-          "saure Carbonsäuregruppe",
-          "–COOH",
-          "–NH2"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonaminosaeurenundeiweissen9eb3fc8c-0f54-42a1-9743-9f9618ad7608",
       "prefLabel": {
         "de": "Eigenschaften von Aminosäuren und Eiweißen"
-      },
-      "note": {
-        "de": [
-          " COOH",
-          " NH2",
-          "Aminogruppe",
-          "Bestrahlen",
-          "Carboxylgruppe",
-          "Denaturierung",
-          "Erhitzen",
-          "Peptidbindung",
-          "Puffersystem",
-          "amphoter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/nachweisreaktionenfuereiweisseundaminosaeuren012cd9c1-212e-4b37-bbe1-c874a7666b34",
       "prefLabel": {
         "de": "Nachweisreaktionen für Eiweiße und Aminosäuren"
-      },
-      "note": {
-        "de": [
-          " Ninhydrin-Test",
-          " chromatographische Trennung",
-          "Biuret-Reaktion",
-          "Xanthoprotein-Reaktion",
-          "elektrophoretische Trennung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/strukturvoneiweissecb0a9641-0db2-4c6b-a2ab-7da8a1d2a897",
       "prefLabel": {
         "de": "Struktur von Eiweiße"
-      },
-      "note": {
-        "de": [
-          "Dipeptide",
-          "Faltblatt",
-          "Helix",
-          "Hämoglobin",
-          "Oligopeptide",
-          "Peptidbindung",
-          "Polypeptide",
-          "Primärstruktur",
-          "Quartärstruktur",
-          "Schleifen",
-          "Sekundärstruktur",
-          "Sulfidbrücke",
-          "Tertiärstruktur",
-          "Tripeptide",
-          "Wasserstoffbrückenbindung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/verdauungvoneiweissen41617888-5103-4a0a-b3d7-bc51209cf9a6",
       "prefLabel": {
         "de": "Verdauung von Eiweißen"
-      },
-      "note": {
-        "de": [
-          "Darm",
-          "Enzyme",
-          "Muskelaufbau",
-          "Pepsin",
-          "Proteinbedarf",
-          "resorbieren"
-        ]
       }
     }
   ],
@@ -185,12 +101,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -201,16 +111,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

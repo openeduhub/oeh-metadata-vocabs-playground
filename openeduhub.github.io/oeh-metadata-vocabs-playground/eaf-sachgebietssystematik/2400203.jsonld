@@ -6,97 +6,41 @@
   "prefLabel": {
     "de": "Mittelalterliche Geschichte"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht",
-      "Mittelalterliche Geschichte"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020301",
       "prefLabel": {
         "de": "Kaiser, Kirche, Reich"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Kaiser",
-          "Kirche",
-          "Reich"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020302",
       "prefLabel": {
         "de": "Wirtschaft und Gesellschaft"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Wirtschaft und Gesellschaft",
-          "Wirtschaft und Gesellschaft im Mittelalter"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020303",
       "prefLabel": {
         "de": "Kultur"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Kultur"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020304",
       "prefLabel": {
         "de": "Kriege, Kreuzzüge, Normannen"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Kreuzzüge",
-          "Kriege",
-          "Kriege im Mittelalter",
-          "Normannen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020305",
       "prefLabel": {
         "de": "Islam, Judentum"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Islam",
-          "Judentum"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020306",
       "prefLabel": {
         "de": "Außereuropäische Geschichte"
-      },
-      "note": {
-        "de": [
-          "Außereuropäische Geschichte",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     }
   ],
@@ -152,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -168,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

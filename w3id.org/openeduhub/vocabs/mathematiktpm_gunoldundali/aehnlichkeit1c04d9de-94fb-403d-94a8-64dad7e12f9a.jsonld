@@ -22,24 +22,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/1.strahlensatz98cd0b5a-1834-41c9-ac21-b877ff9947fc",
       "prefLabel": {
         "de": "1. Strahlensatz"
-      },
-      "note": {
-        "de": [
-          "Streckenverhältnis;Strahlensätze befassen sich mit dem Verhältnis von Strecken",
-          "erster Strahensatz"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/2.strahlensatzafd0a043-3295-4c3b-903d-f335d571ff15",
       "prefLabel": {
         "de": "2. Strahlensatz"
-      },
-      "note": {
-        "de": [
-          "Strahlensätze befassen sich mit dem Verhältnis von Strecken",
-          "zweiter Strahlensatz"
-        ]
       }
     },
     {
@@ -95,12 +83,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -111,16 +93,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

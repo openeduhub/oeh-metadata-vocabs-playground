@@ -6,42 +6,6 @@
   "prefLabel": {
     "de": "Zusammenarbeiten und Teilen "
   },
-  "hiddenLabel": {
-    "de": [
-      "Etherpad",
-      "Inhalte teilen",
-      "Padlet",
-      "QR Code",
-      "QR-Code",
-      "Texte gemeinsam verfassen",
-      "ZUMPad",
-      "digitale Kooperation",
-      "digitale Pinnwand",
-      "digitale Schreibkonferenz",
-      "gemeinsames Schreiben",
-      "kollaborative Schreibtools",
-      "kollaboratives Schreiben",
-      "kollaboratives Schreibtool"
-    ]
-  },
-  "note": {
-    "de": [
-      "Etherpad",
-      "Inhalte teilen",
-      "Padlet",
-      "QR Code",
-      "QR-Code",
-      "Texte gemeinsam verfassen",
-      "ZUMPad",
-      "digitale Kooperation",
-      "digitale Pinnwand",
-      "digitale Schreibkonferenz",
-      "gemeinsames Schreiben",
-      "kollaborative Schreibtools",
-      "kollaboratives Schreiben",
-      "kollaboratives Schreibtool"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/kommunizierenundkooperierend273b8fc-a40f-4c34-858e-01c4ddfe34e6",
     "prefLabel": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

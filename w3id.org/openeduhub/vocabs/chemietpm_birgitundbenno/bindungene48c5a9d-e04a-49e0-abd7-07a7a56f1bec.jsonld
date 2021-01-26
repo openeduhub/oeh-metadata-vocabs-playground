@@ -6,122 +6,29 @@
   "prefLabel": {
     "de": "Bindungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Atombindung",
-      "Doppelbindung",
-      "Dreifachbindung",
-      "Einfachbindung",
-      "Kovalente Bindung,"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atombindung",
-      "Doppelbindung",
-      "Dreifachbindung",
-      "Einfachbindung",
-      "Kovalente Bindung,"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atombindung1e8d780e-2768-45c3-9f3f-4e9abcee044e",
       "prefLabel": {
         "de": "Atombindung"
-      },
-      "note": {
-        "de": [
-          " Molekülbaukasten",
-          "Elektronenpaare",
-          "Kovalente Bindung",
-          "Lewisschreibweise",
-          "Radikal",
-          "Strukturformel",
-          "Valenzelektronen",
-          "Valenzstrichformel",
-          "gemeinsame Elektronenpaare",
-          "gemeinsames Elektronenpaar",
-          "Überlappung von Elektronenwolken"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ionenbindunga8a99032-2aad-4b43-bbd9-6643f9ae4609",
       "prefLabel": {
         "de": "Ionenbindung"
-      },
-      "altLabel": {
-        "de": [
-          "Heteropolare Bindung",
-          "Ionenbeziehung",
-          "Ionenbindung",
-          "Ionische Bindung"
-        ],
-        "en": [
-          "chemical bond (ionic)",
-          "ionic bonding"
-        ]
-      },
-      "note": {
-        "de": [
-          "Ammonium-Ion",
-          "Anion",
-          "Elektrolyse",
-          "Ion",
-          "Kation",
-          "Kristall",
-          "Kristallgitter,",
-          "Leitfähigkeit",
-          "Sprödigkeit",
-          "Säure-Anion",
-          "Wasser Löslichkeit",
-          "spröde"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/komplexe988b1686-3d6b-467f-833c-2338fbcf4786",
       "prefLabel": {
         "de": "Komplexe"
-      },
-      "note": {
-        "de": [
-          "Cyanid",
-          "Koordinative Bindung",
-          "Ligand",
-          "Sigma-Donorbindung",
-          "Wasser,",
-          "Zentralatom"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/metallbindung6007b39f-6b18-4c3f-9cf1-0e320d64a0de",
       "prefLabel": {
         "de": "Metallbindung"
-      },
-      "altLabel": {
-        "de": [
-          "Metallbindung",
-          "Metallgitter",
-          "Metallgitterformen",
-          "Metallische Bindung"
-        ],
-        "en": [
-          "chemical bond (metallic)",
-          "metallic bonding"
-        ]
-      },
-      "note": {
-        "de": [
-          "Atomrümpfe",
-          "Elektronengas",
-          "Halbmetall,",
-          "Metall",
-          "Stromleitfähigkeit",
-          "verformbar"
-        ]
       }
     }
   ],
@@ -177,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -193,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

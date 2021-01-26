@@ -11,85 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/digitalegesellschaftmitgestalten51ebcfe1-a192-486c-9519-30b1fab44ebc",
       "prefLabel": {
         "de": "Digitale Gesellschaft (mit) gestalten"
-      },
-      "note": {
-        "de": [
-          "Blog",
-          "Blogbeitrag verfassen",
-          "Blogbeitrag veröffentlichen",
-          "Blogbeiträge verfassen",
-          "Blogbeiträge veröffentlichen",
-          "Blogging",
-          "Blogs",
-          "Chat",
-          "Foren",
-          "Forum",
-          "Kommentar",
-          "Kommentare",
-          "Medienwirkung",
-          "Nachrichten",
-          "Social Media",
-          "Twitter",
-          "Videoplattform",
-          "Videoplattformen",
-          "Videoportal",
-          "Videoportale",
-          "Videos veröffentlichem",
-          "Videos veröffentlichen",
-          "Web 2.0",
-          "Web 2.0 Tool",
-          "Weblog",
-          "Weblogs",
-          "Wiki",
-          "Wikis",
-          "digitale Teilhabe"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/regelnundnetiquettebeachten2aed1a6d-1e08-4dfd-8942-4a18ec610f70",
       "prefLabel": {
         "de": "Regeln und Netiquette beachten"
-      },
-      "note": {
-        "de": [
-          "Benimmregeln",
-          "Chatregeln",
-          "Computerregeln",
-          "Interaktionsregeln",
-          "Kommunikationsregeln",
-          "Mediennutzungsrgeln",
-          "Mediennutzungsvertrag",
-          "Netiquette",
-          "Persönlichkeitsrechte schützen",
-          "Privatsphäre achten",
-          "Shitstorm",
-          "digitale Interaktion"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/zusammenarbeitenundteilen31bffa91-d78a-4077-8b7c-4a0ffc4eadc1",
       "prefLabel": {
         "de": "Zusammenarbeiten und Teilen "
-      },
-      "note": {
-        "de": [
-          "Etherpad",
-          "Inhalte teilen",
-          "Padlet",
-          "QR Code",
-          "QR-Code",
-          "Texte gemeinsam verfassen",
-          "ZUMPad",
-          "digitale Kooperation",
-          "digitale Pinnwand",
-          "digitale Schreibkonferenz",
-          "gemeinsames Schreiben",
-          "kollaborative Schreibtools",
-          "kollaboratives Schreiben",
-          "kollaboratives Schreibtool"
-        ]
       }
     }
   ],
@@ -139,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -155,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

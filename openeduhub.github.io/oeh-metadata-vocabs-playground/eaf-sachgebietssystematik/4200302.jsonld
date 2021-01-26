@@ -6,38 +6,17 @@
   "prefLabel": {
     "de": "Instrumentalmusik"
   },
-  "note": {
-    "de": [
-      "Instrumentalmusik",
-      "Musik",
-      "Musikunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/420030201",
       "prefLabel": {
         "de": "Orchestermusik"
-      },
-      "note": {
-        "de": [
-          "Musik",
-          "Musikunterricht",
-          "Orchestermusik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/420030202",
       "prefLabel": {
         "de": "Kammermusik"
-      },
-      "note": {
-        "de": [
-          "Kammermusik",
-          "Musik",
-          "Musikunterricht"
-        ]
       }
     }
   ],
@@ -93,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -109,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

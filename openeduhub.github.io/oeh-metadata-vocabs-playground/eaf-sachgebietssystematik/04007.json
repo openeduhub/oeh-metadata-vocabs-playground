@@ -6,33 +6,17 @@
   "prefLabel": {
     "de": "Farbtechnik und Raumgestaltung"
   },
-  "note": {
-    "de": [
-      "Farbtechnik",
-      "Raumgestaltung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400701",
       "prefLabel": {
         "de": "Farbtechnik"
-      },
-      "note": {
-        "de": [
-          "Farbtechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400702",
       "prefLabel": {
         "de": "Raumgestaltung"
-      },
-      "note": {
-        "de": [
-          "Raumgestaltung"
-        ]
       }
     }
   ],
@@ -88,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

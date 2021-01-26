@@ -6,15 +6,8 @@
   "prefLabel": {
     "de": "Die eulersche Zahl e"
   },
-  "hiddenLabel": {
-    "de": [
-      "Die Zahl e ist Basis des natürlichen Logarithmus e=2;7182..\n\n"
-    ]
-  },
   "note": {
-    "de": [
-      "Die Zahl e ist Basis des natürlichen Logarithmus e=2;7182..\n\n"
-    ]
+    "de": "Die Zahl e ist Basis des natürlichen Logarithmus e=2;7182..\n\n"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/exponential-undlogarithmusfunktiona9bab110-fd02-4b05-9fda-fcba123c8faf",
@@ -68,12 +61,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -84,16 +71,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

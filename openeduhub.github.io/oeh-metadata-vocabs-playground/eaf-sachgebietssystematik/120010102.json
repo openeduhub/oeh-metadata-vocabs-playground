@@ -6,41 +6,17 @@
   "prefLabel": {
     "de": "Adaption als Verfilmung"
   },
-  "note": {
-    "de": [
-      "Adaption als Verfilmung",
-      "Deutsch",
-      "Deutschunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12001010201",
       "prefLabel": {
         "de": "Märchen, Sagen"
-      },
-      "note": {
-        "de": [
-          "Deutsch",
-          "Deutschunterricht",
-          "Märchen",
-          "Sagen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/12001010202",
       "prefLabel": {
         "de": "Romane, Novellen, Erzählungen"
-      },
-      "note": {
-        "de": [
-          "Deutsch",
-          "Deutschunterricht",
-          "Erzählungen",
-          "Novellen",
-          "Romane"
-        ]
       }
     }
   ],
@@ -96,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -112,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

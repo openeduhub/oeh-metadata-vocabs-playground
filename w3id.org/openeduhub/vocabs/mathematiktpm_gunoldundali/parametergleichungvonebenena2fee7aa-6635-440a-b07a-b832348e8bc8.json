@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Parametergleichung von Ebenen"
   },
-  "hiddenLabel": {
-    "de": [
-      " Parametergleichung",
-      "Parameterdarstellung)",
-      "Parameterform einer Ebene"
-    ]
-  },
-  "note": {
-    "de": [
-      " Parametergleichung",
-      "Parameterdarstellung)",
-      "Parameterform einer Ebene"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geradenundebenenf6cf880a-9ba5-445f-b87c-2621cc0100ed",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

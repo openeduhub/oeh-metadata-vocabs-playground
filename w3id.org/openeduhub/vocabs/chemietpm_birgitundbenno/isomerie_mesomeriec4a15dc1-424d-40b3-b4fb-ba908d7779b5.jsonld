@@ -6,104 +6,6 @@
   "prefLabel": {
     "de": "Isomerie / Mesomerie"
   },
-  "hiddenLabel": {
-    "de": [
-      "Anomer",
-      "Contergan",
-      "D(+)",
-      "D(-)",
-      "Diastereomeric",
-      "Diastereomerie",
-      "Enantiomere",
-      "Enantiomerie",
-      "Envelopekonformation",
-      "Eutomer",
-      "Fumarsäure",
-      "Grenzformeln",
-      "Isomere",
-      "Isomerie",
-      "Konfigurationsisomerie",
-      "Konformation",
-      "Konformationsisomerie",
-      "Konstitutionsisomerie",
-      "L(+)",
-      "L(-)",
-      "Maleinsäure",
-      "Mesomerie",
-      "Mesomerieenergie",
-      "Mesomeriepfeil",
-      "Methylphenidat",
-      "Racemat,",
-      "Resonanz",
-      "Resonanzpfeil",
-      "Resonanzstruktur",
-      "Sesselkonformation",
-      "Stereoisomerie",
-      "Stereozentrum",
-      "Thalidomid",
-      "Valenzisomere",
-      "Wannenkonformation",
-      "chiral",
-      "cis-",
-      "cis-trans-Isomerie",
-      "delokalisierte Doppelbindungen",
-      "iso-",
-      "meso-",
-      "mesomere Grenzstukturen",
-      "optische Aktivität",
-      "stereozentren",
-      "trans-"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anomer",
-      "Contergan",
-      "D(+)",
-      "D(-)",
-      "Diastereomeric",
-      "Diastereomerie",
-      "Enantiomere",
-      "Enantiomerie",
-      "Envelopekonformation",
-      "Eutomer",
-      "Fumarsäure",
-      "Grenzformeln",
-      "Isomere",
-      "Isomerie",
-      "Konfigurationsisomerie",
-      "Konformation",
-      "Konformationsisomerie",
-      "Konstitutionsisomerie",
-      "L(+)",
-      "L(-)",
-      "Maleinsäure",
-      "Mesomerie",
-      "Mesomerieenergie",
-      "Mesomeriepfeil",
-      "Methylphenidat",
-      "Racemat,",
-      "Resonanz",
-      "Resonanzpfeil",
-      "Resonanzstruktur",
-      "Sesselkonformation",
-      "Stereoisomerie",
-      "Stereozentrum",
-      "Thalidomid",
-      "Valenzisomere",
-      "Wannenkonformation",
-      "chiral",
-      "cis-",
-      "cis-trans-Isomerie",
-      "delokalisierte Doppelbindungen",
-      "iso-",
-      "meso-",
-      "mesomere Grenzstukturen",
-      "optische Aktivität",
-      "stereozentren",
-      "trans-"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/organischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
     "prefLabel": {
@@ -156,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -172,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,56 +6,23 @@
   "prefLabel": {
     "de": "Literatur, Medien"
   },
-  "note": {
-    "de": [
-      "Englisch",
-      "Englischunterricht",
-      "Literatur",
-      "Medien"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/200010301",
       "prefLabel": {
         "de": "Großbritanniens und Irlands"
-      },
-      "note": {
-        "de": [
-          "Englisch",
-          "Englischunterricht",
-          "Literatur Großbritanniens",
-          "Literatur Irlands",
-          "Medien"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/200010302",
       "prefLabel": {
         "de": "Nordamerikas"
-      },
-      "note": {
-        "de": [
-          "Englisch",
-          "Englischunterricht",
-          "Literatur Nordamerikas",
-          "Medien"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/200010303",
       "prefLabel": {
         "de": "Andere englischsprachiger Länder"
-      },
-      "note": {
-        "de": [
-          "Englisch",
-          "Englischunterricht",
-          "Literatur anderer englischsprachiger Länder",
-          "Medien"
-        ]
       }
     }
   ],
@@ -111,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -127,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

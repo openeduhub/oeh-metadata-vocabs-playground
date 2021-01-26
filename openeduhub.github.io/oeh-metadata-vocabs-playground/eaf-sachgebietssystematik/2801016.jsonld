@@ -6,51 +6,17 @@
   "prefLabel": {
     "de": "Tiere"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Primarunterricht",
-      "Sachkunde",
-      "Sachkundeunterricht",
-      "Sachunterricht",
-      "Tiere"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101601",
       "prefLabel": {
         "de": "Haustiere, Nutztiere"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Haustiere",
-          "Nutztiere",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101602",
       "prefLabel": {
         "de": "Wildtiere"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht",
-          "Wildtiere"
-        ]
       }
     }
   ],
@@ -106,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

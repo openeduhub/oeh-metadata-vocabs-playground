@@ -6,78 +6,6 @@
   "prefLabel": {
     "de": "Waschmittelzusätze und ihre Funktion"
   },
-  "hiddenLabel": {
-    "de": [
-      "Amylase",
-      "Aufheller,Schichtsilikate",
-      "Bleichaktivatoren",
-      "Bleichmittel",
-      "Bleichstabilisatoren",
-      "Builder",
-      "Burnus",
-      "Carboxymethylcellulose",
-      "Cellulase",
-      "Duftstoffe",
-      "EDTA",
-      "Enthärter",
-      "Entschäume",
-      "Enzyme",
-      "Farbübertragungsinhibitoren",
-      "Füllsalze",
-      "Komplexbildner",
-      "Lipase",
-      "Maschinenwäsche",
-      "Natriumperborat",
-      "Optische Aufheller",
-      "Pankreasenzym",
-      "Persil",
-      "Phosphat",
-      "Phosphonate",
-      "Rieselhilfe",
-      "Stellmittel",
-      "Streckmittel",
-      "TAED",
-      "Waschalkalien",
-      "Weichspüler,",
-      "Zeolith"
-    ]
-  },
-  "note": {
-    "de": [
-      "Amylase",
-      "Aufheller,Schichtsilikate",
-      "Bleichaktivatoren",
-      "Bleichmittel",
-      "Bleichstabilisatoren",
-      "Builder",
-      "Burnus",
-      "Carboxymethylcellulose",
-      "Cellulase",
-      "Duftstoffe",
-      "EDTA",
-      "Enthärter",
-      "Entschäume",
-      "Enzyme",
-      "Farbübertragungsinhibitoren",
-      "Füllsalze",
-      "Komplexbildner",
-      "Lipase",
-      "Maschinenwäsche",
-      "Natriumperborat",
-      "Optische Aufheller",
-      "Pankreasenzym",
-      "Persil",
-      "Phosphat",
-      "Phosphonate",
-      "Rieselhilfe",
-      "Stellmittel",
-      "Streckmittel",
-      "TAED",
-      "Waschalkalien",
-      "Weichspüler,",
-      "Zeolith"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/tenside,seifeundwaschmittel1766eb28-5c6e-477c-b7e8-70de5967e066",
     "prefLabel": {
@@ -130,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -146,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

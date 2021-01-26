@@ -22,11 +22,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/massenmedien716c983d-57b8-468a-8421-c4f145dd4d13",
     "prefLabel": {
       "de": "Massenmedien"
-    },
-    "altLabel": {
-      "en": [
-        "Mass Media Games"
-      ]
     }
   },
   "inScheme": {
@@ -75,12 +70,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -91,16 +80,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

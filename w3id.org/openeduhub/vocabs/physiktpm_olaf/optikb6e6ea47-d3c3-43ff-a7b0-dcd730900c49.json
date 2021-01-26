@@ -6,108 +6,32 @@
   "prefLabel": {
     "de": "Optik"
   },
-  "hiddenLabel": {
-    "de": [
-      "Die Lehre vom Licht."
-    ]
-  },
   "note": {
-    "de": [
-      "Die Lehre vom Licht."
-    ]
+    "de": "Die Lehre vom Licht."
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/farbenbfc98b85-cfbd-42b9-8528-0afe64a68d88",
       "prefLabel": {
         "de": "Farben"
-      },
-      "altLabel": {
-        "de": [
-          "Color",
-          "Farbe",
-          "Farben",
-          "Vereinsfarben"
-        ],
-        "en": [
-          "colors",
-          "colour",
-          "colours",
-          "has color",
-          "has colour"
-        ]
-      },
-      "note": {
-        "de": [
-          "Elektromagnetisches Spektrum",
-          "Prisma",
-          "Spektralfarben",
-          "Subtraktive Farbmischung",
-          "Weißes Licht",
-          "Zerlegung von Sonnenlicht",
-          "additiven Farbmischung",
-          "lichtempfindlichen Zapfen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/geometrischeoptikaa839a62-ee3d-41de-9656-e784dc5342ff",
       "prefLabel": {
         "de": "Geometrische Optik"
-      },
-      "altLabel": {
-        "de": [
-          "Lichtstrahl",
-          "Lichtstrahlen",
-          "Strahlenoptik"
-        ]
-      },
-      "note": {
-        "de": [
-          "In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/menschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
       "prefLabel": {
         "de": "Menschliches Auge"
-      },
-      "note": {
-        "de": [
-          "Akkomodation",
-          "Augenlinse",
-          "Iris",
-          "Linse mit veränderbarer Brennweite",
-          "Netzhaut",
-          "Pupille",
-          "Sehfehler",
-          "lichtempfindlichen Zapfen",
-          "scharfes Sehen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/wellenoptik71b1c29f-ef0f-4155-b59c-27d45b048e60",
       "prefLabel": {
         "de": "Wellenoptik"
-      },
-      "altLabel": {
-        "de": [
-          "Physikalische Optik",
-          "Undulationstheorie",
-          "Wellentheorie des Lichts"
-        ],
-        "en": [
-          "wave optics"
-        ]
-      },
-      "note": {
-        "de": [
-          "Als Wellenoptik wird der Bereich der Optik bezeichnet",
-          "Wellenmodell des Lichts",
-          "der von der Wellennatur des Lichts handelt."
-        ]
       }
     }
   ],
@@ -157,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -173,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

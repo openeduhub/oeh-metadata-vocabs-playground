@@ -6,128 +6,29 @@
   "prefLabel": {
     "de": "Einführung in Chemische Reaktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Reaktion",
-      "Umsatz",
-      "chemische Reaktion",
-      "Änderung der Stoffeigenschaften"
-    ]
-  },
-  "note": {
-    "de": [
-      "Reaktion",
-      "Umsatz",
-      "chemische Reaktion",
-      "Änderung der Stoffeigenschaften"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aenderungderstoffeigenschaften10851ead-7dad-45f9-8a0b-8138ad9a34ae",
       "prefLabel": {
         "de": "Änderung der Stoffeigenschaften"
-      },
-      "note": {
-        "de": [
-          "Backen",
-          "Farbänderung",
-          "Kochen",
-          "Massenerhöhung",
-          "Massenverlust",
-          "wird leichter",
-          "wird schwerer"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/chemischegrundgesetzeffab84c4-4a23-404a-bb02-018dcc81c4cc",
       "prefLabel": {
         "de": "Chemische Grundgesetze"
-      },
-      "note": {
-        "de": [
-          "Antoine Lavoisier",
-          "Gesetz der konstanten Massenverhältnisse",
-          "Gesetz der multiplen Proportionen",
-          "Gesetz von der Erhaltung der Masse",
-          "John Dalton,",
-          "Joseph-Louis Proust",
-          "Massenerhaltung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/energiebeichemischenreaktionen8c7c0c2c-8964-42c6-96f1-3d0865933f0d",
       "prefLabel": {
         "de": "Energie bei chemischen Reaktionen"
-      },
-      "note": {
-        "de": [
-          "Aktivierungsenergie",
-          "Arbeit",
-          "Atomenergie",
-          "Batterie",
-          "Elektrolyse Wasserstoff",
-          "Energie",
-          "Energieabgabe",
-          "Energieaufnahme",
-          "Energieerhaltungssatz",
-          "Energiegewinnung",
-          "Energieumsatz",
-          "Energiezufuhr",
-          "Feuerwerk",
-          "Katalysator",
-          "Kohle",
-          "Leistung",
-          "Magnesium verbrennen",
-          "Photosynthese",
-          "Umwandlung von Energie",
-          "Wasserstoff Auto",
-          "chemische Energie",
-          "elektrische Energie",
-          "endotherm",
-          "es glüht",
-          "exotherm",
-          "glühen",
-          "potentielle Energie",
-          "Öl"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionenmitsauerstoffd12f4640-82c0-4a2c-b86f-349b1fc99516",
       "prefLabel": {
         "de": "Reaktionen mit Sauerstoff"
-      },
-      "note": {
-        "de": [
-          "Branddreieck",
-          "Brandschutz",
-          "Brennen",
-          "Brennpunkt",
-          "Explosion",
-          "Feuer",
-          "Feuer löschen",
-          "Feuerlöscher",
-          "Feuerwehr",
-          "Flamme",
-          "Flammpunkt",
-          "Kohlendioxid",
-          "Luft",
-          "Löschdecke",
-          "Löschsand",
-          "Oberfläche",
-          "Oxidation",
-          "Pyrolyse,",
-          "Sauerstoff",
-          "Verbrennung",
-          "Volumen und Oberfläche",
-          "Zündtemperatur",
-          "ersticken",
-          "exotherm",
-          "explodieren"
-        ]
       }
     }
   ],
@@ -183,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -199,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

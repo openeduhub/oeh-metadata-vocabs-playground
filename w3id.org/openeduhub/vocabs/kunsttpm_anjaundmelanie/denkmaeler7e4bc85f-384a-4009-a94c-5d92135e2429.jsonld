@@ -6,36 +6,6 @@
   "prefLabel": {
     "de": "Denkmäler"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bauplastik",
-      "Herrscherbild",
-      "Mahnmal",
-      "Nationaldenkmal",
-      "Platzgestaltung",
-      "abstraktes Denkmal;",
-      "demokratisierung des Denkmals",
-      "die Rolle des Auftraggebers in der Kunst",
-      "unsichtbares Mahnmal",
-      "unterschiedliche Arten von Denkmälern",
-      "öffentliche Kunst"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bauplastik",
-      "Herrscherbild",
-      "Mahnmal",
-      "Nationaldenkmal",
-      "Platzgestaltung",
-      "abstraktes Denkmal;",
-      "demokratisierung des Denkmals",
-      "die Rolle des Auftraggebers in der Kunst",
-      "unsichtbares Mahnmal",
-      "unterschiedliche Arten von Denkmälern",
-      "öffentliche Kunst"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plastikundinstallatione1cf2f8a-9e71-45ea-8ab2-bedfe1f00cf0",
     "prefLabel": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

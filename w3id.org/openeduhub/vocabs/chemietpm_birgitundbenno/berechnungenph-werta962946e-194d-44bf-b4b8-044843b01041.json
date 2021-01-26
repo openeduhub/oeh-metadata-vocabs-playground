@@ -6,46 +6,10 @@
   "prefLabel": {
     "de": "Berechnungen pH - Wert"
   },
-  "hiddenLabel": {
-    "de": [
-      "Dissoziationskonstante",
-      "Kb-Wert",
-      "Ks-Wert",
-      "mol/l",
-      "negativer dekadischer Logarithmus",
-      "pH = -lg [H3O+]",
-      "pKb-Wert",
-      "pks-Wert",
-      "schwache Base",
-      "schwache Säure"
-    ]
-  },
-  "note": {
-    "de": [
-      "Dissoziationskonstante",
-      "Kb-Wert",
-      "Ks-Wert",
-      "mol/l",
-      "negativer dekadischer Logarithmus",
-      "pH = -lg [H3O+]",
-      "pKb-Wert",
-      "pks-Wert",
-      "schwache Base",
-      "schwache Säure"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
     "prefLabel": {
       "de": "Stöchiometrie"
-    },
-    "altLabel": {
-      "de": [
-        "Stöchiometrisch",
-        "Umsatz",
-        "Umsatzgrad",
-        "Unstöchiometrisch"
-      ]
     }
   },
   "inScheme": {
@@ -94,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -110,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

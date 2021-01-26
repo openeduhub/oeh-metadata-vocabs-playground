@@ -6,146 +6,6 @@
   "prefLabel": {
     "de": "Skulptur/Plastik"
   },
-  "hiddenLabel": {
-    "de": [
-      "Abformen",
-      "Abtragen des Werkstoffs",
-      "Addition von Material",
-      "Alberto Giacometti",
-      "Allansichtigkeit",
-      "Ansichtigkeit",
-      "Armierung",
-      "Aufbautechnik",
-      "Auguste Rodin",
-      "Bildnisplastik",
-      "Blockhafte Plastik",
-      "Bodenplastik",
-      "Camille Claudel",
-      "Donatello",
-      "Duane Hanson",
-      "Ernst Barlach",
-      "Fertigteil",
-      "Figur-Sockel-Bezug",
-      "Flachrelief",
-      "Formen mit Papiermaché",
-      "Franz Bernhard",
-      "George Segal",
-      "Gips- und Betonguss",
-      "Gipsabdruck",
-      "Gussformen",
-      "Halbrelief",
-      "Henry Moore",
-      "Hinzufügen von Material",
-      "Hochrelief",
-      "Hohlguss",
-      "Holzskulptur",
-      "Kaschieren von Formen",
-      "Konstruktive Plastik",
-      "Körper-Raum-Verhältnis",
-      "Massivguss",
-      "Materialgerechtigkeit",
-      "Michelangelo Buonarotti",
-      "Modellieren",
-      "Modellieren mit Gips",
-      "Modellieren mit Ton",
-      "Niki de Saint Phalle",
-      "Pablo Picasso",
-      "Porträtmodellieren",
-      "Raumlineatur",
-      "Raumoffene und raumhaltige Plastik",
-      "Raumvolumen",
-      "Raumweisende Plastik",
-      "Ready-made",
-      "Relief",
-      "Reliefguss",
-      "Renée Sintenis",
-      "Schema des Kontrapost",
-      "Sockel",
-      "Stand- und Spielbein",
-      "Steinbearbeitung",
-      "Subtraktion des Werkstoffs",
-      "Tektonische Plastik",
-      "Ulrich Rückriem",
-      "Verhüllen",
-      "Wachsausschmelzverfahren",
-      "Wachsmodell",
-      "abstrakte Plastik",
-      "aufbauende Arbeitsweise",
-      "organische Plastik",
-      "sockelsprengende Figur",
-      "wegnehmende Arbeitsweise"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abformen",
-      "Abtragen des Werkstoffs",
-      "Addition von Material",
-      "Alberto Giacometti",
-      "Allansichtigkeit",
-      "Ansichtigkeit",
-      "Armierung",
-      "Aufbautechnik",
-      "Auguste Rodin",
-      "Bildnisplastik",
-      "Blockhafte Plastik",
-      "Bodenplastik",
-      "Camille Claudel",
-      "Donatello",
-      "Duane Hanson",
-      "Ernst Barlach",
-      "Fertigteil",
-      "Figur-Sockel-Bezug",
-      "Flachrelief",
-      "Formen mit Papiermaché",
-      "Franz Bernhard",
-      "George Segal",
-      "Gips- und Betonguss",
-      "Gipsabdruck",
-      "Gussformen",
-      "Halbrelief",
-      "Henry Moore",
-      "Hinzufügen von Material",
-      "Hochrelief",
-      "Hohlguss",
-      "Holzskulptur",
-      "Kaschieren von Formen",
-      "Konstruktive Plastik",
-      "Körper-Raum-Verhältnis",
-      "Massivguss",
-      "Materialgerechtigkeit",
-      "Michelangelo Buonarotti",
-      "Modellieren",
-      "Modellieren mit Gips",
-      "Modellieren mit Ton",
-      "Niki de Saint Phalle",
-      "Pablo Picasso",
-      "Porträtmodellieren",
-      "Raumlineatur",
-      "Raumoffene und raumhaltige Plastik",
-      "Raumvolumen",
-      "Raumweisende Plastik",
-      "Ready-made",
-      "Relief",
-      "Reliefguss",
-      "Renée Sintenis",
-      "Schema des Kontrapost",
-      "Sockel",
-      "Stand- und Spielbein",
-      "Steinbearbeitung",
-      "Subtraktion des Werkstoffs",
-      "Tektonische Plastik",
-      "Ulrich Rückriem",
-      "Verhüllen",
-      "Wachsausschmelzverfahren",
-      "Wachsmodell",
-      "abstrakte Plastik",
-      "aufbauende Arbeitsweise",
-      "organische Plastik",
-      "sockelsprengende Figur",
-      "wegnehmende Arbeitsweise"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plastikundinstallatione1cf2f8a-9e71-45ea-8ab2-bedfe1f00cf0",
     "prefLabel": {
@@ -198,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -214,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

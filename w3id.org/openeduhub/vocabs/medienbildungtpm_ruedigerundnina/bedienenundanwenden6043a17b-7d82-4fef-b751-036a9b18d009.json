@@ -11,118 +11,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/datenorganisierenb4778634-df47-46fb-a151-ef9ac258a0c7",
       "prefLabel": {
         "de": "Daten organisieren"
-      },
-      "note": {
-        "de": [
-          "Cloud",
-          "Cloudsystem",
-          "Datei",
-          "Dateienablage",
-          "Datenorganisation",
-          "Explorer",
-          "Finder",
-          "Hashtag",
-          "Informationen und Daten sicher speichern",
-          "Ordner",
-          "Ordner anlegen",
-          "Ordner erstellen",
-          "Ordnerstruktur",
-          "Ordnerstrukturen",
-          "Ordnerstrukturen anlegen",
-          "Portable Apps",
-          "Portableapps",
-          "Sicherheitskopie",
-          "Sicherheitskopien",
-          "Sicherheitskopien erstellen",
-          "Suchen",
-          "Tag",
-          "Tags",
-          "USB Stick",
-          "Verzeichnis",
-          "Verzeichnisse",
-          "Verzeichnisse anlegen",
-          "Verzeichnisser erstellen",
-          "wiederfinden und von verschiedenen Orten abrufen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/grundlagenkennenlernen4be9f646-2e41-4e24-bb6c-0c4b57c102e6",
       "prefLabel": {
         "de": "Grundlagen kennenlernen"
-      },
-      "note": {
-        "de": [
-          "App",
-          "Apps",
-          "Betriebssystem",
-          "Betriebssysteme",
-          "Bildschirm",
-          "Browser bedienen",
-          "Computer",
-          "Computermaus",
-          "Hardware",
-          "Laptop",
-          "Lautsprecher",
-          "Lernplattform",
-          "Lernplattformen",
-          "Lernprogramm",
-          "Lernprogramme",
-          "Maus",
-          "Medien einsetzen",
-          "Mikrofon",
-          "Monitor",
-          "Notebook",
-          "PC",
-          "PDF",
-          "Schreiben",
-          "Smartboard",
-          "Smartphone",
-          "Software",
-          "Tablet",
-          "Tablets",
-          "Tastatur",
-          "Texte schreiben",
-          "Texte verfassen",
-          "Tippen",
-          "Zehn-Finger-Schreibsystem",
-          "Zehn-Finger-System",
-          "digitales Schreiben",
-          "interaktive Tafel",
-          "interaktive Tafeln"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/persoenlichedatenundprivatsphaereschuetzend81d21f2-eb2f-412b-9a66-051c87577c45",
       "prefLabel": {
         "de": "Persönliche Daten und Privatsphäre schützen"
-      },
-      "note": {
-        "de": [
-          "Account",
-          "Accounts",
-          "Daten schützen",
-          "Datenmissbrauch",
-          "Datenschutz",
-          "Datensicherheit",
-          "Nutzername",
-          "Passwort",
-          "Passwort schützen",
-          "Passworterstellung",
-          "Passwörter",
-          "Passwörter schützen",
-          "Persönlichkeitsrecht",
-          "Privatsphäre und Informationssicherheit beachten",
-          "Privatsphäreeinstellungen",
-          "Profil",
-          "Selbstdarstellung",
-          "Siherheitseinstellungen",
-          "Verbraucherschutz",
-          "Verbraucherschutzmaßnahmen",
-          "Zugangsdaten",
-          "sensible Daten"
-        ]
       }
     }
   ],
@@ -172,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -188,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

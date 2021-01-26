@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Stoffklassen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Einteilung nach Eigenschaften",
-      "Leichtflüchtige Stoffe",
-      "Metalle",
-      "Salzartige Stoffe"
-    ]
-  },
-  "note": {
-    "de": [
-      "Einteilung nach Eigenschaften",
-      "Leichtflüchtige Stoffe",
-      "Metalle",
-      "Salzartige Stoffe"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoffeundstoffeigenschaften6d68df51-df9e-4ed0-ac75-2059ea735a86",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

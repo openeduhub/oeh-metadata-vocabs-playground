@@ -6,126 +6,6 @@
   "prefLabel": {
     "de": "Lesetraining"
   },
-  "hiddenLabel": {
-    "de": [
-      "Assoziationsbildung unterstützen",
-      "Aufbau eines Sichtwortschatzes",
-      "Basisgrammatik",
-      "Beschaffenheit der Welt (Allgemein- und Weltwissen",
-      "Bilddiktat",
-      "Buchstaben-",
-      "Buchtsabenkombinationen",
-      "Diktat mit Selbstkorrektur",
-      "Geschwisterlesen",
-      "Gitterrätesl",
-      "Grammatik",
-      "Hörverstehen",
-      "Komposita",
-      "Konsonantenverbindung im Deutschen",
-      "Lautleseverfahren",
-      "Leseanimation",
-      "Leseexperimente",
-      "Lesen und Malen",
-      "Leseschule-NRW",
-      "Lesestrategietraining",
-      "Literaturunterricht",
-      "Lückentexte",
-      "Phasen der Inhaltserschließung",
-      "Post-Reading Activities",
-      "Pre-Reading Activities",
-      "Redundanzfelder Westhoff",
-      "Satzanfänge vervollständigen",
-      "Satzlupe",
-      "Silben-",
-      "Silbenhäufigkeit",
-      "Sinnsignale",
-      "Strukturwortschatz",
-      "Textentlastung Paralleltexte",
-      "Training Leseflüssigkeit",
-      "Umgang mit Medien und Texten",
-      "Verlauf von Sätzen",
-      "Verstandenes und Wortbedeutungen erfragen",
-      "Vielleseverfahren",
-      "Vorenthaltung durch Bilder",
-      "Weltwissen",
-      "While-reading Activities",
-      "Wortbildungsmuster",
-      "Wortkombinationen",
-      "Wortschatz",
-      "Wortsuchspiele",
-      "Wortsudokus",
-      "Wörter als Einheit erkennen",
-      "Wörterbuch",
-      "aktiver Wortschatz",
-      "bekannter/ unbekannter Kontext",
-      "gemeinsames Modellieren von Texten",
-      "komplexe Strukturen erschwert flüssiges Lesen",
-      "kulturspezifisches Wissen)",
-      "passiver Wortschatz",
-      "phonologisches Dekodieren",
-      "sprachliche Bedarfsanalysen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Assoziationsbildung unterstützen",
-      "Aufbau eines Sichtwortschatzes",
-      "Basisgrammatik",
-      "Beschaffenheit der Welt (Allgemein- und Weltwissen",
-      "Bilddiktat",
-      "Buchstaben-",
-      "Buchtsabenkombinationen",
-      "Diktat mit Selbstkorrektur",
-      "Geschwisterlesen",
-      "Gitterrätesl",
-      "Grammatik",
-      "Hörverstehen",
-      "Komposita",
-      "Konsonantenverbindung im Deutschen",
-      "Lautleseverfahren",
-      "Leseanimation",
-      "Leseexperimente",
-      "Lesen und Malen",
-      "Leseschule-NRW",
-      "Lesestrategietraining",
-      "Literaturunterricht",
-      "Lückentexte",
-      "Phasen der Inhaltserschließung",
-      "Post-Reading Activities",
-      "Pre-Reading Activities",
-      "Redundanzfelder Westhoff",
-      "Satzanfänge vervollständigen",
-      "Satzlupe",
-      "Silben-",
-      "Silbenhäufigkeit",
-      "Sinnsignale",
-      "Strukturwortschatz",
-      "Textentlastung Paralleltexte",
-      "Training Leseflüssigkeit",
-      "Umgang mit Medien und Texten",
-      "Verlauf von Sätzen",
-      "Verstandenes und Wortbedeutungen erfragen",
-      "Vielleseverfahren",
-      "Vorenthaltung durch Bilder",
-      "Weltwissen",
-      "While-reading Activities",
-      "Wortbildungsmuster",
-      "Wortkombinationen",
-      "Wortschatz",
-      "Wortsuchspiele",
-      "Wortsudokus",
-      "Wörter als Einheit erkennen",
-      "Wörterbuch",
-      "aktiver Wortschatz",
-      "bekannter/ unbekannter Kontext",
-      "gemeinsames Modellieren von Texten",
-      "komplexe Strukturen erschwert flüssiges Lesen",
-      "kulturspezifisches Wissen)",
-      "passiver Wortschatz",
-      "phonologisches Dekodieren",
-      "sprachliche Bedarfsanalysen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/leseverstehen01dc6c12-13bb-46ef-a618-2044a6d019c4",
     "prefLabel": {
@@ -178,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -194,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

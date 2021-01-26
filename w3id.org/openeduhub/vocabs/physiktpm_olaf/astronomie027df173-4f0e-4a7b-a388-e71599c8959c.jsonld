@@ -17,164 +17,38 @@
       "Astronomy"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Astrophysik"
-    ]
-  },
   "note": {
-    "de": [
-      "Astrophysik"
-    ]
+    "de": "Astrophysik"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/einfuehrung_grundlagenf3e6ba78-0908-4b49-9933-0d4e41b47cef",
       "prefLabel": {
         "de": "Einführung / Grundlagen"
-      },
-      "note": {
-        "de": [
-          "Bewegung der Himmelskörper",
-          "Die Himmelskörper ruhen nicht",
-          "Himmel",
-          "Himmelskörper",
-          "Jahreszeiten",
-          "Monat",
-          "Mond",
-          "Mondfinsternis",
-          "Mondphasen",
-          "Sonne",
-          "Sonnenfinsternis",
-          "Sterne",
-          "sondern sie befinden sich in einer oder mehreren Drehbewegungen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kosmologied1ae9848-3768-48aa-825d-a6f39450c7da",
       "prefLabel": {
         "de": "Kosmologie"
-      },
-      "altLabel": {
-        "de": [
-          "Astronomie",
-          "Astrophysik",
-          "Kosmologie",
-          "Kosmologien",
-          "Weltraumforschung"
-        ],
-        "en": [
-          "cosmologies",
-          "physical cosmologies",
-          "physical cosmology"
-        ]
-      },
-      "note": {
-        "de": [
-          "Ausdehnung",
-          "Ausdehnung des Kosmos",
-          "Big Bang",
-          "Doppler",
-          "Doppler-Effekt",
-          "Dunkle Energie",
-          "Dunkle Materie",
-          "Edwin Hubble",
-          "Entfernungsbestimmung mit Cepheiden",
-          "Expansion",
-          "HST",
-          "Hubble",
-          "Hubble Space Telescope",
-          "Hubble-Gesetz",
-          "Kosmische Hintergrundstrahlung",
-          "Kosmologie",
-          "Kosmologie und Standardmodell",
-          "Kosmologische Rotverschiebung",
-          "Rotverschiebung",
-          "Standardmodell",
-          "Universum\n",
-          "Urknall"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/planetensysteme8c32731-0d9e-4784-adf8-f2c4880565b6",
       "prefLabel": {
         "de": "Planetensystem"
-      },
-      "altLabel": {
-        "de": [
-          "Sternensystem"
-        ],
-        "en": [
-          "star system"
-        ]
-      },
-      "note": {
-        "de": [
-          " KEPLERsche Gesetze",
-          "Astronomische Daten unseres Sonnensystems",
-          "Bahnen im Gravitationsfeld",
-          "Brahe",
-          "Drittes KEPLERsches Gesetz",
-          "Energie im Gravitationsfeld",
-          "Entfernungsbestimmung in Planetensystemen",
-          "Erstes KEPLERsches Gesetz",
-          "Johannes Kepler",
-          "Kepler",
-          "Siderische und synodische Umlaufzeit",
-          "Tycho Brahe",
-          "Zweites KEPLERsches Gesetz"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/sonne_fixsterneab89b267-feb7-49c2-81a3-e38d9f120a13",
       "prefLabel": {
         "de": "Sonne / Fixsterne"
-      },
-      "note": {
-        "de": [
-          "Absolute Sternhelligkeit",
-          "Aufbau der Sonne",
-          "Energie der Sonne",
-          "Entwicklung der Sonne",
-          "Entwicklung schwerer Sterne",
-          "Fixstern",
-          "Fraunhofer",
-          "Fraunhofer Linien",
-          "HERTZSPRUNG-RUSSELL-Diagramm",
-          "Hauptreihenstadium",
-          "Jährliche Sternbewegung",
-          "Masse-Leuchtkraft-Beziehung",
-          "Scheinbare Sternhelligkeit",
-          "Solarkonstante und Strahlungsleistung",
-          "Sonne",
-          "Sonnenspektrum",
-          "Spektralklassen",
-          "Stern",
-          "Sterngeburt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/sternbeobachtung4f0b5836-6e59-4f9b-9c8a-e561cc08fbc7",
       "prefLabel": {
         "de": "Sternbeobachtung"
-      },
-      "note": {
-        "de": [
-          "Fernrohr",
-          "Hemisphäre",
-          "Himmelskugel",
-          "Lauf der Gestirne",
-          "Nordstern",
-          "Orientierung",
-          "Orientierung mit Hilfe des Polarsterns",
-          "Polarstern",
-          "Sternbilder",
-          "Teleskop"
-        ]
       }
     }
   ],
@@ -224,12 +98,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -240,16 +108,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

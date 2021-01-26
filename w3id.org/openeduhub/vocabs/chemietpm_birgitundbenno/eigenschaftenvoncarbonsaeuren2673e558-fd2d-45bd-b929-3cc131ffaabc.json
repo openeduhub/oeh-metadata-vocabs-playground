@@ -6,57 +6,10 @@
   "prefLabel": {
     "de": "Eigenschaften von Carbonsäuren"
   },
-  "hiddenLabel": {
-    "de": [
-      "-I-Effekt",
-      "Mesomeriestabilisierung",
-      "Schmelz- und Siedepunkt",
-      "Wasserlöslichkeit",
-      "Wasserstoffbrücken",
-      "funktionelle Gruppe",
-      "hydrophil",
-      "induktiver Effekt",
-      "lipophil",
-      "lipophob",
-      "polarisiert",
-      "unpolare Eigenschaften der Kette"
-    ]
-  },
-  "note": {
-    "de": [
-      "-I-Effekt",
-      "Mesomeriestabilisierung",
-      "Schmelz- und Siedepunkt",
-      "Wasserlöslichkeit",
-      "Wasserstoffbrücken",
-      "funktionelle Gruppe",
-      "hydrophil",
-      "induktiver Effekt",
-      "lipophil",
-      "lipophob",
-      "polarisiert",
-      "unpolare Eigenschaften der Kette"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/carbonsaeuren8ee0cd22-c807-4ce2-ad4e-cef4cb58dd98",
     "prefLabel": {
       "de": "Carbonsäuren"
-    },
-    "altLabel": {
-      "de": [
-        "Alkoholische Säure",
-        "Alkoholsäure",
-        "Carbonsäure",
-        "Carboxylat",
-        "Carboxylate",
-        "Carboxylsäure",
-        "Carboxylsäuren",
-        "Karbonsäure",
-        "Karbonsäuren",
-        "Tricarbonsäure",
-        "Tricarbonsäuren"
-      ]
     }
   },
   "inScheme": {
@@ -105,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -121,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

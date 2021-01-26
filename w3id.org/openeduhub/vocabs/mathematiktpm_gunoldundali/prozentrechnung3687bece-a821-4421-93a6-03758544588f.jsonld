@@ -11,127 +11,66 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/einfuehrung629c7f3b-0562-41ea-8401-c99c697bc3e1",
       "prefLabel": {
         "de": "Einführung"
-      },
-      "note": {
-        "de": [
-          "Einleitung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/formelnumformen083f299c-8d18-43fd-8ef3-12c47775e2aa",
       "prefLabel": {
         "de": "Formeln umformen"
-      },
-      "note": {
-        "de": [
-          "Abwandeln der Formel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/grundwerteberechnendreisatzfcc5be8b-6fa0-4e65-a80c-f093717acacb",
       "prefLabel": {
         "de": "Grundwerte berechnen (Dreisatz)"
-      },
-      "note": {
-        "de": [
-          "Gesamtwert"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/grundwerteberechnenformelcd3e19ab-6a7c-4f7d-b6ea-34e4e9d350aa",
       "prefLabel": {
         "de": "Grundwerte berechnen (Formel)"
-      },
-      "note": {
-        "de": [
-          "das Ganze"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentsatzberechnendreisatza4573161-8987-43c7-be12-1cffecfbe7d1",
       "prefLabel": {
         "de": "Prozentsatz berechnen (Dreisatz)"
-      },
-      "note": {
-        "de": [
-          "1%",
-          "Prozent",
-          "Prozentwert"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentsatzberechnenformel68fa1e7a-77ba-4bc9-b105-c37c6b1e3de5",
       "prefLabel": {
         "de": "Prozentsatz berechnen (Formel)"
-      },
-      "note": {
-        "de": [
-          "Anteile des Ganzen",
-          "Prozent",
-          "p"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentwertberechnendreisatz779d57f9-1450-4bb5-90a3-04a2e0f9dab1",
       "prefLabel": {
         "de": "Prozentwert berechnen (Dreisatz)"
-      },
-      "note": {
-        "de": [
-          "Hundertstel",
-          "Rabatt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentwertberechnenformelbd2acd47-8652-49ee-9b45-cd40521c3d87",
       "prefLabel": {
         "de": "Prozentwert berechnen (Formel)"
-      },
-      "note": {
-        "de": [
-          "Teil vom Ganzen",
-          "Vergünstigung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechentricka1a9c272-2f9e-464c-8d66-dd49f0ea8a65",
       "prefLabel": {
         "de": "Rechentrick"
-      },
-      "note": {
-        "de": [
-          "schnelle Prozentrechnung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/vermischtesachaufgabendreisatzed5e5893-2ad8-4b5c-a844-25d5fb779e42",
       "prefLabel": {
         "de": "Vermischte Sachaufgaben (Dreisatz)"
-      },
-      "note": {
-        "de": [
-          "Textaufgaben"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/vermischtesachaufgabenformelfa1f7de6-ad29-4e8b-affd-2e509816b7d8",
       "prefLabel": {
         "de": "Vermischte Sachaufgaben (Formel)"
-      },
-      "note": {
-        "de": [
-          "Vermischte Textaufgaben "
-        ]
       }
     }
   ],
@@ -181,12 +120,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -197,16 +130,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

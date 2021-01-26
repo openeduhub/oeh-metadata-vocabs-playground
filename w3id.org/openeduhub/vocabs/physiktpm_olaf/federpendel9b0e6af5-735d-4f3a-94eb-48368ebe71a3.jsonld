@@ -12,28 +12,6 @@
       "Federschwingung"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Feder-Schwere-Pendel",
-      "Federkonstante",
-      "Federpendel",
-      "Federpendel angeregt",
-      "Federpendel gedämpft",
-      "Gekoppelte Pendel",
-      "Pendelkörper"
-    ]
-  },
-  "note": {
-    "de": [
-      "Feder-Schwere-Pendel",
-      "Federkonstante",
-      "Federpendel",
-      "Federpendel angeregt",
-      "Federpendel gedämpft",
-      "Gekoppelte Pendel",
-      "Pendelkörper"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanischeschwingungen2a0c007f-32ed-466b-87b5-03b189030c35",
     "prefLabel": {
@@ -86,12 +64,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +74,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

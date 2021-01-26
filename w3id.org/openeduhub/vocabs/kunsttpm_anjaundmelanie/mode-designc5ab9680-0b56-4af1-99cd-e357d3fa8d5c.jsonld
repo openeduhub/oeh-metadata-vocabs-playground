@@ -6,75 +6,10 @@
   "prefLabel": {
     "de": "Mode-Design"
   },
-  "hiddenLabel": {
-    "de": [
-      "Catwalk",
-      "Entwerfen von Kleidung",
-      "Farbpalletten",
-      "Fashion Design",
-      "Fashion Illustration",
-      "Kollektionen",
-      "Kostümkunde",
-      "Kunst und Mode",
-      "Mode Skizzen",
-      "Mode und Styles",
-      "Mode zeichnen",
-      "Modenschau",
-      "Moodboards",
-      "Nähanleitung",
-      "Proportionsschema",
-      "Schnittmuster",
-      "Stimmungscollagen",
-      "Stoffkunde",
-      "Textildesign",
-      "figürliches Zeichnen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Catwalk",
-      "Entwerfen von Kleidung",
-      "Farbpalletten",
-      "Fashion Design",
-      "Fashion Illustration",
-      "Kollektionen",
-      "Kostümkunde",
-      "Kunst und Mode",
-      "Mode Skizzen",
-      "Mode und Styles",
-      "Mode zeichnen",
-      "Modenschau",
-      "Moodboards",
-      "Nähanleitung",
-      "Proportionsschema",
-      "Schnittmuster",
-      "Stimmungscollagen",
-      "Stoffkunde",
-      "Textildesign",
-      "figürliches Zeichnen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/design0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
     "prefLabel": {
       "de": "Design"
-    },
-    "altLabel": {
-      "de": [
-        "Blockplan",
-        "Design",
-        "Designwissenschaft",
-        "Designwissenschaftler",
-        "Desktop Theme",
-        "Skin",
-        "Steiner-Tripel-System",
-        "Steinersches Tripel-System",
-        "Steinersystem",
-        "Theme"
-      ],
-      "en": [
-        "styling"
-      ]
     }
   },
   "inScheme": {
@@ -123,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -139,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

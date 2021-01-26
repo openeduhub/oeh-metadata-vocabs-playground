@@ -16,144 +16,29 @@
       "wave optics"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Als Wellenoptik wird der Bereich der Optik bezeichnet",
-      "Wellenmodell des Lichts",
-      "der von der Wellennatur des Lichts handelt."
-    ]
-  },
-  "note": {
-    "de": [
-      "Als Wellenoptik wird der Bereich der Optik bezeichnet",
-      "Wellenmodell des Lichts",
-      "der von der Wellennatur des Lichts handelt."
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/beugungb34a824e-1667-4620-b766-8f035210cc72",
       "prefLabel": {
         "de": "Beugung"
-      },
-      "altLabel": {
-        "de": [
-          "Beugung",
-          "Beugungsphänomen",
-          "Biegung",
-          "Diffraktion",
-          "Flektieren",
-          "Flexion",
-          "Fraunhoferbeugung",
-          "Lichtbeugung",
-          "Schallbeugung",
-          "Wellenbeugung"
-        ],
-        "en": [
-          "accidence",
-          "inflexion"
-        ]
-      },
-      "note": {
-        "de": [
-          "Beugung ist die Ablenkung einer Welle an einem Hindernis.",
-          "Beugungsbild",
-          "Doppelspalt",
-          "Huygensschen Prinzip"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischesspektrum4f262a55-de33-4786-acf7-a9fa20955432",
       "prefLabel": {
         "de": "Elektromagnetisches Spektrum"
-      },
-      "note": {
-        "de": [
-          "Gammastrahlung",
-          "Infrarot",
-          "Mikrowellen",
-          "Radiowellen",
-          "Röntgenstrahlung",
-          "Sichtbares Licht",
-          "Ultraviolett",
-          "sichtbare Licht"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/interferenz0ba47fee-672f-4dcd-8a00-c8f7482a5b83",
       "prefLabel": {
         "de": "Interferenz"
-      },
-      "altLabel": {
-        "de": [
-          "Dünnschichtinterferenz",
-          "Interferenz-Abbildung",
-          "Interferenzmaximum",
-          "Interferenzminimum",
-          "Interferenzmuster",
-          "Signalinterferenz",
-          "Streuverhalten",
-          "Störungsmuster"
-        ],
-        "en": [
-          "L1 interference",
-          "crosslinguistic influence",
-          "linguistic interference"
-        ]
-      },
-      "note": {
-        "de": [
-          "BRAGG-Reflexion",
-          "Beugungsgitter",
-          "Destruktive Interferenz",
-          "Einzelspalt",
-          "Gangunterschied",
-          "Konstruktive Interferenz",
-          "Vielfachspalt",
-          "Zwei-Quellen-Interferenz"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/polarisation173bee28-7020-4cb7-adb5-20916f4a7df9",
       "prefLabel": {
         "de": "Polarisation"
-      },
-      "altLabel": {
-        "de": [
-          "Elektronenpolarisation",
-          "Polarisationsebene",
-          "Polarisationsweiche",
-          "Zirkularpolarisation",
-          "dielektrische Polarisation",
-          "dielektrische Polarisierung",
-          "elektrische Polarisation",
-          "elektrostatische Polarisation",
-          "elliptisch polarisiert",
-          "elliptische Polarisation",
-          "lineare Polarisation",
-          "polarisierte Strahlung",
-          "polarisiertes Licht",
-          "zirkular polarisiert",
-          "zirkulare Polarisation"
-        ],
-        "en": [
-          "polarisation",
-          "polarization density"
-        ]
-      },
-      "note": {
-        "de": [
-          "BREWSTER-Winkel",
-          "Gesetz von MALUS",
-          "Polarisationsachsen",
-          "Polarisationsfilter",
-          "Schwingungsrichtung einer Transversalwelle",
-          "polarisiertes Licht",
-          "unpolarisiertes Licht"
-        ]
       }
     }
   ],
@@ -209,12 +94,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -225,16 +104,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

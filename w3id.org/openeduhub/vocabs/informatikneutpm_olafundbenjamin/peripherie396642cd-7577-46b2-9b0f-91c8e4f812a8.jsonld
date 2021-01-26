@@ -19,102 +19,30 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/bildschirm9b9690aa-562c-48e3-bf7a-2a002305d90d",
       "prefLabel": {
         "de": "Bildschirm"
-      },
-      "altLabel": {
-        "en": [
-          "display",
-          "display panel",
-          "electronic display",
-          "screen",
-          "screen panel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/druckerb54bca35-1954-4e39-bec2-e42b7f2a6c65",
       "prefLabel": {
         "de": "Drucker"
-      },
-      "altLabel": {
-        "de": [
-          "Druckerei"
-        ],
-        "en": [
-          "computer printer",
-          "printer"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/maus531e4d70-cf48-4a8e-b549-e6599f11b6d2",
       "prefLabel": {
         "de": "Maus"
-      },
-      "altLabel": {
-        "de": [
-          "Computer-Maus",
-          "Computermaus",
-          "Die Maus",
-          "Maus",
-          "Mus",
-          "Mus musculus",
-          "Mäuse",
-          "The Maus"
-        ],
-        "en": [
-          "M. musculus",
-          "Maus",
-          "Mus",
-          "Mus musculus",
-          "computer mice",
-          "computer mouse",
-          "mice",
-          "mouse",
-          "mouses"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/netzwerkkarten855acba6-f3a2-4fe1-b415-5fa0d4fcd48a",
       "prefLabel": {
         "de": "Netzwerkkarten"
-      },
-      "altLabel": {
-        "de": [
-          "LAN on motherboard",
-          "Network Interface Card",
-          "Network Interface Controller",
-          "Netzwerkadapter",
-          "Netzwerkkarte",
-          "Netzwerkkarten"
-        ],
-        "en": [
-          "LAN adapter",
-          "LAN card",
-          "NIC",
-          "network adapter",
-          "network controller",
-          "network interface adapter",
-          "network interface controller"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/tastaturd316a19c-01c7-4b0b-bf54-e6947d83502b",
       "prefLabel": {
         "de": "Tastatur"
-      },
-      "altLabel": {
-        "de": [
-          "Keyboard",
-          "Tastatur"
-        ],
-        "en": [
-          "board of keys",
-          "company keyboard all to need to automait calling drive to master lock key to automait lockin update save to control management all to need to unlock out agains",
-          "keyboard",
-          "set of keys"
-        ]
       }
     }
   ],
@@ -170,12 +98,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -186,16 +108,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

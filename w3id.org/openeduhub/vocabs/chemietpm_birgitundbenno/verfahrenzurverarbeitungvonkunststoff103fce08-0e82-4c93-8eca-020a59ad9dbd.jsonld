@@ -6,53 +6,10 @@
   "prefLabel": {
     "de": "Verfahren zur Verarbeitung von Kunststoff"
   },
-  "hiddenLabel": {
-    "de": [
-      "Extrusion",
-      "Granulat",
-      "Kunststoffgranulat",
-      "Rohlinge",
-      "Schäumen",
-      "Spritzblasformen",
-      "Spritzgießen",
-      "Spritzguss",
-      "Thermoplaste",
-      "Umformen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Extrusion",
-      "Granulat",
-      "Kunststoffgranulat",
-      "Rohlinge",
-      "Schäumen",
-      "Spritzblasformen",
-      "Spritzgießen",
-      "Spritzguss",
-      "Thermoplaste",
-      "Umformen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
     "prefLabel": {
       "de": "Kunststoffe"
-    },
-    "altLabel": {
-      "de": [
-        "Kunstkautschuk",
-        "Kunststoff",
-        "Kunststoffe",
-        "Plaste",
-        "Plastik",
-        "Polymerwerkstoff",
-        "polymerer Werkstoff",
-        "synthetische Polymere"
-      ],
-      "en": [
-        "plastics"
-      ]
     }
   },
   "inScheme": {
@@ -101,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

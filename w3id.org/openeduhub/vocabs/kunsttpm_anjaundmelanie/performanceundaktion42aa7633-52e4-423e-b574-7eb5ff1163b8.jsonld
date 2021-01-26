@@ -6,62 +6,6 @@
   "prefLabel": {
     "de": "Performance und Aktion"
   },
-  "hiddenLabel": {
-    "de": [
-      "Actionpainting",
-      "Anthropometrie",
-      "Barbara Heinisch",
-      "Dadaismus",
-      "Dialogmalerei",
-      "Fluxus",
-      "Hanna Frenzel",
-      "Happening",
-      "Jackson Pollock",
-      "Joseph Beuys",
-      "Karl Otto Götz",
-      "Körpergefühlsbilder",
-      "Live-Video-Performance",
-      "Malerei als Ereignis",
-      "Maria Lassnig",
-      "Marina Abramovic",
-      "Niki de Saint Phalle",
-      "Performance",
-      "Ready-mades",
-      "Triadisches Ballett",
-      "Ulay",
-      "Ulrike Rosenbach",
-      "Wiener Aktionismus;",
-      "Yves Klein"
-    ]
-  },
-  "note": {
-    "de": [
-      "Actionpainting",
-      "Anthropometrie",
-      "Barbara Heinisch",
-      "Dadaismus",
-      "Dialogmalerei",
-      "Fluxus",
-      "Hanna Frenzel",
-      "Happening",
-      "Jackson Pollock",
-      "Joseph Beuys",
-      "Karl Otto Götz",
-      "Körpergefühlsbilder",
-      "Live-Video-Performance",
-      "Malerei als Ereignis",
-      "Maria Lassnig",
-      "Marina Abramovic",
-      "Niki de Saint Phalle",
-      "Performance",
-      "Ready-mades",
-      "Triadisches Ballett",
-      "Ulay",
-      "Ulrike Rosenbach",
-      "Wiener Aktionismus;",
-      "Yves Klein"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -108,12 +52,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -124,16 +62,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

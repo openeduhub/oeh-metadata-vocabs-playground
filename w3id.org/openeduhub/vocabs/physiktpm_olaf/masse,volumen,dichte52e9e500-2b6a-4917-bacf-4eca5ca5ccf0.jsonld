@@ -6,55 +6,11 @@
   "prefLabel": {
     "de": "Masse, Volumen, Dichte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Flächeneinheit",
-      "Flächeneinheiten",
-      "Masse pro Volumen",
-      "Massendichte",
-      "Quotient aus Masse und Volumen",
-      "Umrechnungszahl",
-      "Volumeneinheit",
-      "Volumeneinheiten"
-    ]
-  },
-  "note": {
-    "de": [
-      "Flächeneinheit",
-      "Flächeneinheiten",
-      "Masse pro Volumen",
-      "Massendichte",
-      "Quotient aus Masse und Volumen",
-      "Umrechnungszahl",
-      "Volumeneinheit",
-      "Volumeneinheiten"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/druckundauftriebca4adb3a-da00-4b5b-955f-91e55ba2a200",
       "prefLabel": {
         "de": "Druck und Auftrieb"
-      },
-      "note": {
-        "de": [
-          "Auftrieb",
-          "Flaschenteufel",
-          "Kraft pro Fläche",
-          "Luftdruck",
-          "Pascal",
-          "Schweben",
-          "Schweredruck",
-          "Schwimmen",
-          "Sinken",
-          "Steigen",
-          "Wasserteufel oder Drehteufel",
-          "bar",
-          "cartesischer Taucher",
-          "kartesianischer Tanzteufel",
-          "kartesischer Taucher",
-          "mPa"
-        ]
       }
     }
   ],
@@ -62,11 +18,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
     "prefLabel": {
       "de": "Mechanik"
-    },
-    "altLabel": {
-      "de": [
-        "Mechanisch"
-      ]
     }
   },
   "inScheme": {
@@ -115,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -131,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

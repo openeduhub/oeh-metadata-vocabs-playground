@@ -24,44 +24,10 @@
       "Avogadro's principle"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Druck",
-      "Gasgleichung",
-      "Gay-Lussac",
-      "R",
-      "Temperatur",
-      "Volumen",
-      "molare Gaskonstante",
-      "molare Masse",
-      "thermische Zustandsgleichung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Druck",
-      "Gasgleichung",
-      "Gay-Lussac",
-      "R",
-      "Temperatur",
-      "Volumen",
-      "molare Gaskonstante",
-      "molare Masse",
-      "thermische Zustandsgleichung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
     "prefLabel": {
       "de": "Stöchiometrie"
-    },
-    "altLabel": {
-      "de": [
-        "Stöchiometrisch",
-        "Umsatz",
-        "Umsatzgrad",
-        "Unstöchiometrisch"
-      ]
     }
   },
   "inScheme": {
@@ -110,12 +76,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +86,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

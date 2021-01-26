@@ -6,62 +6,6 @@
   "prefLabel": {
     "de": "Urheber- und Nutzungsrecht sowie Quellendokumentation"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bildrecht",
-      "Bildrechte",
-      "Copyright",
-      "Creative Commons",
-      "GNU",
-      "Lizenz",
-      "Lizenzen",
-      "Lizenzrecht",
-      "Nutzungsrecht",
-      "Nutzungsrechte",
-      "OER",
-      "Open Educational Resources",
-      "Quellenangabe",
-      "Quellenverweis",
-      "Quellenverweise",
-      "Recht am eigenen Bild",
-      "Referenz",
-      "Urheber",
-      "Urheberrecht",
-      "Zitirerregeln",
-      "eigenes Material lizenzieren ",
-      "freie Bildungsmaterialien",
-      "geistiges Eigentum",
-      "lizenzieren"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bildrecht",
-      "Bildrechte",
-      "Copyright",
-      "Creative Commons",
-      "GNU",
-      "Lizenz",
-      "Lizenzen",
-      "Lizenzrecht",
-      "Nutzungsrecht",
-      "Nutzungsrechte",
-      "OER",
-      "Open Educational Resources",
-      "Quellenangabe",
-      "Quellenverweis",
-      "Quellenverweise",
-      "Recht am eigenen Bild",
-      "Referenz",
-      "Urheber",
-      "Urheberrecht",
-      "Zitirerregeln",
-      "eigenes Material lizenzieren ",
-      "freie Bildungsmaterialien",
-      "geistiges Eigentum",
-      "lizenzieren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
     "prefLabel": {
@@ -114,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -130,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

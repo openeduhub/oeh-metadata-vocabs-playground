@@ -6,18 +6,6 @@
   "prefLabel": {
     "de": "Formale Sprachen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Abstrakte Sprache",
-      "Chomsky"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abstrakte Sprache",
-      "Chomsky"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kontextfrei7ac28634-4ae6-4bf7-8136-d2ab762acc4f",
@@ -90,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -106,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

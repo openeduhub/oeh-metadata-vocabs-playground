@@ -12,98 +12,23 @@
       "intermolecular forces"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Anziehung zwischen Molekülen,",
-      "Dipol-Dipol-Wechselwirkungen",
-      "London-Dispersion-Forces",
-      "Van-der-Waals-Kräfte",
-      "Wasserstoffbrücken"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anziehung zwischen Molekülen,",
-      "Dipol-Dipol-Wechselwirkungen",
-      "London-Dispersion-Forces",
-      "Van-der-Waals-Kräfte",
-      "Wasserstoffbrücken"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/dipol-dipol-kraefte1acdd3e8-2172-4d7a-8020-a151f158fd94",
       "prefLabel": {
         "de": "Dipol-Dipol-Kräfte"
-      },
-      "altLabel": {
-        "de": [
-          "Dipol-Dipol Wechselwirkung",
-          "Dipol-Dipol Wechselwirkungen",
-          "Dipol-Dipol-Wechselwirkung",
-          "Dipol-Dipol-Wechselwirkungen",
-          "Dipol-Ion-Wechselwirkung",
-          "Keesom-Kräfte",
-          "Keesom-Wechselwirkungen"
-        ],
-        "en": [
-          "Keesom force",
-          "Keesom interaction",
-          "dipole-dipole force",
-          "permanent dipole‒permanent dipole interaction"
-        ]
-      },
-      "note": {
-        "de": [
-          "Delta-EN",
-          "Dipol",
-          "Dipolmolekül",
-          "Elektronegativität",
-          "Fluor",
-          "Keil für eine Bindung",
-          "Ladungsschwerpunkt,",
-          "Pauling",
-          "Polarisierung",
-          "Teilladung",
-          "polar",
-          "polare Atombindung",
-          "polare Bindung",
-          "unpolar"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/vanderwaals-kraeftecbc4cf7a-879f-4aa9-90c2-ac1b97c3b308",
       "prefLabel": {
         "de": "Van der Waals-Kräfte"
-      },
-      "note": {
-        "de": [
-          "Elektronenverteilung",
-          "London-Dispersion-Forces",
-          "Londonsche Dispersionswechselwirkung",
-          "Van-der-Waals",
-          "VdW"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/wasserstoffbrueckenbindungen1e8aed0f-2f49-4fa0-8347-f4e4af8b68a0",
       "prefLabel": {
         "de": "Wasserstoffbrückenbindungen"
-      },
-      "note": {
-        "de": [
-          "Alkohole,",
-          "Eiweiß",
-          "Teilladung",
-          "Wasser",
-          "Wasserstoffbrücke",
-          "Wechselwirkung",
-          "freies Elektronenpaar",
-          "intermolekulare Kräfte",
-          "kovalent gebundenes Wasserstoffatom"
-        ]
       }
     }
   ],
@@ -159,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -175,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

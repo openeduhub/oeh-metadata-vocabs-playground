@@ -17,34 +17,6 @@
       "chain polymerization"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Anionische Polymerisation",
-      "Kationische Polymerisation",
-      "Kettenabbruch",
-      "Kettenpolymerisation",
-      "Kettenwachstum",
-      "Polyaddition,",
-      "Polykondensation",
-      "Polymerisation",
-      "Radikalische Polymerisation",
-      "Rekombination"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anionische Polymerisation",
-      "Kationische Polymerisation",
-      "Kettenabbruch",
-      "Kettenpolymerisation",
-      "Kettenwachstum",
-      "Polyaddition,",
-      "Polykondensation",
-      "Polymerisation",
-      "Radikalische Polymerisation",
-      "Rekombination"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsmechanismen3b260a69-1972-48e6-a4ed-db4cd02eda8c",
     "prefLabel": {
@@ -97,12 +69,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -113,16 +79,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

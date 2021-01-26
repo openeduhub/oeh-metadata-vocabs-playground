@@ -25,316 +25,23 @@
       "movie"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Abspann",
-      "Amerikanisch",
-      "Animation",
-      "Assoziationsmontage",
-      "Atmosphäre",
-      "Bewegung",
-      "Bildkomposition",
-      "Blickwinkel",
-      "Bluescreen",
-      "Casting",
-      "Close up",
-      "Daumenkino",
-      "Detailaufnahme",
-      "Drehbuch",
-      "Drehbuchstrukturen",
-      "Effekte",
-      "Einstellungsgrößen",
-      "Ellipse",
-      "Erklärvideo",
-      "Exposee",
-      "Exposition",
-      "Fahrt",
-      "Filmanalyse",
-      "Filmidee",
-      "Filmkritik",
-      "Filmmusik",
-      "Filmplakat",
-      "Filmrezeption",
-      "Filmwissenschaft",
-      "Filmzitate",
-      "Froschperspektive",
-      "Halbtotale",
-      "Inszenierungen",
-      "Kamerabewegung",
-      "Kameraperspektiven",
-      "Knet- und Puppenanimation",
-      "Kontinuitätsmontage",
-      "Kostümdesign",
-      "Kuleschow-Effekt",
-      "Lichtregie",
-      "Location Scouting",
-      "Loops",
-      "Manipulation",
-      "Maske",
-      "Medium Close up",
-      "Medium Shot",
-      "Montage",
-      "Nachvertonung",
-      "Normalansicht",
-      "Papp- Animation",
-      "Parallelmontagen",
-      "Raum",
-      "Regiearbeit",
-      "Rezeption",
-      "Rückblende",
-      "Schauspielkunst",
-      "Schauspielschule",
-      "Schnitt",
-      "Schwenk",
-      "Schärfenverlagerung",
-      "Shooting Script",
-      "Sprache",
-      "Stimme",
-      "Stop motion- Software",
-      "Storyboard",
-      "Supertotale",
-      "Synchronisation",
-      "Szenen",
-      "Ton",
-      "Totale",
-      "Trailer",
-      "Treatment",
-      "Tricktisch",
-      "Untersicht",
-      "Verfremdungseffekt",
-      "Video Kunst",
-      "Videoinstallation",
-      "Videoperformance",
-      "Vogelperspektive",
-      "Vorspann",
-      "Werbespot",
-      "Zeichentrickfilm",
-      "Zeit",
-      "Zirkulationskino",
-      "Zoom",
-      "analytische Montage",
-      "animierte Linie",
-      "animierte Zeichnung",
-      "entfesselte Kamera",
-      "filmischer Raum",
-      "found Footage",
-      "interaktives Video",
-      "la camera stylo",
-      "method acting"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abspann",
-      "Amerikanisch",
-      "Animation",
-      "Assoziationsmontage",
-      "Atmosphäre",
-      "Bewegung",
-      "Bildkomposition",
-      "Blickwinkel",
-      "Bluescreen",
-      "Casting",
-      "Close up",
-      "Daumenkino",
-      "Detailaufnahme",
-      "Drehbuch",
-      "Drehbuchstrukturen",
-      "Effekte",
-      "Einstellungsgrößen",
-      "Ellipse",
-      "Erklärvideo",
-      "Exposee",
-      "Exposition",
-      "Fahrt",
-      "Filmanalyse",
-      "Filmidee",
-      "Filmkritik",
-      "Filmmusik",
-      "Filmplakat",
-      "Filmrezeption",
-      "Filmwissenschaft",
-      "Filmzitate",
-      "Froschperspektive",
-      "Halbtotale",
-      "Inszenierungen",
-      "Kamerabewegung",
-      "Kameraperspektiven",
-      "Knet- und Puppenanimation",
-      "Kontinuitätsmontage",
-      "Kostümdesign",
-      "Kuleschow-Effekt",
-      "Lichtregie",
-      "Location Scouting",
-      "Loops",
-      "Manipulation",
-      "Maske",
-      "Medium Close up",
-      "Medium Shot",
-      "Montage",
-      "Nachvertonung",
-      "Normalansicht",
-      "Papp- Animation",
-      "Parallelmontagen",
-      "Raum",
-      "Regiearbeit",
-      "Rezeption",
-      "Rückblende",
-      "Schauspielkunst",
-      "Schauspielschule",
-      "Schnitt",
-      "Schwenk",
-      "Schärfenverlagerung",
-      "Shooting Script",
-      "Sprache",
-      "Stimme",
-      "Stop motion- Software",
-      "Storyboard",
-      "Supertotale",
-      "Synchronisation",
-      "Szenen",
-      "Ton",
-      "Totale",
-      "Trailer",
-      "Treatment",
-      "Tricktisch",
-      "Untersicht",
-      "Verfremdungseffekt",
-      "Video Kunst",
-      "Videoinstallation",
-      "Videoperformance",
-      "Vogelperspektive",
-      "Vorspann",
-      "Werbespot",
-      "Zeichentrickfilm",
-      "Zeit",
-      "Zirkulationskino",
-      "Zoom",
-      "analytische Montage",
-      "animierte Linie",
-      "animierte Zeichnung",
-      "entfesselte Kamera",
-      "filmischer Raum",
-      "found Footage",
-      "interaktives Video",
-      "la camera stylo",
-      "method acting"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plansequenz567d7fce-6f4a-42f6-8145-6184b30a5add",
       "prefLabel": {
         "de": "Plansequenz"
-      },
-      "altLabel": {
-        "en": [
-          "Sequence shot"
-        ]
-      },
-      "note": {
-        "de": [
-          "Kamerafahrt",
-          "One Shot",
-          "One Shot (2008)",
-          "One-Cut",
-          "One-Timer;",
-          "Russian Ark (2002)",
-          "Sebastian Schipper",
-          "Szene in Echtzeit",
-          "Timecode (2000)",
-          "Victoria"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/storyboard02869dbe-aabe-4a82-a257-41dfb80898c1",
       "prefLabel": {
         "de": "Storyboard"
-      },
-      "altLabel": {
-        "de": [
-          "Szenenbuch"
-        ]
-      },
-      "note": {
-        "de": [
-          "Amerikanisch",
-          "Close up",
-          "Detailaufnahme",
-          "Einstellungsgrößen",
-          "Froschperspektive",
-          "Halbtotale",
-          "Medium Close up",
-          "Medium Shot",
-          "Normalansicht",
-          "Perspektive",
-          "Skizze",
-          "Supertotale",
-          "Totale",
-          "Untersicht",
-          "Vogelperspektive",
-          "Zeichnung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/trickfilm5674a177-1f89-4a2b-9946-da403406a37c",
       "prefLabel": {
         "de": "Trickfilm"
-      },
-      "altLabel": {
-        "de": [
-          "Animation",
-          "Animationsfilm",
-          "Animationsverfahren",
-          "Animieren",
-          "Cartoon",
-          "Trickaufnahme",
-          "Trickfilm",
-          "Trickfilmer",
-          "Trickfilmzeichner"
-        ],
-        "en": [
-          "cartoon"
-        ]
-      },
-      "note": {
-        "de": [
-          "Amerikanisch",
-          "Animationsfilm",
-          "Close up",
-          "Daumenkino",
-          "Detailaufnahme",
-          "Einstellungsgrößen",
-          "Flip book",
-          "Froschperspektive",
-          "Halbtotale",
-          "Knetanimation",
-          "Kulisse",
-          "Legetrick",
-          "Lotte Reininger",
-          "Medium Close up",
-          "Medium Shot",
-          "Normalansicht",
-          "Pappanimation",
-          "Phenakistoskop",
-          "Replacement Animation",
-          "Ruth Hayes",
-          "Stopmotion",
-          "Supertotale",
-          "Thaumatrop",
-          "Tim Burton",
-          "Totale",
-          "Tricktisch",
-          "Untersicht",
-          "Vogelperspektive",
-          "William Kentridge",
-          "Wunderscheibe",
-          "Zeichentrickfilm\nComputeranimation",
-          "Zirkulationskino",
-          "animierte Linie"
-        ]
       }
     }
   ],
@@ -390,12 +97,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -406,16 +107,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

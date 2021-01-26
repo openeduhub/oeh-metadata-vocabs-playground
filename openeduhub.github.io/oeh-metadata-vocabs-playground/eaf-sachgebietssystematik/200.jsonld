@@ -7,234 +7,121 @@
     "de": "FREMDSPRACHEN"
   },
   "note": {
-    "de": [
-      "Fremdsprachen"
-    ]
+    "de": "Fremdsprachen"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20001",
       "prefLabel": {
         "de": "Englisch"
-      },
-      "note": {
-        "de": [
-          "Englisch",
-          "Englischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20002",
       "prefLabel": {
         "de": "Französisch"
-      },
-      "note": {
-        "de": [
-          "Französisch",
-          "Französischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20003",
       "prefLabel": {
         "de": "Griechisch"
-      },
-      "note": {
-        "de": [
-          "Griechisch",
-          "Griechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20004",
       "prefLabel": {
         "de": "Italienisch"
-      },
-      "note": {
-        "de": [
-          "Italienisch",
-          "Italienischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20005",
       "prefLabel": {
         "de": "Latein"
-      },
-      "note": {
-        "de": [
-          "Latein",
-          "Lateinunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20006",
       "prefLabel": {
         "de": "Russisch"
-      },
-      "note": {
-        "de": [
-          "Russisch",
-          "Russischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20007",
       "prefLabel": {
         "de": "Spanisch"
-      },
-      "note": {
-        "de": [
-          "Spanisch",
-          "Spanischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20008",
       "prefLabel": {
         "de": "Türkisch"
-      },
-      "note": {
-        "de": [
-          "Türkisch",
-          "Türkischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20009",
       "prefLabel": {
         "de": "Sorbisch"
-      },
-      "note": {
-        "de": [
-          "Sorbisch",
-          "Sorbischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20010",
       "prefLabel": {
         "de": "Dänisch"
-      },
-      "note": {
-        "de": [
-          "Dänisch",
-          "Dänischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20011",
       "prefLabel": {
         "de": "Polnisch"
-      },
-      "note": {
-        "de": [
-          "Polnisch",
-          "Polnischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20012",
       "prefLabel": {
         "de": "Tschechisch"
-      },
-      "note": {
-        "de": [
-          "Tschechisch",
-          "Tschechischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20013",
       "prefLabel": {
         "de": "Niederländisch"
-      },
-      "note": {
-        "de": [
-          "Niederländisch",
-          "Niederländischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20014",
       "prefLabel": {
         "de": "Portugisisch"
-      },
-      "note": {
-        "de": [
-          "Portugisisch",
-          "Portugisischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20040",
       "prefLabel": {
         "de": "Weitere europäische Fremdsprachen"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20041",
       "prefLabel": {
         "de": "Chinesisch"
-      },
-      "note": {
-        "de": [
-          "Chinesisch",
-          "Chinesischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20042",
       "prefLabel": {
         "de": "Japanisch"
-      },
-      "note": {
-        "de": [
-          "Japanisch",
-          "Japanischunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20070",
       "prefLabel": {
         "de": "Weitere außereuropäische Fremdsprachen"
-      },
-      "note": {
-        "de": [
-          "NaN"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/20080",
       "prefLabel": {
         "de": "Esperanto"
-      },
-      "note": {
-        "de": [
-          "Esperanto"
-        ]
       }
     }
   ],
@@ -287,12 +174,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -303,16 +184,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

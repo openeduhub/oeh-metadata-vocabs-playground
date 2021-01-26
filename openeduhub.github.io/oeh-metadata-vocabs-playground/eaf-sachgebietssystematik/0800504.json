@@ -6,78 +6,35 @@
   "prefLabel": {
     "de": "Wirbeltiere"
   },
-  "note": {
-    "de": [
-      "Biologie",
-      "Biologieunterricht",
-      "Wirbeltiere"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050401",
       "prefLabel": {
         "de": "Fische"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Fische"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050402",
       "prefLabel": {
         "de": "Lurche"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Lurche"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050403",
       "prefLabel": {
         "de": "Kriechtiere"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Kriechtiere",
-          "Reptilien"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050404",
       "prefLabel": {
         "de": "Vögel"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Vögel"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080050405",
       "prefLabel": {
         "de": "Säugetiere"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Säugetiere"
-        ]
       }
     }
   ],
@@ -133,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -149,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

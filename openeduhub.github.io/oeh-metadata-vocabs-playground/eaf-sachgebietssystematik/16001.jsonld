@@ -6,52 +6,23 @@
   "prefLabel": {
     "de": "Konflikte und Konfliktregelung"
   },
-  "note": {
-    "de": [
-      "Ethik",
-      "Ethikunterricht",
-      "Konflikte",
-      "Konfliktregelung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1600101",
       "prefLabel": {
         "de": "Familiäre Konflikte"
-      },
-      "note": {
-        "de": [
-          "Ethik",
-          "Ethikunterricht",
-          "Familiäre Konflikte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1600102",
       "prefLabel": {
         "de": "Außerfamiliäre Konflikte"
-      },
-      "note": {
-        "de": [
-          "Außerfamiliäre Konflikte",
-          "Ethik",
-          "Ethikunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1600103",
       "prefLabel": {
         "de": "Gesellschaftliche Konflikte"
-      },
-      "note": {
-        "de": [
-          "Ethik",
-          "Ethikunterricht",
-          "Gesellschaftliche Konflikte"
-        ]
       }
     }
   ],
@@ -107,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -123,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

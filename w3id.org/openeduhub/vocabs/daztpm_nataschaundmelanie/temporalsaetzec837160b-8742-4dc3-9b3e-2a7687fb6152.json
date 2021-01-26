@@ -6,36 +6,6 @@
   "prefLabel": {
     "de": "Temporalsätze"
   },
-  "hiddenLabel": {
-    "de": [
-      "\nwenn",
-      "Adverbialsätze",
-      "Temporalsätze",
-      "Zeitsatz",
-      "als",
-      "bevor",
-      "nachdem",
-      "seitdem",
-      "sobald",
-      "solange,\n bis",
-      "während"
-    ]
-  },
-  "note": {
-    "de": [
-      "\nwenn",
-      "Adverbialsätze",
-      "Temporalsätze",
-      "Zeitsatz",
-      "als",
-      "bevor",
-      "nachdem",
-      "seitdem",
-      "sobald",
-      "solange,\n bis",
-      "während"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nebensaetzeimsatzgefuegeea5a2777-6322-4b67-9db4-a9930b1b6a8e",
     "prefLabel": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

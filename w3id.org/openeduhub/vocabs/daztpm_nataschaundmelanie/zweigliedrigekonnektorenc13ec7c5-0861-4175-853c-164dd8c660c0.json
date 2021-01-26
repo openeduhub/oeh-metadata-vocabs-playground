@@ -6,36 +6,6 @@
   "prefLabel": {
     "de": "Zweigliedrige Konnektoren"
   },
-  "hiddenLabel": {
-    "de": [
-      "einerseits andererseits",
-      "entweder oder",
-      "je desto",
-      "je umso",
-      "mehrteilige Konnektoren",
-      "nicht nur sondern auch",
-      "sowohl als auch",
-      "weder noch",
-      "zwar aber",
-      "zweigliedrige Konnektoren",
-      "zweiteilige Konnektoren"
-    ]
-  },
-  "note": {
-    "de": [
-      "einerseits andererseits",
-      "entweder oder",
-      "je desto",
-      "je umso",
-      "mehrteilige Konnektoren",
-      "nicht nur sondern auch",
-      "sowohl als auch",
-      "weder noch",
-      "zwar aber",
-      "zweigliedrige Konnektoren",
-      "zweiteilige Konnektoren"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
     "prefLabel": {
@@ -88,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -104,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

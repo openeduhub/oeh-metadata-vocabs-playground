@@ -13,15 +13,8 @@
       "Nekrassowo (Kaliningrad, Nesterow)"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Halteproblem"
-    ]
-  },
   "note": {
-    "de": [
-      "Halteproblem"
-    ]
+    "de": "Halteproblem"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/algorithmen059cc2b7-0bfb-43d3-8a6d-78dfa50a3021",
@@ -75,12 +68,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -91,16 +78,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

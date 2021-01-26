@@ -21,108 +21,35 @@
       "coding, encoding"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Code",
-      "Codierung",
-      "Kode",
-      "Kodierung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Code",
-      "Codierung",
-      "Kode",
-      "Kodierung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/3d168eee6e-7c51-445b-8413-922c29db0582",
       "prefLabel": {
         "de": "3D"
-      },
-      "altLabel": {
-        "de": [
-          "3-dimensional",
-          "3D",
-          "Dreidimensional",
-          "Dreidimensionalität",
-          "dritte Dimension",
-          "xkcd 848"
-        ],
-        "en": [
-          "3-D",
-          "3-D space",
-          "3-dimensional space",
-          "3D",
-          "3D space",
-          "Three D",
-          "three-dimensional Euclidean space",
-          "tri-dimensional space",
-          "xkcd 848"
-        ]
-      },
-      "note": {
-        "de": [
-          "GCode",
-          "STL"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/audioformate60f23d9e-7f17-4bc0-9d47-c1cc08abbed1",
       "prefLabel": {
         "de": "Audioformate"
-      },
-      "note": {
-        "de": [
-          "FLAC",
-          "MP3",
-          "WAV"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/bildformate4ce85d69-80b7-41f1-aea9-2b31f8e9c528",
       "prefLabel": {
         "de": "Bildformate"
-      },
-      "note": {
-        "de": [
-          "GIF",
-          "JPEG",
-          "JPG",
-          "PNG",
-          "TIFF"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/textkodierung36b356e8-4839-4d54-b73c-157b8e7819e2",
       "prefLabel": {
         "de": "Textkodierung"
-      },
-      "note": {
-        "de": [
-          "ASCII",
-          "UNICODE",
-          "UTF"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/videoformate6e73336b-dc28-4c23-a118-a613a5a34d86",
       "prefLabel": {
         "de": "Videoformate"
-      },
-      "note": {
-        "de": [
-          "AVI",
-          "MOV",
-          "MP4"
-        ]
       }
     }
   ],
@@ -178,12 +105,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -194,16 +115,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

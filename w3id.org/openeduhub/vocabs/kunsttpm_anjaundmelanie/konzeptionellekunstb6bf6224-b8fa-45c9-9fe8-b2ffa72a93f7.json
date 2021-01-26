@@ -6,54 +6,6 @@
   "prefLabel": {
     "de": "Konzeptionelle Kunst"
   },
-  "hiddenLabel": {
-    "de": [
-      "Anarchitektur",
-      "Andy Goldsworthy",
-      "Art&Language",
-      "Arte Povera",
-      "Christo und Jeanne-Claude",
-      "Entscheidung im Vorfeld getroffen",
-      "Hanne Darboven",
-      "Hans Haacke",
-      "Joseph Kosuth",
-      "Kunst entsteht im Kopf",
-      "Kunstwerk geplant",
-      "Land Art",
-      "Lawrence Weiner",
-      "Marcel Duchamp",
-      "Mario Merz",
-      "Nancy Holt",
-      "Robert Smithson",
-      "Sol Lewitt",
-      "Walter de Maria",
-      "die Welt als Atelier"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anarchitektur",
-      "Andy Goldsworthy",
-      "Art&Language",
-      "Arte Povera",
-      "Christo und Jeanne-Claude",
-      "Entscheidung im Vorfeld getroffen",
-      "Hanne Darboven",
-      "Hans Haacke",
-      "Joseph Kosuth",
-      "Kunst entsteht im Kopf",
-      "Kunstwerk geplant",
-      "Land Art",
-      "Lawrence Weiner",
-      "Marcel Duchamp",
-      "Mario Merz",
-      "Nancy Holt",
-      "Robert Smithson",
-      "Sol Lewitt",
-      "Walter de Maria",
-      "die Welt als Atelier"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -100,12 +52,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -116,16 +62,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

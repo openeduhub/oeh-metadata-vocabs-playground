@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Zuordnungen darstellen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Tabelle oder Graphik zuordnen",
-      "Zahlen",
-      "in Worten"
-    ]
-  },
-  "note": {
-    "de": [
-      "Tabelle oder Graphik zuordnen",
-      "Zahlen",
-      "in Worten"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zuordnungenfunktionen8df48c87-93eb-48de-9e18-7e84100e84e2",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

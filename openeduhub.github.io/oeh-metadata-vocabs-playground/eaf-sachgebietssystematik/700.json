@@ -6,60 +6,29 @@
   "prefLabel": {
     "de": "WIRTSCHAFTSKUNDE"
   },
-  "note": {
-    "de": [
-      "Wirtschaftskunde",
-      "Wirtschaftswissenschaft"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/70001",
       "prefLabel": {
         "de": "Privater Haushalt"
-      },
-      "note": {
-        "de": [
-          "Privater Haushalt",
-          "Privathaushalt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/70002",
       "prefLabel": {
         "de": "Betriebswirtschaft"
-      },
-      "note": {
-        "de": [
-          "Betriebswirtschaft",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/70003",
       "prefLabel": {
         "de": "Volkswirtschaft"
-      },
-      "note": {
-        "de": [
-          "Volkswirtschaft",
-          "Wirtschaftswissenschaft"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/70080",
       "prefLabel": {
         "de": "Bilingualer Unterricht"
-      },
-      "note": {
-        "de": [
-          "Bilingualer Unterricht",
-          "Bilingualer Wirtschaftskundeunterricht",
-          "Wirtschaftswissenschaft"
-        ]
       }
     }
   ],
@@ -112,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -128,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -11,44 +11,6 @@
       "storage capacity"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Akkumulator",
-      "Batterie",
-      "Batterie-Speicherkraftwerk",
-      "Druckluftspeicherkraftwerk",
-      "Fernwärmespeicher",
-      "Hubspeicherkraftwerk",
-      "Kondensator",
-      "Latentwärmespeicher",
-      "Pumpspeicherkraftwerk",
-      "Redox-Flow-Batterie",
-      "Schwungradspeicher",
-      "Supraleitender Magnetischer Energiespeicher",
-      "Thermochemische Wärmespeicher",
-      "Wärmespeicher",
-      "galvanische Zelle"
-    ]
-  },
-  "note": {
-    "de": [
-      "Akkumulator",
-      "Batterie",
-      "Batterie-Speicherkraftwerk",
-      "Druckluftspeicherkraftwerk",
-      "Fernwärmespeicher",
-      "Hubspeicherkraftwerk",
-      "Kondensator",
-      "Latentwärmespeicher",
-      "Pumpspeicherkraftwerk",
-      "Redox-Flow-Batterie",
-      "Schwungradspeicher",
-      "Supraleitender Magnetischer Energiespeicher",
-      "Thermochemische Wärmespeicher",
-      "Wärmespeicher",
-      "galvanische Zelle"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/energie00e363a5-0fb6-4813-937f-21af14fd42f2",
     "prefLabel": {
@@ -101,12 +63,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -117,16 +73,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

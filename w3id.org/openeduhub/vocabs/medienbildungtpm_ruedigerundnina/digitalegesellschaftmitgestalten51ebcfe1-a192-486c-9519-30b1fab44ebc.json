@@ -6,72 +6,6 @@
   "prefLabel": {
     "de": "Digitale Gesellschaft (mit) gestalten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Blog",
-      "Blogbeitrag verfassen",
-      "Blogbeitrag veröffentlichen",
-      "Blogbeiträge verfassen",
-      "Blogbeiträge veröffentlichen",
-      "Blogging",
-      "Blogs",
-      "Chat",
-      "Foren",
-      "Forum",
-      "Kommentar",
-      "Kommentare",
-      "Medienwirkung",
-      "Nachrichten",
-      "Social Media",
-      "Twitter",
-      "Videoplattform",
-      "Videoplattformen",
-      "Videoportal",
-      "Videoportale",
-      "Videos veröffentlichem",
-      "Videos veröffentlichen",
-      "Web 2.0",
-      "Web 2.0 Tool",
-      "Weblog",
-      "Weblogs",
-      "Wiki",
-      "Wikis",
-      "digitale Teilhabe"
-    ]
-  },
-  "note": {
-    "de": [
-      "Blog",
-      "Blogbeitrag verfassen",
-      "Blogbeitrag veröffentlichen",
-      "Blogbeiträge verfassen",
-      "Blogbeiträge veröffentlichen",
-      "Blogging",
-      "Blogs",
-      "Chat",
-      "Foren",
-      "Forum",
-      "Kommentar",
-      "Kommentare",
-      "Medienwirkung",
-      "Nachrichten",
-      "Social Media",
-      "Twitter",
-      "Videoplattform",
-      "Videoplattformen",
-      "Videoportal",
-      "Videoportale",
-      "Videos veröffentlichem",
-      "Videos veröffentlichen",
-      "Web 2.0",
-      "Web 2.0 Tool",
-      "Weblog",
-      "Weblogs",
-      "Wiki",
-      "Wikis",
-      "digitale Teilhabe"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/kommunizierenundkooperierend273b8fc-a40f-4c34-858e-01c4ddfe34e6",
     "prefLabel": {
@@ -124,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -140,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -17,100 +17,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/akustischeschwingungenundwellen06e0c225-d380-4b7d-a5d9-363001f2dc79",
       "prefLabel": {
         "de": "Akustische Schwingungen und Wellen"
-      },
-      "note": {
-        "de": [
-          "Doppler-Effekt",
-          "Eigenschwingungen",
-          "Flöte",
-          "Gangunterschied",
-          "Gangunterschied bei zwei Quellen",
-          "Interferenz",
-          "Interferenz von Schallwellen",
-          "Luftsäule",
-          "Pfeife",
-          "Resonanz",
-          "Saite",
-          "Saitenschwingung",
-          "Schall",
-          "Schallwellen",
-          "Schwebung",
-          "Schwingungen der Luftsäule in Pfeifen",
-          "Stehende Wellen",
-          "Töne"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/menschl.stimmeundgehoers.biologie5862a32c-9d42-4a71-be9c-e1d254ae8a05",
       "prefLabel": {
         "de": "menschl. Stimme und Gehör (s. Biologie)"
-      },
-      "note": {
-        "de": [
-          "Amboss",
-          "Auditive Wahrnehmung",
-          "Außenohr",
-          "Basilarmembran",
-          "Corti-Organ",
-          "Frequenz-Orts-Transformation",
-          "Gehörgang",
-          "Gehörknöchelchen",
-          "Hammer",
-          "Hörschnecke",
-          "Impedanzanpassung",
-          "Innenohr",
-          "Kehlkopf ",
-          "Mittelohr",
-          "Ohrmuschel",
-          "Stapediusreflex",
-          "Steigbügel",
-          "Stimmlippen",
-          "Wanderwelle",
-          "menschliche Stimme"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/phaenomenecd505875-7f04-4c81-86c4-4ac1ef197c3e",
       "prefLabel": {
         "de": "Phänomene"
-      },
-      "note": {
-        "de": [
-          "Doppler-Effekt",
-          "Interferenz",
-          "Obertöne",
-          "Schwebung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/schallgeschwindigkeit2e377306-f6e1-4618-98c6-2a3689385d06",
       "prefLabel": {
         "de": "Schallgeschwindigkeit"
-      },
-      "altLabel": {
-        "de": [
-          "Schallausbreitungsgeschwindigkeit"
-        ],
-        "en": [
-          "sound speed"
-        ]
-      },
-      "note": {
-        "de": [
-          "Alexander von Humboldt",
-          "Arago",
-          "Ausbreitungsgeschwindigkeit",
-          "Die Schallgeschwindigkeit ist die Geschwindigkeit",
-          "Gay-Lussac",
-          "Gewitter",
-          "Laufzeitmessungen",
-          "Messung der Schallgeschwindigkeit",
-          "Schallgeschwindigkeit",
-          "mit der sich Schallwellen in einem Medium fortpflanzen. Ihre SI-Einheit ist Meter pro Sekunde (m/s)."
-        ]
       }
     }
   ],
@@ -160,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -176,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

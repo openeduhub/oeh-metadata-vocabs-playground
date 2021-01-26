@@ -19,106 +19,10 @@
       "printing technique"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Aquatinta",
-      "Durchdruck",
-      "Fingerdruck",
-      "Flachdruck",
-      "Hochdruck",
-      "Holzschnitt",
-      "Holzstich",
-      "Kaltnadelradierung",
-      "Kartoffeldruck",
-      "Kupferstich",
-      "Linolschnitt",
-      "Lithografie",
-      "Materialdruck",
-      "Monotypie",
-      "Objektdruck",
-      "Offsetdruck",
-      "Radiergummidruck",
-      "Radierung",
-      "Schablonendruck",
-      "Serigrafie",
-      "Siebdruck",
-      "Spritzschablone",
-      "Stempeln",
-      "Tiefdruck",
-      "Vernis Mou",
-      "verlorene Platte",
-      "Ätzradierung",
-      "Überdruck;"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aquatinta",
-      "Durchdruck",
-      "Fingerdruck",
-      "Flachdruck",
-      "Hochdruck",
-      "Holzschnitt",
-      "Holzstich",
-      "Kaltnadelradierung",
-      "Kartoffeldruck",
-      "Kupferstich",
-      "Linolschnitt",
-      "Lithografie",
-      "Materialdruck",
-      "Monotypie",
-      "Objektdruck",
-      "Offsetdruck",
-      "Radiergummidruck",
-      "Radierung",
-      "Schablonendruck",
-      "Serigrafie",
-      "Siebdruck",
-      "Spritzschablone",
-      "Stempeln",
-      "Tiefdruck",
-      "Vernis Mou",
-      "verlorene Platte",
-      "Ätzradierung",
-      "Überdruck;"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/grafikd34255ce-0597-48af-bcde-81abfaba02bd",
     "prefLabel": {
       "de": "Grafik"
-    },
-    "altLabel": {
-      "de": [
-        "Abbildung",
-        "Bild",
-        "Diagram",
-        "Druckgrafik",
-        "Druckgraphik",
-        "Foto",
-        "Grafik",
-        "Graphik",
-        "Originalgrafik",
-        "Originalgraphik"
-      ],
-      "en": [
-        "Commons image",
-        "Image on Commons",
-        "Image on Wikimedia Commons",
-        "drawing",
-        "graph",
-        "graphic",
-        "illustration",
-        "image capture",
-        "image of exterior",
-        "img",
-        "photo",
-        "picture",
-        "portrait",
-        "screen capture",
-        "screenshot",
-        "still"
-      ]
     }
   },
   "inScheme": {
@@ -167,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -183,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -19,55 +19,10 @@
       "speed of reaction"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Arrhenius",
-      "Arrhenius-Gleichung",
-      "Geschwindigkeitsgesetze",
-      "Gleichgewichtsreaktion",
-      "Kinetik",
-      "Konzentrationsänderung",
-      "Massenwirkungsgesetz",
-      "Reaktion erster Ordnung",
-      "Reaktion nullter Ordnung",
-      "Reaktion zweiter Ordnung",
-      "Reaktionsgeschwindigkeit",
-      "Reaktionskinetik",
-      "Stoffmenge",
-      "Temperaturabhängigkeit"
-    ]
-  },
-  "note": {
-    "de": [
-      "Arrhenius",
-      "Arrhenius-Gleichung",
-      "Geschwindigkeitsgesetze",
-      "Gleichgewichtsreaktion",
-      "Kinetik",
-      "Konzentrationsänderung",
-      "Massenwirkungsgesetz",
-      "Reaktion erster Ordnung",
-      "Reaktion nullter Ordnung",
-      "Reaktion zweiter Ordnung",
-      "Reaktionsgeschwindigkeit",
-      "Reaktionskinetik",
-      "Stoffmenge",
-      "Temperaturabhängigkeit"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/thermodynamik542e3a97-d462-4f17-a860-9072fa821844",
     "prefLabel": {
       "de": "Thermodynamik"
-    },
-    "altLabel": {
-      "de": [
-        "Wärmelehre",
-        "Wärmetheorie"
-      ],
-      "en": [
-        "Thermodynamics"
-      ]
     }
   },
   "inScheme": {
@@ -116,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -132,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

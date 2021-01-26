@@ -16,15 +16,8 @@
       "Zinseszinsrechnung"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Zins vom Zins"
-    ]
-  },
   "note": {
-    "de": [
-      "Zins vom Zins"
-    ]
+    "de": "Zins vom Zins"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinsrechnung23602718-1ded-426f-b5ca-2ed3d9553fe4",
@@ -78,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

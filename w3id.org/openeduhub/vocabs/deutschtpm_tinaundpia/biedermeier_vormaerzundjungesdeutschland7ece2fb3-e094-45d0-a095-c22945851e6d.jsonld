@@ -6,44 +6,10 @@
   "prefLabel": {
     "de": "Biedermeier/Vormärz und Junges Deutschland"
   },
-  "hiddenLabel": {
-    "de": [
-      "Annette-von-Droste-Hülshoff",
-      "Büchner",
-      "Grillparzer",
-      "Heine",
-      "Märzrevolution",
-      "Möricke",
-      "Politik",
-      "Restauration",
-      "Woyzeck  ",
-      "Zurückgezogenheit"
-    ]
-  },
-  "note": {
-    "de": [
-      "Annette-von-Droste-Hülshoff",
-      "Büchner",
-      "Grillparzer",
-      "Heine",
-      "Märzrevolution",
-      "Möricke",
-      "Politik",
-      "Restauration",
-      "Woyzeck  ",
-      "Zurückgezogenheit"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
     "prefLabel": {
       "de": "Literaturgeschichte"
-    },
-    "altLabel": {
-      "en": [
-        "literary history",
-        "literature history"
-      ]
     }
   },
   "inScheme": {
@@ -92,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -108,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

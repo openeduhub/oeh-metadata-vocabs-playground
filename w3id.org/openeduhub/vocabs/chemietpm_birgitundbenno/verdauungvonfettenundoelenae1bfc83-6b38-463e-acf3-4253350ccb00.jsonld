@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Verdauung von Fetten und Ölen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Depotfett",
-      "Dünndarm",
-      "Emulgierung,",
-      "Fettverdauung",
-      "Galle",
-      "Insulin"
-    ]
-  },
-  "note": {
-    "de": [
-      "Depotfett",
-      "Dünndarm",
-      "Emulgierung,",
-      "Fettverdauung",
-      "Galle",
-      "Insulin"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/fetteundoeled369c226-2f73-4688-a136-157ebd5c0e3c",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

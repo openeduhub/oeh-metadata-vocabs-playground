@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Getrenntschreibung von Wortgruppen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Adjektive und Partizipien",
-      "Nominalgruppen",
-      "Verbalgruppen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Adjektive und Partizipien",
-      "Nominalgruppen",
-      "Verbalgruppen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/getrennt-undzusammenschreibung6ae3f40f-c58c-46ee-903d-9529322b8cc0",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

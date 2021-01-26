@@ -19,94 +19,38 @@
       "non-alphanumeric characters spelling"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Interpunktion "
-    ]
-  },
   "note": {
-    "de": [
-      "Interpunktion "
-    ]
+    "de": "Interpunktion "
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/bindestrichf80e25ff-100d-475c-84a8-89644f2ab8f0",
       "prefLabel": {
         "de": "Bindestrich"
-      },
-      "altLabel": {
-        "de": [
-          "Bindestrich",
-          "Ergänzungsstrich",
-          "Mittestrich",
-          "Trennstrich",
-          "Trennungsstrich",
-          "Trennungszeichen",
-          "Verbindungstrich",
-          "Viertelgeviertstrich"
-        ],
-        "en": [
-          "-",
-          "bar",
-          "dash"
-        ]
-      },
-      "note": {
-        "de": [
-          "Bindestrich "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/doppelpunktundsemikolon600f1fab-3054-48bb-9321-58c278a3eaaf",
       "prefLabel": {
         "de": "Doppelpunkt und Semikolon"
-      },
-      "note": {
-        "de": [
-          "Doppelpunkt",
-          "Semikolon "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzschlusszeichen55815d22-0345-4d3f-b881-91d6394af524",
       "prefLabel": {
         "de": "Satzschlusszeichen"
-      },
-      "note": {
-        "de": [
-          "Ausruferzeichen",
-          "Fragezeichen",
-          "Punkt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/woertlicheredea26af910-f403-44f6-b903-1c85e01d5b8e",
       "prefLabel": {
         "de": "Wörtliche Rede"
-      },
-      "note": {
-        "de": [
-          "Anführungszeichen",
-          "Gänsefüßchen",
-          "nachgestellt",
-          "vorangestellt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zitieren478e09b4-85dd-47a4-a8a1-23b6cae38a5d",
       "prefLabel": {
         "de": "Zitieren"
-      },
-      "note": {
-        "de": [
-          "direktes Zitieren",
-          "indirekter Zitieren "
-        ]
       }
     }
   ],
@@ -114,14 +58,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zeichensetzung99be9122-d3cb-4199-9dd9-8df0d1201e65",
     "prefLabel": {
       "de": "Zeichensetzung"
-    },
-    "altLabel": {
-      "de": [
-        "Interpunktion"
-      ],
-      "en": [
-        "Punctuation mark"
-      ]
     }
   },
   "inScheme": {
@@ -170,12 +106,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -186,16 +116,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

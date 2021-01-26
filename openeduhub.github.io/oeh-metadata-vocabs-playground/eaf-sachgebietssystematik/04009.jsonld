@@ -7,75 +7,43 @@
     "de": "Holztechnik"
   },
   "note": {
-    "de": [
-      "Holztechnik"
-    ]
+    "de": "Holztechnik"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400901",
       "prefLabel": {
         "de": "Holzbearbeitung"
-      },
-      "note": {
-        "de": [
-          "Holzbearbeitung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400902",
       "prefLabel": {
         "de": "Holzverarbeitung"
-      },
-      "note": {
-        "de": [
-          "Holzverarbeitung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400903",
       "prefLabel": {
         "de": "Grundlagen der Holztechnik"
-      },
-      "note": {
-        "de": [
-          "Holztechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400904",
       "prefLabel": {
         "de": "Technische Kommunikation"
-      },
-      "note": {
-        "de": [
-          "Technische Kommunikation"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400905",
       "prefLabel": {
         "de": "Holzschäden"
-      },
-      "note": {
-        "de": [
-          "Holzschäden"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0400906",
       "prefLabel": {
         "de": "Werkstoffe"
-      },
-      "note": {
-        "de": [
-          "Werkstoffe"
-        ]
       }
     }
   ],
@@ -131,12 +99,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +109,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

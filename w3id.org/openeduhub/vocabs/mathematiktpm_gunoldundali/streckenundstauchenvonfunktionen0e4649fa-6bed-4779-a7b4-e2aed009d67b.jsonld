@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Strecken und Stauchen von Funktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Graph",
-      "Streckfaktor",
-      "stauchen",
-      "strecken"
-    ]
-  },
-  "note": {
-    "de": [
-      "Graph",
-      "Streckfaktor",
-      "stauchen",
-      "strecken"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionsgraphenganz-rationalerfunktionen5cf66e9d-ed86-4bf9-81c2-0580fabb94cb",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

@@ -6,54 +6,6 @@
   "prefLabel": {
     "de": "Physikalische Konstanten"
   },
-  "hiddenLabel": {
-    "de": [
-      "Atomare Masseneinheit",
-      "Avogadrozahl",
-      "Boltzmannkonstante",
-      "Elektrische Feldkonstante",
-      "Elementarladung",
-      "Energieäquivalent",
-      "Fallbeschleunigung",
-      "Faraday Konstante",
-      "Gaskonstante",
-      "Gravitationskonstante",
-      "Hubble-Konstante",
-      "Konstanten",
-      "Lichtgeschwindigkeit",
-      "Magnetische",
-      "Naturkonstante",
-      "Planck Konstante",
-      "Rydberg-Konstante",
-      "Stefan-Boltzmann-Konstante",
-      "Wien-Verschiebungskonstante",
-      "physikalische Konstante"
-    ]
-  },
-  "note": {
-    "de": [
-      "Atomare Masseneinheit",
-      "Avogadrozahl",
-      "Boltzmannkonstante",
-      "Elektrische Feldkonstante",
-      "Elementarladung",
-      "Energieäquivalent",
-      "Fallbeschleunigung",
-      "Faraday Konstante",
-      "Gaskonstante",
-      "Gravitationskonstante",
-      "Hubble-Konstante",
-      "Konstanten",
-      "Lichtgeschwindigkeit",
-      "Magnetische",
-      "Naturkonstante",
-      "Planck Konstante",
-      "Rydberg-Konstante",
-      "Stefan-Boltzmann-Konstante",
-      "Wien-Verschiebungskonstante",
-      "physikalische Konstante"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/methoden9190b11c-efcc-4efb-bb8a-1c2343681544",
     "prefLabel": {
@@ -106,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -122,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

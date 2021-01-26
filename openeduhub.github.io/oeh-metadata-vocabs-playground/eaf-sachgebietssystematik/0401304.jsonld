@@ -7,42 +7,25 @@
     "de": "Informationswirtschaft"
   },
   "note": {
-    "de": [
-      "Informationswirtschaft"
-    ]
+    "de": "Informationswirtschaft"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130401",
       "prefLabel": {
         "de": "Wirtschaftsinformation"
-      },
-      "note": {
-        "de": [
-          "Wirtschaftsinformation"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130402",
       "prefLabel": {
         "de": "Textverarbeitung"
-      },
-      "note": {
-        "de": [
-          "Textverarbeitung"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040130403",
       "prefLabel": {
         "de": "Bürowirtschaft"
-      },
-      "note": {
-        "de": [
-          "Bürowirtschaft"
-        ]
       }
     }
   ],
@@ -98,12 +81,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -114,16 +91,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

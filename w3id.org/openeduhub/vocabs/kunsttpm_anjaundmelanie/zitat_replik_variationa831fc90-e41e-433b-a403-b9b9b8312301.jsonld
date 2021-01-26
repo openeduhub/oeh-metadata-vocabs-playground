@@ -6,86 +6,6 @@
   "prefLabel": {
     "de": "Zitat / Replik / Variation"
   },
-  "hiddenLabel": {
-    "de": [
-      "\nWolfgang Beltracchi",
-      "Adaption",
-      "Aktualisierungsstrategie",
-      "Aneignungsstrategie",
-      "Appropriation-Art",
-      "Architekturzitat",
-      "Bildgedächtnis",
-      "Duckomenta",
-      "Einzigartigkeit",
-      "Faksimile",
-      "Gestaltungskonzepte zwischen Anleihe und Auseinandersetzung",
-      "Imitation",
-      "Kopie",
-      "Metamorphosen",
-      "Nachbild",
-      "Neuschöpfung",
-      "Original und Fälschung",
-      "Originalität",
-      "Paraphrase",
-      "Parodien und Verfremdungen",
-      "Plagiat",
-      "Reenactment",
-      "Reinszenierung",
-      "Remake",
-      "Remake oder Fake",
-      "Reproduktion",
-      "Reproduktionsgrafik",
-      "Restaurator*in",
-      "Rollenspiel nach Vorbildern aus der Kunstgeschichte",
-      "Transformation",
-      "Urbild",
-      "Werkstattkopie",
-      "Wertschätzung der Wiederholung",
-      "Wirkungsgeschichte",
-      "Zitatenkette",
-      "Zweitfassung"
-    ]
-  },
-  "note": {
-    "de": [
-      "\nWolfgang Beltracchi",
-      "Adaption",
-      "Aktualisierungsstrategie",
-      "Aneignungsstrategie",
-      "Appropriation-Art",
-      "Architekturzitat",
-      "Bildgedächtnis",
-      "Duckomenta",
-      "Einzigartigkeit",
-      "Faksimile",
-      "Gestaltungskonzepte zwischen Anleihe und Auseinandersetzung",
-      "Imitation",
-      "Kopie",
-      "Metamorphosen",
-      "Nachbild",
-      "Neuschöpfung",
-      "Original und Fälschung",
-      "Originalität",
-      "Paraphrase",
-      "Parodien und Verfremdungen",
-      "Plagiat",
-      "Reenactment",
-      "Reinszenierung",
-      "Remake",
-      "Remake oder Fake",
-      "Reproduktion",
-      "Reproduktionsgrafik",
-      "Restaurator*in",
-      "Rollenspiel nach Vorbildern aus der Kunstgeschichte",
-      "Transformation",
-      "Urbild",
-      "Werkstattkopie",
-      "Wertschätzung der Wiederholung",
-      "Wirkungsgeschichte",
-      "Zitatenkette",
-      "Zweitfassung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/genre_bildgattungen9e0af10a-93fd-4170-b339-91699d446a0e",
     "prefLabel": {
@@ -138,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -154,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

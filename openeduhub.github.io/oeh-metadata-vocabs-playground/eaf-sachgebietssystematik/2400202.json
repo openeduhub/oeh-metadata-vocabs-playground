@@ -6,69 +6,29 @@
   "prefLabel": {
     "de": "Alte Geschichte"
   },
-  "note": {
-    "de": [
-      "Alte Geschichte",
-      "Geschichte",
-      "Geschichtsunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020201",
       "prefLabel": {
         "de": "Frühe Hochkulturen"
-      },
-      "note": {
-        "de": [
-          "Babylonier",
-          "Frühe Hochkulturen",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Sumerer",
-          "Ägypter"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020202",
       "prefLabel": {
         "de": "Griechische Geschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Griechische Geschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020203",
       "prefLabel": {
         "de": "Römische Geschichte, etruskische Geschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Römische Geschichte",
-          "etruskische Geschichte"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020204",
       "prefLabel": {
         "de": "Völkerwanderung, germanische Geschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Völkerwanderung",
-          "germanische Geschichte"
-        ]
       }
     }
   ],
@@ -124,12 +84,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -140,16 +94,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

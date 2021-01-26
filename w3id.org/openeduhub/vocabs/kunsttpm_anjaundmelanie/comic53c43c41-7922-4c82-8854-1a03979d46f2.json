@@ -14,54 +14,6 @@
       "sequential art"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Actionlines",
-      "Anime",
-      "Bildergeschichten",
-      "Comicstrip",
-      "Geschichten für Comics",
-      "Hintergrund und Bildraum",
-      "Karikatur",
-      "Köpfe und Gesichter im Comicstil",
-      "Lautmalerei und Action",
-      "Layout-eine Seite gestalten",
-      "Manga",
-      "Onomatopöie-Lautmalerei",
-      "Outlines",
-      "Scott McCloud-Comics richtig lesen",
-      "Speedlines",
-      "Splash-Panel",
-      "Zeichentrick",
-      "ein Comic entsteht",
-      "sequenzielle Kunst",
-      "von der Skizze zum Finish"
-    ]
-  },
-  "note": {
-    "de": [
-      "Actionlines",
-      "Anime",
-      "Bildergeschichten",
-      "Comicstrip",
-      "Geschichten für Comics",
-      "Hintergrund und Bildraum",
-      "Karikatur",
-      "Köpfe und Gesichter im Comicstil",
-      "Lautmalerei und Action",
-      "Layout-eine Seite gestalten",
-      "Manga",
-      "Onomatopöie-Lautmalerei",
-      "Outlines",
-      "Scott McCloud-Comics richtig lesen",
-      "Speedlines",
-      "Splash-Panel",
-      "Zeichentrick",
-      "ein Comic entsteht",
-      "sequenzielle Kunst",
-      "von der Skizze zum Finish"
-    ]
-  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -108,12 +60,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -124,16 +70,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

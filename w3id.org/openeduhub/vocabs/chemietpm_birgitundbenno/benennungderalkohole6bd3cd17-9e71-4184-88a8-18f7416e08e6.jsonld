@@ -6,56 +6,10 @@
   "prefLabel": {
     "de": "Benennung der Alkohole"
   },
-  "hiddenLabel": {
-    "de": [
-      "Butanol",
-      "Diole",
-      "Endung -ol",
-      "Ethanol",
-      "Glycerin",
-      "Hydroxy-Gruppe",
-      "Hydroxyl-Gruppe",
-      "Methanol",
-      "Propanol",
-      "Triole",
-      "primärer Alkohol",
-      "sekundärer Alkohol",
-      "tert-,",
-      "tertiärer Alkohol"
-    ]
-  },
-  "note": {
-    "de": [
-      "Butanol",
-      "Diole",
-      "Endung -ol",
-      "Ethanol",
-      "Glycerin",
-      "Hydroxy-Gruppe",
-      "Hydroxyl-Gruppe",
-      "Methanol",
-      "Propanol",
-      "Triole",
-      "primärer Alkohol",
-      "sekundärer Alkohol",
-      "tert-,",
-      "tertiärer Alkohol"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/alkohole0dd669d7-0774-41b3-bf59-967b08d37b45",
     "prefLabel": {
       "de": "Alkohole"
-    },
-    "altLabel": {
-      "de": [
-        "Alkanol",
-        "Alkohol",
-        "Alkohole"
-      ],
-      "en": [
-        "alcohol"
-      ]
     }
   },
   "inScheme": {
@@ -104,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

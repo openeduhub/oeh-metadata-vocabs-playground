@@ -11,24 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/begriffderwurzeld5cec37a-fc6f-40b6-8540-dca15acd1efb",
       "prefLabel": {
         "de": "Begriff der Wurzel"
-      },
-      "note": {
-        "de": [
-          "Radizieren",
-          "Wurzelziehen",
-          "zweite Wurzel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/naeherungsweisebestimmungvonwurzel2248dad2-db07-46a6-8cea-6caea5ed7b8c",
       "prefLabel": {
         "de": "Näherungsweise Bestimmung von Wurzel"
-      },
-      "note": {
-        "de": [
-          "Intervallschachtelung"
-        ]
       }
     },
     {
@@ -41,11 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wurzelgesetze58023469-b851-4e71-a9aa-5e7fbcee1efd",
       "prefLabel": {
         "de": "Wurzelgesetze"
-      },
-      "note": {
-        "de": [
-          "Radizieren"
-        ]
       }
     }
   ],
@@ -95,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -111,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

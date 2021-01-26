@@ -15,22 +15,6 @@
       "system of coordinates"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Abszisse",
-      "Ordinate",
-      "Position von Punkten",
-      "geometrischer Raum"
-    ]
-  },
-  "note": {
-    "de": [
-      "Abszisse",
-      "Ordinate",
-      "Position von Punkten",
-      "geometrischer Raum"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/symmetriesenkrecht_parallel_symmetrisch6491bbde-d0e4-4937-bcf6-edfcce42db6f",
     "prefLabel": {
@@ -83,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -99,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

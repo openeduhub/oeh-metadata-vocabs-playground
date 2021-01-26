@@ -14,52 +14,6 @@
       "Layout"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Anordnung von Text und Bild",
-      "Bildlegende",
-      "Bildzeichen",
-      "Blindtext",
-      "Blocksatz",
-      "Buchdruck",
-      "Cover",
-      "Durchschuss",
-      "Flattersatz",
-      "Gestaltungsraster",
-      "Gittergedicht",
-      "Handsatz",
-      "Kolumne",
-      "Kolumnentitel",
-      "Magazingestaltung",
-      "Plakatgestaltung",
-      "Satzspielgel",
-      "Weißraum",
-      "Zeitungsseite"
-    ]
-  },
-  "note": {
-    "de": [
-      "Anordnung von Text und Bild",
-      "Bildlegende",
-      "Bildzeichen",
-      "Blindtext",
-      "Blocksatz",
-      "Buchdruck",
-      "Cover",
-      "Durchschuss",
-      "Flattersatz",
-      "Gestaltungsraster",
-      "Gittergedicht",
-      "Handsatz",
-      "Kolumne",
-      "Kolumnentitel",
-      "Magazingestaltung",
-      "Plakatgestaltung",
-      "Satzspielgel",
-      "Weißraum",
-      "Zeitungsseite"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plakat_werbungdb28edfd-7d7a-44a6-9677-9446f283772a",
     "prefLabel": {
@@ -112,12 +66,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -128,16 +76,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

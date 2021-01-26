@@ -14,175 +14,47 @@
       "Satzteil"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Satzgliedarten ",
-      "Satzglieder bestimmen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Satzgliedarten ",
-      "Satzglieder bestimmen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/adverbialebestimmungenb263a7a4-9b85-42bf-86cb-b6d1e9487f52",
       "prefLabel": {
         "de": "Adverbiale Bestimmungen"
-      },
-      "note": {
-        "de": [
-          "Ortsergänzung",
-          "Zeitergänzung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/attributeundattributsatzc292bc8a-a8cd-4b93-b2fa-64b2fc7d80ed",
       "prefLabel": {
         "de": "Attribute und Attributsatz"
-      },
-      "note": {
-        "de": [
-          "Adjektivattribut",
-          "Apposition",
-          "Genitvattribut",
-          "Präpositionalesattribut",
-          "Satzgliedteil"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/objekt3e749eb6-73d9-4324-9faa-987fe13ae99f",
       "prefLabel": {
         "de": "Objekt"
-      },
-      "altLabel": {
-        "de": [
-          "Datenobjekt",
-          "Item",
-          "Konkretum",
-          "Objekt",
-          "Objekte"
-        ],
-        "en": [
-          "Request",
-          "Rq",
-          "allowed unit",
-          "claim value",
-          "concretum",
-          "element",
-          "entity",
-          "existent object",
-          "item",
-          "item qualifier",
-          "o",
-          "obj",
-          "object",
-          "object (tangible)",
-          "object (traditional grammar)",
-          "objects",
-          "partially tangible object",
-          "particular object",
-          "property value",
-          "qid",
-          "something",
-          "tangible object",
-          "thing",
-          "value"
-        ]
-      },
-      "note": {
-        "de": [
-          "Akkusativobjekt",
-          "Dativobjekt",
-          "Genitivobjekt",
-          "Satzergänzung im 2.Fall",
-          "Satzergänzung im 3.Fall",
-          "Satzergänzung im 4.Fall",
-          "Wem? ",
-          "Wen oder was?",
-          "Wessen?"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/praedikat35ba1f2a-72ad-4a12-8d9e-f51b415a01a5",
       "prefLabel": {
         "de": "Prädikat"
-      },
-      "altLabel": {
-        "de": [
-          "Funktionssymbol",
-          "Prädikatensymbol",
-          "Prädikatssymbol",
-          "Satzaussage"
-        ],
-        "en": [
-          "predicates"
-        ]
-      },
-      "note": {
-        "de": [
-          "Satzaussage",
-          "Verb",
-          "Verbklammer",
-          "Was? "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzbau83466045-e9d7-4eb2-bd70-69c467b4a36a",
       "prefLabel": {
         "de": "Satzbau "
-      },
-      "note": {
-        "de": [
-          "Stellung der Satzglieder",
-          "Syntax"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/subjektc7aa9b99-5641-4ef1-981d-61f313dd3b04",
       "prefLabel": {
         "de": "Subjekt"
-      },
-      "altLabel": {
-        "de": [
-          "Satzgegenstand",
-          "Subjekte",
-          "Suxeito"
-        ],
-        "en": [
-          "observer",
-          "observers",
-          "subject (traditionally)",
-          "subject matter",
-          "subjects"
-        ]
-      },
-      "note": {
-        "de": [
-          "Nominativ",
-          "Satzgegensatz",
-          "Wer oder Was?"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/umstellprobe14abd6bd-6077-4546-bd95-2a482718b0cc",
       "prefLabel": {
         "de": "Umstellprobe"
-      },
-      "note": {
-        "de": [
-          "Ersatzprobe",
-          "Satzglieder bestimmen",
-          "umstellen "
-        ]
       }
     }
   ],
@@ -238,12 +110,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -254,16 +120,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

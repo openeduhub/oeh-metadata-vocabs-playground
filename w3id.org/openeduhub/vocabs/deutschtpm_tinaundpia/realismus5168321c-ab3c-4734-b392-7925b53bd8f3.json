@@ -26,42 +26,10 @@
       "realism"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Conrad Ferdinand Meyer",
-      "Effi Briest\r",
-      "Gottfried Keller",
-      "Irrungen",
-      "Schimmelreiter",
-      "Storm",
-      "Theodor Fontane",
-      "Wirklichkeit",
-      "Wirrungen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Conrad Ferdinand Meyer",
-      "Effi Briest\r",
-      "Gottfried Keller",
-      "Irrungen",
-      "Schimmelreiter",
-      "Storm",
-      "Theodor Fontane",
-      "Wirklichkeit",
-      "Wirrungen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
     "prefLabel": {
       "de": "Literaturgeschichte"
-    },
-    "altLabel": {
-      "en": [
-        "literary history",
-        "literature history"
-      ]
     }
   },
   "inScheme": {
@@ -110,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

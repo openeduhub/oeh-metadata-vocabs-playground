@@ -6,78 +6,6 @@
   "prefLabel": {
     "de": "Präpositionen mit Genitiv"
   },
-  "hiddenLabel": {
-    "de": [
-      "Genitiv",
-      "Lagewörter",
-      "Präpositionen",
-      "Verhältniswörter",
-      "Vorwörter",
-      "angesichts",
-      "anhand",
-      "anlässlich",
-      "anstatt",
-      "anstelle",
-      "aufgrund",
-      "außerhalb",
-      "beiderseits",
-      "bezüglich",
-      "diesseits",
-      "infolge",
-      "innerhalb",
-      "jenseits",
-      "links",
-      "längs",
-      "mithilfe",
-      "oberhalb",
-      "rechts",
-      "statt",
-      "südlich",
-      "trotz",
-      "ungeachtet",
-      "unterhalb",
-      "unweit",
-      "wegen",
-      "westlich ",
-      "während"
-    ]
-  },
-  "note": {
-    "de": [
-      "Genitiv",
-      "Lagewörter",
-      "Präpositionen",
-      "Verhältniswörter",
-      "Vorwörter",
-      "angesichts",
-      "anhand",
-      "anlässlich",
-      "anstatt",
-      "anstelle",
-      "aufgrund",
-      "außerhalb",
-      "beiderseits",
-      "bezüglich",
-      "diesseits",
-      "infolge",
-      "innerhalb",
-      "jenseits",
-      "links",
-      "längs",
-      "mithilfe",
-      "oberhalb",
-      "rechts",
-      "statt",
-      "südlich",
-      "trotz",
-      "ungeachtet",
-      "unterhalb",
-      "unweit",
-      "wegen",
-      "westlich ",
-      "während"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praepositonen1bf4f1c3-45d2-46f7-a6b8-2e603146b8b2",
     "prefLabel": {
@@ -130,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -146,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

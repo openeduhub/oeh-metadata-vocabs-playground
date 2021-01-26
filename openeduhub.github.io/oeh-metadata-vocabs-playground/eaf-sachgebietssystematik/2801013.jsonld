@@ -6,106 +6,35 @@
   "prefLabel": {
     "de": "Umwelterziehung"
   },
-  "note": {
-    "de": [
-      "Grundschule",
-      "Grundschulunterricht",
-      "Primarunterricht",
-      "Sachkunde",
-      "Sachkundeunterricht",
-      "Sachunterricht",
-      "Umwelterziehung"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101301",
       "prefLabel": {
         "de": "Wasser und Abwasser"
-      },
-      "note": {
-        "de": [
-          "Abwasser",
-          "Grundschule",
-          "Grundschulunterricht",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht",
-          "Wasser"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101302",
       "prefLabel": {
         "de": "Landschaftsschutz, Landschaftspflege"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Landschaftspflege",
-          "Landschaftsschutz",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101303",
       "prefLabel": {
         "de": "Luftverschmutzung, Luftreinhaltung"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Luftreinhaltung",
-          "Luftverschmutzung",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101304",
       "prefLabel": {
         "de": "Müllanfall, Müllbeseitigung, Recycling"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Müllanfall",
-          "Müllbeseitigung",
-          "Primarunterricht",
-          "Recycling",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/280101305",
       "prefLabel": {
         "de": "Lärm"
-      },
-      "note": {
-        "de": [
-          "Grundschule",
-          "Grundschulunterricht",
-          "Lärm",
-          "Primarunterricht",
-          "Sachkunde",
-          "Sachkundeunterricht",
-          "Sachunterricht"
-        ]
       }
     }
   ],
@@ -161,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -177,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

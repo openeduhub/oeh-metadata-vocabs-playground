@@ -6,26 +6,6 @@
   "prefLabel": {
     "de": "Gesprächsregeln"
   },
-  "hiddenLabel": {
-    "de": [
-      "Klassenrat",
-      "Klassenregeln",
-      "Klassenzusammenhalt",
-      "Kommunikation",
-      "sich melden",
-      "zuhören"
-    ]
-  },
-  "note": {
-    "de": [
-      "Klassenrat",
-      "Klassenregeln",
-      "Klassenzusammenhalt",
-      "Kommunikation",
-      "sich melden",
-      "zuhören"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gespraechefuehren0a3a960d-16a1-43ba-b9dd-d6112c93a9d4",
     "prefLabel": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

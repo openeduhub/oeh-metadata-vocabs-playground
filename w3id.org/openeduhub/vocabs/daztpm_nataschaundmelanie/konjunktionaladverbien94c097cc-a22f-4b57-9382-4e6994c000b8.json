@@ -6,88 +6,6 @@
   "prefLabel": {
     "de": "Konjunktionaladverbien"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bindewörter",
-      "Konnektoren",
-      "allerdings",
-      "also",
-      "anschließend",
-      "außerdem",
-      "beziehungsweise",
-      "dabei",
-      "dadurch",
-      "dafür",
-      "dagegen",
-      "damit",
-      "danach",
-      "dann",
-      "darauf",
-      "darum",
-      "davor",
-      "dazu",
-      "dennoch",
-      "deshalb",
-      "deswegen",
-      "ferner",
-      "folglich",
-      "genauso",
-      "immerhin",
-      "inzwischen",
-      "jedoch",
-      "schließlich",
-      "seitdem",
-      "somit",
-      "sonst",
-      "später",
-      "trotzdem",
-      "vorher",
-      "zuerst",
-      "zuvor",
-      "zwar"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bindewörter",
-      "Konnektoren",
-      "allerdings",
-      "also",
-      "anschließend",
-      "außerdem",
-      "beziehungsweise",
-      "dabei",
-      "dadurch",
-      "dafür",
-      "dagegen",
-      "damit",
-      "danach",
-      "dann",
-      "darauf",
-      "darum",
-      "davor",
-      "dazu",
-      "dennoch",
-      "deshalb",
-      "deswegen",
-      "ferner",
-      "folglich",
-      "genauso",
-      "immerhin",
-      "inzwischen",
-      "jedoch",
-      "schließlich",
-      "seitdem",
-      "somit",
-      "sonst",
-      "später",
-      "trotzdem",
-      "vorher",
-      "zuerst",
-      "zuvor",
-      "zwar"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
     "prefLabel": {
@@ -140,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -156,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

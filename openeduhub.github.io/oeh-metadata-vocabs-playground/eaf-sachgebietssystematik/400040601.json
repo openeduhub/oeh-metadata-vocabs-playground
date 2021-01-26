@@ -6,48 +6,23 @@
   "prefLabel": {
     "de": "Medien analysieren und bewerten"
   },
-  "note": {
-    "de": [
-      "Kompetenzbereich Analysieren und Reflektieren",
-      "Kompetenzen in der digitalen Welt",
-      "Medienanalyse"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060101",
       "prefLabel": {
         "de": "Gestaltungsmittel von digitalen Medienangeboten kennen und bewerten"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060102",
       "prefLabel": {
         "de": "Interessengeleitete Setzung, Verbreitung und Dominanz von Themen in digitalen Umgebungen erkennen und beurteilen"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/40004060103",
       "prefLabel": {
         "de": "Wirkungen von Medien in der digitalen Welt"
-      },
-      "note": {
-        "de": [
-          "Kompetenzbereich Analysieren und Reflektieren",
-          "Kompetenzen in der digitalen Welt"
-        ]
       }
     }
   ],
@@ -103,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -119,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

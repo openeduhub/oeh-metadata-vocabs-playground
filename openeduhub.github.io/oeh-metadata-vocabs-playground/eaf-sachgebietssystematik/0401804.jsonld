@@ -7,31 +7,19 @@
     "de": "Körperpflege"
   },
   "note": {
-    "de": [
-      "Körperpflege"
-    ]
+    "de": "Körperpflege"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040180401",
       "prefLabel": {
         "de": "Frisieurtechnik"
-      },
-      "note": {
-        "de": [
-          "Frieseurtechnik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/040180402",
       "prefLabel": {
         "de": "Kosmetik"
-      },
-      "note": {
-        "de": [
-          "Kosmetik"
-        ]
       }
     }
   ],
@@ -87,12 +75,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -103,16 +85,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

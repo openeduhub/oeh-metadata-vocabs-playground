@@ -15,38 +15,6 @@
       "substitution"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Azokuppluing",
-      "Bromierung",
-      "Chlorierung",
-      "Elektrophile Substitution",
-      "Elektroplhile aromatische Substitution",
-      "Friedel-Crafts-Acylierung",
-      "Nitrierung",
-      "Nucleophile Aromatische Substitution",
-      "Nucleophile Substitution",
-      "Radikalische Substitution",
-      "Sulfonierung",
-      "Zweitsubstitution an Aromaten"
-    ]
-  },
-  "note": {
-    "de": [
-      "Azokuppluing",
-      "Bromierung",
-      "Chlorierung",
-      "Elektrophile Substitution",
-      "Elektroplhile aromatische Substitution",
-      "Friedel-Crafts-Acylierung",
-      "Nitrierung",
-      "Nucleophile Aromatische Substitution",
-      "Nucleophile Substitution",
-      "Radikalische Substitution",
-      "Sulfonierung",
-      "Zweitsubstitution an Aromaten"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsmechanismen3b260a69-1972-48e6-a4ed-db4cd02eda8c",
     "prefLabel": {
@@ -99,12 +67,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -115,16 +77,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

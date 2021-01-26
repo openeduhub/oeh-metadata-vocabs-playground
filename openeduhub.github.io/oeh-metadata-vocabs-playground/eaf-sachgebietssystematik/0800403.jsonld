@@ -6,40 +6,17 @@
   "prefLabel": {
     "de": "Blütenpflanzen"
   },
-  "note": {
-    "de": [
-      "Biologie",
-      "Biologieunterricht",
-      "Blütenpflanzen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080040301",
       "prefLabel": {
         "de": "Bäume, Sträucher"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Bäume",
-          "Sträucher"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/080040302",
       "prefLabel": {
         "de": "Kräuter und Gräser"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Gräser",
-          "Kräuter"
-        ]
       }
     }
   ],
@@ -95,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -111,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

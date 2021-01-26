@@ -6,220 +6,95 @@
   "prefLabel": {
     "de": "Neuere Geschichte"
   },
-  "note": {
-    "de": [
-      "Geschichte",
-      "Geschichtsunterricht",
-      "Neuere Geschichte"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020401",
       "prefLabel": {
         "de": "Zeitalter der Entdeckungen, Eroberungen und Erfindungen"
-      },
-      "note": {
-        "de": [
-          "Erfindungen",
-          "Eroberungen",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Zeitalter der Entdeckungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020402",
       "prefLabel": {
         "de": "Humanismus und Renaissance"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Humanismus",
-          "Renaissance"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020403",
       "prefLabel": {
         "de": "Reformation, Bauernkriege, Glaubenskämpfe"
-      },
-      "note": {
-        "de": [
-          "Bauernkriege",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Glaubenskämpfe",
-          "Reformation"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020404",
       "prefLabel": {
         "de": "Absolutismus, Aufklärung, Parlamentarismus"
-      },
-      "note": {
-        "de": [
-          "Absolutismus",
-          "Aufklärung",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Parlamentarismus"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020405",
       "prefLabel": {
         "de": "Bürgerliche Revolutionen des 18. Jahrhunderts"
-      },
-      "note": {
-        "de": [
-          "Bürgerliche Revolutionen des 18. Jahrhunderts",
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020406",
       "prefLabel": {
         "de": "Napoleon, Napoleonisches Zeitalter"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Napoleon",
-          "Napoleonisches Zeitalter"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020407",
       "prefLabel": {
         "de": "Restauration, Revolutionen des 19. Jahrhunderts"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Liberalismus",
-          "Restauration",
-          "Revolutionen des 19. Jahrhunderts"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020408",
       "prefLabel": {
         "de": "Industrialisierung und soziale Frage"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Industrialisierung",
-          "soziale Frage"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020409",
       "prefLabel": {
         "de": "Nationale Bewegungen und Deutsches Kaiserreich"
-      },
-      "note": {
-        "de": [
-          "Deutsches Kaiserreich",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Nationale Bewegungen"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020410",
       "prefLabel": {
         "de": "Imperialismus und Erster Weltkrieg"
-      },
-      "note": {
-        "de": [
-          "Erster Weltkrieg",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Imperialismus"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020411",
       "prefLabel": {
         "de": "Weimarer Republik"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Weimarer Republik"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020412",
       "prefLabel": {
         "de": "Faschismus und Nationalsozialismus"
-      },
-      "note": {
-        "de": [
-          "Faschismus",
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Nationalsozialismus"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020413",
       "prefLabel": {
         "de": "Zweiter Weltkrieg"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Zweiter Weltkrieg"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020414",
       "prefLabel": {
         "de": "Weitere Themen der neueren europäischen Geschichte"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/240020415",
       "prefLabel": {
         "de": "Neuere Geschichte außereuropäischer Staaten und Völker"
-      },
-      "note": {
-        "de": [
-          "Geschichte",
-          "Geschichtsunterricht",
-          "Neuere Geschichte außereuropäischer Staaten und Völker"
-        ]
       }
     }
   ],
@@ -275,12 +150,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -291,16 +160,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

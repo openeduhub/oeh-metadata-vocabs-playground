@@ -6,53 +6,23 @@
   "prefLabel": {
     "de": "Mikroorganismen"
   },
-  "note": {
-    "de": [
-      "Biologie",
-      "Biologieunterricht",
-      "Mikroorganismen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800201",
       "prefLabel": {
         "de": "Bakterien"
-      },
-      "note": {
-        "de": [
-          "Bakterien",
-          "Biologie",
-          "Biologieunterricht"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800202",
       "prefLabel": {
         "de": "Viren und Phagen"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Phagen",
-          "Viren"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/0800203",
       "prefLabel": {
         "de": "Pflanzliche und tierische Einzeller"
-      },
-      "note": {
-        "de": [
-          "Biologie",
-          "Biologieunterricht",
-          "Pflanzliche Einzeller",
-          "Tierische Einzeller"
-        ]
       }
     }
   ],
@@ -108,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -124,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

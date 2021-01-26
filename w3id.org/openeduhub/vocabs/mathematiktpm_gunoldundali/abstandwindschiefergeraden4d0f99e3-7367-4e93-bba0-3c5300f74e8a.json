@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Abstand windschiefer Geraden"
   },
-  "hiddenLabel": {
-    "de": [
-      "Aufpunkt der Geraden in Hessesche Normalenform einsetzen",
-      "Ebene in Normalenform aufstellen",
-      "Koordinatenform in Hessesche Normalenform umwandeln",
-      "Normalenform in Koordinatenform umwandeln"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aufpunkt der Geraden in Hessesche Normalenform einsetzen",
-      "Ebene in Normalenform aufstellen",
-      "Koordinatenform in Hessesche Normalenform umwandeln",
-      "Normalenform in Koordinatenform umwandeln"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

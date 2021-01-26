@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Reaktionsgleichungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Reaktionsgleichung",
-      "Reaktionsgleichung aufstellen",
-      "Reaktionsschema",
-      "￼ Reaktionsgleichung ausgleichen,"
-    ]
-  },
-  "note": {
-    "de": [
-      "Reaktionsgleichung",
-      "Reaktionsgleichung aufstellen",
-      "Reaktionsschema",
-      "￼ Reaktionsgleichung ausgleichen,"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/symbolschreibweiseab8c49df-a8c1-4876-8420-1311275179e3",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

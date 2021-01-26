@@ -11,37 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/einepraesentationhalten07a9a234-e07f-4775-99e6-5e578ee37f07",
       "prefLabel": {
         "de": "Eine Präsentation halten"
-      },
-      "note": {
-        "de": [
-          "Blickkontakt",
-          "Buchvorstellungen",
-          "Körperhaltung",
-          "Körpersprache",
-          "Power-Point",
-          "Präsentationstechniken",
-          "Referat",
-          "Vortrag "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/mimik,gestik,koerpersprachec18b730a-2de2-41ca-afe1-f9ff1add1b07",
       "prefLabel": {
         "de": "Mimik, Gestik, Körpersprache"
-      },
-      "note": {
-        "de": [
-          "Ausdruck",
-          "Emotionen",
-          "Gefühle",
-          "Gesicht",
-          "Gesichtsausdruck",
-          "Gesten",
-          "Handzeichen",
-          "Körperhaltung",
-          "nonverbale Kommunikation"
-        ]
       }
     }
   ],
@@ -97,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -113,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

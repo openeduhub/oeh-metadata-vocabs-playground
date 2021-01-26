@@ -6,36 +6,17 @@
   "prefLabel": {
     "de": "Angewandte Chemie"
   },
-  "note": {
-    "de": [
-      "Angewandte Chemie",
-      "Chemieunterricht"
-    ]
-  },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1000701",
       "prefLabel": {
         "de": "Technische Chemie"
-      },
-      "note": {
-        "de": [
-          "Chemieunterricht",
-          "Technische Chemie"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/1000702",
       "prefLabel": {
         "de": "Chemie in Alltag und Umwelt"
-      },
-      "note": {
-        "de": [
-          "Chemie im Alltag",
-          "Chemie in Alltag und Umwelt",
-          "Chemieunterricht"
-        ]
       }
     }
   ],
@@ -91,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -107,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

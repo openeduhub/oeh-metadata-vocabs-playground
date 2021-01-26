@@ -6,71 +6,23 @@
   "prefLabel": {
     "de": "Bewegungen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Zeit-Geschwindigkeits-Diagramm",
-      "Zeit-Orts-Diagramm",
-      "t-s-Diagramm",
-      "t-v-Diagrammen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Zeit-Geschwindigkeits-Diagramm",
-      "Zeit-Orts-Diagramm",
-      "t-s-Diagramm",
-      "t-v-Diagrammen"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/beschleunigt2a86a0ba-3bb3-4925-9251-e8aa64b3854b",
       "prefLabel": {
         "de": "Beschleunigt"
-      },
-      "note": {
-        "de": [
-          "Beschleunigung",
-          "Beschleunigungsvorgang",
-          "Bremsvorgang",
-          "Freier Fall",
-          "Mittlere Geschwindigkeit",
-          "Momentangeschwindigkeit",
-          "Senkrechter Wurf"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/gleichfoermigebewegung4a2b4224-8cfb-459e-b4d9-8bbb7ddaae25",
       "prefLabel": {
         "de": "Gleichförmige Bewegung"
-      },
-      "note": {
-        "de": [
-          "geradlinige Bewegung",
-          "konstante Geschwindigkeit",
-          "unbeschleunigte Bewegung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kreis-_drehbewegungen2efc22a6-741e-418d-b818-80451c9fed8b",
       "prefLabel": {
         "de": "Kreis- / Drehbewegungen"
-      },
-      "note": {
-        "de": [
-          "Bahngeschwindigkeit",
-          "Drehimpuls",
-          "Drehmoment",
-          "Kreisbahn",
-          "Kreisbewegung",
-          "Rotationsenergie",
-          "Umlaufdauer",
-          "Winkelgeschwindigkeit",
-          "Zentripetalbeschleunigung",
-          "Zentripetalkraft"
-        ]
       }
     }
   ],
@@ -78,11 +30,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
     "prefLabel": {
       "de": "Mechanik"
-    },
-    "altLabel": {
-      "de": [
-        "Mechanisch"
-      ]
     }
   },
   "inScheme": {
@@ -131,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -147,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

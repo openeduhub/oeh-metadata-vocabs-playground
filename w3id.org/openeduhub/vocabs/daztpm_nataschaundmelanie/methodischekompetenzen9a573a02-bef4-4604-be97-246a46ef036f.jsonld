@@ -11,55 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/sprachenlernen0e29f698-46f5-45cb-ae9e-bfcf8a0ed2d0",
       "prefLabel": {
         "de": "Sprachenlernen"
-      },
-      "altLabel": {
-        "de": [
-          "Sprachenlernen",
-          "Sprachunterricht"
-        ],
-        "en": [
-          "language instruction"
-        ]
-      },
-      "note": {
-        "de": [
-          "Birkenbihl Methode",
-          "Methodengeschichte des Spracherwerbs",
-          "Sprachförderung",
-          "performative Spiele"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/umgangmitmedienundtextenc18ed5d2-b0b6-46a1-8390-8e0c28b32f04",
       "prefLabel": {
         "de": "Umgang mit Medien und Texten"
-      },
-      "note": {
-        "de": [
-          "10 Strategien zur Texterschließung nach Leisen",
-          "5 Leseprinzipien nach Leisen",
-          "Anpassung des Lesers an den Text",
-          "Durchgliederung",
-          "Flussdiagramme",
-          "Fünf-Phasen-Schema",
-          "Kernaussagen",
-          "Leserlernhelfer",
-          "Lesestrategien",
-          "Lesetraining",
-          "Leseverstehen",
-          "Mind-Maps",
-          "Prägnanz",
-          "Satzlupe",
-          "Schlüsselbegriffe",
-          "Sprachenlernen",
-          "Textrand",
-          "Textvereinfachung",
-          "Textvergrößerung",
-          "Zeilenangaben",
-          "kurze Sätze",
-          "Übersichtlichkeit"
-        ]
       }
     }
   ],
@@ -67,11 +24,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/sprachdidaktik1e9f432e-27e3-481b-97cb-3bb3dc708a7e",
     "prefLabel": {
       "de": "Sprachdidaktik"
-    },
-    "altLabel": {
-      "en": [
-        "language didactics"
-      ]
     }
   },
   "inScheme": {
@@ -120,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -136,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

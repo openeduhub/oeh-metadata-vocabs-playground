@@ -6,34 +6,6 @@
   "prefLabel": {
     "de": "Konjunktionen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bindewörter",
-      "Konjunktionen",
-      "Konnektoren",
-      "aber",
-      "denn",
-      "doch",
-      "nebenordnende Konjunktionen",
-      "oder",
-      "sondern",
-      "und\n"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bindewörter",
-      "Konjunktionen",
-      "Konnektoren",
-      "aber",
-      "denn",
-      "doch",
-      "nebenordnende Konjunktionen",
-      "oder",
-      "sondern",
-      "und\n"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
     "prefLabel": {
@@ -86,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

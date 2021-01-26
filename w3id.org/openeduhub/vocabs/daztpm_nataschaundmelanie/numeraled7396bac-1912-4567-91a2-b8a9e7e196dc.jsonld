@@ -19,115 +19,41 @@
       "num."
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Numerale",
-      "Zahlwörter"
-    ]
-  },
-  "note": {
-    "de": [
-      "Numerale",
-      "Zahlwörter"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/bruchzahlen410eabd1-3ca5-4378-af3c-b248e4acbc12",
       "prefLabel": {
         "de": "Bruchzahlen"
-      },
-      "note": {
-        "de": [
-          "Bruchzahlen",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Partitivzahlen "
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/gattungszahlena63c0d85-1007-4338-8529-6fa744e03836",
       "prefLabel": {
         "de": "Gattungszahlen"
-      },
-      "note": {
-        "de": [
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Gattungszahlwörter",
-          "Kollektiva"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/kardinalzahlen240a777d-8971-46eb-80fb-d12893ef891f",
       "prefLabel": {
         "de": "Kardinalzahlen"
-      },
-      "note": {
-        "de": [
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Grundzahlen",
-          "Grundzahlwörter",
-          "Kardinalia",
-          "Kardinalzahlen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/ordinalzahlen52a2aea8-ef04-4d03-8a78-a5d9ad42b28b",
       "prefLabel": {
         "de": "Ordinalzahlen"
-      },
-      "altLabel": {
-        "de": [
-          "Limes-Ordinalzahl",
-          "Nachfolger-Ordinalzahl",
-          "Ordinalzahl",
-          "Ordinalzahlen",
-          "Ordnungstyp"
-        ],
-        "en": [
-          "ordinal",
-          "ordinal numbers"
-        ]
-      },
-      "note": {
-        "de": [
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Ordinalia",
-          "Ordinalzahlen",
-          "Ordnungszahlen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/unbestimmtezahlwoerterdd338197-e443-4700-b481-7828c1b709b2",
       "prefLabel": {
         "de": "Unbestimmte Zahlwörter"
-      },
-      "note": {
-        "de": [
-          "unbestimmte Zahlwörter"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/wiederholungszahlen9269921e-ebf5-41f4-bcea-e181e456fdc5",
       "prefLabel": {
         "de": "Wiederholungszahlen"
-      },
-      "note": {
-        "de": [
-          "\nMultiplikativa",
-          "Deutsch als Fremdsprache",
-          "Deutsch als Zweitsprache",
-          "Iterativzahlen",
-          "Vervielfältigungssprachwörter"
-        ]
       }
     }
   ],
@@ -183,12 +109,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -199,16 +119,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

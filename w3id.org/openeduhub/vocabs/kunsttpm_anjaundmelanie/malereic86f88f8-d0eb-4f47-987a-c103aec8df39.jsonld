@@ -11,110 +11,11 @@
       "painting"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Aquarell",
-      "Art des Farbauftrags",
-      "Auftrag von Farbmaterial",
-      "Bildträger",
-      "Duktus",
-      "Eitempera",
-      "Enkaustik",
-      "Farbschichten",
-      "Fläche",
-      "Fresko",
-      "Gouache",
-      "Herstellung der Werkstoffe",
-      "Kaseintempera",
-      "Malgrund",
-      "Mischtechnik",
-      "Pinselduktus",
-      "Pinselmalerei",
-      "Temperamalerei",
-      "Verarbeitung der Werkstoffe",
-      "abstrakte Malerei",
-      "altmeisterlich malen",
-      "deckend malen",
-      "durchscheinend malen",
-      "lasieren",
-      "lavieren",
-      "pastos malen",
-      "spachteln",
-      "Ölmalerei"
-    ]
-  },
-  "note": {
-    "de": [
-      "Aquarell",
-      "Art des Farbauftrags",
-      "Auftrag von Farbmaterial",
-      "Bildträger",
-      "Duktus",
-      "Eitempera",
-      "Enkaustik",
-      "Farbschichten",
-      "Fläche",
-      "Fresko",
-      "Gouache",
-      "Herstellung der Werkstoffe",
-      "Kaseintempera",
-      "Malgrund",
-      "Mischtechnik",
-      "Pinselduktus",
-      "Pinselmalerei",
-      "Temperamalerei",
-      "Verarbeitung der Werkstoffe",
-      "abstrakte Malerei",
-      "altmeisterlich malen",
-      "deckend malen",
-      "durchscheinend malen",
-      "lasieren",
-      "lavieren",
-      "pastos malen",
-      "spachteln",
-      "Ölmalerei"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/abstraktekunst9d1446b8-6504-4177-9bac-4bbc48101e1d",
       "prefLabel": {
         "de": "abstrakte Kunst"
-      },
-      "altLabel": {
-        "de": [
-          "Absolute Kunst",
-          "Gegenstandsfreie Kunst",
-          "Gegenstandslose Kunst",
-          "Nichtfigurative Kunst",
-          "Ungegenständliche Kunst"
-        ]
-      },
-      "note": {
-        "de": [
-          "Abstrahierung",
-          "Action Painting",
-          "Der Blaue Reiter",
-          "Emil Schuhmacher",
-          "Futurismus",
-          "Gerhard Richter",
-          "Informell",
-          "Jackson Pollock",
-          "Kandinsky",
-          "Konstruktivismus",
-          "Kubismus",
-          "Picasso",
-          "Piet Mondrian",
-          "Tachismus",
-          "Vereinfachung",
-          "expressiver Malstil",
-          "gegenstandslose Malerei",
-          "geometrische Abstraktion",
-          "informelle Kunst",
-          "informelle Malerei",
-          "konkrete Kunst",
-          "vereinfachte Kunst"
-        ]
       }
     }
   ],
@@ -164,12 +65,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -180,16 +75,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

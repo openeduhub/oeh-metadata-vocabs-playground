@@ -17,132 +17,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagenf1534983-5ced-4d32-8692-0254e590eb3a",
       "prefLabel": {
         "de": "Grundlagen"
-      },
-      "note": {
-        "de": [
-          "Isotope",
-          "Nuklide",
-          "Streuexperiment"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kernfusiond64ac265-d2a0-414b-8545-62ef4463e154",
       "prefLabel": {
         "de": "Kernfusion"
-      },
-      "altLabel": {
-        "en": [
-          "nuclear fusion reaction"
-        ]
-      },
-      "note": {
-        "de": [
-          "Fusionsreaktion",
-          "Fusionsreaktor",
-          "Kernfusionsreaktor",
-          "Plasmaphysik",
-          "Sterne",
-          "starke Wechselwirkung"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kernmodelleca849f47-692d-474e-a819-433eeb8bdb7e",
       "prefLabel": {
         "de": "Kernmodelle"
-      },
-      "note": {
-        "de": [
-          "Neutronen",
-          "Nukleonen",
-          "Protonen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kernreaktionena21c2171-dcee-41b8-882b-8a1dd45b4eca",
       "prefLabel": {
         "de": "Kernreaktionen"
-      },
-      "note": {
-        "de": [
-          "E=mc²",
-          "Energiebilanz bei Kernreaktionen",
-          "Kernmasse",
-          "Massendefekt",
-          "Nuklidmasse",
-          "Zusammenhang von Atom- und Kernmassen",
-          "mittlere Bindungsenergie pro Nukleon"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kernspaltung2cd80c85-8b64-48b1-ba2c-e0b179b23b8f",
       "prefLabel": {
         "de": "Kernspaltung"
-      },
-      "altLabel": {
-        "de": [
-          "Atomkernspaltung",
-          "Atomspaltung",
-          "Kernfission",
-          "Spaltbares Material"
-        ],
-        "en": [
-          "fission"
-        ]
-      },
-      "note": {
-        "de": [
-          "Atomenergie",
-          "Kernspaltung",
-          "Kettenreaktion",
-          "Neutronenbeschuss",
-          "Spaltreaktion",
-          "Uran-235"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/radioaktivitaet59a5bc1d-b8b4-4b2d-acd4-860fe8f821b1",
       "prefLabel": {
         "de": "Radioaktivität"
-      },
-      "altLabel": {
-        "de": [
-          "Aktivitätsgesetz",
-          "Atomstrahlung",
-          "Atomzerfall",
-          "Kernstrahlung",
-          "Kernzerfall",
-          "Radioaktiv",
-          "Radioaktive Stoffe",
-          "Radioaktive Strahlung",
-          "Radioaktiver Stoff",
-          "Zerfallsmodus"
-        ],
-        "en": [
-          "nuclear decay",
-          "radioactive decay"
-        ]
-      },
-      "note": {
-        "de": [
-          "Alphastrahlung",
-          "Alphazerfall",
-          "Beta-Minus-Strahlung",
-          "Beta-Minus-Zerfall",
-          "Beta-Plus-Zerfall",
-          "GEIGER-MÜLLER-Zählrohr",
-          "Gammastrahlung",
-          "Gammaübergang",
-          "Halbwertsdicke",
-          "Halbwertszeit",
-          "Ionisierende Strahlung",
-          "Ionisierung durch Strahlung",
-          "Strahlenschutz"
-        ]
       }
     }
   ],
@@ -192,12 +96,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -208,16 +106,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

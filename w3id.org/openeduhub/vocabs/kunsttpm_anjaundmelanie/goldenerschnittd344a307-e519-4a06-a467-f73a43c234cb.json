@@ -6,122 +6,10 @@
   "prefLabel": {
     "de": "Goldener Schnitt"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bildformat",
-      "Der Goldene Schnitt",
-      "Fibonacci",
-      "Goldenes Rechteck",
-      "Multiplikator",
-      "Ordnung im Bild",
-      "Proportionierung einzelnder Bildelemente",
-      "Teilung der Bildfläche",
-      "Verhältnis zur Strecke oder Fläche",
-      "Zahlenreihe",
-      "den goldenen Schnitt ausrechnen",
-      "den goldenen Schnitt auszirkeln",
-      "harmonische Teilung",
-      "harmonisches Maßverhältnis",
-      "schematische Gliederung",
-      "stetige Teilung"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bildformat",
-      "Der Goldene Schnitt",
-      "Fibonacci",
-      "Goldenes Rechteck",
-      "Multiplikator",
-      "Ordnung im Bild",
-      "Proportionierung einzelnder Bildelemente",
-      "Teilung der Bildfläche",
-      "Verhältnis zur Strecke oder Fläche",
-      "Zahlenreihe",
-      "den goldenen Schnitt ausrechnen",
-      "den goldenen Schnitt auszirkeln",
-      "harmonische Teilung",
-      "harmonisches Maßverhältnis",
-      "schematische Gliederung",
-      "stetige Teilung"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/komposition9e91a047-1e81-49cb-9556-40dbe3192b36",
     "prefLabel": {
       "de": "Komposition"
-    },
-    "altLabel": {
-      "de": [
-        "Bestimmungswort",
-        "Beziehung",
-        "Bildkomposition",
-        "Filmkomponist",
-        "Filmkomponistin",
-        "Grundwort",
-        "Hintereinanderausführung",
-        "Komponieren",
-        "Komponistin",
-        "Komposition",
-        "Kompositionen",
-        "Kompositionsschema",
-        "Kompositum",
-        "Kompositum aus",
-        "Kopulativkompositum",
-        "Musikkompositionen",
-        "Musikstück",
-        "Musikwerk",
-        "Stück",
-        "Verbindung von",
-        "Verkettung",
-        "Verkettung von Funktionen",
-        "Wortkomposition",
-        "Wortzusammensetzung",
-        "Zusammengesetzes Wort",
-        "Zusammengesetzte Wörter",
-        "Zusammengesetztes Hauptwort",
-        "Zusammengesetztes Wort",
-        "komponieren",
-        "komponiert von",
-        "musikalische Komposition",
-        "musikalische Kompositionen"
-      ],
-      "en": [
-        "combined lexeme",
-        "compisitions",
-        "compose",
-        "composed by",
-        "composing",
-        "composition",
-        "composition (music)",
-        "composition in music",
-        "composition of functions",
-        "compositions (music)",
-        "compositions in music",
-        "compound (linguistics)",
-        "compound lexeme",
-        "compound of",
-        "conflation",
-        "function superposition",
-        "music",
-        "music by",
-        "music composition",
-        "music compositions",
-        "musical composition",
-        "musical compositions",
-        "musical score by",
-        "piece",
-        "piece of music",
-        "prefix",
-        "song",
-        "songwriter",
-        "suffix",
-        "superposition of functions",
-        "work of music",
-        "written by",
-        "Σύνθεσις",
-        "∘"
-      ]
     }
   },
   "inScheme": {
@@ -170,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -186,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

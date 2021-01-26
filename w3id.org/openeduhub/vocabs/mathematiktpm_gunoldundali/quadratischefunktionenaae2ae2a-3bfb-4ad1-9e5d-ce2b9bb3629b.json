@@ -11,50 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/normalparabel,wertetabelle,graph,scheitelpunktf423d109-030e-4795-8949-b14f7b25c08a",
       "prefLabel": {
         "de": "Normalparabel, Wertetabelle, Graph, Scheitelpunkt"
-      },
-      "note": {
-        "de": [
-          "Hochpunkt",
-          "Parabel",
-          "Tiefpunkt"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/scheitelpunktablesenf3675661-97fd-4abd-9070-c359855f06ea",
       "prefLabel": {
         "de": "Scheitelpunkt ablesen"
-      },
-      "note": {
-        "de": [
-          "Der Scheitelpunkt ist der höchste bzw. tiefste Punkt einer Parabel."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/streckungundstauchungdernormalparabeld3123201-4e4d-4443-bc8c-e7950d294677",
       "prefLabel": {
         "de": "Streckung und Stauchung der Normalparabel"
-      },
-      "note": {
-        "de": [
-          "Streckfaktor",
-          "gestaucht",
-          "gestreckt",
-          "umgekehrte parabel"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/verschiebungdernormalparabel9dff2dfa-5359-459a-9411-4c0040b6aca4",
       "prefLabel": {
         "de": "Verschiebung der Normalparabel"
-      },
-      "note": {
-        "de": [
-          "Punktprobe",
-          "verschobene Normalparabel"
-        ]
       }
     }
   ],
@@ -104,12 +78,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -120,16 +88,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

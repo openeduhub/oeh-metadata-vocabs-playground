@@ -6,20 +6,6 @@
   "prefLabel": {
     "de": "Zeitraum berechen"
   },
-  "hiddenLabel": {
-    "de": [
-      "30 Tage",
-      "360 Tage",
-      "Zeitspanne"
-    ]
-  },
-  "note": {
-    "de": [
-      "30 Tage",
-      "360 Tage",
-      "Zeitspanne"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinsrechnung23602718-1ded-426f-b5ca-2ed3d9553fe4",
     "prefLabel": {
@@ -72,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -88,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

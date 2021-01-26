@@ -29,14 +29,6 @@
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/peripherie396642cd-7577-46b2-9b0f-91c8e4f812a8",
     "prefLabel": {
       "de": "Peripherie"
-    },
-    "altLabel": {
-      "en": [
-        "border area",
-        "peripheral area",
-        "periurban area",
-        "suburb"
-      ]
     }
   },
   "inScheme": {
@@ -85,12 +77,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -101,16 +87,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

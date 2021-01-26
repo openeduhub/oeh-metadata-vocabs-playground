@@ -6,30 +6,10 @@
   "prefLabel": {
     "de": "Winkel messen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Geodreieck",
-      "Messinstrument",
-      "Winkelmesser"
-    ]
-  },
-  "note": {
-    "de": [
-      "Geodreieck",
-      "Messinstrument",
-      "Winkelmesser"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/figurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
     "prefLabel": {
       "de": "Figuren"
-    },
-    "altLabel": {
-      "de": [
-        "Charaktere",
-        "Rollen"
-      ]
     }
   },
   "inScheme": {
@@ -78,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -94,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

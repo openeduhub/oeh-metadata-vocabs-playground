@@ -21,15 +21,8 @@
       "pages"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Alle Seitenlängen"
-    ]
-  },
   "note": {
-    "de": [
-      "Alle Seitenlängen"
-    ]
+    "de": "Alle Seitenlängen"
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/flaecheninhalte_umfangc83cf97a-2588-4b05-af0e-923f6b423df4",
@@ -83,12 +76,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -99,16 +86,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

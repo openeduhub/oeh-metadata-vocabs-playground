@@ -6,22 +6,6 @@
   "prefLabel": {
     "de": "Kraft auf Leiter"
   },
-  "hiddenLabel": {
-    "de": [
-      "E-motor",
-      "Elektromotor",
-      "Kraft auf Stromleiter",
-      "LORENTZ-Kraft"
-    ]
-  },
-  "note": {
-    "de": [
-      "E-motor",
-      "Elektromotor",
-      "Kraft auf Stromleiter",
-      "LORENTZ-Kraft"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/bewegteladungen_felder41af187b-ee85-4032-9a6a-a9f7f7d9d5e9",
     "prefLabel": {
@@ -74,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -90,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

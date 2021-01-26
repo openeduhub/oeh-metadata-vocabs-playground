@@ -6,55 +6,10 @@
   "prefLabel": {
     "de": "Einführung / Grundlagen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Bewegung der Himmelskörper",
-      "Die Himmelskörper ruhen nicht",
-      "Himmel",
-      "Himmelskörper",
-      "Jahreszeiten",
-      "Monat",
-      "Mond",
-      "Mondfinsternis",
-      "Mondphasen",
-      "Sonne",
-      "Sonnenfinsternis",
-      "Sterne",
-      "sondern sie befinden sich in einer oder mehreren Drehbewegungen"
-    ]
-  },
-  "note": {
-    "de": [
-      "Bewegung der Himmelskörper",
-      "Die Himmelskörper ruhen nicht",
-      "Himmel",
-      "Himmelskörper",
-      "Jahreszeiten",
-      "Monat",
-      "Mond",
-      "Mondfinsternis",
-      "Mondphasen",
-      "Sonne",
-      "Sonnenfinsternis",
-      "Sterne",
-      "sondern sie befinden sich in einer oder mehreren Drehbewegungen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/astronomie027df173-4f0e-4a7b-a388-e71599c8959c",
     "prefLabel": {
       "de": "Astronomie"
-    },
-    "altLabel": {
-      "de": [
-        "Astronomie",
-        "Astrophysik",
-        "Kosmologie",
-        "Weltraumforschung"
-      ],
-      "en": [
-        "Astronomy"
-      ]
     }
   },
   "inScheme": {
@@ -103,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -119,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

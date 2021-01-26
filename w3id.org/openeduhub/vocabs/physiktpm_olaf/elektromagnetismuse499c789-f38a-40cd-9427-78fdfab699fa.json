@@ -6,32 +6,6 @@
   "prefLabel": {
     "de": "Elektromagnetismus"
   },
-  "hiddenLabel": {
-    "de": [
-      "LORENTZ-Kraft",
-      "Magnetfeld einer Zylinderspule",
-      "Magnetfeld eines geraden Leiters",
-      "Magnetisches Feld einer Spule",
-      "Rechten-Faust-Regel",
-      "magnetische Kraft",
-      "magnetischen Wirkung",
-      "magnetisches Feld",
-      "ØRSTED-Versuch"
-    ]
-  },
-  "note": {
-    "de": [
-      "LORENTZ-Kraft",
-      "Magnetfeld einer Zylinderspule",
-      "Magnetfeld eines geraden Leiters",
-      "Magnetisches Feld einer Spule",
-      "Rechten-Faust-Regel",
-      "magnetische Kraft",
-      "magnetischen Wirkung",
-      "magnetisches Feld",
-      "ØRSTED-Versuch"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagenmagnetismus141610c2-216e-427c-b7f0-19e969f3ae2d",
     "prefLabel": {
@@ -84,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

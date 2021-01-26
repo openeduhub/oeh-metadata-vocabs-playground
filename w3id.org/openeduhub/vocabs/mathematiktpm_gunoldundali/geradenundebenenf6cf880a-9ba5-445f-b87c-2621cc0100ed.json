@@ -6,83 +6,35 @@
   "prefLabel": {
     "de": "Geraden und Ebenen"
   },
-  "hiddenLabel": {
-    "de": [
-      "Gerade liegt in Ebene",
-      "Gerade und Ebene echt parallel",
-      "Gerade und Ebene schneiden sich"
-    ]
-  },
-  "note": {
-    "de": [
-      "Gerade liegt in Ebene",
-      "Gerade und Ebene echt parallel",
-      "Gerade und Ebene schneiden sich"
-    ]
-  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ebenenundgeraden1deb95c1-f2a5-47ff-ab0f-37e4e3b18570",
       "prefLabel": {
         "de": "Ebenen und Geraden"
-      },
-      "note": {
-        "de": [
-          "Die Gerade ist parallel zur Ebene",
-          "Die Gerade liegt in der Ebene drinnen",
-          "Die Gerade schneidet die Ebene"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/gegenseitigelagevonebenenc864e0c0-eb8c-4c96-8b45-4b9ad0116dd4",
       "prefLabel": {
         "de": "Gegenseitige Lage von Ebenen"
-      },
-      "note": {
-        "de": [
-          "Ebene schneiden sich",
-          "Ebenen echt parallel",
-          "Ebenen identisch"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/gegenseitigelagevongeraden45eaf634-8d60-4954-886f-ee2ab402fb9b",
       "prefLabel": {
         "de": "Gegenseitige Lage von Geraden"
-      },
-      "note": {
-        "de": [
-          "echt parallel",
-          "identisch",
-          "windschief",
-          "zwei sich schneidende Geraden"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/parametergleichungeinergeradenc6c3b1eb-dd3d-42b9-b670-a130d52b4790",
       "prefLabel": {
         "de": "Parametergleichung einer Geraden"
-      },
-      "note": {
-        "de": [
-          "Eine Gerade ist durch einen Punkt und einen Richtungsvektor eindeutig bestimmt."
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/parametergleichungvonebenena2fee7aa-6635-440a-b07a-b832348e8bc8",
       "prefLabel": {
         "de": "Parametergleichung von Ebenen"
-      },
-      "note": {
-        "de": [
-          " Parametergleichung",
-          "Parameterdarstellung)",
-          "Parameterform einer Ebene"
-        ]
       }
     }
   ],
@@ -138,12 +90,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -154,16 +100,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

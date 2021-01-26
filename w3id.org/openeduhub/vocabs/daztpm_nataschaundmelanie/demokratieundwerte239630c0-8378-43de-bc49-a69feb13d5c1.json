@@ -6,32 +6,6 @@
   "prefLabel": {
     "de": "Demokratie und Werte"
   },
-  "hiddenLabel": {
-    "de": [
-      "Demokratie",
-      "Demokratieerziehung,",
-      "Freiheit",
-      "Gleichberechtigung",
-      "Gleichheit",
-      "Grundgesetz",
-      "Menschenrechte",
-      "Verfassung",
-      "Werte"
-    ]
-  },
-  "note": {
-    "de": [
-      "Demokratie",
-      "Demokratieerziehung,",
-      "Freiheit",
-      "Gleichberechtigung",
-      "Gleichheit",
-      "Grundgesetz",
-      "Menschenrechte",
-      "Verfassung",
-      "Werte"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interkulturellekompetenzen06ead4a9-5e71-4031-9b13-56527108e4ce",
     "prefLabel": {
@@ -84,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -100,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

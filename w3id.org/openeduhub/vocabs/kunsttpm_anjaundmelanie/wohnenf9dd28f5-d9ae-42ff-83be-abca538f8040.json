@@ -19,107 +19,10 @@
       "unit"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Architektur und Ökologie",
-      "Bodentextilien",
-      "Designwohnung",
-      "Einbauküche",
-      "Einfamilienhaus",
-      "Geschichte des Wohnbaus",
-      "Höhlenwohnung",
-      "Jugendzimmer",
-      "Kinderzimmer",
-      "Leben im Karton",
-      "Massenwohnungsbau",
-      "Mietshäuser",
-      "Mobile Häuslichkeit",
-      "Möbel",
-      "Möblierung",
-      "Reihenhaus",
-      "Schutzhütten",
-      "Siedlungsbau",
-      "Tiny Haus",
-      "Tiny Houses",
-      "Unorte bewohnen",
-      "Villen",
-      "Wohnbedürfnis",
-      "Wohnelend",
-      "Wohnen aus dem Koffer",
-      "Wohnen in der Hülle",
-      "Wohnformen",
-      "Wohngedächtnis",
-      "Wohnkonzept",
-      "Wohnlandkarte",
-      "Wohntextilien",
-      "Wohnwanderung",
-      "Wohnweise",
-      "Zimmer",
-      "abstrakte Villenarchitektur",
-      "antirationale Architektur",
-      "private Zimmer im öffentlichen Raum",
-      "sozialer Wohnungsbau"
-    ]
-  },
-  "note": {
-    "de": [
-      "Architektur und Ökologie",
-      "Bodentextilien",
-      "Designwohnung",
-      "Einbauküche",
-      "Einfamilienhaus",
-      "Geschichte des Wohnbaus",
-      "Höhlenwohnung",
-      "Jugendzimmer",
-      "Kinderzimmer",
-      "Leben im Karton",
-      "Massenwohnungsbau",
-      "Mietshäuser",
-      "Mobile Häuslichkeit",
-      "Möbel",
-      "Möblierung",
-      "Reihenhaus",
-      "Schutzhütten",
-      "Siedlungsbau",
-      "Tiny Haus",
-      "Tiny Houses",
-      "Unorte bewohnen",
-      "Villen",
-      "Wohnbedürfnis",
-      "Wohnelend",
-      "Wohnen aus dem Koffer",
-      "Wohnen in der Hülle",
-      "Wohnformen",
-      "Wohngedächtnis",
-      "Wohnkonzept",
-      "Wohnlandkarte",
-      "Wohntextilien",
-      "Wohnwanderung",
-      "Wohnweise",
-      "Zimmer",
-      "abstrakte Villenarchitektur",
-      "antirationale Architektur",
-      "private Zimmer im öffentlichen Raum",
-      "sozialer Wohnungsbau"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/architekturab143af5-db25-42ce-94af-d8c79651549e",
     "prefLabel": {
       "de": "Architektur"
-    },
-    "altLabel": {
-      "de": [
-        "Architektur",
-        "Architekturen",
-        "Architekturgebäude",
-        "FB 15",
-        "TU Darmstadt"
-      ],
-      "en": [
-        "Architektur",
-        "TU Darmstadt"
-      ]
     }
   },
   "inScheme": {
@@ -168,12 +71,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -184,16 +81,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

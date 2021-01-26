@@ -6,24 +6,6 @@
   "prefLabel": {
     "de": "Hörstile"
   },
-  "hiddenLabel": {
-    "de": [
-      "detailliertes Hören/Hörverstehen",
-      "globales Hören/Hörverstehen",
-      "intensives Hören/Hörverstehen",
-      "selegierendes Hören/Hörverstehen",
-      "selektives Hören/Hörverstehen"
-    ]
-  },
-  "note": {
-    "de": [
-      "detailliertes Hören/Hörverstehen",
-      "globales Hören/Hörverstehen",
-      "intensives Hören/Hörverstehen",
-      "selegierendes Hören/Hörverstehen",
-      "selektives Hören/Hörverstehen"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/hoerenverstehenundhoer-_sehverstehen6c22f908-fecc-411c-b1b6-7d25acdf112e",
     "prefLabel": {
@@ -76,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -92,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

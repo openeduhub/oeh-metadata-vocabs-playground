@@ -28,54 +28,6 @@
       "sekundärkommun"
     ]
   },
-  "hiddenLabel": {
-    "de": [
-      "Ausdruckslandschaft",
-      "Gebirgslandschaft",
-      "Industrielandschaft",
-      "Landschaftsdarstellung in gottgegebener Ordnung",
-      "Landschaftsmalerei in Ostasien",
-      "Naturlandschaft",
-      "Naturstudium",
-      "Parklandschaft",
-      "Schule von Barbizon",
-      "Seelandschaft",
-      "Seelenlandschaft",
-      "Toskana",
-      "autonome Landschaftsbild",
-      "heroische Landschaft",
-      "ideale Landschaft",
-      "in Bildern wiedergegebener Natur- oder auch Kulturraum",
-      "naturgetreue Landschaftsdarstellung",
-      "realistische Landschaft",
-      "romantische Landschaft",
-      "topografisch genaue Landschaftsbild"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ausdruckslandschaft",
-      "Gebirgslandschaft",
-      "Industrielandschaft",
-      "Landschaftsdarstellung in gottgegebener Ordnung",
-      "Landschaftsmalerei in Ostasien",
-      "Naturlandschaft",
-      "Naturstudium",
-      "Parklandschaft",
-      "Schule von Barbizon",
-      "Seelandschaft",
-      "Seelenlandschaft",
-      "Toskana",
-      "autonome Landschaftsbild",
-      "heroische Landschaft",
-      "ideale Landschaft",
-      "in Bildern wiedergegebener Natur- oder auch Kulturraum",
-      "naturgetreue Landschaftsdarstellung",
-      "realistische Landschaft",
-      "romantische Landschaft",
-      "topografisch genaue Landschaftsbild"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/genre_bildgattungen9e0af10a-93fd-4170-b339-91699d446a0e",
     "prefLabel": {
@@ -128,12 +80,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -144,16 +90,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

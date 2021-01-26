@@ -7,33 +7,19 @@
     "de": "ARBEITSLEHRE"
   },
   "note": {
-    "de": [
-      "Arbeitslehre"
-    ]
+    "de": "Arbeitslehre"
   },
   "narrower": [
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/02001",
       "prefLabel": {
         "de": "Hinführung zur Arbeitswelt"
-      },
-      "note": {
-        "de": [
-          "Arbeitslehre",
-          "Arbeitswelt"
-        ]
       }
     },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/02002",
       "prefLabel": {
         "de": "Berufskunde"
-      },
-      "note": {
-        "de": [
-          "Arbeitslehre",
-          "Berufskunde"
-        ]
       }
     }
   ],
@@ -86,12 +72,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -102,16 +82,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

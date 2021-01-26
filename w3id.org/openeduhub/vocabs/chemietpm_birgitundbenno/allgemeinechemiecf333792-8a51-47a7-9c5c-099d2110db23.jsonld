@@ -6,114 +6,38 @@
   "prefLabel": {
     "de": "Allgemeine Chemie"
   },
-  "hiddenLabel": {
-    "de": [
-      "allgemeine Chemie"
-    ]
-  },
   "note": {
-    "de": [
-      "allgemeine Chemie"
-    ]
+    "de": "allgemeine Chemie"
   },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellec15e24a5-5b39-45f4-b953-ff5e849da672",
       "prefLabel": {
         "de": "Atommodelle"
-      },
-      "altLabel": {
-        "de": [
-          "Atommodell",
-          "Atommodelle",
-          "Atomtheorie",
-          "Atomtheorien",
-          "Liste der Atommodelle",
-          "Liste der Atomtheorie"
-        ],
-        "en": [
-          "Model of atom",
-          "atomic model"
-        ]
-      },
-      "note": {
-        "de": [
-          "Atomismus",
-          "Atommodell",
-          "Kontinuitätsprinzip"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/bindungene48c5a9d-e04a-49e0-abd7-07a7a56f1bec",
       "prefLabel": {
         "de": "Bindungen"
-      },
-      "note": {
-        "de": [
-          "Atombindung",
-          "Doppelbindung",
-          "Dreifachbindung",
-          "Einfachbindung",
-          "Kovalente Bindung,"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
       "prefLabel": {
         "de": "Stöchiometrie"
-      },
-      "altLabel": {
-        "de": [
-          "Stöchiometrisch",
-          "Umsatz",
-          "Umsatzgrad",
-          "Unstöchiometrisch"
-        ]
-      },
-      "note": {
-        "de": [
-          "Menge,",
-          "Mengen",
-          "Stoffmengen"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/thermodynamik542e3a97-d462-4f17-a860-9072fa821844",
       "prefLabel": {
         "de": "Thermodynamik"
-      },
-      "altLabel": {
-        "de": [
-          "Wärmelehre",
-          "Wärmetheorie"
-        ],
-        "en": [
-          "Thermodynamics"
-        ]
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/zwischenmolekularekraeftecd7ae455-af4e-45d0-ac9f-c1c103bcab00",
       "prefLabel": {
         "de": "Zwischenmolekulare Kräfte"
-      },
-      "altLabel": {
-        "en": [
-          "IMFs",
-          "intermolecular forces"
-        ]
-      },
-      "note": {
-        "de": [
-          "Anziehung zwischen Molekülen,",
-          "Dipol-Dipol-Wechselwirkungen",
-          "London-Dispersion-Forces",
-          "Van-der-Waals-Kräfte",
-          "Wasserstoffbrücken"
-        ]
       }
     }
   ],
@@ -163,12 +87,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -179,16 +97,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

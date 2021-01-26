@@ -6,49 +6,10 @@
   "prefLabel": {
     "de": "Benennung von Carbonsäuren"
   },
-  "hiddenLabel": {
-    "de": [
-      "Ameisensäure",
-      "Buttersäure,",
-      "COOH-Gruppe",
-      "Carboxylgruppe",
-      "Essigsäure",
-      "Fettsäuren",
-      "funktionelle Gruppe",
-      "homologen Reihe"
-    ]
-  },
-  "note": {
-    "de": [
-      "Ameisensäure",
-      "Buttersäure,",
-      "COOH-Gruppe",
-      "Carboxylgruppe",
-      "Essigsäure",
-      "Fettsäuren",
-      "funktionelle Gruppe",
-      "homologen Reihe"
-    ]
-  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/carbonsaeuren8ee0cd22-c807-4ce2-ad4e-cef4cb58dd98",
     "prefLabel": {
       "de": "Carbonsäuren"
-    },
-    "altLabel": {
-      "de": [
-        "Alkoholische Säure",
-        "Alkoholsäure",
-        "Carbonsäure",
-        "Carboxylat",
-        "Carboxylate",
-        "Carboxylsäure",
-        "Carboxylsäuren",
-        "Karbonsäure",
-        "Karbonsäuren",
-        "Tricarbonsäure",
-        "Tricarbonsäuren"
-      ]
     }
   },
   "inScheme": {
@@ -97,12 +58,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -113,16 +68,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"

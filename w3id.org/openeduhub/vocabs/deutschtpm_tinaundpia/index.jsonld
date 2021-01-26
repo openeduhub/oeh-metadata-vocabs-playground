@@ -23,15 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/rechtschreibungb445a183-4102-421e-9abf-944994af350e",
       "prefLabel": {
         "de": "Rechtschreibung"
-      },
-      "altLabel": {
-        "de": [
-          "Orthografie",
-          "Orthographie",
-          "Orthographisch",
-          "Rechtschreibregeln",
-          "Rechtschreibung"
-        ]
       }
     },
     {
@@ -50,14 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zeichensetzung99be9122-d3cb-4199-9dd9-8df0d1201e65",
       "prefLabel": {
         "de": "Zeichensetzung"
-      },
-      "altLabel": {
-        "de": [
-          "Interpunktion"
-        ],
-        "en": [
-          "Punctuation mark"
-        ]
       }
     }
   ],
@@ -110,12 +93,6 @@
     "prefLabel": {
       "@container": "@language"
     },
-    "hiddenLabel": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
-    },
     "altLabel": {
       "@container": [
         "@language",
@@ -126,16 +103,10 @@
       "@container": "@language"
     },
     "scopeNote": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "note": {
-      "@container": [
-        "@language",
-        "@set"
-      ]
+      "@container": "@language"
     },
     "notation": {
       "@container": "@set"
