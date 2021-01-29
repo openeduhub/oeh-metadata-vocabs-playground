@@ -8,107 +8,157 @@
     dct:description "Eine Werteliste der OEH-Fachredaktionen."@de;
     dct:creator "<https://wirlernenonline.de>" ;
     dct:created "2020-01-19"^^xsd:date;
-    dct:modified "2020-01-19"^^xsd:date;
+    dct:modified "2020-01-29"^^xsd:date;
     dct:issued "2020-01-19"^^xsd:date;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <GROUP_WLO-OER>, <GROUP_WLO-Theater>, <GROUP_WLO-Informatik>, 
-        <GROUP_WLO-Kunst>, <GROUP_WLO-Redaktionsleitung>, <GROUP_WLO-Redaktion>,
-        <GROUP_WLO-Medienbildung>, <GROUP_WLO-Physik>, <GROUP_WLO-Mathematik>, 
-        <GROUP_WLO-Musik>, <GROUP_WLO-Sport>, <GROUP_WLO-DaZ>, <GROUP_WLO-Deutsch>,
-        <GROUP_WLO-Chemie>, <GROUP_WLO-Fachportalmanager>, <GROUP_WLO-Türkisch>,
-        <GROUP_WLO-Biologie>, <GROUP_WLO-Nachhaltigkeit>, <GROUP_WLO-Englisch>,
-        <GROUP_WLO-Spanisch>, <GROUP_WLO-Religion>, <GROUP_WLO-Geschichte>, 
-        <GROUP_WLO-Doku> ;
+    skos:hasTopConcept <c3d1811a-ba16-103a-846e-33a966bbed45>, 
+        <a8be13cc-cdce-103a-81e3-9d9aea029be1>, 
+        <4ef4e6d2-651d-103a-850b-2b017690ecd2>,
+        <362d927a-651d-103a-850a-2b017690ecd2>, 
+        <ad838eee-652f-103a-8510-2b017690ecd2>, 
+        <513e4a78-4a56-103a-84e4-2b017690ecd2>,
+        <84618758-651d-103a-850d-2b017690ecd2>, 
+        <4ae73e08-5c55-103a-84ed-2b017690ecd2>, 
+        <2e292248-5c57-103a-84ef-2b017690ecd2>, 
+        <fccb7bb0-5c5b-103a-84f2-2b017690ecd2>, 
+        <be2f49ec-5c59-103a-84f1-2b017690ecd2>, 
+        <601fdbe2-651d-103a-850c-2b017690ecd2>, 
+        <be8d1d8e-645f-103a-84fd-2b017690ecd2>,
+        <52f2699a-5c5c-103a-84f3-2b017690ecd2>, 
+        <f4e65e48-98eb-103a-9f08-e765a227e358>, 
+        <f0aea5c4-a73c-103a-9f27-e765a227e358>,
+        <44b522ea-b153-103a-8467-33a966bbed45>, 
+        <2657e350-b153-103a-8466-33a966bbed45>, 
+        <b01f3dcc-b153-103a-8469-33a966bbed45>,
+        <9a3ede2c-b153-103a-8468-33a966bbed45>, 
+        <c8c557d0-b153-103a-846a-33a966bbed45>, 
+        <e91a9004-b153-103a-846b-33a966bbed45>, 
+        <53a428bc-a958-103a-9f2e-e765a227e358>, 
+        <cfee821e-98eb-103a-9f07-e765a227e358>,
+        <00b09356-a73d-103a-9f29-e765a227e358>, 
+        <e6187a88-7d50-103a-852f-2b017690ecd2>,
+        <e41871c8-5828-1039-9015-97a8c4a6e96a>, 
+        <0edcacb4-b154-103a-846c-33a966bbed45>,
+        <7ea16e92-eadc-103a-81f6-9d9aea029be1>, 
+        <241f724e-a73d-103a-9f2c-e765a227e358> ;
     .
 
-<GROUP_WLO-OER> a skos:Concept ;
+<c3d1811a-ba16-103a-846e-33a966bbed45> a skos:Concept ;
     skos:prefLabel "OER"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Theater> a skos:Concept ;
-    skos:prefLabel "Darstellendes Spie"@de ;
+<a8be13cc-cdce-103a-81e3-9d9aea029be1> a skos:Concept ;
+    skos:prefLabel "Theater"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Informatik> a skos:Concept ;
+<4ef4e6d2-651d-103a-850b-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Informatik"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Kunst> a skos:Concept ;
+<362d927a-651d-103a-850a-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Kuns"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Redaktionsleitung> a skos:Concept ;
+<ad838eee-652f-103a-8510-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "WLO-Redaktionsleitung"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Redaktion> a skos:Concept ;
+<513e4a78-4a56-103a-84e4-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "WLO-Redaktion"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Medienbildung> a skos:Concept ;
+<84618758-651d-103a-850d-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Medienbildung"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Physik> a skos:Concept ;
+<4ae73e08-5c55-103a-84ed-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Physik"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Mathematik> a skos:Concept ;
+<2e292248-5c57-103a-84ef-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Mathematik"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Musik> a skos:Concept ;
+<fccb7bb0-5c5b-103a-84f2-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Musik"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Sport> a skos:Concept ;
+<be2f49ec-5c59-103a-84f1-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Sport"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-DaZ> a skos:Concept ;
+<601fdbe2-651d-103a-850c-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Deutsch als Zweitsprache"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Deutsch> a skos:Concept ;
+<be8d1d8e-645f-103a-84fd-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Deutsch"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Chemie> a skos:Concept ;
+<52f2699a-5c5c-103a-84f3-2b017690ecd2> a skos:Concept ;
     skos:prefLabel "Chemie"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Fachportalmanager> a skos:Concept ;
+<f4e65e48-98eb-103a-9f08-e765a227e358> a skos:Concept ;
     skos:prefLabel "WLO-Fachportalmanager"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Türkisch> a skos:Concept ;
+<f0aea5c4-a73c-103a-9f27-e765a227e358> a skos:Concept ;
     skos:prefLabel "Türkisch"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Biologie> a skos:Concept ;
+<44b522ea-b153-103a-8467-33a966bbed45> a skos:Concept ;
     skos:prefLabel "Biologie"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Nachhaltigkeit> a skos:Concept ;
+<2657e350-b153-103a-8466-33a966bbed45> a skos:Concept ;
     skos:prefLabel "Nachhaltigkeit"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Englisch> a skos:Concept ;
+<b01f3dcc-b153-103a-8469-33a966bbed45> a skos:Concept ;
     skos:prefLabel "Englisch"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Spanisch> a skos:Concept ;
+<9a3ede2c-b153-103a-8468-33a966bbed45> a skos:Concept ;
     skos:prefLabel "Spanisch"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Religion> a skos:Concept ;
+<c8c557d0-b153-103a-846a-33a966bbed45> a skos:Concept ;
     skos:prefLabel "Religion"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Geschichte> a skos:Concept ;
+<e91a9004-b153-103a-846b-33a966bbed45> a skos:Concept ;
     skos:prefLabel "Geschichte"@de ;
     skos:topConceptOf <> .
 
-<GROUP_WLO-Doku> a skos:Concept ;
-    skos:prefLabel ""@de ;
+<53a428bc-a958-103a-9f2e-e765a227e358> a skos:Concept ;
+    skos:prefLabel "WLO-Doku"@de ;
+    skos:topConceptOf <> .
+
+<cfee821e-98eb-103a-9f07-e765a227e358> a skos:Concept ;
+    skos:prefLabel "WLO-Test"@de ;
+    skos:topConceptOf <> .
+
+<00b09356-a73d-103a-9f29-e765a227e358> a skos:Concept ;
+    skos:prefLabel "WLO-Kernteam"@de ;
+    skos:topConceptOf <> .
+
+<e6187a88-7d50-103a-852f-2b017690ecd2> a skos:Concept ;
+    skos:prefLabel "WLO-Mitglieder"@de ;
+    skos:topConceptOf <> .
+
+<e41871c8-5828-1039-9015-97a8c4a6e96a> a skos:Concept ;
+    skos:prefLabel "Redaktion Mathe Sek II"@de ;
+    skos:topConceptOf <> .
+
+<0edcacb4-b154-103a-846c-33a966bbed45> a skos:Concept ;
+    skos:prefLabel "Politische Bildung"@de ;
+    skos:topConceptOf <> .
+
+<7ea16e92-eadc-103a-81f6-9d9aea029be1> a skos:Concept ;
+    skos:prefLabel "Schule im Aufbruch"@de ;
+    skos:topConceptOf <> .
+
+<241f724e-a73d-103a-9f2c-e765a227e358> a skos:Concept ;
+    skos:prefLabel "WLO-Darstellendes Spiel / Theater"@de ;
     skos:topConceptOf <> .
