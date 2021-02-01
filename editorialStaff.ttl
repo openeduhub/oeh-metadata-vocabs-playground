@@ -56,7 +56,7 @@
     skos:topConceptOf <> .
 
 <362d927a-651d-103a-850a-2b017690ecd2> a skos:Concept ;
-    skos:prefLabel "Kuns"@de ;
+    skos:prefLabel "Kunst"@de ;
     skos:topConceptOf <> .
 
 <ad838eee-652f-103a-8510-2b017690ecd2> a skos:Concept ;
