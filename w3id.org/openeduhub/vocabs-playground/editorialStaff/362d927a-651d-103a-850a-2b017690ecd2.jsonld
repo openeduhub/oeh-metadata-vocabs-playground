@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2F362d927a-651d-103a-850a-2b017690ecd2",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2F362d927a-651d-103a-850a-2b017690ecd2",
   "prefLabel": {
-    "de": "Kuns"
+    "de": "Kunst"
   },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs-playground/editorialStaff/",
