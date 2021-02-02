@@ -12,7 +12,6 @@
     dct:issued "2020-01-19"^^xsd:date;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept <c3d1811a-ba16-103a-846e-33a966bbed45>, 
-        <a8be13cc-cdce-103a-81e3-9d9aea029be1>, 
         <4ef4e6d2-651d-103a-850b-2b017690ecd2>,
         <362d927a-651d-103a-850a-2b017690ecd2>, 
         <ad838eee-652f-103a-8510-2b017690ecd2>, 
@@ -45,10 +44,6 @@
 
 <c3d1811a-ba16-103a-846e-33a966bbed45> a skos:Concept ;
     skos:prefLabel "OER"@de ;
-    skos:topConceptOf <> .
-
-<a8be13cc-cdce-103a-81e3-9d9aea029be1> a skos:Concept ;
-    skos:prefLabel "Theater"@de ;
     skos:topConceptOf <> .
 
 <4ef4e6d2-651d-103a-850b-2b017690ecd2> a skos:Concept ;
