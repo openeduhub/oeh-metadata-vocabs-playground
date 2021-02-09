@@ -7829,7 +7829,7 @@
 <605005> a skos:Concept ;
     skos:broader <6050> ;
     skos:inScheme <> ;
-    skos:prefLabel ""@de,
+    skos:prefLabel "Publikumsforschung"@de,
         "Audience research"@en .
 
 <605006> a skos:Concept ;
