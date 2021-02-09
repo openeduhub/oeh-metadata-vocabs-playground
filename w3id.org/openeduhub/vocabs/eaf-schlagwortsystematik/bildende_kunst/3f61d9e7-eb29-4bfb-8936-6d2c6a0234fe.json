@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/3f61d9e7-eb29-4bfb-8936-6d2c6a0234fe",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3f61d9e7-eb29-4bfb-8936-6d2c6a0234fe",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3f61d9e7-eb29-4bfb-8936-6d2c6a0234fe",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3f61d9e7-eb29-4bfb-8936-6d2c6a0234fe",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3f61d9e7-eb29-4bfb-8936-6d2c6a0234fe",
   "prefLabel": {
     "de": "Lohse, Richard Paul"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

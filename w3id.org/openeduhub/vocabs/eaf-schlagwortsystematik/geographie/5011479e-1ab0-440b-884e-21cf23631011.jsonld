@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5011479e-1ab0-440b-884e-21cf23631011",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F5011479e-1ab0-440b-884e-21cf23631011",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F5011479e-1ab0-440b-884e-21cf23631011",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F5011479e-1ab0-440b-884e-21cf23631011",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F5011479e-1ab0-440b-884e-21cf23631011",
   "prefLabel": {
     "de": "Verkehrsgeographie"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1efe78a1-552f-4717-a5a8-c21987de98fb",
-      "prefLabel": {
-        "de": "Schifffahrt"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/260ae659-df39-462b-9899-4e31640b3575",
       "prefLabel": {
@@ -20,15 +14,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5f393d3a-6210-43ac-82be-45a39d4d1491",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1efe78a1-552f-4717-a5a8-c21987de98fb",
       "prefLabel": {
-        "de": "Berufsverkehr"
+        "de": "Schifffahrt"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b208ecce-58ca-42b1-a627-c8a4c3aba971",
       "prefLabel": {
         "de": "Karawane"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5f393d3a-6210-43ac-82be-45a39d4d1491",
+      "prefLabel": {
+        "de": "Berufsverkehr"
       }
     },
     {
@@ -114,7 +114,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +132,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

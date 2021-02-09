@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/menschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmenschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmenschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmenschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmenschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
   "prefLabel": {
     "de": "Menschliches Auge"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

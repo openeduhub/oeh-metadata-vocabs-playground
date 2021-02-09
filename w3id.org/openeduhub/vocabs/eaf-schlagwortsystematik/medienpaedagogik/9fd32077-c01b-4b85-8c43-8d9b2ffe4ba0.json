@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/9fd32077-c01b-4b85-8c43-8d9b2ffe4ba0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9fd32077-c01b-4b85-8c43-8d9b2ffe4ba0",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9fd32077-c01b-4b85-8c43-8d9b2ffe4ba0",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9fd32077-c01b-4b85-8c43-8d9b2ffe4ba0",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9fd32077-c01b-4b85-8c43-8d9b2ffe4ba0",
   "prefLabel": {
     "de": "Medienzentrum"
   },
@@ -11,12 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/685f335d-2ad6-43b0-81f7-6fb57e71b417",
       "prefLabel": {
         "de": "Kinderkino"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/730af8dd-8e98-4ee7-b4ec-6905c8166532",
-      "prefLabel": {
-        "de": "Aktive Medienarbeit "
       }
     },
     {
@@ -29,6 +23,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/ac4d2f7f-592d-4c71-8c9a-95155aee481d",
       "prefLabel": {
         "de": "Medienkunde"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/730af8dd-8e98-4ee7-b4ec-6905c8166532",
+      "prefLabel": {
+        "de": "Aktive Medienarbeit "
       }
     },
     {
@@ -108,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

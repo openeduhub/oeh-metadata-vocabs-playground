@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/682642f5-de81-4319-91da-35e4da76cf20",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F682642f5-de81-4319-91da-35e4da76cf20",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F682642f5-de81-4319-91da-35e4da76cf20",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F682642f5-de81-4319-91da-35e4da76cf20",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F682642f5-de81-4319-91da-35e4da76cf20",
   "prefLabel": {
     "de": "Biblische Gestalt)"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/0032195f-78cc-4597-9fdc-10930f6e0f3e",
-      "prefLabel": {
-        "de": "Jesus Christus"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/095689d3-2469-452b-8228-dc0669fb497a",
       "prefLabel": {
@@ -143,6 +137,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/7204c047-1198-4edb-87f1-80d846ea5a2b",
       "prefLabel": {
         "de": "Pilatus (biblische Gestalt)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/0032195f-78cc-4597-9fdc-10930f6e0f3e",
+      "prefLabel": {
+        "de": "Jesus Christus"
       }
     },
     {
@@ -384,7 +384,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -393,7 +402,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

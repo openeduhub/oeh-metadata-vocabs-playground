@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/modaladverbiena8a981d4-6863-4d8b-bf69-879c1eb7c4fe",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fmodaladverbiena8a981d4-6863-4d8b-bf69-879c1eb7c4fe",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fmodaladverbiena8a981d4-6863-4d8b-bf69-879c1eb7c4fe",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fmodaladverbiena8a981d4-6863-4d8b-bf69-879c1eb7c4fe",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fmodaladverbiena8a981d4-6863-4d8b-bf69-879c1eb7c4fe",
   "prefLabel": {
     "de": "Modaladverbien"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

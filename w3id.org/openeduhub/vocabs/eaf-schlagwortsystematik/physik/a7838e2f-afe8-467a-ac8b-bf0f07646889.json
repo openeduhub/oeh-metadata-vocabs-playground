@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/a7838e2f-afe8-467a-ac8b-bf0f07646889",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fa7838e2f-afe8-467a-ac8b-bf0f07646889",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fa7838e2f-afe8-467a-ac8b-bf0f07646889",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fa7838e2f-afe8-467a-ac8b-bf0f07646889",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fa7838e2f-afe8-467a-ac8b-bf0f07646889",
   "prefLabel": {
     "de": "Strahlung (allgemein)"
   },
@@ -11,6 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/119bd346-dafd-4b06-8313-a0d2e9695265",
       "prefLabel": {
         "de": "Ultraviolett-Katastrophe"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ebe2d114-3bce-41a1-9536-a84cba2f9dbc",
+      "prefLabel": {
+        "de": "Licht"
       }
     },
     {
@@ -26,21 +32,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/900234da-104e-4713-8e2f-58803ff94157",
-      "prefLabel": {
-        "de": "Farbe"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/c463bbb7-9b5f-433a-86d9-d40f8befae0a",
       "prefLabel": {
         "de": "Einfallswinkel"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ebe2d114-3bce-41a1-9536-a84cba2f9dbc",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/900234da-104e-4713-8e2f-58803ff94157",
       "prefLabel": {
-        "de": "Licht"
+        "de": "Farbe"
       }
     }
   ],
@@ -114,7 +114,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +132,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

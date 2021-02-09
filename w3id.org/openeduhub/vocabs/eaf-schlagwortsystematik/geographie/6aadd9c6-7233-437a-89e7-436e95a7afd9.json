@@ -1,24 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6aadd9c6-7233-437a-89e7-436e95a7afd9",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F6aadd9c6-7233-437a-89e7-436e95a7afd9",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F6aadd9c6-7233-437a-89e7-436e95a7afd9",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F6aadd9c6-7233-437a-89e7-436e95a7afd9",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F6aadd9c6-7233-437a-89e7-436e95a7afd9",
   "prefLabel": {
     "de": "Spanien"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3c0eb144-5ee0-4dea-b4a9-7eb8a08d85a7",
-      "prefLabel": {
-        "de": "Kanarische Inseln"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/736bea53-70b9-4b4e-be37-734dae488f77",
-      "prefLabel": {
-        "de": "Santiago de Compostela"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/76807716-1de4-4743-ac42-9e54368fa1d9",
       "prefLabel": {
@@ -26,9 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a3b28dd1-5137-4aba-9745-709979f11eaf",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b102de3c-9c2d-454f-aad1-64ff5c8673d5",
       "prefLabel": {
-        "de": "Gibraltar"
+        "de": "Andalusien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3c0eb144-5ee0-4dea-b4a9-7eb8a08d85a7",
+      "prefLabel": {
+        "de": "Kanarische Inseln"
       }
     },
     {
@@ -38,9 +32,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b102de3c-9c2d-454f-aad1-64ff5c8673d5",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/736bea53-70b9-4b4e-be37-734dae488f77",
       "prefLabel": {
-        "de": "Andalusien"
+        "de": "Santiago de Compostela"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a3b28dd1-5137-4aba-9745-709979f11eaf",
+      "prefLabel": {
+        "de": "Gibraltar"
       }
     },
     {
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

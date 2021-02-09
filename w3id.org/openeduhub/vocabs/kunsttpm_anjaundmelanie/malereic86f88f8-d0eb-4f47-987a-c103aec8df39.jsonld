@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/malereic86f88f8-d0eb-4f47-987a-c103aec8df39",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmalereic86f88f8-d0eb-4f47-987a-c103aec8df39",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmalereic86f88f8-d0eb-4f47-987a-c103aec8df39",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmalereic86f88f8-d0eb-4f47-987a-c103aec8df39",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmalereic86f88f8-d0eb-4f47-987a-c103aec8df39",
   "prefLabel": {
     "de": "Malerei"
   },
@@ -19,6 +19,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/",
+    "prefLabel": {
+      "de": "Kunst"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -83,7 +89,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -92,7 +107,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

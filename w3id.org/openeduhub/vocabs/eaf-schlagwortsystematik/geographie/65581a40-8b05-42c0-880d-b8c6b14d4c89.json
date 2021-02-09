@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/65581a40-8b05-42c0-880d-b8c6b14d4c89",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F65581a40-8b05-42c0-880d-b8c6b14d4c89",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F65581a40-8b05-42c0-880d-b8c6b14d4c89",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F65581a40-8b05-42c0-880d-b8c6b14d4c89",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F65581a40-8b05-42c0-880d-b8c6b14d4c89",
   "prefLabel": {
     "de": "Italien"
   },
@@ -11,6 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/108372f7-8f65-4ab3-816c-3ead779e5b70",
       "prefLabel": {
         "de": "Liparische Inseln"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6d0414fd-f7ad-44b3-9c47-bfdb2e6c7980",
+      "prefLabel": {
+        "de": "Toskana"
       }
     },
     {
@@ -38,21 +44,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f47b7bd-a061-4fa5-8405-da80dbad65fc",
-      "prefLabel": {
-        "de": "Lombardei"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5f9cce25-651e-49d1-8b4c-5661e335d4eb",
       "prefLabel": {
         "de": "Ferrara"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6d0414fd-f7ad-44b3-9c47-bfdb2e6c7980",
-      "prefLabel": {
-        "de": "Toskana"
       }
     },
     {
@@ -68,21 +62,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8558cdb6-b3b7-4584-9663-6f6cd5c77e90",
-      "prefLabel": {
-        "de": "Ligurien"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8c7b1adb-b605-4e54-8c27-d79ee1b99408",
       "prefLabel": {
         "de": "Verona"
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8558cdb6-b3b7-4584-9663-6f6cd5c77e90",
+      "prefLabel": {
+        "de": "Ligurien"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a79c80d1-ecd0-4f86-b834-e3efb1819424",
       "prefLabel": {
         "de": "Ischia"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f47b7bd-a061-4fa5-8405-da80dbad65fc",
+      "prefLabel": {
+        "de": "Lombardei"
       }
     },
     {
@@ -180,7 +180,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -189,7 +198,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

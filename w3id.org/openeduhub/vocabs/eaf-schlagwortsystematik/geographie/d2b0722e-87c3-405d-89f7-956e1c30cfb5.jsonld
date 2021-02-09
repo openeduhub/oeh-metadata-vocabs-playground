@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d2b0722e-87c3-405d-89f7-956e1c30cfb5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd2b0722e-87c3-405d-89f7-956e1c30cfb5",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd2b0722e-87c3-405d-89f7-956e1c30cfb5",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd2b0722e-87c3-405d-89f7-956e1c30cfb5",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd2b0722e-87c3-405d-89f7-956e1c30cfb5",
   "prefLabel": {
     "de": "Südamerika"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0ac64fd7-6d9a-4d47-8d14-f266142d3665",
-      "prefLabel": {
-        "de": "Brasilien"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0b67c0d5-40bd-45d3-8995-49743b67da17",
       "prefLabel": {
@@ -20,9 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/31c99b5c-1c26-4513-a96a-8e7950c55fb6",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0ac64fd7-6d9a-4d47-8d14-f266142d3665",
       "prefLabel": {
-        "de": "Ecuador"
+        "de": "Brasilien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cd930660-666f-40f2-8632-6fbee9e18b4b",
+      "prefLabel": {
+        "de": "Peru"
       }
     },
     {
@@ -56,9 +56,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cd930660-666f-40f2-8632-6fbee9e18b4b",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/31c99b5c-1c26-4513-a96a-8e7950c55fb6",
       "prefLabel": {
-        "de": "Peru"
+        "de": "Ecuador"
       }
     },
     {
@@ -144,7 +144,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -153,7 +162,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

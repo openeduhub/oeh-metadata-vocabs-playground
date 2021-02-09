@@ -1,12 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/57952bbc-e0ce-497a-a7be-944b38e01b86",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F57952bbc-e0ce-497a-a7be-944b38e01b86",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F57952bbc-e0ce-497a-a7be-944b38e01b86",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F57952bbc-e0ce-497a-a7be-944b38e01b86",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F57952bbc-e0ce-497a-a7be-944b38e01b86",
   "prefLabel": {
     "de": "Musikrichtung"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/917543a2-bd0e-4a33-820e-d30fbfdf91f6",
+      "prefLabel": {
+        "de": "Moderne Musik"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/0feafeec-26d2-412e-b369-555e2d06c554",
       "prefLabel": {
@@ -14,15 +20,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/28e2f26d-a62a-4471-891b-ee1a5a502610",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a1492b98-15b4-4ed7-8d5d-f59a47571dae",
       "prefLabel": {
-        "de": "Mittelalterliche Musik"
+        "de": "Klassik (Musik)"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/363b9afc-631e-4a98-98a6-02b7ab29f36c",
       "prefLabel": {
         "de": "Musical"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/92086e88-e4c6-499c-91ac-349b6ce07e59",
+      "prefLabel": {
+        "de": "Kirchenmusik"
       }
     },
     {
@@ -50,27 +62,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/917543a2-bd0e-4a33-820e-d30fbfdf91f6",
-      "prefLabel": {
-        "de": "Moderne Musik"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/9184971a-f1a2-42db-887e-24e6d14f87f4",
       "prefLabel": {
         "de": "Orgelmusik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/92086e88-e4c6-499c-91ac-349b6ce07e59",
-      "prefLabel": {
-        "de": "Kirchenmusik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a1492b98-15b4-4ed7-8d5d-f59a47571dae",
-      "prefLabel": {
-        "de": "Klassik (Musik)"
       }
     },
     {
@@ -84,8 +78,20 @@
       "prefLabel": {
         "de": "Präludium"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/28e2f26d-a62a-4471-891b-ee1a5a502610",
+      "prefLabel": {
+        "de": "Mittelalterliche Musik"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/",
+    "prefLabel": {
+      "de": "musik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -150,7 +156,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -159,7 +174,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,40 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ef8a9c90-e869-4471-9aa2-a60711e814b6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef8a9c90-e869-4471-9aa2-a60711e814b6",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef8a9c90-e869-4471-9aa2-a60711e814b6",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef8a9c90-e869-4471-9aa2-a60711e814b6",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef8a9c90-e869-4471-9aa2-a60711e814b6",
   "prefLabel": {
     "de": "Physik"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/012bf173-23b8-410d-8ce2-cba73b8cd28b",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/d372a6f8-9026-43e8-8e1d-6e3ab9990c6f",
       "prefLabel": {
-        "de": "Bewegung (Physik)"
+        "de": "Energie"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/1706be2c-5ce4-4581-9420-2624a302ff6b",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/cf66080d-03b2-450d-92f0-523cfd0f1878",
       "prefLabel": {
-        "de": "Kernphysik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/2bba3a10-2385-4934-bf8d-5a58f0e31679",
-      "prefLabel": {
-        "de": "Elementarteilchen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/33aac1e3-9cc0-4dbc-b107-d156254489df",
-      "prefLabel": {
-        "de": "Astronomie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/58914f7f-1b4c-4e9f-9abc-f10744377235",
-      "prefLabel": {
-        "de": "Prüfverfahren"
+        "de": "Mechanik"
       }
     },
     {
@@ -44,33 +26,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/7d1f9337-52a4-403f-af96-df82d3574966",
-      "prefLabel": {
-        "de": "Orbitalmodell"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/7d38b243-aa28-4c13-90da-82f578d7bf73",
-      "prefLabel": {
-        "de": "Quantentheorie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/888ef0c3-cffd-4c17-b24a-646c42832c8f",
-      "prefLabel": {
-        "de": "Heizung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/8bf18bea-9144-45fc-8b53-ea51f81efec9",
-      "prefLabel": {
-        "de": "Wechselwirkung (fundamentale)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/98e488ff-00ea-4974-bb2c-2adf751492e9",
       "prefLabel": {
         "de": "Messtechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/1706be2c-5ce4-4581-9420-2624a302ff6b",
+      "prefLabel": {
+        "de": "Kernphysik"
       }
     },
     {
@@ -86,18 +50,60 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/cf66080d-03b2-450d-92f0-523cfd0f1878",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/2bba3a10-2385-4934-bf8d-5a58f0e31679",
       "prefLabel": {
-        "de": "Mechanik"
+        "de": "Elementarteilchen"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/d372a6f8-9026-43e8-8e1d-6e3ab9990c6f",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/58914f7f-1b4c-4e9f-9abc-f10744377235",
       "prefLabel": {
-        "de": "Energie"
+        "de": "Prüfverfahren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/012bf173-23b8-410d-8ce2-cba73b8cd28b",
+      "prefLabel": {
+        "de": "Bewegung (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/7d1f9337-52a4-403f-af96-df82d3574966",
+      "prefLabel": {
+        "de": "Orbitalmodell"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/7d38b243-aa28-4c13-90da-82f578d7bf73",
+      "prefLabel": {
+        "de": "Quantentheorie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/8bf18bea-9144-45fc-8b53-ea51f81efec9",
+      "prefLabel": {
+        "de": "Wechselwirkung (fundamentale)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/888ef0c3-cffd-4c17-b24a-646c42832c8f",
+      "prefLabel": {
+        "de": "Heizung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/33aac1e3-9cc0-4dbc-b107-d156254489df",
+      "prefLabel": {
+        "de": "Astronomie"
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/",
+    "prefLabel": {
+      "de": "physik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -162,7 +168,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -171,7 +186,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

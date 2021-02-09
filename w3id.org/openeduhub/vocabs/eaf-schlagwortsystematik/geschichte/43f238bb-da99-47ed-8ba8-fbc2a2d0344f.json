@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/43f238bb-da99-47ed-8ba8-fbc2a2d0344f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F43f238bb-da99-47ed-8ba8-fbc2a2d0344f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F43f238bb-da99-47ed-8ba8-fbc2a2d0344f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F43f238bb-da99-47ed-8ba8-fbc2a2d0344f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F43f238bb-da99-47ed-8ba8-fbc2a2d0344f",
   "prefLabel": {
     "de": "Deutsches Reich (vor 1871)"
   },
@@ -26,18 +26,24 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/8d5d356a-0099-4795-8e4a-a8e0223ed962",
-      "prefLabel": {
-        "de": "Territorialstaat"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/ba012835-f208-480c-b9aa-6a372589bc39",
       "prefLabel": {
         "de": "Hambacher Fest"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/8d5d356a-0099-4795-8e4a-a8e0223ed962",
+      "prefLabel": {
+        "de": "Territorialstaat"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/",
+    "prefLabel": {
+      "de": "geschichte"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -102,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

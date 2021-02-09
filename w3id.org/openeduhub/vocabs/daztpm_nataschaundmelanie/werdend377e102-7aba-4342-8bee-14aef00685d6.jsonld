@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/werdend377e102-7aba-4342-8bee-14aef00685d6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fwerdend377e102-7aba-4342-8bee-14aef00685d6",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fwerdend377e102-7aba-4342-8bee-14aef00685d6",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fwerdend377e102-7aba-4342-8bee-14aef00685d6",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fwerdend377e102-7aba-4342-8bee-14aef00685d6",
   "prefLabel": {
     "de": "Werden"
   },
@@ -87,7 +87,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -96,7 +105,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

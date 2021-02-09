@@ -1,18 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/datensicherheitf88b89c2-a5aa-4f1d-a644-5500b4602dcc",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fdatensicherheitf88b89c2-a5aa-4f1d-a644-5500b4602dcc",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fdatensicherheitf88b89c2-a5aa-4f1d-a644-5500b4602dcc",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fdatensicherheitf88b89c2-a5aa-4f1d-a644-5500b4602dcc",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fdatensicherheitf88b89c2-a5aa-4f1d-a644-5500b4602dcc",
   "prefLabel": {
     "de": "Datensicherheit"
   },
   "altLabel": {
     "de": [
+      "IT-Sicherheit",
       "Computersicherheit",
       "Datensicherheit",
       "EDV-Sicherheit",
       "IT-Security",
-      "IT-Sicherheit",
       "Informationssicherheit",
       "Sicherheit in der Informationstechnik",
       "Technischer Datenschutz"
@@ -91,7 +91,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -100,7 +109,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

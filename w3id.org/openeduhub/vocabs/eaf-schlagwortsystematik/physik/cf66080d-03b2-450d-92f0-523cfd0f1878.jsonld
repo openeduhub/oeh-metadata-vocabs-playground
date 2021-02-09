@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/cf66080d-03b2-450d-92f0-523cfd0f1878",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fcf66080d-03b2-450d-92f0-523cfd0f1878",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fcf66080d-03b2-450d-92f0-523cfd0f1878",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fcf66080d-03b2-450d-92f0-523cfd0f1878",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fcf66080d-03b2-450d-92f0-523cfd0f1878",
   "prefLabel": {
     "de": "Mechanik"
   },
@@ -14,15 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/0dc58f4e-5a4b-4474-b282-e69d3f85e4fa",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/99061e38-e85b-49f3-a723-cb16c6f7fe31",
       "prefLabel": {
-        "de": "Newtonsche Gesetze"
+        "de": "Wärmekraftmaschine"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/0e54e925-cd4c-4cda-b0af-a51719c80cda",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/0dc58f4e-5a4b-4474-b282-e69d3f85e4fa",
       "prefLabel": {
-        "de": "Kraft"
+        "de": "Newtonsche Gesetze"
       }
     },
     {
@@ -32,21 +32,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/98ba65f4-0f54-46b9-a968-5bcca87a09ac",
+      "prefLabel": {
+        "de": "Welle (Physik)"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/1faf69ce-4502-48bc-9a41-d059ec9fe8e3",
       "prefLabel": {
         "de": "Getriebe"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/266cd666-7acf-4706-b0e5-35ecd3c823c8",
-      "prefLabel": {
-        "de": "Druck (Physik)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/2765e967-626c-4217-94bb-3edc280c0c9c",
       "prefLabel": {
         "de": "Leistung (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/d4d0eb06-f876-43a2-852e-289966ab4051",
+      "prefLabel": {
+        "de": "Geschwindigkeit"
       }
     },
     {
@@ -68,12 +74,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/4a7a15a8-03dd-432d-8962-e80a8f5a27f1",
-      "prefLabel": {
-        "de": "Wärme"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/4da1bfc6-b80e-4a7b-93e0-a7920f6c2d51",
       "prefLabel": {
         "de": "Drehmoment"
@@ -92,9 +92,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/0e54e925-cd4c-4cda-b0af-a51719c80cda",
+      "prefLabel": {
+        "de": "Kraft"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/5e505e74-f02a-4800-846c-e6ad76726adc",
       "prefLabel": {
         "de": "Pneumatik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/266cd666-7acf-4706-b0e5-35ecd3c823c8",
+      "prefLabel": {
+        "de": "Druck (Physik)"
       }
     },
     {
@@ -110,15 +122,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/98ba65f4-0f54-46b9-a968-5bcca87a09ac",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/4a7a15a8-03dd-432d-8962-e80a8f5a27f1",
       "prefLabel": {
-        "de": "Welle (Physik)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/99061e38-e85b-49f3-a723-cb16c6f7fe31",
-      "prefLabel": {
-        "de": "Wärmekraftmaschine"
+        "de": "Wärme"
       }
     },
     {
@@ -179,12 +185,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/d16193a8-365d-4711-a8bd-33420ade4ec6",
       "prefLabel": {
         "de": "Oberflächenspannung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/d4d0eb06-f876-43a2-852e-289966ab4051",
-      "prefLabel": {
-        "de": "Geschwindigkeit"
       }
     },
     {
@@ -288,7 +288,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -297,7 +306,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

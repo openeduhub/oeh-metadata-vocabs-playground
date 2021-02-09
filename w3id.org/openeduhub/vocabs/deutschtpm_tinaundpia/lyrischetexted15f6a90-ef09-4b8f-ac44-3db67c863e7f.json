@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
   "prefLabel": {
     "de": "Lyrische Texte"
   },
@@ -117,7 +117,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -126,7 +135,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

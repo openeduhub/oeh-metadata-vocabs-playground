@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/augmentedrealityc561c1c9-bede-498f-a8cf-9f6b1d9ef4d3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Faugmentedrealityc561c1c9-bede-498f-a8cf-9f6b1d9ef4d3",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Faugmentedrealityc561c1c9-bede-498f-a8cf-9f6b1d9ef4d3",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Faugmentedrealityc561c1c9-bede-498f-a8cf-9f6b1d9ef4d3",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Faugmentedrealityc561c1c9-bede-498f-a8cf-9f6b1d9ef4d3",
   "prefLabel": {
     "de": "Augmented Reality"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

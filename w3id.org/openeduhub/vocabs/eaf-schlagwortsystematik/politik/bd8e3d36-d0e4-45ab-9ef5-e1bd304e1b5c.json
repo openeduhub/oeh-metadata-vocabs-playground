@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2Fbd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2Fbd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2Fbd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2Fbd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
   "prefLabel": {
     "de": "Herrschaftsform"
   },
@@ -38,6 +38,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/97ea3db5-46b0-4962-82f7-d2259be6ed32",
+      "prefLabel": {
+        "de": "Demokratie"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/57eaa1df-52d7-4cbc-9710-e8b9bc48d60e",
       "prefLabel": {
         "de": "Demagogie"
@@ -53,12 +59,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/7780a205-c03c-4d10-b78a-51e7b15d825d",
       "prefLabel": {
         "de": "Rechtsstaat"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/97ea3db5-46b0-4962-82f7-d2259be6ed32",
-      "prefLabel": {
-        "de": "Demokratie"
       }
     },
     {
@@ -156,7 +156,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -165,7 +174,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

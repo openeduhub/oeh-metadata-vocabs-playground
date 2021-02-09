@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quaderundwuerfel06a5eaf1-80b1-4996-8b2e-c88528f7b013",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fquaderundwuerfel06a5eaf1-80b1-4996-8b2e-c88528f7b013",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fquaderundwuerfel06a5eaf1-80b1-4996-8b2e-c88528f7b013",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fquaderundwuerfel06a5eaf1-80b1-4996-8b2e-c88528f7b013",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fquaderundwuerfel06a5eaf1-80b1-4996-8b2e-c88528f7b013",
   "prefLabel": {
     "de": "Quader und Würfel"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/a-b-c-formelzumloesenquadratischergleichungen4b16081b-fc42-4e65-adf5-87f0db168170",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fa-b-c-formelzumloesenquadratischergleichungen4b16081b-fc42-4e65-adf5-87f0db168170",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fa-b-c-formelzumloesenquadratischergleichungen4b16081b-fc42-4e65-adf5-87f0db168170",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fa-b-c-formelzumloesenquadratischergleichungen4b16081b-fc42-4e65-adf5-87f0db168170",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fa-b-c-formelzumloesenquadratischergleichungen4b16081b-fc42-4e65-adf5-87f0db168170",
   "prefLabel": {
     "de": "A-b-c-Formel zum Lösen quadratischer Gleichungen"
   },
@@ -79,7 +79,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -88,7 +97,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

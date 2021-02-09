@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/zusammenarbeitenundteilen31bffa91-d78a-4077-8b7c-4a0ffc4eadc1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fzusammenarbeitenundteilen31bffa91-d78a-4077-8b7c-4a0ffc4eadc1",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fzusammenarbeitenundteilen31bffa91-d78a-4077-8b7c-4a0ffc4eadc1",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fzusammenarbeitenundteilen31bffa91-d78a-4077-8b7c-4a0ffc4eadc1",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fzusammenarbeitenundteilen31bffa91-d78a-4077-8b7c-4a0ffc4eadc1",
   "prefLabel": {
     "de": "Zusammenarbeiten und Teilen "
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

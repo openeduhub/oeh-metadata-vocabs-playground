@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/00b8336d-b48b-4543-bf62-65defa2275f0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F00b8336d-b48b-4543-bf62-65defa2275f0",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F00b8336d-b48b-4543-bf62-65defa2275f0",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F00b8336d-b48b-4543-bf62-65defa2275f0",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F00b8336d-b48b-4543-bf62-65defa2275f0",
   "prefLabel": {
     "de": "Zeitalter"
   },
@@ -11,6 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/7157d6f2-8925-44f3-b93d-6e6ae64fc8c6",
       "prefLabel": {
         "de": "Griechisches Altertum"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/cde1a81e-eead-49b5-9ec9-bff7262404fe",
+      "prefLabel": {
+        "de": "Vorgeschichte (Menschheit)"
       }
     },
     {
@@ -35,12 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/c7ce260c-0c36-4c1c-a838-8083e386adc5",
       "prefLabel": {
         "de": "Aufklärung (Zeitalter)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/cde1a81e-eead-49b5-9ec9-bff7262404fe",
-      "prefLabel": {
-        "de": "Vorgeschichte (Menschheit)"
       }
     },
     {
@@ -138,7 +138,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -147,7 +156,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

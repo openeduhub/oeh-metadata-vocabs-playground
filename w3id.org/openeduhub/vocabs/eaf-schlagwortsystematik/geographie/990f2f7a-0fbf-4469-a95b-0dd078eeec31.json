@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/990f2f7a-0fbf-4469-a95b-0dd078eeec31",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F990f2f7a-0fbf-4469-a95b-0dd078eeec31",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F990f2f7a-0fbf-4469-a95b-0dd078eeec31",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F990f2f7a-0fbf-4469-a95b-0dd078eeec31",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F990f2f7a-0fbf-4469-a95b-0dd078eeec31",
   "prefLabel": {
     "de": "Wilder Westen"
   },
@@ -20,12 +20,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0a221c0c-c4c2-4855-bc76-7e546437a408",
-      "prefLabel": {
-        "de": "Texas"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/30bca2bd-2764-441a-8429-510f35ce83d6",
       "prefLabel": {
         "de": "Maine"
@@ -38,21 +32,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5e3b2918-6847-4243-96e5-acade8330577",
+      "prefLabel": {
+        "de": "New York"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/59d1cd3e-a011-491d-a406-f48ac4a33515",
       "prefLabel": {
         "de": "Mississippi (USA - Staat)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5c42b2d4-230d-4b2d-929f-b1ef4e9f04b9",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c5027133-ac96-4f6f-b94f-d7c031054f53",
       "prefLabel": {
-        "de": "Massachusetts"
+        "de": "Lousiana"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5e3b2918-6847-4243-96e5-acade8330577",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0a221c0c-c4c2-4855-bc76-7e546437a408",
       "prefLabel": {
-        "de": "New York"
+        "de": "Texas"
       }
     },
     {
@@ -65,6 +65,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8fd5b2ee-91cd-461c-b60a-c7a826a36ec1",
       "prefLabel": {
         "de": "Michigan"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d781eb9f-682c-41d8-a34b-b4ae6175eb03",
+      "prefLabel": {
+        "de": "Ohio)"
       }
     },
     {
@@ -92,21 +98,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c5027133-ac96-4f6f-b94f-d7c031054f53",
-      "prefLabel": {
-        "de": "Lousiana"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d1a7f057-1774-4468-9f88-55127cf034a2",
       "prefLabel": {
         "de": "Missouri (USA - Staat)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d781eb9f-682c-41d8-a34b-b4ae6175eb03",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5c42b2d4-230d-4b2d-929f-b1ef4e9f04b9",
       "prefLabel": {
-        "de": "Ohio)"
+        "de": "Massachusetts"
       }
     },
     {
@@ -186,7 +186,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -195,7 +204,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

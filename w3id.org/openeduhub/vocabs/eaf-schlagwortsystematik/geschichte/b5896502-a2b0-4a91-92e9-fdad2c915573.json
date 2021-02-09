@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/b5896502-a2b0-4a91-92e9-fdad2c915573",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2Fb5896502-a2b0-4a91-92e9-fdad2c915573",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2Fb5896502-a2b0-4a91-92e9-fdad2c915573",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2Fb5896502-a2b0-4a91-92e9-fdad2c915573",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2Fb5896502-a2b0-4a91-92e9-fdad2c915573",
   "prefLabel": {
     "de": "Landesgeschichte"
   },
@@ -14,15 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/14df3d47-3213-45a4-bafd-121348af9550",
-      "prefLabel": {
-        "de": "Landesgeschichte (Hamburg)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/2a7a5108-a1ae-4240-a58d-430511a01acc",
       "prefLabel": {
         "de": "Landesgeschichte (BadenWürttemberg)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/14df3d47-3213-45a4-bafd-121348af9550",
+      "prefLabel": {
+        "de": "Landesgeschichte (Hamburg)"
       }
     },
     {
@@ -98,6 +98,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/",
+    "prefLabel": {
+      "de": "geschichte"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -162,7 +168,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -171,7 +186,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

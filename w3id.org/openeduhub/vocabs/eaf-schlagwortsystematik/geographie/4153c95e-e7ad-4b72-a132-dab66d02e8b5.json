@@ -1,16 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4153c95e-e7ad-4b72-a132-dab66d02e8b5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4153c95e-e7ad-4b72-a132-dab66d02e8b5",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4153c95e-e7ad-4b72-a132-dab66d02e8b5",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4153c95e-e7ad-4b72-a132-dab66d02e8b5",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4153c95e-e7ad-4b72-a132-dab66d02e8b5",
   "prefLabel": {
     "de": "Frankreich"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/02f6716c-0bf1-4443-9192-53c83cc6ac10",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c9605fac-eeab-4504-862b-dccd4b593908",
       "prefLabel": {
-        "de": "Überseedépartement"
+        "de": "Midi-Pyrénées"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/dc70c99c-f976-495d-92ab-f286f63238c9",
+      "prefLabel": {
+        "de": "Aquitanien"
       }
     },
     {
@@ -26,9 +32,33 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e1350f4c-743a-4b9b-aa97-1698886f4fc7",
+      "prefLabel": {
+        "de": "Provence-Alpes-Cote d‘Azur"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b61c60eb-612b-49b2-8042-90f79bedd4dc",
+      "prefLabel": {
+        "de": "Limousin"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/53d92b5d-8f55-4713-ab16-446ceb548aa9",
       "prefLabel": {
         "de": "Burgund"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cd07e38e-e448-4828-8ea6-b23fc396de1d",
+      "prefLabel": {
+        "de": "Rhône-Alpes"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/744704db-b9f9-4650-aab9-1c8da5f6e23c",
+      "prefLabel": {
+        "de": "Pays-de-la-Loire"
       }
     },
     {
@@ -38,15 +68,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/695e4c69-d55a-471c-b3f4-3052c0d76fa2",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a41b370b-a3b4-4fe7-90aa-6aa6fc2491bf",
       "prefLabel": {
-        "de": "Centre (Region Frankreich)"
+        "de": "Elsass"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/744704db-b9f9-4650-aab9-1c8da5f6e23c",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ebf84f37-ca3c-4651-b215-aa210db59141",
       "prefLabel": {
-        "de": "Pays-de-la-Loire"
+        "de": "Champagne-Ardenne"
       }
     },
     {
@@ -68,15 +98,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a0019ccf-7b2e-4086-a84d-b44863966203",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d99858b5-263e-4106-859d-0e522ce687ed",
       "prefLabel": {
-        "de": "Picardie"
+        "de": "Franche-Comte"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a41b370b-a3b4-4fe7-90aa-6aa6fc2491bf",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a0019ccf-7b2e-4086-a84d-b44863966203",
       "prefLabel": {
-        "de": "Elsass"
+        "de": "Picardie"
       }
     },
     {
@@ -86,27 +116,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b12baef5-7f53-4bf6-94f5-c0db01219a49",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/695e4c69-d55a-471c-b3f4-3052c0d76fa2",
       "prefLabel": {
-        "de": "Île-de-France"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b61c60eb-612b-49b2-8042-90f79bedd4dc",
-      "prefLabel": {
-        "de": "Limousin"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c9605fac-eeab-4504-862b-dccd4b593908",
-      "prefLabel": {
-        "de": "Midi-Pyrénées"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cd07e38e-e448-4828-8ea6-b23fc396de1d",
-      "prefLabel": {
-        "de": "Rhône-Alpes"
+        "de": "Centre (Region Frankreich)"
       }
     },
     {
@@ -116,9 +128,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d99858b5-263e-4106-859d-0e522ce687ed",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/02f6716c-0bf1-4443-9192-53c83cc6ac10",
       "prefLabel": {
-        "de": "Franche-Comte"
+        "de": "Überseedépartement"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f720fc9e-225c-4b9b-900e-3325ed7a97a0",
+      "prefLabel": {
+        "de": "Lothringen"
       }
     },
     {
@@ -128,27 +146,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/dc70c99c-f976-495d-92ab-f286f63238c9",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b12baef5-7f53-4bf6-94f5-c0db01219a49",
       "prefLabel": {
-        "de": "Aquitanien"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e1350f4c-743a-4b9b-aa97-1698886f4fc7",
-      "prefLabel": {
-        "de": "Provence-Alpes-Cote d‘Azur"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ebf84f37-ca3c-4651-b215-aa210db59141",
-      "prefLabel": {
-        "de": "Champagne-Ardenne"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f720fc9e-225c-4b9b-900e-3325ed7a97a0",
-      "prefLabel": {
-        "de": "Lothringen"
+        "de": "Île-de-France"
       }
     }
   ],
@@ -222,7 +222,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -231,7 +240,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

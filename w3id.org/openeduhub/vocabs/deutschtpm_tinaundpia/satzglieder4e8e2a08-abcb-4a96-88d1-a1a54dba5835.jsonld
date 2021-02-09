@@ -1,15 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzglieder4e8e2a08-abcb-4a96-88d1-a1a54dba5835",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fsatzglieder4e8e2a08-abcb-4a96-88d1-a1a54dba5835",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fsatzglieder4e8e2a08-abcb-4a96-88d1-a1a54dba5835",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fsatzglieder4e8e2a08-abcb-4a96-88d1-a1a54dba5835",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fsatzglieder4e8e2a08-abcb-4a96-88d1-a1a54dba5835",
   "prefLabel": {
     "de": "Satzglieder"
   },
   "altLabel": {
     "de": [
-      "Satzglied",
       "Satzglieder",
+      "Satzglied",
       "Satzkonstituente",
       "Satzteil"
     ]
@@ -128,7 +128,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -137,7 +146,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

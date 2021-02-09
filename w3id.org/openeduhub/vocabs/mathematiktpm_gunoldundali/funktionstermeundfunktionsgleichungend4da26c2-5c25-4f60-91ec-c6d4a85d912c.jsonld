@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionstermeundfunktionsgleichungend4da26c2-5c25-4f60-91ec-c6d4a85d912c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffunktionstermeundfunktionsgleichungend4da26c2-5c25-4f60-91ec-c6d4a85d912c",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffunktionstermeundfunktionsgleichungend4da26c2-5c25-4f60-91ec-c6d4a85d912c",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffunktionstermeundfunktionsgleichungend4da26c2-5c25-4f60-91ec-c6d4a85d912c",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffunktionstermeundfunktionsgleichungend4da26c2-5c25-4f60-91ec-c6d4a85d912c",
   "prefLabel": {
     "de": "Funktionsterme und Funktionsgleichungen"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

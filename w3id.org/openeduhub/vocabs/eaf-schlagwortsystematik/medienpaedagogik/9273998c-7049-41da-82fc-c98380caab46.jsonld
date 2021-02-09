@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/9273998c-7049-41da-82fc-c98380caab46",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9273998c-7049-41da-82fc-c98380caab46",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9273998c-7049-41da-82fc-c98380caab46",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9273998c-7049-41da-82fc-c98380caab46",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmedienpaedagogik%2F9273998c-7049-41da-82fc-c98380caab46",
   "prefLabel": {
     "de": "Fernsehen"
   },
@@ -17,6 +17,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/1b797e36-25b1-415b-8c90-8d0fddde6527",
       "prefLabel": {
         "de": "Fernsehkonsum"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/d1437dc2-55f1-4db5-b2d4-44b1a03728a1",
+      "prefLabel": {
+        "de": "Fernsehfilm"
       }
     },
     {
@@ -59,12 +65,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/ad842bae-c59a-467d-b287-390c216ec650",
       "prefLabel": {
         "de": "Unterhaltungssendung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/medienpaedagogik/d1437dc2-55f1-4db5-b2d4-44b1a03728a1",
-      "prefLabel": {
-        "de": "Fernsehfilm"
       }
     }
   ],
@@ -138,7 +138,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -147,7 +156,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

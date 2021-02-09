@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2f9fae04-52be-4ef0-be28-79cbd4eede81",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2f9fae04-52be-4ef0-be28-79cbd4eede81",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2f9fae04-52be-4ef0-be28-79cbd4eede81",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2f9fae04-52be-4ef0-be28-79cbd4eede81",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2f9fae04-52be-4ef0-be28-79cbd4eede81",
   "prefLabel": {
     "de": "Ostasien"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/45e1ce15-d6b8-4410-a60c-0c49911fc204",
-      "prefLabel": {
-        "de": "Japan"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7ef93eea-afa8-4a26-8702-5155a9b857e9",
       "prefLabel": {
@@ -20,15 +14,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/805c7dc4-e0dd-42c0-8f38-c201fd00c574",
-      "prefLabel": {
-        "de": "Taiwan"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9efe3ec3-f097-45bd-aeef-17613a8dfc0d",
       "prefLabel": {
         "de": "Korea (Halbinsel)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/45e1ce15-d6b8-4410-a60c-0c49911fc204",
+      "prefLabel": {
+        "de": "Japan"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/805c7dc4-e0dd-42c0-8f38-c201fd00c574",
+      "prefLabel": {
+        "de": "Taiwan"
       }
     }
   ],
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,19 +1,19 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/rezension4af427ed-27e6-4685-994f-f6c9900f3a3e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frezension4af427ed-27e6-4685-994f-f6c9900f3a3e",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frezension4af427ed-27e6-4685-994f-f6c9900f3a3e",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frezension4af427ed-27e6-4685-994f-f6c9900f3a3e",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frezension4af427ed-27e6-4685-994f-f6c9900f3a3e",
   "prefLabel": {
     "de": "Rezension"
   },
   "altLabel": {
     "de": [
+      "Rezension",
       "Buchrezension",
       "Filmbesprechung",
       "Filmkritik",
       "Filmrezension",
       "Literaturrezension",
-      "Rezension",
       "Sammelrezension"
     ],
     "en": [
@@ -97,7 +97,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -106,7 +115,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

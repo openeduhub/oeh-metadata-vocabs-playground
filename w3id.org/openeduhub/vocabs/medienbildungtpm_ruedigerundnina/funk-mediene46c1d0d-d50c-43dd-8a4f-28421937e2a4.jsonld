@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/funk-mediene46c1d0d-d50c-43dd-8a4f-28421937e2a4",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Ffunk-mediene46c1d0d-d50c-43dd-8a4f-28421937e2a4",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Ffunk-mediene46c1d0d-d50c-43dd-8a4f-28421937e2a4",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Ffunk-mediene46c1d0d-d50c-43dd-8a4f-28421937e2a4",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Ffunk-mediene46c1d0d-d50c-43dd-8a4f-28421937e2a4",
   "prefLabel": {
     "de": "Funk-Medien"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

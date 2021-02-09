@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/semantik_semiotik52ab16e9-2766-4063-99dc-3a32c9498900",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsemantik_semiotik52ab16e9-2766-4063-99dc-3a32c9498900",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsemantik_semiotik52ab16e9-2766-4063-99dc-3a32c9498900",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsemantik_semiotik52ab16e9-2766-4063-99dc-3a32c9498900",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsemantik_semiotik52ab16e9-2766-4063-99dc-3a32c9498900",
   "prefLabel": {
     "de": "Semantik / Semiotik"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

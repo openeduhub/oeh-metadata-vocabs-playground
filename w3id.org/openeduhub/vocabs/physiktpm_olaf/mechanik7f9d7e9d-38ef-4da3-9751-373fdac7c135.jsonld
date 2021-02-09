@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fmechanik7f9d7e9d-38ef-4da3-9751-373fdac7c135",
   "prefLabel": {
     "de": "Mechanik"
   },
@@ -12,6 +12,12 @@
     ]
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraefte62d114e1-1e00-4863-bd24-be00daff98cb",
+      "prefLabel": {
+        "de": "Kräfte"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/arbeit,leistung,wirkungsgrad9e35355b-33a0-4d3b-bad0-4a7d55b05ae0",
       "prefLabel": {
@@ -25,33 +31,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/einfachemaschinen88a02665-0138-44c8-8d0c-83e2383c4a59",
-      "prefLabel": {
-        "de": "Einfache Maschinen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/impulsf2bd4bb0-49c2-49e9-a1e7-0f38129d45e5",
-      "prefLabel": {
-        "de": "Impuls"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraefte62d114e1-1e00-4863-bd24-be00daff98cb",
-      "prefLabel": {
-        "de": "Kräfte"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/masse,volumen,dichte52e9e500-2b6a-4917-bacf-4eca5ca5ccf0",
       "prefLabel": {
         "de": "Masse, Volumen, Dichte"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanischeenergie051bbff7-947f-42f0-beab-c9081b4ead01",
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/einfachemaschinen88a02665-0138-44c8-8d0c-83e2383c4a59",
       "prefLabel": {
-        "de": "Mechanische Energie"
+        "de": "Einfache Maschinen"
       }
     },
     {
@@ -61,12 +49,30 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/impulsf2bd4bb0-49c2-49e9-a1e7-0f38129d45e5",
+      "prefLabel": {
+        "de": "Impuls"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/mechanischeenergie051bbff7-947f-42f0-beab-c9081b4ead01",
+      "prefLabel": {
+        "de": "Mechanische Energie"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/reibung00cc2826-326a-4f74-97f6-98124d29af56",
       "prefLabel": {
         "de": "Reibung"
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -131,7 +137,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -140,7 +155,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,31 +1,31 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/farbef89c400c-9162-4e60-bdf1-6af6b74f9172",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffarbef89c400c-9162-4e60-bdf1-6af6b74f9172",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffarbef89c400c-9162-4e60-bdf1-6af6b74f9172",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffarbef89c400c-9162-4e60-bdf1-6af6b74f9172",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffarbef89c400c-9162-4e60-bdf1-6af6b74f9172",
   "prefLabel": {
     "de": "Farbe"
   },
   "altLabel": {
     "de": [
       "Farben",
+      "Vereinsfarben",
       "Farbfilm",
       "Kartenfarbe",
       "Spielkartenfarbe",
-      "Vereinsfarben",
       "farbig"
     ],
     "en": [
+      "colors",
+      "colour",
+      "colours",
+      "has color",
+      "has colour",
       "card suit",
       "color film",
       "color in heraldry",
-      "colors",
-      "colour",
       "colour film",
-      "colour in heraldry",
-      "colours",
-      "has color",
-      "has colour"
+      "colour in heraldry"
     ]
   },
   "broader": {
@@ -98,7 +98,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -107,7 +116,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

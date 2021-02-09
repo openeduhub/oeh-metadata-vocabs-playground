@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kernchemie180414b6-eb4a-495e-af94-a03e6201589e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkernchemie180414b6-eb4a-495e-af94-a03e6201589e",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkernchemie180414b6-eb4a-495e-af94-a03e6201589e",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkernchemie180414b6-eb4a-495e-af94-a03e6201589e",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkernchemie180414b6-eb4a-495e-af94-a03e6201589e",
   "prefLabel": {
     "de": "Kernchemie"
   },
@@ -101,7 +101,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -110,7 +119,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

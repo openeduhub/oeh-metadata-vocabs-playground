@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/hash-tabellen953fa688-8128-4a2f-b5e9-a7e76e0c9101",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fhash-tabellen953fa688-8128-4a2f-b5e9-a7e76e0c9101",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fhash-tabellen953fa688-8128-4a2f-b5e9-a7e76e0c9101",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fhash-tabellen953fa688-8128-4a2f-b5e9-a7e76e0c9101",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fhash-tabellen953fa688-8128-4a2f-b5e9-a7e76e0c9101",
   "prefLabel": {
     "de": "Hash-Tabellen"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

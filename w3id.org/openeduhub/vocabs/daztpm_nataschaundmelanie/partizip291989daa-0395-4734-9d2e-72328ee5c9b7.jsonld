@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/partizip291989daa-0395-4734-9d2e-72328ee5c9b7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpartizip291989daa-0395-4734-9d2e-72328ee5c9b7",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpartizip291989daa-0395-4734-9d2e-72328ee5c9b7",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpartizip291989daa-0395-4734-9d2e-72328ee5c9b7",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpartizip291989daa-0395-4734-9d2e-72328ee5c9b7",
   "prefLabel": {
     "de": "Partizip 2"
   },
@@ -85,7 +85,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -94,7 +103,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,16 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/organischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Forganischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Forganischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Forganischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Forganischechemie61c3141e-59ed-47ed-9da5-e639e1082ceb",
   "prefLabel": {
     "de": "Organische Chemie"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aldehydeundketone32876318-b7c7-40b0-8c48-8e0a7190223a",
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsmechanismen3b260a69-1972-48e6-a4ed-db4cd02eda8c",
       "prefLabel": {
-        "de": "Aldehyde und Ketone"
+        "de": "Reaktionsmechanismen"
       }
     },
     {
@@ -20,15 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aromatencfa0c5b3-5155-40f7-972a-2b8c1aa20a23",
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
       "prefLabel": {
-        "de": "Aromaten"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/carbonsaeuren8ee0cd22-c807-4ce2-ad4e-cef4cb58dd98",
-      "prefLabel": {
-        "de": "Carbonsäuren"
+        "de": "Kunststoffe"
       }
     },
     {
@@ -38,33 +32,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ester0ec4dfc6-1955-4689-9776-8589a636ce74",
-      "prefLabel": {
-        "de": "Ester"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/etherda1d6568-26b7-42a2-929c-5146a0baa42d",
-      "prefLabel": {
-        "de": "Ether"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/fetteundoeled369c226-2f73-4688-a136-157ebd5c0e3c",
       "prefLabel": {
         "de": "Fette und Öle"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/isomerie_mesomeriec4a15dc1-424d-40b3-b4fb-ba908d7779b5",
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aldehydeundketone32876318-b7c7-40b0-8c48-8e0a7190223a",
       "prefLabel": {
-        "de": "Isomerie / Mesomerie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenhydrate084c65d7-a9f1-4b9d-9ada-5ba3bb8c4978",
-      "prefLabel": {
-        "de": "Kohlenhydrate"
+        "de": "Aldehyde und Ketone"
       }
     },
     {
@@ -74,15 +50,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenhydrate084c65d7-a9f1-4b9d-9ada-5ba3bb8c4978",
       "prefLabel": {
-        "de": "Kunststoffe"
+        "de": "Kohlenhydrate"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionsmechanismen3b260a69-1972-48e6-a4ed-db4cd02eda8c",
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/carbonsaeuren8ee0cd22-c807-4ce2-ad4e-cef4cb58dd98",
       "prefLabel": {
-        "de": "Reaktionsmechanismen"
+        "de": "Carbonsäuren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/ester0ec4dfc6-1955-4689-9776-8589a636ce74",
+      "prefLabel": {
+        "de": "Ester"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aromatencfa0c5b3-5155-40f7-972a-2b8c1aa20a23",
+      "prefLabel": {
+        "de": "Aromaten"
       }
     },
     {
@@ -90,8 +78,26 @@
       "prefLabel": {
         "de": "Tenside, Seife und Waschmittel"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/etherda1d6568-26b7-42a2-929c-5146a0baa42d",
+      "prefLabel": {
+        "de": "Ether"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/isomerie_mesomeriec4a15dc1-424d-40b3-b4fb-ba908d7779b5",
+      "prefLabel": {
+        "de": "Isomerie / Mesomerie"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/",
+    "prefLabel": {
+      "de": "Chemie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -156,7 +162,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -165,7 +180,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

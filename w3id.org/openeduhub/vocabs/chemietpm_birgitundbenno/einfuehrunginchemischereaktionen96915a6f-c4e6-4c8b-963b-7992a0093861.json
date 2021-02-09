@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/einfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feinfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feinfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feinfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feinfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
   "prefLabel": {
     "de": "Einführung in Chemische Reaktionen"
   },
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

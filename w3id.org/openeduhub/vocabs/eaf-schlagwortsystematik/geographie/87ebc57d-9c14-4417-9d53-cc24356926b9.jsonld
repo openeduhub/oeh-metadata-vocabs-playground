@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/87ebc57d-9c14-4417-9d53-cc24356926b9",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F87ebc57d-9c14-4417-9d53-cc24356926b9",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F87ebc57d-9c14-4417-9d53-cc24356926b9",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F87ebc57d-9c14-4417-9d53-cc24356926b9",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F87ebc57d-9c14-4417-9d53-cc24356926b9",
   "prefLabel": {
     "de": "Polen"
   },
@@ -32,12 +32,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/30cec79c-7919-4535-a369-68949841bfdd",
-      "prefLabel": {
-        "de": "Ostpreußen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6170732e-46dd-4571-8b3a-867f8a417558",
       "prefLabel": {
         "de": "Kolberg"
@@ -53,6 +47,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/db8cb6d0-f318-42ea-a426-82d3e0f08be5",
       "prefLabel": {
         "de": "Danzig"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/30cec79c-7919-4535-a369-68949841bfdd",
+      "prefLabel": {
+        "de": "Ostpreußen"
       }
     }
   ],
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

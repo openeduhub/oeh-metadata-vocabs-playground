@@ -1,22 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/weimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fweimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fweimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fweimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fweimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
   "prefLabel": {
     "de": "Weimarer Republik"
   },
   "altLabel": {
     "de": [
+      "Deutsches Kaiserreich",
+      "Weimarer Republik",
+      "Bundesrepublik Deutschland",
       "BR Deutschland",
       "BRD",
-      "Bundesrepublik Deutschland",
       "Deutsche Republik",
-      "Deutsches Kaiserreich",
       "Deutsches Reich",
       "Deutsches Reich 1919 bis 1933",
       "GER",
-      "Weimarer Republik",
       "Weimarer Zeit",
       "Zeit der Weimarer Republik",
       "de"
@@ -108,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

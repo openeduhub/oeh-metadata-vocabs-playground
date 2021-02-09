@@ -1,16 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1e0010fc-8597-4991-862a-aee4c67a1760",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F1e0010fc-8597-4991-862a-aee4c67a1760",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F1e0010fc-8597-4991-862a-aee4c67a1760",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F1e0010fc-8597-4991-862a-aee4c67a1760",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F1e0010fc-8597-4991-862a-aee4c67a1760",
   "prefLabel": {
     "de": "Vorderasien"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/24447803-ad65-4491-afa2-c73812135138",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ff9f88e7-8612-409b-9ccf-7ec2f4878059",
       "prefLabel": {
-        "de": "Libanon"
+        "de": "Arabische Halbinsel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/dc721afc-9422-4a23-a568-dbee61f97e37",
+      "prefLabel": {
+        "de": "Türkei"
       }
     },
     {
@@ -20,27 +26,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4833afcc-bfe0-4a95-abd2-f9e08272a07c",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b430bac6-a302-474d-ab6f-a806837388e0",
       "prefLabel": {
-        "de": "Jordanien"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8b2c6e2c-9c2c-4fb4-bb53-1b63ddd8e7c1",
-      "prefLabel": {
-        "de": "Georgien)"
+        "de": "Iran"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/90cacffc-70f5-4687-a20d-3a5dd4d79b54",
       "prefLabel": {
         "de": "Palästina"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b430bac6-a302-474d-ab6f-a806837388e0",
-      "prefLabel": {
-        "de": "Iran"
       }
     },
     {
@@ -56,9 +50,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/dc721afc-9422-4a23-a568-dbee61f97e37",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4833afcc-bfe0-4a95-abd2-f9e08272a07c",
       "prefLabel": {
-        "de": "Türkei"
+        "de": "Jordanien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/24447803-ad65-4491-afa2-c73812135138",
+      "prefLabel": {
+        "de": "Libanon"
       }
     },
     {
@@ -68,15 +68,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f79e9b36-9b04-407e-b5e8-d4b52fee7961",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8b2c6e2c-9c2c-4fb4-bb53-1b63ddd8e7c1",
       "prefLabel": {
-        "de": "Syrien"
+        "de": "Georgien)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ff9f88e7-8612-409b-9ccf-7ec2f4878059",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f79e9b36-9b04-407e-b5e8-d4b52fee7961",
       "prefLabel": {
-        "de": "Arabische Halbinsel"
+        "de": "Syrien"
       }
     }
   ],
@@ -150,7 +150,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -159,7 +168,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

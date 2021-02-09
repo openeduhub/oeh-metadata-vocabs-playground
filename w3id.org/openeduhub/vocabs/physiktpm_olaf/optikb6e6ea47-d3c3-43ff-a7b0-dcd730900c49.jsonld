@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/optikb6e6ea47-d3c3-43ff-a7b0-dcd730900c49",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Foptikb6e6ea47-d3c3-43ff-a7b0-dcd730900c49",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Foptikb6e6ea47-d3c3-43ff-a7b0-dcd730900c49",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Foptikb6e6ea47-d3c3-43ff-a7b0-dcd730900c49",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Foptikb6e6ea47-d3c3-43ff-a7b0-dcd730900c49",
   "prefLabel": {
     "de": "Optik"
   },
@@ -11,21 +11,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/farbenbfc98b85-cfbd-42b9-8528-0afe64a68d88",
-      "prefLabel": {
-        "de": "Farben"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/geometrischeoptikaa839a62-ee3d-41de-9656-e784dc5342ff",
       "prefLabel": {
         "de": "Geometrische Optik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/menschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
-      "prefLabel": {
-        "de": "Menschliches Auge"
       }
     },
     {
@@ -33,8 +21,26 @@
       "prefLabel": {
         "de": "Wellenoptik"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/farbenbfc98b85-cfbd-42b9-8528-0afe64a68d88",
+      "prefLabel": {
+        "de": "Farben"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/menschlichesauge4edea6ac-2a3b-4ab0-8fb5-239900084ab5",
+      "prefLabel": {
+        "de": "Menschliches Auge"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -99,7 +105,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +123,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

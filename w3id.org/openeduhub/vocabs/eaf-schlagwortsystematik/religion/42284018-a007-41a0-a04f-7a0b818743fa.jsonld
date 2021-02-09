@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/42284018-a007-41a0-a04f-7a0b818743fa",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F42284018-a007-41a0-a04f-7a0b818743fa",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F42284018-a007-41a0-a04f-7a0b818743fa",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F42284018-a007-41a0-a04f-7a0b818743fa",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F42284018-a007-41a0-a04f-7a0b818743fa",
   "prefLabel": {
     "de": "Christentum"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/40f2a2f4-9abb-4a60-95bf-8abbf0c6aa34",
-      "prefLabel": {
-        "de": "Konstantinische Wende"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/475caa20-80a2-48a6-b8cf-698b3789c9c4",
       "prefLabel": {
@@ -23,6 +17,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/56bdcd18-436b-4c05-8e9b-a2bc7a543560",
       "prefLabel": {
         "de": "Kirche (Christenheit)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/40f2a2f4-9abb-4a60-95bf-8abbf0c6aa34",
+      "prefLabel": {
+        "de": "Konstantinische Wende"
       }
     },
     {
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

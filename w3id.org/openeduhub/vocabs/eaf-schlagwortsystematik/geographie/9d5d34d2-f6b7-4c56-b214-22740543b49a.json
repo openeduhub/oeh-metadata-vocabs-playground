@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9d5d34d2-f6b7-4c56-b214-22740543b49a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9d5d34d2-f6b7-4c56-b214-22740543b49a",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9d5d34d2-f6b7-4c56-b214-22740543b49a",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9d5d34d2-f6b7-4c56-b214-22740543b49a",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9d5d34d2-f6b7-4c56-b214-22740543b49a",
   "prefLabel": {
     "de": "Klimazone"
   },
@@ -26,15 +26,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8b058256-2a6e-4e1a-95cb-64e3462e22d3",
-      "prefLabel": {
-        "de": "Subtropen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c491a5c5-8d86-4e40-94fb-1d3010346b71",
       "prefLabel": {
         "de": "Wüstenklima"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8b058256-2a6e-4e1a-95cb-64e3462e22d3",
+      "prefLabel": {
+        "de": "Subtropen"
       }
     },
     {
@@ -44,15 +44,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ddad4cf4-8d48-4013-8eda-7a1142c24701",
-      "prefLabel": {
-        "de": "Tropen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e336142c-085c-42d5-9000-09b04902d193",
       "prefLabel": {
         "de": "Borreales Klima"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ddad4cf4-8d48-4013-8eda-7a1142c24701",
+      "prefLabel": {
+        "de": "Tropen"
       }
     }
   ],
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

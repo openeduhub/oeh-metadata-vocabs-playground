@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/b1f72409-e602-4c5d-b33e-fc8a5aedf190",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fb1f72409-e602-4c5d-b33e-fc8a5aedf190",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fb1f72409-e602-4c5d-b33e-fc8a5aedf190",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fb1f72409-e602-4c5d-b33e-fc8a5aedf190",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fb1f72409-e602-4c5d-b33e-fc8a5aedf190",
   "prefLabel": {
     "de": "Drama (Literatur)"
   },
@@ -11,6 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/42083b77-f619-490b-b67b-ebcb89eae5e7",
       "prefLabel": {
         "de": "Woyzeck"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/d9d6c3cb-5e95-4253-b113-40f90c422c63",
+      "prefLabel": {
+        "de": "Schauspiel"
       }
     },
     {
@@ -23,12 +29,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/cb6bcff4-0095-4bfc-8b58-ba595a690c04",
       "prefLabel": {
         "de": "Tragödie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/d9d6c3cb-5e95-4253-b113-40f90c422c63",
-      "prefLabel": {
-        "de": "Schauspiel"
       }
     },
     {
@@ -108,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

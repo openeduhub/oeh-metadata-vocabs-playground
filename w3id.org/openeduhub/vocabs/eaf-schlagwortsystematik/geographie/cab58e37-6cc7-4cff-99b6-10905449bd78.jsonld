@@ -1,28 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cab58e37-6cc7-4cff-99b6-10905449bd78",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fcab58e37-6cc7-4cff-99b6-10905449bd78",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fcab58e37-6cc7-4cff-99b6-10905449bd78",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fcab58e37-6cc7-4cff-99b6-10905449bd78",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fcab58e37-6cc7-4cff-99b6-10905449bd78",
   "prefLabel": {
     "de": "Geomorphologie"
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
+      "prefLabel": {
+        "de": "Landschaftstyp/form)"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/102f0e44-1698-4211-a9e8-6146a44cefef",
       "prefLabel": {
         "de": "Glazialmorphologie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2a0f8e0c-7eb7-43bd-bc0e-43e0e6e9eab8",
-      "prefLabel": {
-        "de": "Gebirge"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/462a5407-c011-4b3f-9ebc-893f1324bd84",
-      "prefLabel": {
-        "de": "Bergrutsch"
       }
     },
     {
@@ -32,9 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/462a5407-c011-4b3f-9ebc-893f1324bd84",
       "prefLabel": {
-        "de": "Landschaftstyp/form)"
+        "de": "Bergrutsch"
       }
     },
     {
@@ -44,15 +38,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f4988685-b58f-4f2a-9a88-9e8636dfde8e",
+      "prefLabel": {
+        "de": "Erosion"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e3a5dab3-59ff-4e1a-9e4e-94ff0825b691",
       "prefLabel": {
         "de": "Erdoberfläche"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f4988685-b58f-4f2a-9a88-9e8636dfde8e",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2a0f8e0c-7eb7-43bd-bc0e-43e0e6e9eab8",
       "prefLabel": {
-        "de": "Erosion"
+        "de": "Gebirge"
       }
     }
   ],
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

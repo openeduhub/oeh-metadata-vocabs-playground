@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informatikundgesellschaftf064e901-e250-4a52-a48d-75aea77e95a7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Finformatikundgesellschaftf064e901-e250-4a52-a48d-75aea77e95a7",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Finformatikundgesellschaftf064e901-e250-4a52-a48d-75aea77e95a7",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Finformatikundgesellschaftf064e901-e250-4a52-a48d-75aea77e95a7",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Finformatikundgesellschaftf064e901-e250-4a52-a48d-75aea77e95a7",
   "prefLabel": {
     "de": "Informatik und Gesellschaft"
   },
@@ -32,15 +32,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/geschichtederinformatik0758a884-9a35-429f-b65f-80209544d357",
-      "prefLabel": {
-        "de": "Geschichte der Informatik"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/grandchallengesf3bf908e-c6ad-439a-a3d3-9984ef16175d",
       "prefLabel": {
         "de": "Grand Challenges"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/geschichtederinformatik0758a884-9a35-429f-b65f-80209544d357",
+      "prefLabel": {
+        "de": "Geschichte der Informatik"
       }
     },
     {
@@ -80,6 +80,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/",
+    "prefLabel": {
+      "de": "Informatik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -144,7 +150,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -153,7 +168,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

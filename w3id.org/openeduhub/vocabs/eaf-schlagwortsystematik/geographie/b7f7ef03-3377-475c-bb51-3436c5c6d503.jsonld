@@ -1,12 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b7f7ef03-3377-475c-bb51-3436c5c6d503",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fb7f7ef03-3377-475c-bb51-3436c5c6d503",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fb7f7ef03-3377-475c-bb51-3436c5c6d503",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fb7f7ef03-3377-475c-bb51-3436c5c6d503",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fb7f7ef03-3377-475c-bb51-3436c5c6d503",
   "prefLabel": {
     "de": "Hochgebirge"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/fb3bdde8-f1e1-473a-9cc1-c1439a05d1de",
+      "prefLabel": {
+        "de": "Alpen"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6719520a-a9e0-4414-bf1b-ebd08d7e8920",
       "prefLabel": {
@@ -53,12 +59,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f8379c76-b462-48f8-9ab5-27e1e0d6fd83",
       "prefLabel": {
         "de": "Sierra Nevada (Spanien)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/fb3bdde8-f1e1-473a-9cc1-c1439a05d1de",
-      "prefLabel": {
-        "de": "Alpen"
       }
     },
     {
@@ -138,7 +138,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -147,7 +156,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

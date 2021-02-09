@@ -1,15 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/design0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fdesign0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fdesign0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fdesign0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fdesign0356c9d8-15b3-4d49-a6cb-c4380adf2b08",
   "prefLabel": {
     "de": "Design"
   },
   "altLabel": {
     "de": [
-      "Blockplan",
       "Design",
+      "Blockplan",
       "Designwissenschaft",
       "Designwissenschaftler",
       "Desktop Theme",
@@ -25,18 +25,24 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/mode-designc5ab9680-0b56-4af1-99cd-e357d3fa8d5c",
-      "prefLabel": {
-        "de": "Mode-Design"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/produkt-design128f9d05-fd3e-459d-895f-9f0555af6f15",
       "prefLabel": {
         "de": "Produkt-Design"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/mode-designc5ab9680-0b56-4af1-99cd-e357d3fa8d5c",
+      "prefLabel": {
+        "de": "Mode-Design"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/",
+    "prefLabel": {
+      "de": "Kunst"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -101,7 +107,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -110,7 +125,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

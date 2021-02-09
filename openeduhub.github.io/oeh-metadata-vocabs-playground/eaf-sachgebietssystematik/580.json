@@ -1,8 +1,8 @@
 {
   "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/580",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=openeduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F580",
-  "inbox": "https://test.skohub.io/inbox?target=openeduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F580",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fopeneduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F580",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fopeneduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F580",
   "prefLabel": {
     "de": "SPIEL- UND DOKUMENTARFILM"
   },
@@ -10,12 +10,6 @@
     "de": "NaN"
   },
   "narrower": [
-    {
-      "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58001",
-      "prefLabel": {
-        "de": "Kurzfilm"
-      }
-    },
     {
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58002",
       "prefLabel": {
@@ -32,6 +26,12 @@
       "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58004",
       "prefLabel": {
         "de": "Dokumentarfilm"
+      }
+    },
+    {
+      "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/58001",
+      "prefLabel": {
+        "de": "Kurzfilm"
       }
     }
   ],
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,15 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/figurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffigurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffigurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffigurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Ffigurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
   "prefLabel": {
     "de": "Figuren"
   },
   "altLabel": {
     "de": [
-      "Charaktere",
-      "Rollen"
+      "Rollen",
+      "Charaktere"
     ]
   },
   "narrower": [
@@ -38,6 +38,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/",
+    "prefLabel": {
+      "de": "Mathematik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -102,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

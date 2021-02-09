@@ -1,12 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8a82eeda-f030-44bd-8448-ca91ae96ffc7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F8a82eeda-f030-44bd-8448-ca91ae96ffc7",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F8a82eeda-f030-44bd-8448-ca91ae96ffc7",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F8a82eeda-f030-44bd-8448-ca91ae96ffc7",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F8a82eeda-f030-44bd-8448-ca91ae96ffc7",
   "prefLabel": {
     "de": "Rohstoffabbau"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d976d5bb-5d3d-489d-8366-74f9c51b69a1",
+      "prefLabel": {
+        "de": "Bergbau"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/16a41910-ca73-42fe-887e-1c0c113bb6e0",
       "prefLabel": {
@@ -17,12 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a4e45b49-0585-4bc5-92af-2aacf81416ac",
       "prefLabel": {
         "de": "Salzgewinnung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d976d5bb-5d3d-489d-8366-74f9c51b69a1",
-      "prefLabel": {
-        "de": "Bergbau"
       }
     }
   ],
@@ -96,7 +96,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -105,7 +114,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

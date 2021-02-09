@@ -1,31 +1,31 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/rechtschreibungb445a183-4102-421e-9abf-944994af350e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frechtschreibungb445a183-4102-421e-9abf-944994af350e",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frechtschreibungb445a183-4102-421e-9abf-944994af350e",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frechtschreibungb445a183-4102-421e-9abf-944994af350e",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frechtschreibungb445a183-4102-421e-9abf-944994af350e",
   "prefLabel": {
     "de": "Rechtschreibung"
   },
   "altLabel": {
     "de": [
+      "Rechtschreibung",
       "Orthografie",
       "Orthographie",
       "Orthographisch",
-      "Rechtschreibregeln",
-      "Rechtschreibung"
+      "Rechtschreibregeln"
     ]
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/getrennt-undzusammenschreibung6ae3f40f-c58c-46ee-903d-9529322b8cc0",
-      "prefLabel": {
-        "de": "Getrennt- und Zusammenschreibung"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gross-_kleinschreibung28a313cf-f0b7-4bd5-8879-8b482153054d",
       "prefLabel": {
         "de": "Groß- / Kleinschreibung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/getrennt-undzusammenschreibung6ae3f40f-c58c-46ee-903d-9529322b8cc0",
+      "prefLabel": {
+        "de": "Getrennt- und Zusammenschreibung"
       }
     },
     {
@@ -35,6 +35,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/",
+    "prefLabel": {
+      "de": "Deutsch"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -99,7 +105,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +123,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

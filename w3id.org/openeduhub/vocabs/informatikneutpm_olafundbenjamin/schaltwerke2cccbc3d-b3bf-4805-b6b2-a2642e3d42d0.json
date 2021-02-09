@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/schaltwerke2cccbc3d-b3bf-4805-b6b2-a2642e3d42d0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fschaltwerke2cccbc3d-b3bf-4805-b6b2-a2642e3d42d0",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fschaltwerke2cccbc3d-b3bf-4805-b6b2-a2642e3d42d0",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fschaltwerke2cccbc3d-b3bf-4805-b6b2-a2642e3d42d0",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fschaltwerke2cccbc3d-b3bf-4805-b6b2-a2642e3d42d0",
   "prefLabel": {
     "de": "Schaltwerke"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

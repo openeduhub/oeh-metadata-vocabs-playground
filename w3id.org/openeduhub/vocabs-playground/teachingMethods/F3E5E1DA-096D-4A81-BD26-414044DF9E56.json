@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/teachingMethods/F3E5E1DA-096D-4A81-BD26-414044DF9E56",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FF3E5E1DA-096D-4A81-BD26-414044DF9E56",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FF3E5E1DA-096D-4A81-BD26-414044DF9E56",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FF3E5E1DA-096D-4A81-BD26-414044DF9E56",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FteachingMethods%2FF3E5E1DA-096D-4A81-BD26-414044DF9E56",
   "prefLabel": {
     "de": "Beobachtungsbogen / Umfrage"
   },
@@ -77,7 +77,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -86,7 +95,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

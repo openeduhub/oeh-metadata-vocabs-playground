@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ef28a5d1-e19b-4ab3-a92e-0935f5919384",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef28a5d1-e19b-4ab3-a92e-0935f5919384",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef28a5d1-e19b-4ab3-a92e-0935f5919384",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef28a5d1-e19b-4ab3-a92e-0935f5919384",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2Fef28a5d1-e19b-4ab3-a92e-0935f5919384",
   "prefLabel": {
     "de": "Elektronik"
   },
@@ -47,12 +47,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/95a11d55-d3c2-410b-8ace-d784eb587891",
       "prefLabel": {
         "de": "Dipol"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/97075800-5507-42d3-864c-3503ca2b1442",
-      "prefLabel": {
-        "de": "Gasentladung"
       }
     },
     {
@@ -113,6 +107,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ea90abd7-030d-4a9d-85ad-12192e6d90b8",
       "prefLabel": {
         "de": "Induktion (Elektrizität)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/97075800-5507-42d3-864c-3503ca2b1442",
+      "prefLabel": {
+        "de": "Gasentladung"
       }
     },
     {
@@ -192,7 +192,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -201,7 +210,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,15 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/symbole96701af2-c88d-4740-ba14-8798a53332ec",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsymbole96701af2-c88d-4740-ba14-8798a53332ec",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsymbole96701af2-c88d-4740-ba14-8798a53332ec",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsymbole96701af2-c88d-4740-ba14-8798a53332ec",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fsymbole96701af2-c88d-4740-ba14-8798a53332ec",
   "prefLabel": {
     "de": "Symbole"
   },
   "altLabel": {
     "de": [
-      "Symbol",
       "Symbole",
+      "Symbol",
       "Symbolisation",
       "Symbolisationen",
       "Symbolisierung",
@@ -89,7 +89,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -98,7 +107,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

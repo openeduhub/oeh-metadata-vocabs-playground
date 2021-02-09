@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/tastaturd316a19c-01c7-4b0b-bf54-e6947d83502b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftastaturd316a19c-01c7-4b0b-bf54-e6947d83502b",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftastaturd316a19c-01c7-4b0b-bf54-e6947d83502b",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftastaturd316a19c-01c7-4b0b-bf54-e6947d83502b",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftastaturd316a19c-01c7-4b0b-bf54-e6947d83502b",
   "prefLabel": {
     "de": "Tastatur"
   },
@@ -88,7 +88,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -97,7 +106,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

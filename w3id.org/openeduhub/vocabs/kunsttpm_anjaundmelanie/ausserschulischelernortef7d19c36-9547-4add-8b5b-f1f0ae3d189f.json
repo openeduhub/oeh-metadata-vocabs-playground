@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/ausserschulischelernortef7d19c36-9547-4add-8b5b-f1f0ae3d189f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fausserschulischelernortef7d19c36-9547-4add-8b5b-f1f0ae3d189f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fausserschulischelernortef7d19c36-9547-4add-8b5b-f1f0ae3d189f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fausserschulischelernortef7d19c36-9547-4add-8b5b-f1f0ae3d189f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fausserschulischelernortef7d19c36-9547-4add-8b5b-f1f0ae3d189f",
   "prefLabel": {
     "de": "außerschulische Lernorte"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

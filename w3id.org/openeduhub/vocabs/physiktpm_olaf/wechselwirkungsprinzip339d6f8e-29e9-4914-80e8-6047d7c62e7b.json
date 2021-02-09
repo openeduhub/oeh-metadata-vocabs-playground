@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/wechselwirkungsprinzip339d6f8e-29e9-4914-80e8-6047d7c62e7b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fwechselwirkungsprinzip339d6f8e-29e9-4914-80e8-6047d7c62e7b",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fwechselwirkungsprinzip339d6f8e-29e9-4914-80e8-6047d7c62e7b",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fwechselwirkungsprinzip339d6f8e-29e9-4914-80e8-6047d7c62e7b",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fwechselwirkungsprinzip339d6f8e-29e9-4914-80e8-6047d7c62e7b",
   "prefLabel": {
     "de": "Wechselwirkungsprinzip"
   },
@@ -89,7 +89,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -98,7 +107,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

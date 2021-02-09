@@ -1,22 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/56bdcd18-436b-4c05-8e9b-a2bc7a543560",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F56bdcd18-436b-4c05-8e9b-a2bc7a543560",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F56bdcd18-436b-4c05-8e9b-a2bc7a543560",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F56bdcd18-436b-4c05-8e9b-a2bc7a543560",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F56bdcd18-436b-4c05-8e9b-a2bc7a543560",
   "prefLabel": {
     "de": "Kirche (Christenheit)"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/17dddb01-be3d-4f63-99b2-b0d0902eb7a1",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/c95e35a8-03b2-467a-b461-b3dfcfe1550c",
       "prefLabel": {
-        "de": "Freikirche"
+        "de": "Evangelische Kirche)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/371e27de-ca2d-4166-a4a4-b457940fc956",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/17dddb01-be3d-4f63-99b2-b0d0902eb7a1",
       "prefLabel": {
-        "de": "Ostkirchen"
+        "de": "Freikirche"
       }
     },
     {
@@ -26,9 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/93fdbc19-26ee-4f26-8f61-5c48d453cf87",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/371e27de-ca2d-4166-a4a4-b457940fc956",
       "prefLabel": {
-        "de": "Ökumene"
+        "de": "Ostkirchen"
       }
     },
     {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/c95e35a8-03b2-467a-b461-b3dfcfe1550c",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/93fdbc19-26ee-4f26-8f61-5c48d453cf87",
       "prefLabel": {
-        "de": "Evangelische Kirche)"
+        "de": "Ökumene"
       }
     }
   ],
@@ -114,7 +114,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +132,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

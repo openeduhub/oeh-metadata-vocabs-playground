@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/achsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fachsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fachsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fachsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fachsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
   "prefLabel": {
     "de": "Achsensymmetrie"
   },
@@ -91,7 +91,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -100,7 +109,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

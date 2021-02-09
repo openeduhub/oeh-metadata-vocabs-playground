@@ -1,8 +1,8 @@
 {
   "id": "http://openeduhub.github.io/oeh-metadata-vocabs-playground/eaf-sachgebietssystematik/60002",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=openeduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F60002",
-  "inbox": "https://test.skohub.io/inbox?target=openeduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F60002",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fopeneduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F60002",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fopeneduhub.github.io%2Foeh-metadata-vocabs-playground%2Feaf-sachgebietssystematik%2F60002",
   "prefLabel": {
     "de": "Sportbereiche"
   },
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

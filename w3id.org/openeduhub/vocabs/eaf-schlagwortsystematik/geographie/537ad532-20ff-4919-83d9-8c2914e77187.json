@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/537ad532-20ff-4919-83d9-8c2914e77187",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F537ad532-20ff-4919-83d9-8c2914e77187",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F537ad532-20ff-4919-83d9-8c2914e77187",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F537ad532-20ff-4919-83d9-8c2914e77187",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F537ad532-20ff-4919-83d9-8c2914e77187",
   "prefLabel": {
     "de": "Wasserversorgung"
   },
@@ -11,12 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/017aba4f-b3bb-4d2b-b3d9-51646288c0d5",
       "prefLabel": {
         "de": "Brunnen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/15725c5b-86ed-4f2a-8346-66d7ae12dbb9",
-      "prefLabel": {
-        "de": "Wasserwerk"
       }
     },
     {
@@ -53,6 +47,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e97a670b-c3fb-449e-9a55-fcf6541022b4",
       "prefLabel": {
         "de": "Wasseraufbereitung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/15725c5b-86ed-4f2a-8346-66d7ae12dbb9",
+      "prefLabel": {
+        "de": "Wasserwerk"
       }
     }
   ],
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

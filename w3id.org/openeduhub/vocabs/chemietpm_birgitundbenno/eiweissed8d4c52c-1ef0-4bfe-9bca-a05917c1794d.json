@@ -1,17 +1,17 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
   "prefLabel": {
     "de": "Eiweiße"
   },
   "altLabel": {
     "de": [
+      "Proteine",
       "Eiweiß",
       "Eiweiße",
-      "Protein",
-      "Proteine"
+      "Protein"
     ],
     "en": [
       "proteins"
@@ -119,7 +119,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -128,7 +137,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

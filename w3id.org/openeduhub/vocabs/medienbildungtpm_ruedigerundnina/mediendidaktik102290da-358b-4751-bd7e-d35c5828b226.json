@@ -1,24 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/mediendidaktik102290da-358b-4751-bd7e-d35c5828b226",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fmediendidaktik102290da-358b-4751-bd7e-d35c5828b226",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fmediendidaktik102290da-358b-4751-bd7e-d35c5828b226",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fmediendidaktik102290da-358b-4751-bd7e-d35c5828b226",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fmediendidaktik102290da-358b-4751-bd7e-d35c5828b226",
   "prefLabel": {
     "de": "Mediendidaktik"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/didaktischemethoden0e2a1abf-b329-4725-8c1b-c20dd6ea63c7",
-      "prefLabel": {
-        "de": "Didaktische Methoden"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/grundlagen7e13207f-37b3-4c9d-8dd6-1cc72bd0dfc8",
-      "prefLabel": {
-        "de": "Grundlagen"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/lermodelleda35fe2e-9923-4af5-91d2-ad8ce8c6bc5c",
       "prefLabel": {
@@ -26,12 +14,30 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/didaktischemethoden0e2a1abf-b329-4725-8c1b-c20dd6ea63c7",
+      "prefLabel": {
+        "de": "Didaktische Methoden"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/lernorganisationundtechnischeumsetzung4b19733a-53ae-43fe-a4c9-f01d7afbca8f",
       "prefLabel": {
         "de": "Lernorganisation und technische Umsetzung"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/grundlagen7e13207f-37b3-4c9d-8dd6-1cc72bd0dfc8",
+      "prefLabel": {
+        "de": "Grundlagen"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/",
+    "prefLabel": {
+      "de": "Medienbildung"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -96,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -105,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

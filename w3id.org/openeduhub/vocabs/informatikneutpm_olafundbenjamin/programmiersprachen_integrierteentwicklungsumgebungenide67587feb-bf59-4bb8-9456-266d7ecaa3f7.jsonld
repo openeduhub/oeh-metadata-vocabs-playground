@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/programmiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fprogrammiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fprogrammiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fprogrammiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fprogrammiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
   "prefLabel": {
     "de": "Programmiersprachen / Integrierte Entwicklungsumgebungen (IDE)"
   },
@@ -108,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

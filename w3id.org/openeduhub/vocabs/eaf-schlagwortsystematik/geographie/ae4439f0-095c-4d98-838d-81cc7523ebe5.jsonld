@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ae4439f0-095c-4d98-838d-81cc7523ebe5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fae4439f0-095c-4d98-838d-81cc7523ebe5",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fae4439f0-095c-4d98-838d-81cc7523ebe5",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fae4439f0-095c-4d98-838d-81cc7523ebe5",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fae4439f0-095c-4d98-838d-81cc7523ebe5",
   "prefLabel": {
     "de": "Niederbayern (Regierungsbezirk)"
   },
@@ -11,18 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4384f576-e82f-4dec-8567-211315ade879",
       "prefLabel": {
         "de": "Kelheim (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/51516c38-8d74-498b-8789-af4307ebf3c9",
-      "prefLabel": {
-        "de": "Landshut (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/64507987-1ba5-488a-851c-b38d3d781e26",
-      "prefLabel": {
-        "de": "Straubing-Bogen (Kreis)"
       }
     },
     {
@@ -56,9 +44,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/51516c38-8d74-498b-8789-af4307ebf3c9",
+      "prefLabel": {
+        "de": "Landshut (Kreis)"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f948d322-8d6b-4b7c-b5fa-b0d3f1008192",
       "prefLabel": {
         "de": "Regen (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/64507987-1ba5-488a-851c-b38d3d781e26",
+      "prefLabel": {
+        "de": "Straubing-Bogen (Kreis)"
       }
     }
   ],
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

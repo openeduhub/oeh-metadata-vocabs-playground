@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/3074953c-793a-4aa5-94da-b10a3fbd7801",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3074953c-793a-4aa5-94da-b10a3fbd7801",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3074953c-793a-4aa5-94da-b10a3fbd7801",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3074953c-793a-4aa5-94da-b10a3fbd7801",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2F3074953c-793a-4aa5-94da-b10a3fbd7801",
   "prefLabel": {
     "de": "Kunst"
   },
@@ -32,12 +32,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/10b1ad4d-bc59-49e9-b886-00552d65c8fa",
-      "prefLabel": {
-        "de": "Perspektive (Kunst)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/1dfc2bf3-f582-4b51-b061-90eabe97ec88",
       "prefLabel": {
         "de": "Christliche Kunst"
@@ -50,15 +44,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/25c6f645-7d1b-45c7-8032-e675884a37eb",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/a99ca25e-464a-4f88-bfb6-7c8a87ae1527",
       "prefLabel": {
-        "de": "Römische Kunst"
+        "de": "Moderne Kunst"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/2822ee26-41ca-4a31-ab5a-3ebbbd8f7cfb",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/25c6f645-7d1b-45c7-8032-e675884a37eb",
       "prefLabel": {
-        "de": "Angewandte Kunst"
+        "de": "Römische Kunst"
       }
     },
     {
@@ -110,6 +104,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/10b1ad4d-bc59-49e9-b886-00552d65c8fa",
+      "prefLabel": {
+        "de": "Perspektive (Kunst)"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/549639d8-1f74-45ff-b5f6-e95818d74fd8",
       "prefLabel": {
         "de": "Frauenkunst"
@@ -146,6 +146,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/c37fdcef-ff00-446a-8241-c7584af16a83",
+      "prefLabel": {
+        "de": "Renaissance"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/7b96d042-983c-4466-9188-4ebb377e41eb",
       "prefLabel": {
         "de": "Naturalismus"
@@ -173,6 +179,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/9338f190-62f4-49cb-a714-ecf822b0c75e",
       "prefLabel": {
         "de": "Verfremdung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/2822ee26-41ca-4a31-ab5a-3ebbbd8f7cfb",
+      "prefLabel": {
+        "de": "Angewandte Kunst"
       }
     },
     {
@@ -212,12 +224,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/a99ca25e-464a-4f88-bfb6-7c8a87ae1527",
-      "prefLabel": {
-        "de": "Moderne Kunst"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/b3eb6f4b-bf07-4ae8-a69f-b9256330eac3",
       "prefLabel": {
         "de": "Griechische Kunst"
@@ -233,12 +239,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/b952ddc0-33c1-4d43-ac5f-d41c5a350f88",
       "prefLabel": {
         "de": "Prähistorische Kunst"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/c37fdcef-ff00-446a-8241-c7584af16a83",
-      "prefLabel": {
-        "de": "Renaissance"
       }
     },
     {
@@ -308,6 +308,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/",
+    "prefLabel": {
+      "de": "kunst"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -372,7 +378,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -381,7 +396,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

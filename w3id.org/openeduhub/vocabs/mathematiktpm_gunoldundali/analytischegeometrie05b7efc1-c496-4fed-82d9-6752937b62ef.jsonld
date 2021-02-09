@@ -1,16 +1,40 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
   "prefLabel": {
     "de": "Analytische Geometrie"
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrischeabbildungenundmatrizen5cf6b5e7-aa01-4a4d-ab6c-7f0ced29b256",
+      "prefLabel": {
+        "de": "Geometrische Abbildungen und Matrizen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
+      "prefLabel": {
+        "de": "Winkel und Abstände"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/additionundsubtraktionvonvektorend43ccd74-8f3d-4b78-9b40-48f01fbdda51",
       "prefLabel": {
         "de": "Addition und Subtraktion von Vektoren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeitsrechnung2021bc31-e59f-4f92-85ee-acca8620186d",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeitsrechnung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozesseundmatrizen58f409db-51de-45b2-9bf4-c3286a4519df",
+      "prefLabel": {
+        "de": "Prozesse und Matrizen"
       }
     },
     {
@@ -26,15 +50,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrischeabbildungenundmatrizen5cf6b5e7-aa01-4a4d-ab6c-7f0ced29b256",
-      "prefLabel": {
-        "de": "Geometrische Abbildungen und Matrizen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geradenundebenenf6cf880a-9ba5-445f-b87c-2621cc0100ed",
       "prefLabel": {
         "de": "Geraden und Ebenen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/weitereverteilungen6b3e5d20-d461-4ebf-948c-a1cd4fc798c1",
+      "prefLabel": {
+        "de": "Weitere Verteilungen"
       }
     },
     {
@@ -56,36 +80,18 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozesseundmatrizen58f409db-51de-45b2-9bf4-c3286a4519df",
-      "prefLabel": {
-        "de": "Prozesse und Matrizen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/punkteundvektorenimkoordinatensystem33ff7059-f7dd-4380-b748-70fb8e1f34ce",
       "prefLabel": {
         "de": "Punkte und Vektoren im Koordinatensystem"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeitsrechnung2021bc31-e59f-4f92-85ee-acca8620186d",
-      "prefLabel": {
-        "de": "Wahrscheinlichkeitsrechnung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/weitereverteilungen6b3e5d20-d461-4ebf-948c-a1cd4fc798c1",
-      "prefLabel": {
-        "de": "Weitere Verteilungen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
-      "prefLabel": {
-        "de": "Winkel und Abstände"
-      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/",
+    "prefLabel": {
+      "de": "Mathematik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -150,7 +156,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -159,7 +174,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

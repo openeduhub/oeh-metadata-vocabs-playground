@@ -1,12 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/96d99cff-2cd9-428e-a626-5df4ee81d66f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F96d99cff-2cd9-428e-a626-5df4ee81d66f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F96d99cff-2cd9-428e-a626-5df4ee81d66f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F96d99cff-2cd9-428e-a626-5df4ee81d66f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F96d99cff-2cd9-428e-a626-5df4ee81d66f",
   "prefLabel": {
     "de": "Periodensystem der Elemente PSE"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/f88bf413-6847-4071-861a-2b2a8adeef82",
+      "prefLabel": {
+        "de": "Nichtmetalle"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/60a59af2-c85a-496b-a369-c32cf518b99a",
       "prefLabel": {
@@ -18,14 +24,14 @@
       "prefLabel": {
         "de": "Metalle"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/f88bf413-6847-4071-861a-2b2a8adeef82",
-      "prefLabel": {
-        "de": "Nichtmetalle"
-      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/",
+    "prefLabel": {
+      "de": "chemie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -90,7 +96,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -99,7 +114,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

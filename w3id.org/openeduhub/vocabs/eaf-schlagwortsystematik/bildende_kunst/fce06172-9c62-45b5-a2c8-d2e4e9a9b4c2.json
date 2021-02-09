@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/fce06172-9c62-45b5-a2c8-d2e4e9a9b4c2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2Ffce06172-9c62-45b5-a2c8-d2e4e9a9b4c2",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2Ffce06172-9c62-45b5-a2c8-d2e4e9a9b4c2",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2Ffce06172-9c62-45b5-a2c8-d2e4e9a9b4c2",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbildende_kunst%2Ffce06172-9c62-45b5-a2c8-d2e4e9a9b4c2",
   "prefLabel": {
     "de": "Architektur"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/0274438a-cae2-4044-8970-7948972a0459",
-      "prefLabel": {
-        "de": "Denkmal"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/05375ede-1674-4987-96ca-49265d21ebff",
       "prefLabel": {
@@ -107,12 +101,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/261a5110-c745-43f6-952c-6a89d0367d59",
       "prefLabel": {
         "de": "Kolosseum"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/26c7a9a3-4f52-4ba8-92ba-e944d5ab5c97",
-      "prefLabel": {
-        "de": "Moderne Architektur"
       }
     },
     {
@@ -212,6 +200,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/0274438a-cae2-4044-8970-7948972a0459",
+      "prefLabel": {
+        "de": "Denkmal"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/59565553-c996-439b-a82a-78b5104cdaee",
       "prefLabel": {
         "de": "Pilgram, Anton"
@@ -236,9 +230,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/b06568c2-d56c-41bf-b191-064efd0e9861",
+      "prefLabel": {
+        "de": "Kirchenbau"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/6223b438-a0bc-4078-a21a-0f1cee6693a5",
       "prefLabel": {
         "de": "Theaterarchitektur"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/26c7a9a3-4f52-4ba8-92ba-e944d5ab5c97",
+      "prefLabel": {
+        "de": "Moderne Architektur"
       }
     },
     {
@@ -443,12 +449,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/ad5348be-861e-428a-9b93-9f0d8d2a9b1c",
       "prefLabel": {
         "de": "Fahrenkamp, Emil"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/bildende_kunst/b06568c2-d56c-41bf-b191-064efd0e9861",
-      "prefLabel": {
-        "de": "Kirchenbau"
       }
     },
     {
@@ -678,7 +678,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -687,7 +696,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

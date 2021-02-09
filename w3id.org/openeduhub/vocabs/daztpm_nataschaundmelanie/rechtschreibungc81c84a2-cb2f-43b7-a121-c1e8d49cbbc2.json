@@ -1,18 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/rechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Frechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Frechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Frechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Frechtschreibungc81c84a2-cb2f-43b7-a121-c1e8d49cbbc2",
   "prefLabel": {
     "de": "Rechtschreibung"
   },
   "altLabel": {
     "de": [
+      "Rechtschreibung",
       "Orthografie",
       "Orthographie",
       "Orthographisch",
-      "Rechtschreibregeln",
-      "Rechtschreibung"
+      "Rechtschreibregeln"
     ]
   },
   "narrower": [
@@ -29,6 +29,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/",
+    "prefLabel": {
+      "de": "Deutsch als Zweitsprache"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -93,7 +99,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -102,7 +117,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

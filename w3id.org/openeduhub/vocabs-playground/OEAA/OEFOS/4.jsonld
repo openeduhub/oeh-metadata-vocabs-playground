@@ -1,20 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/4",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F4",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F4",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F4",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F4",
   "prefLabel": {
     "de": "AGRARWISSENSCHAFTEN, VETERINÄRMEDIZIN",
     "en": "AGRICULTURAL SCIENCES, VETERINARY MEDICINE"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/401",
-      "prefLabel": {
-        "de": "Land- und Forstwirtschaft, Fischerei",
-        "en": "Agriculture and Forestry, Fishery"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/402",
       "prefLabel": {
@@ -41,6 +34,13 @@
       "prefLabel": {
         "de": "Andere Agrarwissenschaften",
         "en": "Other Agricultural Sciences"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/401",
+      "prefLabel": {
+        "de": "Land- und Forstwirtschaft, Fischerei",
+        "en": "Agriculture and Forestry, Fishery"
       }
     }
   ],
@@ -111,7 +111,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +129,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

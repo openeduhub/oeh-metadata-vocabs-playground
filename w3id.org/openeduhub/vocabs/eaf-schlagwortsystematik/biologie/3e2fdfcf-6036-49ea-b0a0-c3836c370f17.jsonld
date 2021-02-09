@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/3e2fdfcf-6036-49ea-b0a0-c3836c370f17",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F3e2fdfcf-6036-49ea-b0a0-c3836c370f17",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F3e2fdfcf-6036-49ea-b0a0-c3836c370f17",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F3e2fdfcf-6036-49ea-b0a0-c3836c370f17",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F3e2fdfcf-6036-49ea-b0a0-c3836c370f17",
   "prefLabel": {
     "de": "Pflanzenmorphologie"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/2556ae8c-40a0-4100-9c02-e33de80f6743",
-      "prefLabel": {
-        "de": "Blüte"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/2c012d10-d60e-4790-b18f-f1641b3164c2",
       "prefLabel": {
@@ -29,6 +23,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/401089b1-20b2-4724-81cf-3ecc4647922d",
       "prefLabel": {
         "de": "Blatt (Pflanze)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/2556ae8c-40a0-4100-9c02-e33de80f6743",
+      "prefLabel": {
+        "de": "Blüte"
       }
     },
     {
@@ -114,7 +114,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +132,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,40 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/390bc474-b6ac-43e2-8984-d1ff5cb6ed6f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F390bc474-b6ac-43e2-8984-d1ff5cb6ed6f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F390bc474-b6ac-43e2-8984-d1ff5cb6ed6f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F390bc474-b6ac-43e2-8984-d1ff5cb6ed6f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F390bc474-b6ac-43e2-8984-d1ff5cb6ed6f",
   "prefLabel": {
     "de": "Säugetiere"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/07661e9c-54af-4e28-9c75-f578ef307fb3",
-      "prefLabel": {
-        "de": "Raubtiere"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/0d71cb62-b0f8-4517-8589-051f203e8541",
-      "prefLabel": {
-        "de": "Flattertiere)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/18e52f78-80ae-49ae-a35c-98fd08151fd4",
       "prefLabel": {
         "de": "Beuteltiere"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/2aaf1127-3234-4bae-9c08-c886dead3a07",
-      "prefLabel": {
-        "de": "Hasenartige)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/65cecb81-3187-4aa0-8bd2-3d616f7c6a71",
-      "prefLabel": {
-        "de": "Schnabeltiere"
       }
     },
     {
@@ -44,33 +20,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6e22babf-c559-4b15-94c4-c3f2f7315efe",
-      "prefLabel": {
-        "de": "Huftiere"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/8813003b-3d79-4756-b6ad-caab777f5a61",
-      "prefLabel": {
-        "de": "Primaten"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/973cbf8b-02b7-4285-9db6-a363d8189e98",
-      "prefLabel": {
-        "de": "Rüsseltiere)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/9e8d95f0-9135-4bb7-ae31-ee0c0d547b3e",
-      "prefLabel": {
-        "de": "Meeressäuger"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/b92b6200-8531-4dda-9d5d-09f9e11dcd42",
       "prefLabel": {
         "de": "Insektenfresser"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/0d71cb62-b0f8-4517-8589-051f203e8541",
+      "prefLabel": {
+        "de": "Flattertiere)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/07661e9c-54af-4e28-9c75-f578ef307fb3",
+      "prefLabel": {
+        "de": "Raubtiere"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/65cecb81-3187-4aa0-8bd2-3d616f7c6a71",
+      "prefLabel": {
+        "de": "Schnabeltiere"
       }
     },
     {
@@ -89,6 +59,36 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/f5b44073-90c3-4267-85ff-506da04c1790",
       "prefLabel": {
         "de": "Sohlengänger"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/973cbf8b-02b7-4285-9db6-a363d8189e98",
+      "prefLabel": {
+        "de": "Rüsseltiere)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/2aaf1127-3234-4bae-9c08-c886dead3a07",
+      "prefLabel": {
+        "de": "Hasenartige)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/8813003b-3d79-4756-b6ad-caab777f5a61",
+      "prefLabel": {
+        "de": "Primaten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/9e8d95f0-9135-4bb7-ae31-ee0c0d547b3e",
+      "prefLabel": {
+        "de": "Meeressäuger"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6e22babf-c559-4b15-94c4-c3f2f7315efe",
+      "prefLabel": {
+        "de": "Huftiere"
       }
     }
   ],
@@ -162,7 +162,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -171,7 +180,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

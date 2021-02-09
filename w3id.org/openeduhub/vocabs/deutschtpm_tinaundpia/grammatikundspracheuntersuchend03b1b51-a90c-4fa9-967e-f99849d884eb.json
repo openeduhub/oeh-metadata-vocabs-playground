@@ -1,16 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/grammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgrammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgrammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgrammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgrammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
   "prefLabel": {
     "de": "Grammatik und Sprache untersuchen"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzarten38d73c1a-cd28-4948-94b5-e157cfb838dd",
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortarten39dba6c8-9aec-4e40-b29b-d251b57e31cc",
       "prefLabel": {
-        "de": "Satzarten"
+        "de": "Wortarten"
       }
     },
     {
@@ -20,9 +20,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortarten39dba6c8-9aec-4e40-b29b-d251b57e31cc",
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/satzarten38d73c1a-cd28-4948-94b5-e157cfb838dd",
       "prefLabel": {
-        "de": "Wortarten"
+        "de": "Satzarten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortschatzundwortkundec63264ae-0484-40b4-b0f6-7a8e2f4229d3",
+      "prefLabel": {
+        "de": "Wortschatz und Wortkunde"
       }
     },
     {
@@ -36,14 +42,14 @@
       "prefLabel": {
         "de": "Wortformen"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortschatzundwortkundec63264ae-0484-40b4-b0f6-7a8e2f4229d3",
-      "prefLabel": {
-        "de": "Wortschatz und Wortkunde"
-      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/",
+    "prefLabel": {
+      "de": "Deutsch"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -108,7 +114,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -117,7 +132,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/wasserstoffbrueckenbindungen1e8aed0f-2f49-4fa0-8347-f4e4af8b68a0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fwasserstoffbrueckenbindungen1e8aed0f-2f49-4fa0-8347-f4e4af8b68a0",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fwasserstoffbrueckenbindungen1e8aed0f-2f49-4fa0-8347-f4e4af8b68a0",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fwasserstoffbrueckenbindungen1e8aed0f-2f49-4fa0-8347-f4e4af8b68a0",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fwasserstoffbrueckenbindungen1e8aed0f-2f49-4fa0-8347-f4e4af8b68a0",
   "prefLabel": {
     "de": "Wasserstoffbrückenbindungen"
   },
@@ -76,7 +76,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -85,7 +94,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

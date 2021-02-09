@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d600ef60-fa3b-43a0-ad0d-f81f40ecee79",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd600ef60-fa3b-43a0-ad0d-f81f40ecee79",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd600ef60-fa3b-43a0-ad0d-f81f40ecee79",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd600ef60-fa3b-43a0-ad0d-f81f40ecee79",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd600ef60-fa3b-43a0-ad0d-f81f40ecee79",
   "prefLabel": {
     "de": "Sachsen (Freistaat)"
   },
@@ -11,12 +11,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/062e488f-e753-452e-8d57-c11a4f2805ce",
       "prefLabel": {
         "de": "Weißeritzkreis"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/09f1f6bd-655b-4345-a646-e66a398aa57c",
-      "prefLabel": {
-        "de": "Niederschlesischer Oberlausitzkreis"
       }
     },
     {
@@ -50,15 +44,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3927be7b-6fa1-4f9f-ad01-dd1ec5739e9f",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/09f1f6bd-655b-4345-a646-e66a398aa57c",
       "prefLabel": {
-        "de": "Meißen (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4e7811f1-35d0-40c7-b14f-620df49ff0e2",
-      "prefLabel": {
-        "de": "Muldentalkreis"
+        "de": "Niederschlesischer Oberlausitzkreis"
       }
     },
     {
@@ -95,6 +83,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7f9ccaf4-a12c-4e91-84ab-f370d2ec24f5",
       "prefLabel": {
         "de": "Dresden"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4e7811f1-35d0-40c7-b14f-620df49ff0e2",
+      "prefLabel": {
+        "de": "Muldentalkreis"
       }
     },
     {
@@ -161,6 +155,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e8f5a4c0-dfab-4492-89ee-89686500e8a7",
       "prefLabel": {
         "de": "Chemnitzer Land (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3927be7b-6fa1-4f9f-ad01-dd1ec5739e9f",
+      "prefLabel": {
+        "de": "Meißen (Kreis)"
       }
     },
     {
@@ -246,7 +246,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -255,7 +264,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

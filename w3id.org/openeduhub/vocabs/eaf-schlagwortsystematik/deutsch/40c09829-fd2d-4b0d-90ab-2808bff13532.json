@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/40c09829-fd2d-4b0d-90ab-2808bff13532",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2F40c09829-fd2d-4b0d-90ab-2808bff13532",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2F40c09829-fd2d-4b0d-90ab-2808bff13532",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2F40c09829-fd2d-4b0d-90ab-2808bff13532",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2F40c09829-fd2d-4b0d-90ab-2808bff13532",
   "prefLabel": {
     "de": "Dichter, Schriftsteller, etc."
   },
@@ -239,12 +239,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/16dd6db0-4132-4aa1-ad83-a7545db23f82",
       "prefLabel": {
         "de": "Kaschnitz, Marie Luise"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/182b3db7-f31b-4e0d-926e-f4ed99417615",
-      "prefLabel": {
-        "de": "Alafenisch, Salim"
       }
     },
     {
@@ -1082,6 +1076,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/b8969bfe-6c10-4ed3-985a-7f49529462e5",
+      "prefLabel": {
+        "de": "Frisch, Max"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/6f3839a4-bd7b-4056-a5dd-c5c216e3f2dc",
       "prefLabel": {
         "de": "Horn, Sabine"
@@ -1193,6 +1193,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/7d15cad0-fc8d-4ff4-b023-a65e5ce7970c",
       "prefLabel": {
         "de": "Weinherber, Josef"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/182b3db7-f31b-4e0d-926e-f4ed99417615",
+      "prefLabel": {
+        "de": "Alafenisch, Salim"
       }
     },
     {
@@ -1625,12 +1631,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/b6c6099d-4795-4522-9a0b-c9d37c35fabf",
       "prefLabel": {
         "de": "Thenior, Ralf"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/b8969bfe-6c10-4ed3-985a-7f49529462e5",
-      "prefLabel": {
-        "de": "Frisch, Max"
       }
     },
     {
@@ -2234,6 +2234,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/",
+    "prefLabel": {
+      "de": "deutsch"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -2298,7 +2304,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -2307,7 +2322,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

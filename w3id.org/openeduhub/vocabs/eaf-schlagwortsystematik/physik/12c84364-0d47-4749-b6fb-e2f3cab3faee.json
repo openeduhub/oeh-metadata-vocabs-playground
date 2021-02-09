@@ -1,22 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/12c84364-0d47-4749-b6fb-e2f3cab3faee",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F12c84364-0d47-4749-b6fb-e2f3cab3faee",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F12c84364-0d47-4749-b6fb-e2f3cab3faee",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F12c84364-0d47-4749-b6fb-e2f3cab3faee",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F12c84364-0d47-4749-b6fb-e2f3cab3faee",
   "prefLabel": {
     "de": "Elektrizität"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/115fadd4-86ae-403a-994e-329f989dc6cd",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ef28a5d1-e19b-4ab3-a92e-0935f5919384",
       "prefLabel": {
-        "de": "Feldlinie"
+        "de": "Elektronik"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/2f2fb44d-2922-45d6-9b71-79a5af80e698",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/115fadd4-86ae-403a-994e-329f989dc6cd",
       "prefLabel": {
-        "de": "Lampe"
+        "de": "Feldlinie"
       }
     },
     {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/ef28a5d1-e19b-4ab3-a92e-0935f5919384",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/2f2fb44d-2922-45d6-9b71-79a5af80e698",
       "prefLabel": {
-        "de": "Elektronik"
+        "de": "Lampe"
       }
     }
   ],
@@ -114,7 +114,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +132,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

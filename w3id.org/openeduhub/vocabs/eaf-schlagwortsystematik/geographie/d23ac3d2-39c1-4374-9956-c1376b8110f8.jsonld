@@ -1,12 +1,30 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d23ac3d2-39c1-4374-9956-c1376b8110f8",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd23ac3d2-39c1-4374-9956-c1376b8110f8",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd23ac3d2-39c1-4374-9956-c1376b8110f8",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd23ac3d2-39c1-4374-9956-c1376b8110f8",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fd23ac3d2-39c1-4374-9956-c1376b8110f8",
   "prefLabel": {
     "de": "Gewässer"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8a19e596-6fd8-41da-9f17-cd32d039be0c",
+      "prefLabel": {
+        "de": "Meer"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/aa26c7bb-d946-40a8-8098-c34f8e0cc86b",
+      "prefLabel": {
+        "de": "Wasserwirtschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/64e60382-c99d-4cc2-b142-f1e93856c0d8",
+      "prefLabel": {
+        "de": "Wasserkreislauf"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/01ca81b9-20b3-4fd4-86fe-4333a3a61d6b",
       "prefLabel": {
@@ -20,21 +38,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/64e60382-c99d-4cc2-b142-f1e93856c0d8",
-      "prefLabel": {
-        "de": "Wasserkreislauf"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/802c7876-7ce0-4825-a9dd-dfaf87b7c4ec",
       "prefLabel": {
         "de": "Fließgewässer"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/805cf867-bfb7-4e20-af23-13838729247b",
-      "prefLabel": {
-        "de": "Wasserfall"
       }
     },
     {
@@ -44,15 +50,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8a19e596-6fd8-41da-9f17-cd32d039be0c",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/805cf867-bfb7-4e20-af23-13838729247b",
       "prefLabel": {
-        "de": "Meer"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/aa26c7bb-d946-40a8-8098-c34f8e0cc86b",
-      "prefLabel": {
-        "de": "Wasserwirtschaft"
+        "de": "Wasserfall"
       }
     },
     {
@@ -144,7 +144,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -153,7 +162,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

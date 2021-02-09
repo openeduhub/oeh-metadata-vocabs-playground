@@ -1,13 +1,14 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produktion8bc506a5-b984-4a64-bf3c-04fa148ecf29",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fproduktion8bc506a5-b984-4a64-bf3c-04fa148ecf29",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fproduktion8bc506a5-b984-4a64-bf3c-04fa148ecf29",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fproduktion8bc506a5-b984-4a64-bf3c-04fa148ecf29",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fproduktion8bc506a5-b984-4a64-bf3c-04fa148ecf29",
   "prefLabel": {
     "de": "Produktion"
   },
   "altLabel": {
     "de": [
+      "Produktion",
       "Fabrikation",
       "Fertigung",
       "Filmproduzent",
@@ -17,7 +18,6 @@
       "PS-Regel",
       "Phrasenstrukturregel",
       "Plattenproduzent",
-      "Produktion",
       "Produzentin",
       "Regel",
       "Schallplattenproduzent"
@@ -100,7 +100,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -109,7 +118,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

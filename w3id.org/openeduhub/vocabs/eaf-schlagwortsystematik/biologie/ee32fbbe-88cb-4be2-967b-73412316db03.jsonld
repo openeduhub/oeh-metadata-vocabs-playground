@@ -1,24 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/ee32fbbe-88cb-4be2-967b-73412316db03",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fee32fbbe-88cb-4be2-967b-73412316db03",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fee32fbbe-88cb-4be2-967b-73412316db03",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fee32fbbe-88cb-4be2-967b-73412316db03",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fee32fbbe-88cb-4be2-967b-73412316db03",
   "prefLabel": {
     "de": "Ökologie"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5179972c-ef74-4c96-a8e6-f1123edd82b6",
-      "prefLabel": {
-        "de": "Produzent (Ökologie)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5de09e8a-bb75-4e1c-8f8e-0a9eb668111b",
-      "prefLabel": {
-        "de": "Konsument (Ökologie)"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/76f23071-a5b6-4e65-922d-a52e39939f05",
       "prefLabel": {
@@ -29,6 +17,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/80970a50-89d9-435c-b4ac-4ca7eda3fa7c",
       "prefLabel": {
         "de": "Lebensraum"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5179972c-ef74-4c96-a8e6-f1123edd82b6",
+      "prefLabel": {
+        "de": "Produzent (Ökologie)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5de09e8a-bb75-4e1c-8f8e-0a9eb668111b",
+      "prefLabel": {
+        "de": "Konsument (Ökologie)"
       }
     },
     {
@@ -120,7 +120,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -129,7 +138,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

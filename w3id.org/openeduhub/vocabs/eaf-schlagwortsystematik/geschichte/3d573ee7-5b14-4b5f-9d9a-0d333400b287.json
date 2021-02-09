@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/3d573ee7-5b14-4b5f-9d9a-0d333400b287",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F3d573ee7-5b14-4b5f-9d9a-0d333400b287",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F3d573ee7-5b14-4b5f-9d9a-0d333400b287",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F3d573ee7-5b14-4b5f-9d9a-0d333400b287",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeschichte%2F3d573ee7-5b14-4b5f-9d9a-0d333400b287",
   "prefLabel": {
     "de": "Drittes Reich (1933-45)"
   },
@@ -32,15 +32,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/33e13bcf-7def-43bd-97de-99c8c2616dce",
+      "prefLabel": {
+        "de": "Konzentrationslager"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/2ec82ecd-858d-40e3-9ffe-0cee8a5059b2",
       "prefLabel": {
         "de": "Berlin (193345)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/33e13bcf-7def-43bd-97de-99c8c2616dce",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/754684c4-924c-4d30-a9c2-a629d64febfd",
       "prefLabel": {
-        "de": "Konzentrationslager"
+        "de": "Widerstand gegen Hitler"
       }
     },
     {
@@ -65,12 +71,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/696dc76a-1e23-48f4-8d24-a3531234e390",
       "prefLabel": {
         "de": "Reichskristallnacht"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/754684c4-924c-4d30-a9c2-a629d64febfd",
-      "prefLabel": {
-        "de": "Widerstand gegen Hitler"
       }
     },
     {
@@ -110,6 +110,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geschichte/",
+    "prefLabel": {
+      "de": "geschichte"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -174,7 +180,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -183,7 +198,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

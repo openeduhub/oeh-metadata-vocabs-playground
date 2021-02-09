@@ -1,13 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/komposition9e91a047-1e81-49cb-9556-40dbe3192b36",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkomposition9e91a047-1e81-49cb-9556-40dbe3192b36",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkomposition9e91a047-1e81-49cb-9556-40dbe3192b36",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkomposition9e91a047-1e81-49cb-9556-40dbe3192b36",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkomposition9e91a047-1e81-49cb-9556-40dbe3192b36",
   "prefLabel": {
     "de": "Komposition"
   },
   "altLabel": {
     "de": [
+      "Musikstück",
+      "Komposition",
+      "Wortzusammensetzung",
       "Bestimmungswort",
       "Beziehung",
       "Bildkomposition",
@@ -17,21 +20,18 @@
       "Hintereinanderausführung",
       "Komponieren",
       "Komponistin",
-      "Komposition",
       "Kompositionen",
       "Kompositionsschema",
       "Kompositum",
       "Kompositum aus",
       "Kopulativkompositum",
       "Musikkompositionen",
-      "Musikstück",
       "Musikwerk",
       "Stück",
       "Verbindung von",
       "Verkettung",
       "Verkettung von Funktionen",
       "Wortkomposition",
-      "Wortzusammensetzung",
       "Zusammengesetzes Wort",
       "Zusammengesetzte Wörter",
       "Zusammengesetztes Hauptwort",
@@ -156,7 +156,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -165,7 +174,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

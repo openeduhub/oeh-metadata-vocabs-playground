@@ -1,12 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/0144ffe4-b73f-4c8b-8c6e-76ea80704ce3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F0144ffe4-b73f-4c8b-8c6e-76ea80704ce3",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F0144ffe4-b73f-4c8b-8c6e-76ea80704ce3",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F0144ffe4-b73f-4c8b-8c6e-76ea80704ce3",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fphysik%2F0144ffe4-b73f-4c8b-8c6e-76ea80704ce3",
   "prefLabel": {
     "de": "Weltbild"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/a5237692-e761-4d35-aafe-86ddafbc2dd1",
+      "prefLabel": {
+        "de": "Gravitation"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/7f16e6fa-6502-415a-8648-96f974afef1b",
       "prefLabel": {
@@ -17,12 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/7fc479f4-b175-440a-9a5f-c7370a238e55",
       "prefLabel": {
         "de": "Magnetismus"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/physik/a5237692-e761-4d35-aafe-86ddafbc2dd1",
-      "prefLabel": {
-        "de": "Gravitation"
       }
     },
     {
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,16 +1,28 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/8f964d39-3b74-45bd-8a96-a4cf567406df",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F8f964d39-3b74-45bd-8a96-a4cf567406df",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F8f964d39-3b74-45bd-8a96-a4cf567406df",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F8f964d39-3b74-45bd-8a96-a4cf567406df",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F8f964d39-3b74-45bd-8a96-a4cf567406df",
   "prefLabel": {
     "de": "Wirbellose"
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/8dd9d957-db0d-4bbb-95be-8ad2ae6b8d97",
+      "prefLabel": {
+        "de": "Hohltiere"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/2928feb5-0562-4fd0-b423-1195a666b5fd",
       "prefLabel": {
         "de": "Schwämme"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d07eb895-a256-4c79-b17a-259da0b4d3c8",
+      "prefLabel": {
+        "de": "Weichtiere"
       }
     },
     {
@@ -20,24 +32,18 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/8dd9d957-db0d-4bbb-95be-8ad2ae6b8d97",
-      "prefLabel": {
-        "de": "Hohltiere"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/af189132-ca12-4855-8edc-34d2f562cf1d",
       "prefLabel": {
         "de": "Gliederfüßer"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d07eb895-a256-4c79-b17a-259da0b4d3c8",
-      "prefLabel": {
-        "de": "Weichtiere"
-      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/",
+    "prefLabel": {
+      "de": "biologie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -102,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

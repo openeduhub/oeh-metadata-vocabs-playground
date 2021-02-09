@@ -1,28 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e710f4e5-4fcd-4c7a-873b-ff5545d64bac",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe710f4e5-4fcd-4c7a-873b-ff5545d64bac",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe710f4e5-4fcd-4c7a-873b-ff5545d64bac",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe710f4e5-4fcd-4c7a-873b-ff5545d64bac",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe710f4e5-4fcd-4c7a-873b-ff5545d64bac",
   "prefLabel": {
     "de": "Afrika"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/277fabbd-abb4-4563-b491-32e10598fc76",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d2193882-a11a-4e6a-b0a7-37e4f5ab6270",
       "prefLabel": {
-        "de": "Südafrika (Erdteil)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/76c35dcb-8521-4020-871e-a734415a4614",
-      "prefLabel": {
-        "de": "Nordafrika"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/98f26d6a-9c7d-4c3e-80dd-c3a97b421347",
-      "prefLabel": {
-        "de": "Zentralafrika"
+        "de": "Ostafrika"
       }
     },
     {
@@ -32,12 +20,30 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d2193882-a11a-4e6a-b0a7-37e4f5ab6270",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/76c35dcb-8521-4020-871e-a734415a4614",
       "prefLabel": {
-        "de": "Ostafrika"
+        "de": "Nordafrika"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/277fabbd-abb4-4563-b491-32e10598fc76",
+      "prefLabel": {
+        "de": "Südafrika (Erdteil)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/98f26d6a-9c7d-4c3e-80dd-c3a97b421347",
+      "prefLabel": {
+        "de": "Zentralafrika"
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/",
+    "prefLabel": {
+      "de": "geographie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -102,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

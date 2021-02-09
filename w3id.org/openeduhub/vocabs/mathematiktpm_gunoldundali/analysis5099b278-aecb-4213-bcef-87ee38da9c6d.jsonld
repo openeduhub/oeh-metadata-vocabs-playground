@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalysis5099b278-aecb-4213-bcef-87ee38da9c6d",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalysis5099b278-aecb-4213-bcef-87ee38da9c6d",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalysis5099b278-aecb-4213-bcef-87ee38da9c6d",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fanalysis5099b278-aecb-4213-bcef-87ee38da9c6d",
   "prefLabel": {
     "de": "Analysis"
   },
@@ -14,9 +14,9 @@
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ableitungenganz-rationalerfunktionenc032870f-9a7f-435f-8f6d-33dcca99f1a4",
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/grundlagenc194b92d-f2aa-4e04-a1a3-3ac759498197",
       "prefLabel": {
-        "de": "Ableitungen ganz-rationaler Funktionen"
+        "de": "Grundlagen"
       }
     },
     {
@@ -32,21 +32,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionsgraphenganz-rationalerfunktionen5cf66e9d-ed86-4bf9-81c2-0580fabb94cb",
-      "prefLabel": {
-        "de": "Funktionsgraphen ganz-rationaler Funktionen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/gebrochenrationalefunkrionen2783524e-6ddc-442d-b784-57c1f1060ce6",
       "prefLabel": {
         "de": "Gebrochenrationale Funkrionen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/grundlagenc194b92d-f2aa-4e04-a1a3-3ac759498197",
-      "prefLabel": {
-        "de": "Grundlagen"
       }
     },
     {
@@ -54,8 +42,26 @@
       "prefLabel": {
         "de": "Integralrechnung"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/ableitungenganz-rationalerfunktionenc032870f-9a7f-435f-8f6d-33dcca99f1a4",
+      "prefLabel": {
+        "de": "Ableitungen ganz-rationaler Funktionen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/funktionsgraphenganz-rationalerfunktionen5cf66e9d-ed86-4bf9-81c2-0580fabb94cb",
+      "prefLabel": {
+        "de": "Funktionsgraphen ganz-rationaler Funktionen"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/",
+    "prefLabel": {
+      "de": "Mathematik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -120,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -129,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

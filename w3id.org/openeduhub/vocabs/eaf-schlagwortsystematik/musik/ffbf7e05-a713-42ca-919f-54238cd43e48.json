@@ -1,16 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/ffbf7e05-a713-42ca-919f-54238cd43e48",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fffbf7e05-a713-42ca-919f-54238cd43e48",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fffbf7e05-a713-42ca-919f-54238cd43e48",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fffbf7e05-a713-42ca-919f-54238cd43e48",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fffbf7e05-a713-42ca-919f-54238cd43e48",
   "prefLabel": {
     "de": "Musikinstrument"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/022f35b7-b1ae-48a7-a552-a2628cb054f9",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/365ec6fb-457b-48de-acf7-cc55a73106cf",
       "prefLabel": {
-        "de": "Tasteninstrument"
+        "de": "Streichinstrument"
       }
     },
     {
@@ -20,9 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/365ec6fb-457b-48de-acf7-cc55a73106cf",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/022f35b7-b1ae-48a7-a552-a2628cb054f9",
       "prefLabel": {
-        "de": "Streichinstrument"
+        "de": "Tasteninstrument"
       }
     },
     {
@@ -38,6 +38,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/",
+    "prefLabel": {
+      "de": "musik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -102,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

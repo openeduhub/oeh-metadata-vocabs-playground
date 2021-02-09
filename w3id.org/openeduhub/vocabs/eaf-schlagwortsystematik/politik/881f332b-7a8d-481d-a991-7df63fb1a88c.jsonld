@@ -1,12 +1,24 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/881f332b-7a8d-481d-a991-7df63fb1a88c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F881f332b-7a8d-481d-a991-7df63fb1a88c",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F881f332b-7a8d-481d-a991-7df63fb1a88c",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F881f332b-7a8d-481d-a991-7df63fb1a88c",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F881f332b-7a8d-481d-a991-7df63fb1a88c",
   "prefLabel": {
     "de": "Politik"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/74a947a7-d4a3-4fa8-81fa-014a917dfb8f",
+      "prefLabel": {
+        "de": "Gericht (Recht)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/12e6cc43-0ef1-49ca-a2de-939926288bb0",
+      "prefLabel": {
+        "de": "Bundesregierung"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/01794ef8-26de-4912-b953-674e1f1f0270",
       "prefLabel": {
@@ -26,21 +38,45 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/c38b1562-1117-46b3-b303-3763217a3c7d",
+      "prefLabel": {
+        "de": "Recht"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/03ec26f6-532b-41c1-b13b-ef5a3e7f84c4",
       "prefLabel": {
         "de": "Jugendfreiwilligendienst"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/04ad6a9d-e655-4ec8-b17f-80dd9bef88d7",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/67ea7bf0-8b7b-412f-90c7-1a3431bebedb",
       "prefLabel": {
-        "de": "Staat (Land)"
+        "de": "Verfassung (Politik)"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/0536472b-e76c-4c59-a677-5144559f98f1",
       "prefLabel": {
         "de": "DominoTheorie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/cbd3bb63-2b80-43e8-a489-ee61f2d7ae20",
+      "prefLabel": {
+        "de": "Meinungsfreiheit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/96dcd6cf-2920-4d91-82b4-c66fd0a320dd",
+      "prefLabel": {
+        "de": "Partei (Politik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/04ad6a9d-e655-4ec8-b17f-80dd9bef88d7",
+      "prefLabel": {
+        "de": "Staat (Land)"
       }
     },
     {
@@ -74,21 +110,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/12e6cc43-0ef1-49ca-a2de-939926288bb0",
-      "prefLabel": {
-        "de": "Bundesregierung"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/14c3c457-5081-4097-bd1a-8bd74c385ce4",
       "prefLabel": {
         "de": "Imperialismus"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/15535a66-56c1-43d2-8bf9-cf3a4885cf86",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
       "prefLabel": {
-        "de": "Terror"
+        "de": "Herrschaftsform"
       }
     },
     {
@@ -101,6 +131,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/1b1ab4a3-b9bf-441a-9301-fe8a58ecbfb0",
       "prefLabel": {
         "de": "Propaganda"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/9af467a5-6b52-4aaf-b972-ac74d87dabfc",
+      "prefLabel": {
+        "de": "Rassismus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/a9b11aa8-9f88-4884-a8e9-c82876e5c5f5",
+      "prefLabel": {
+        "de": "Gesetz"
       }
     },
     {
@@ -134,39 +176,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2a0562be-2fc7-4653-8606-45ec16d7e970",
-      "prefLabel": {
-        "de": "Vollstreckung"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2bde4e66-fc6e-447e-bcd2-3aff14142ae9",
       "prefLabel": {
         "de": "Golfstaaten"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2c244383-f732-494a-abb6-77e407f5ebb3",
-      "prefLabel": {
-        "de": "Vereinte Nationen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2d484531-cb3e-41c9-be9b-213bf6af1828",
-      "prefLabel": {
-        "de": "Jugendschutz"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2d4a342c-8097-47ed-a1a7-aa78147af317",
       "prefLabel": {
         "de": "Dienstleistung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2ea3db9a-1f95-43ec-a970-0e1baa8d5e0d",
-      "prefLabel": {
-        "de": "Nichtregierungsorganisation"
       }
     },
     {
@@ -194,9 +212,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/42aa706a-be68-4e5a-9fb7-124df5006f79",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/15535a66-56c1-43d2-8bf9-cf3a4885cf86",
       "prefLabel": {
-        "de": "Verwaltung"
+        "de": "Terror"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2a0562be-2fc7-4653-8606-45ec16d7e970",
+      "prefLabel": {
+        "de": "Vollstreckung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2c244383-f732-494a-abb6-77e407f5ebb3",
+      "prefLabel": {
+        "de": "Vereinte Nationen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/8de1d902-6607-4aea-abaf-2ddf9959805e",
+      "prefLabel": {
+        "de": "Einwanderungspolitik"
       }
     },
     {
@@ -218,6 +254,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/7caad10d-85ff-4580-aae0-bd1ba1e7bf76",
+      "prefLabel": {
+        "de": "Wahl"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/5789facb-7fc7-4b15-9a28-25488eae3742",
       "prefLabel": {
         "de": "Populismus"
@@ -233,6 +275,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/5ec124d8-57e5-4247-bd86-bc994541c04b",
       "prefLabel": {
         "de": "Hauptstadt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/ebc96aee-dac9-45b9-9913-8517a43d54eb",
+      "prefLabel": {
+        "de": "Militär"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/72e886ee-79f6-4e88-b6b1-44b7dad7a881",
+      "prefLabel": {
+        "de": "Außenpolitik"
       }
     },
     {
@@ -254,12 +308,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/67ea7bf0-8b7b-412f-90c7-1a3431bebedb",
-      "prefLabel": {
-        "de": "Verfassung (Politik)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/6cea2548-e9d7-4265-9b5b-20305df49fec",
       "prefLabel": {
         "de": "DIN"
@@ -272,39 +320,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/72e886ee-79f6-4e88-b6b1-44b7dad7a881",
-      "prefLabel": {
-        "de": "Außenpolitik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/74a947a7-d4a3-4fa8-81fa-014a917dfb8f",
-      "prefLabel": {
-        "de": "Gericht (Recht)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/7579f658-a811-4f7d-91a4-e6512405c575",
       "prefLabel": {
         "de": "Ausländer (weltweit)"
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/42aa706a-be68-4e5a-9fb7-124df5006f79",
+      "prefLabel": {
+        "de": "Verwaltung"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/765dac1d-36db-4dc4-988f-70a9e3188981",
       "prefLabel": {
         "de": "Sozialismus"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/797713f9-f734-49d3-b672-9d8c2e5c49ad",
-      "prefLabel": {
-        "de": "Strafvollzug"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/7caad10d-85ff-4580-aae0-bd1ba1e7bf76",
-      "prefLabel": {
-        "de": "Wahl"
       }
     },
     {
@@ -317,6 +347,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/7ce175f4-eaf3-4209-a6d6-03599ba42bac",
       "prefLabel": {
         "de": "Revolution (allgemein)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/d9c1c305-a8fc-4bba-8e50-2634c2ce5b57",
+      "prefLabel": {
+        "de": "Bundeswehr"
       }
     },
     {
@@ -356,18 +392,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/83463f35-571f-4b45-bea6-86e53b60ff96",
-      "prefLabel": {
-        "de": "Minderheit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/86524333-5b77-4e69-b150-d922883e24ca",
-      "prefLabel": {
-        "de": "Sozialstaat"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/883adf93-7d4d-430e-9c22-1451b24b3488",
       "prefLabel": {
         "de": "Bürokratie"
@@ -377,12 +401,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/8ca3a565-6aa1-400c-b07c-8025ff4a7284",
       "prefLabel": {
         "de": "Fanatismus"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/8de1d902-6607-4aea-abaf-2ddf9959805e",
-      "prefLabel": {
-        "de": "Einwanderungspolitik"
       }
     },
     {
@@ -398,12 +416,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/96dcd6cf-2920-4d91-82b4-c66fd0a320dd",
-      "prefLabel": {
-        "de": "Partei (Politik)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/96ee46cc-dd85-4704-b299-b0c3b8b4ce26",
       "prefLabel": {
         "de": "Exil"
@@ -416,9 +428,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/9af467a5-6b52-4aaf-b972-ac74d87dabfc",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2d484531-cb3e-41c9-be9b-213bf6af1828",
       "prefLabel": {
-        "de": "Rassismus"
+        "de": "Jugendschutz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/e961c37f-86a5-4dbd-9b3c-cd2e992eeb97",
+      "prefLabel": {
+        "de": "Frieden"
       }
     },
     {
@@ -446,15 +464,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/2ea3db9a-1f95-43ec-a970-0e1baa8d5e0d",
+      "prefLabel": {
+        "de": "Nichtregierungsorganisation"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/a4adc98f-928f-482f-9995-0c1954608403",
       "prefLabel": {
         "de": "Kriegsfolge"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/a9b11aa8-9f88-4884-a8e9-c82876e5c5f5",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/86524333-5b77-4e69-b150-d922883e24ca",
       "prefLabel": {
-        "de": "Gesetz"
+        "de": "Sozialstaat"
       }
     },
     {
@@ -506,6 +530,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/f3c5b4cd-5855-4991-a8be-0ccb27108ff0",
+      "prefLabel": {
+        "de": "Politische Grenze"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/b9d48742-9f50-4c6d-89d8-6baa89b0fb49",
       "prefLabel": {
         "de": "Demokratisierung"
@@ -515,30 +545,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bb3ba80c-3a8f-44b4-b43f-da4df2e22d12",
       "prefLabel": {
         "de": "Migrationsursache"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bbaff0d1-e51f-4de7-a970-c991dd902f3a",
-      "prefLabel": {
-        "de": "Spionage"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bd8e3d36-d0e4-45ab-9ef5-e1bd304e1b5c",
-      "prefLabel": {
-        "de": "Herrschaftsform"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bdb9168b-1214-404b-b660-d6390c356ff8",
-      "prefLabel": {
-        "de": "Rüstung (Politik)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/c38b1562-1117-46b3-b303-3763217a3c7d",
-      "prefLabel": {
-        "de": "Recht"
       }
     },
     {
@@ -566,12 +572,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/cbd3bb63-2b80-43e8-a489-ee61f2d7ae20",
-      "prefLabel": {
-        "de": "Meinungsfreiheit"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/cc5b9afa-094c-4edc-a449-e3653152a878",
       "prefLabel": {
         "de": "Putsch"
@@ -584,9 +584,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/797713f9-f734-49d3-b672-9d8c2e5c49ad",
+      "prefLabel": {
+        "de": "Strafvollzug"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/d3c78884-c3c9-4864-9295-6bb063a9b3d4",
       "prefLabel": {
         "de": "Zensur (Überwachung)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bbaff0d1-e51f-4de7-a970-c991dd902f3a",
+      "prefLabel": {
+        "de": "Spionage"
       }
     },
     {
@@ -602,9 +614,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/d9c1c305-a8fc-4bba-8e50-2634c2ce5b57",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/bdb9168b-1214-404b-b660-d6390c356ff8",
       "prefLabel": {
-        "de": "Bundeswehr"
+        "de": "Rüstung (Politik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/83463f35-571f-4b45-bea6-86e53b60ff96",
+      "prefLabel": {
+        "de": "Minderheit"
       }
     },
     {
@@ -638,18 +656,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/e961c37f-86a5-4dbd-9b3c-cd2e992eeb97",
-      "prefLabel": {
-        "de": "Frieden"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/ebc96aee-dac9-45b9-9913-8517a43d54eb",
-      "prefLabel": {
-        "de": "Militär"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/ed5c3bf0-783a-4a44-8079-6628182f59fc",
       "prefLabel": {
         "de": "Aussiedler"
@@ -665,12 +671,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/ef134fde-2632-4bb0-94a2-2cb98c6b2c61",
       "prefLabel": {
         "de": "Verbrechensbekämpfung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/f3c5b4cd-5855-4991-a8be-0ccb27108ff0",
-      "prefLabel": {
-        "de": "Politische Grenze"
       }
     },
     {
@@ -740,6 +740,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/",
+    "prefLabel": {
+      "de": "politik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -804,7 +810,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -813,7 +828,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

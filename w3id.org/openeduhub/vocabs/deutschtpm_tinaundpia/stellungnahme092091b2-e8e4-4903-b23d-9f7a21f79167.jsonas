@@ -1,13 +1,12 @@
 {
-  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
+  "id": "https://test.skohub.io/oeh-metadata-vocabs-playground/w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
   "type": "Service",
-  "name": "Stellungnahme",
-  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6465757473636874706d5f74696e61756e647069612f7374656c6c756e676e61686d6530393230393162322d653865342d343930332d623233642d396637613231663739313637",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fstellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fstellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
+  "preferredUsername": "6f65682d6d657461646174612d766f636162732d706c617967726f756e642f773369642e6f72672f6f70656e6564756875622f766f636162732f6465757473636874706d5f74696e61756e647069612f7374656c6c756e676e61686d6530393230393162322d653865342d343930332d623233642d396637613231663739313637",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fstellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fstellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
   "publicKey": {
-    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167#main-key",
-    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
+    "id": "https://test.skohub.io/oeh-metadata-vocabs-playground/w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167#main-key",
+    "owner": "https://test.skohub.io/oeh-metadata-vocabs-playground/w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/stellungnahme092091b2-e8e4-4903-b23d-9f7a21f79167",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
   },
   "@context": [

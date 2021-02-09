@@ -1,16 +1,28 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/aad097c3-a406-474e-a7a5-2f831b5641ec",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Faad097c3-a406-474e-a7a5-2f831b5641ec",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Faad097c3-a406-474e-a7a5-2f831b5641ec",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Faad097c3-a406-474e-a7a5-2f831b5641ec",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Faad097c3-a406-474e-a7a5-2f831b5641ec",
   "prefLabel": {
     "de": "Geologie"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0b52dd9b-3f43-4364-a0d6-02bb70efb183",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/902c9073-cd52-4f47-a35c-c078cb22b8a8",
       "prefLabel": {
-        "de": "Boden (Bodenkunde)"
+        "de": "Gestein"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4a180dd2-04fe-49a1-9df1-0d5a423104f0",
+      "prefLabel": {
+        "de": "Vulkanismus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/bc07c8a1-ef0b-4d35-a89e-de90930d8e74",
+      "prefLabel": {
+        "de": "Erdgeschichte"
       }
     },
     {
@@ -20,9 +32,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4a180dd2-04fe-49a1-9df1-0d5a423104f0",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0b52dd9b-3f43-4364-a0d6-02bb70efb183",
       "prefLabel": {
-        "de": "Vulkanismus"
+        "de": "Boden (Bodenkunde)"
       }
     },
     {
@@ -35,18 +47,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7012fb21-16b8-43ed-9461-c8171dda1067",
       "prefLabel": {
         "de": "Bernstein"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/902c9073-cd52-4f47-a35c-c078cb22b8a8",
-      "prefLabel": {
-        "de": "Gestein"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/bc07c8a1-ef0b-4d35-a89e-de90930d8e74",
-      "prefLabel": {
-        "de": "Erdgeschichte"
       }
     },
     {
@@ -138,7 +138,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -147,7 +156,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

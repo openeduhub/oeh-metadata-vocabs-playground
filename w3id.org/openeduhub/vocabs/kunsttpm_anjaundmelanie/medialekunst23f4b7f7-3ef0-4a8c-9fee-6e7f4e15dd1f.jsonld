@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/medialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmedialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmedialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmedialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmedialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
   "prefLabel": {
     "de": "Mediale Kunst"
   },
@@ -32,12 +32,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/filmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
-      "prefLabel": {
-        "de": "Film"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/foto39d748fc-c414-4245-9c0b-b8bd21e03c52",
       "prefLabel": {
         "de": "Foto"
@@ -47,6 +41,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/gamedesignc296fad3-0c92-496c-9729-b33920d15761",
       "prefLabel": {
         "de": "Game Design"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/filmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
+      "prefLabel": {
+        "de": "Film"
       }
     },
     {
@@ -62,6 +62,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/",
+    "prefLabel": {
+      "de": "Kunst"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -126,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

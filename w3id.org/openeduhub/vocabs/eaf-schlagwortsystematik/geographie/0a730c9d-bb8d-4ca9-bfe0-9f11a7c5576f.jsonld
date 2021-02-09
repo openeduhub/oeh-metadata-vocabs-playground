@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0a730c9d-bb8d-4ca9-bfe0-9f11a7c5576f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F0a730c9d-bb8d-4ca9-bfe0-9f11a7c5576f",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F0a730c9d-bb8d-4ca9-bfe0-9f11a7c5576f",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F0a730c9d-bb8d-4ca9-bfe0-9f11a7c5576f",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F0a730c9d-bb8d-4ca9-bfe0-9f11a7c5576f",
   "prefLabel": {
     "de": "Oberpfalz (Regierungsbezirk)"
   },
@@ -20,27 +20,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/38427dfc-9e2d-4f23-b140-0b5b9e746895",
-      "prefLabel": {
-        "de": "Weiden in der Oberpfalz (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f8f2230-5e75-405f-9e59-edb616013132",
-      "prefLabel": {
-        "de": "Cham (Kreis)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9a123c91-78b5-4379-a483-ffcb4033feff",
       "prefLabel": {
         "de": "Amberg-Sulzbach (Kreis)"
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/38427dfc-9e2d-4f23-b140-0b5b9e746895",
+      "prefLabel": {
+        "de": "Weiden in der Oberpfalz (Kreis)"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b6b420cb-98d6-4952-85aa-1f22cb07c4df",
       "prefLabel": {
         "de": "Regensburg (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f8f2230-5e75-405f-9e59-edb616013132",
+      "prefLabel": {
+        "de": "Cham (Kreis)"
       }
     },
     {
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

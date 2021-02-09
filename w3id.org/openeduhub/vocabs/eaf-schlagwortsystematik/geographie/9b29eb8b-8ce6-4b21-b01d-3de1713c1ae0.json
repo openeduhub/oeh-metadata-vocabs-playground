@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9b29eb8b-8ce6-4b21-b01d-3de1713c1ae0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9b29eb8b-8ce6-4b21-b01d-3de1713c1ae0",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9b29eb8b-8ce6-4b21-b01d-3de1713c1ae0",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9b29eb8b-8ce6-4b21-b01d-3de1713c1ae0",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F9b29eb8b-8ce6-4b21-b01d-3de1713c1ae0",
   "prefLabel": {
     "de": "Landwirtschaft"
   },
@@ -14,9 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/040a1c7a-5084-4a02-87c9-c643deb2d63e",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/da456a09-9047-46c8-a623-5135b9204010",
       "prefLabel": {
-        "de": "Fischwirtschaft"
+        "de": "Forstwirtschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b024ddbd-4f3e-4ec4-a662-9d0d3cdffa86",
+      "prefLabel": {
+        "de": "Landwirtschaftsstruktur"
       }
     },
     {
@@ -26,15 +32,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/36da3e95-cad4-4079-97b4-37b7d246e52a",
-      "prefLabel": {
-        "de": "Viehwirtschaft"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4c3a4040-2b30-43f4-96c4-5ca0bb0f5a97",
       "prefLabel": {
         "de": "Industrielle Landwirtschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ed7079af-94b1-4f53-862f-8f815e15283e",
+      "prefLabel": {
+        "de": "Almwirtschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/36da3e95-cad4-4079-97b4-37b7d246e52a",
+      "prefLabel": {
+        "de": "Viehwirtschaft"
       }
     },
     {
@@ -62,27 +74,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a0c3556f-8836-4e97-a73a-def6029be27b",
-      "prefLabel": {
-        "de": "Pflanzenbau"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b024ddbd-4f3e-4ec4-a662-9d0d3cdffa86",
-      "prefLabel": {
-        "de": "Landwirtschaftsstruktur"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d3426813-91df-4bcd-bf9f-e39fca0fab91",
       "prefLabel": {
         "de": "Saat"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/da456a09-9047-46c8-a623-5135b9204010",
-      "prefLabel": {
-        "de": "Forstwirtschaft"
       }
     },
     {
@@ -92,15 +86,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ed7079af-94b1-4f53-862f-8f815e15283e",
-      "prefLabel": {
-        "de": "Almwirtschaft"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/fd4a7efc-6093-49a2-9c18-22705f9350c3",
       "prefLabel": {
         "de": "Grüne Revolution"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/040a1c7a-5084-4a02-87c9-c643deb2d63e",
+      "prefLabel": {
+        "de": "Fischwirtschaft"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a0c3556f-8836-4e97-a73a-def6029be27b",
+      "prefLabel": {
+        "de": "Pflanzenbau"
       }
     }
   ],
@@ -174,7 +174,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -183,7 +192,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

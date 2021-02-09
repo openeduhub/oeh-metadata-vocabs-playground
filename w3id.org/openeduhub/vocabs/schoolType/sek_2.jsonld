@@ -1,11 +1,34 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/schoolType/sek_2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2FschoolType%2Fsek_2",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2FschoolType%2Fsek_2",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2FschoolType%2Fsek_2",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2FschoolType%2Fsek_2",
   "prefLabel": {
     "de": "Sekundarstufe 2"
   },
+  "narrowMatch": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/10"
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/11"
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/12"
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/13"
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/ef"
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/q1"
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/educationalLevel/q2"
+    }
+  ],
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/schoolType/",
     "title": {
@@ -74,7 +97,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -83,7 +115,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,13 +1,12 @@
 {
-  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/302023",
+  "id": "https://test.skohub.io/oeh-metadata-vocabs-playground/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/302023",
   "type": "Service",
-  "name": "Hals-, Nasen-, Ohrenheilkunde",
-  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732d706c617967726f756e642f4f4541412f4f45464f532f333032303233",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F302023",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F302023",
+  "preferredUsername": "6f65682d6d657461646174612d766f636162732d706c617967726f756e642f773369642e6f72672f6f70656e6564756875622f766f636162732d706c617967726f756e642f4f4541412f4f45464f532f333032303233",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F302023",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F302023",
   "publicKey": {
-    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/302023#main-key",
-    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/302023",
+    "id": "https://test.skohub.io/oeh-metadata-vocabs-playground/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/302023#main-key",
+    "owner": "https://test.skohub.io/oeh-metadata-vocabs-playground/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/302023",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
   },
   "@context": [

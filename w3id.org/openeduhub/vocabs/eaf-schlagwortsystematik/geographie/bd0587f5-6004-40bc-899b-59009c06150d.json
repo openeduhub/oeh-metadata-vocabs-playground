@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/bd0587f5-6004-40bc-899b-59009c06150d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fbd0587f5-6004-40bc-899b-59009c06150d",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fbd0587f5-6004-40bc-899b-59009c06150d",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fbd0587f5-6004-40bc-899b-59009c06150d",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fbd0587f5-6004-40bc-899b-59009c06150d",
   "prefLabel": {
     "de": "Physische Geographie)"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/09fd0791-891d-40f8-8285-87c6ee4296bd",
-      "prefLabel": {
-        "de": "Gewässerkunde"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1160354e-6ae3-4086-bbb6-501651fc1cd2",
       "prefLabel": {
@@ -26,21 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1de0547b-8d50-4fa2-9c09-10945d408ca4",
-      "prefLabel": {
-        "de": "Klimageographie"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/298c4ca9-73dd-45ed-b7df-6832b0be0c63",
       "prefLabel": {
         "de": "Cook, James"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2f2068d4-7358-46d9-bf09-6428055f154b",
-      "prefLabel": {
-        "de": "Vermessungskunde"
       }
     },
     {
@@ -53,6 +35,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3094463e-ac1e-464c-b25f-454150284c8b",
       "prefLabel": {
         "de": "Wegbeschreibung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/aad097c3-a406-474e-a7a5-2f831b5641ec",
+      "prefLabel": {
+        "de": "Geologie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cab58e37-6cc7-4cff-99b6-10905449bd78",
+      "prefLabel": {
+        "de": "Geomorphologie"
       }
     },
     {
@@ -122,9 +116,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/aad097c3-a406-474e-a7a5-2f831b5641ec",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1de0547b-8d50-4fa2-9c09-10945d408ca4",
       "prefLabel": {
-        "de": "Geologie"
+        "de": "Klimageographie"
       }
     },
     {
@@ -146,9 +140,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cab58e37-6cc7-4cff-99b6-10905449bd78",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2f2068d4-7358-46d9-bf09-6428055f154b",
       "prefLabel": {
-        "de": "Geomorphologie"
+        "de": "Vermessungskunde"
       }
     },
     {
@@ -174,8 +168,20 @@
       "prefLabel": {
         "de": "Richter, Charles"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/09fd0791-891d-40f8-8285-87c6ee4296bd",
+      "prefLabel": {
+        "de": "Gewässerkunde"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/",
+    "prefLabel": {
+      "de": "geographie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -240,7 +246,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -249,7 +264,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

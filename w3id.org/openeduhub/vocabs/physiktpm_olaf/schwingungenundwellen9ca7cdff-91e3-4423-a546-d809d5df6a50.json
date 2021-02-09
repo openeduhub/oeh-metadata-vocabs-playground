@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/schwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fschwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fschwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fschwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fschwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
   "prefLabel": {
     "de": "Schwingungen und Wellen"
   },
@@ -10,12 +10,6 @@
     "de": "In der Natur und in technischen Anwendungen treten häufig zeitlich\nperiodische Vorgänge auf."
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
-      "prefLabel": {
-        "de": "Elektromagnetische Schwingungen"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischewellens.wellenoptikcfbc1baa-e7bd-4d2c-81d0-88d04a210040",
       "prefLabel": {
@@ -33,8 +27,20 @@
       "prefLabel": {
         "de": "Mechanische Wellen"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
+      "prefLabel": {
+        "de": "Elektromagnetische Schwingungen"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -99,7 +105,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -108,7 +123,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/20a4415b-c78a-47f8-a948-9374948f4f2a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F20a4415b-c78a-47f8-a948-9374948f4f2a",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F20a4415b-c78a-47f8-a948-9374948f4f2a",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F20a4415b-c78a-47f8-a948-9374948f4f2a",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F20a4415b-c78a-47f8-a948-9374948f4f2a",
   "prefLabel": {
     "de": "Religion"
   },
@@ -14,21 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/013cc65b-1a0f-436c-8a87-268836069a65",
-      "prefLabel": {
-        "de": "Weltreligion"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/06154cef-d0ad-4d2b-8bd3-8f7ef14540f0",
       "prefLabel": {
         "de": "Erntedankfest"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/06f880cd-8ba8-4d56-a074-a03d8dfeb3e0",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/a8208785-681b-48c3-a249-deeb88480c19",
       "prefLabel": {
-        "de": "Sakrament"
+        "de": "Okkultismus"
       }
     },
     {
@@ -50,12 +44,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/1c73d9f6-3d8a-4c3d-a3f2-cdc05a009118",
-      "prefLabel": {
-        "de": "Stammesreligion"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/211ce5c7-7c65-4400-a4ea-af2bce4e0950",
       "prefLabel": {
         "de": "Krippe (Weihnachten)"
@@ -68,6 +56,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/52c098ac-f3a6-4f84-b081-6cb1d32b5ba1",
+      "prefLabel": {
+        "de": "Kirchenjahr"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/25d9d5cd-d6ed-44f8-b109-bd0ab8aec22d",
       "prefLabel": {
         "de": "Jesus People"
@@ -77,12 +71,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/27386bdb-805f-49d8-accb-9947f0ccb5aa",
       "prefLabel": {
         "de": "Säkularisierung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/2bbd2fef-9756-443a-abcb-1a38bd0d15dc",
-      "prefLabel": {
-        "de": "Gottesdienst"
       }
     },
     {
@@ -110,9 +98,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/3a9d412c-7eeb-4ab1-b52d-3d25e6c044d4",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/06f880cd-8ba8-4d56-a074-a03d8dfeb3e0",
       "prefLabel": {
-        "de": "Gott"
+        "de": "Sakrament"
       }
     },
     {
@@ -128,6 +116,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/3a9d412c-7eeb-4ab1-b52d-3d25e6c044d4",
+      "prefLabel": {
+        "de": "Gott"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/45b0db43-c9e6-4cd2-a5c6-a1c9528ff6f9",
       "prefLabel": {
         "de": "Mysterienspiel"
@@ -140,9 +134,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/4c52a1df-de72-442c-a81b-4e6bbc213894",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/9f441b88-e580-42ff-82e5-06dbdbaf42e3",
       "prefLabel": {
-        "de": "Altar"
+        "de": "Wallfahrt"
       }
     },
     {
@@ -158,21 +152,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/52c098ac-f3a6-4f84-b081-6cb1d32b5ba1",
-      "prefLabel": {
-        "de": "Kirchenjahr"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/570a98ae-d749-4208-b26a-32a3ece1bf75",
       "prefLabel": {
         "de": "Atheismus"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/584a097a-8448-4e92-98a1-85ae3ba7bd08",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/873fb5a7-5e83-4197-bcea-16e7a3f99292",
       "prefLabel": {
-        "de": "Glaube"
+        "de": "Religiöse Tradition"
       }
     },
     {
@@ -218,12 +206,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/873fb5a7-5e83-4197-bcea-16e7a3f99292",
-      "prefLabel": {
-        "de": "Religiöse Tradition"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/87a44e43-4d2e-402b-81e3-1a50d3a74f23",
       "prefLabel": {
         "de": "Vergebung"
@@ -242,27 +224,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/2bbd2fef-9756-443a-abcb-1a38bd0d15dc",
+      "prefLabel": {
+        "de": "Gottesdienst"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/99709a28-a02e-444d-8408-9a2a2ff89608",
       "prefLabel": {
         "de": "Kreationismus"
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/f5cd7e4a-3b1b-4c04-9f44-bf327066ac27",
+      "prefLabel": {
+        "de": "Meditation"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/9dd1c8a3-26a5-4ee1-9e13-2121757093e3",
       "prefLabel": {
         "de": "New Age"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/9e6896cf-4f78-4ce8-9efb-a3384b9f7613",
-      "prefLabel": {
-        "de": "Sekte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/9f441b88-e580-42ff-82e5-06dbdbaf42e3",
-      "prefLabel": {
-        "de": "Wallfahrt"
       }
     },
     {
@@ -284,15 +266,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/a8208785-681b-48c3-a249-deeb88480c19",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/013cc65b-1a0f-436c-8a87-268836069a65",
       "prefLabel": {
-        "de": "Okkultismus"
+        "de": "Weltreligion"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/b4bb2fb4-d4cf-45d5-a20a-39c3b253055a",
       "prefLabel": {
         "de": "Nachfolge Jesus Christus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/584a097a-8448-4e92-98a1-85ae3ba7bd08",
+      "prefLabel": {
+        "de": "Glaube"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/9e6896cf-4f78-4ce8-9efb-a3384b9f7613",
+      "prefLabel": {
+        "de": "Sekte"
       }
     },
     {
@@ -332,6 +326,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/4c52a1df-de72-442c-a81b-4e6bbc213894",
+      "prefLabel": {
+        "de": "Altar"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/d8eacbba-a40d-4101-911c-33835ea3f73e",
       "prefLabel": {
         "de": "Sünde"
@@ -356,15 +356,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/f4617465-63f2-48b1-9107-d3c86a6ebb36",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/1c73d9f6-3d8a-4c3d-a3f2-cdc05a009118",
       "prefLabel": {
-        "de": "Weihe (Religion)"
+        "de": "Stammesreligion"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/f5cd7e4a-3b1b-4c04-9f44-bf327066ac27",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/f4617465-63f2-48b1-9107-d3c86a6ebb36",
       "prefLabel": {
-        "de": "Meditation"
+        "de": "Weihe (Religion)"
       }
     },
     {
@@ -374,6 +374,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/",
+    "prefLabel": {
+      "de": "religion"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -438,7 +444,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -447,7 +462,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

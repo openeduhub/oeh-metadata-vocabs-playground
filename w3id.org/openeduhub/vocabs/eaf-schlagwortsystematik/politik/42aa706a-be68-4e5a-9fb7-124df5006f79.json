@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/42aa706a-be68-4e5a-9fb7-124df5006f79",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F42aa706a-be68-4e5a-9fb7-124df5006f79",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F42aa706a-be68-4e5a-9fb7-124df5006f79",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F42aa706a-be68-4e5a-9fb7-124df5006f79",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fpolitik%2F42aa706a-be68-4e5a-9fb7-124df5006f79",
   "prefLabel": {
     "de": "Verwaltung"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/21f769dc-79e7-4759-adab-cb17d7a36b1b",
-      "prefLabel": {
-        "de": "Kreis (Verwaltungsbezirk)"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/75e2872d-afda-4f12-9736-407bec147d24",
       "prefLabel": {
@@ -23,6 +17,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/c35b1ae2-ac77-4384-91c7-0c3106fffa0e",
       "prefLabel": {
         "de": "Selbstverwaltung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/politik/21f769dc-79e7-4759-adab-cb17d7a36b1b",
+      "prefLabel": {
+        "de": "Kreis (Verwaltungsbezirk)"
       }
     }
   ],
@@ -96,7 +96,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -105,7 +114,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

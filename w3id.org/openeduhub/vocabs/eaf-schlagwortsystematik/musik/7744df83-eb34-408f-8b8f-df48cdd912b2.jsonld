@@ -1,22 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/7744df83-eb34-408f-8b8f-df48cdd912b2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F7744df83-eb34-408f-8b8f-df48cdd912b2",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F7744df83-eb34-408f-8b8f-df48cdd912b2",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F7744df83-eb34-408f-8b8f-df48cdd912b2",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F7744df83-eb34-408f-8b8f-df48cdd912b2",
   "prefLabel": {
     "de": "Musik"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/04c6ae47-4152-4f6e-b86c-f57415f8e8ea",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a616ef0c-49b1-4253-abae-fbbb1a7247a5",
       "prefLabel": {
-        "de": "Musikgeschichte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/195127da-8541-4a72-b04f-6a68d28e92d3",
-      "prefLabel": {
-        "de": "Elektroakustik"
+        "de": "Komposition (Musik)"
       }
     },
     {
@@ -26,9 +20,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/195127da-8541-4a72-b04f-6a68d28e92d3",
+      "prefLabel": {
+        "de": "Elektroakustik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a7998481-f2c3-4be0-8f5b-d16090bedeed",
+      "prefLabel": {
+        "de": "Lied"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/375b88df-7ee4-4abe-8b73-2ab3d8f3e4a3",
       "prefLabel": {
         "de": "Musiktheorie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/7a35fb80-b5f2-42e8-bdf1-85e03f883413",
+      "prefLabel": {
+        "de": "Singen (Musik)"
       }
     },
     {
@@ -44,21 +56,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/7a35fb80-b5f2-42e8-bdf1-85e03f883413",
-      "prefLabel": {
-        "de": "Singen (Musik)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/8a029b54-5b38-4d3c-8b35-19a8f34ded94",
       "prefLabel": {
         "de": "Band (Musik)"
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a876cda5-54db-477c-a52e-b114c45c9747",
+      "prefLabel": {
+        "de": "Geräusch"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/90d627ae-1b1f-4aeb-bb73-7a86988688af",
       "prefLabel": {
         "de": "Takt (Musik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/04c6ae47-4152-4f6e-b86c-f57415f8e8ea",
+      "prefLabel": {
+        "de": "Musikgeschichte"
       }
     },
     {
@@ -74,33 +92,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a616ef0c-49b1-4253-abae-fbbb1a7247a5",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/c76bbd3d-f819-4404-a723-e99868dfbb14",
       "prefLabel": {
-        "de": "Komposition (Musik)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a7998481-f2c3-4be0-8f5b-d16090bedeed",
-      "prefLabel": {
-        "de": "Lied"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a876cda5-54db-477c-a52e-b114c45c9747",
-      "prefLabel": {
-        "de": "Geräusch"
+        "de": "Ensemble"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/b244b897-c229-4c23-b892-146bd1c1fa36",
       "prefLabel": {
         "de": "Rhythmus (Musik)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/c76bbd3d-f819-4404-a723-e99868dfbb14",
-      "prefLabel": {
-        "de": "Ensemble"
       }
     },
     {
@@ -116,6 +116,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/",
+    "prefLabel": {
+      "de": "musik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -180,7 +186,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -189,7 +204,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

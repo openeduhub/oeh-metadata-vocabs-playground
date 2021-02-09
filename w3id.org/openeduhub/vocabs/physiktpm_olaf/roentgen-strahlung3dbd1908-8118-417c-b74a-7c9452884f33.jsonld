@@ -1,19 +1,19 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/roentgen-strahlung3dbd1908-8118-417c-b74a-7c9452884f33",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Froentgen-strahlung3dbd1908-8118-417c-b74a-7c9452884f33",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Froentgen-strahlung3dbd1908-8118-417c-b74a-7c9452884f33",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Froentgen-strahlung3dbd1908-8118-417c-b74a-7c9452884f33",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Froentgen-strahlung3dbd1908-8118-417c-b74a-7c9452884f33",
   "prefLabel": {
     "de": "Röntgen-Strahlung"
   },
   "altLabel": {
     "de": [
+      "Röntgenstrahlung",
       "Röntgen-Strahlen",
       "Röntgen-Strahlung",
       "Röntgenbestrahlung",
       "Röntgenstrahl",
       "Röntgenstrahlen",
-      "Röntgenstrahlung",
       "X-Rays",
       "X-Strahlen"
     ],
@@ -91,7 +91,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -100,7 +109,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ef81fcd0-dcf0-416f-92c0-092b9324eae8",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fef81fcd0-dcf0-416f-92c0-092b9324eae8",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fef81fcd0-dcf0-416f-92c0-092b9324eae8",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fef81fcd0-dcf0-416f-92c0-092b9324eae8",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fef81fcd0-dcf0-416f-92c0-092b9324eae8",
   "prefLabel": {
     "de": "Schwaben (Regierungsbezirk)"
   },
@@ -11,6 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1c54c880-579a-47e5-9fcc-5a529dbd6e3d",
       "prefLabel": {
         "de": "Kaufbeuren (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f190a8a8-2902-42e6-8dbf-c368eab2d3c1",
+      "prefLabel": {
+        "de": "Allgäu"
       }
     },
     {
@@ -53,12 +59,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ef37516c-c95d-4ecb-b83c-66a493df6f8d",
       "prefLabel": {
         "de": "Aichach-Friedberg (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f190a8a8-2902-42e6-8dbf-c368eab2d3c1",
-      "prefLabel": {
-        "de": "Allgäu"
       }
     }
   ],
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/da82436f-4bf8-48b7-a8b7-5e63a5aa4218",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2Fda82436f-4bf8-48b7-a8b7-5e63a5aa4218",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2Fda82436f-4bf8-48b7-a8b7-5e63a5aa4218",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2Fda82436f-4bf8-48b7-a8b7-5e63a5aa4218",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2Fda82436f-4bf8-48b7-a8b7-5e63a5aa4218",
   "prefLabel": {
     "de": "Chemische Reaktion"
   },
@@ -14,15 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/06ef440c-3010-46db-b718-b78272fd4083",
-      "prefLabel": {
-        "de": "Pyrolyse"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/2c5f32ba-2540-41a5-8197-23d7b9367fa2",
       "prefLabel": {
         "de": "Ionenbindung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/d696e7d7-50ef-4fab-9cd8-26f8766fdc42",
+      "prefLabel": {
+        "de": "Hydrolyse"
       }
     },
     {
@@ -62,6 +62,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/dda79f25-3ea0-45c8-afb0-48e03a2bb61a",
+      "prefLabel": {
+        "de": "Chemische Analyse"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/b8e0ff9b-cdff-4720-b507-ff2f3980b9d0",
       "prefLabel": {
         "de": "Elektrolyse"
@@ -80,18 +86,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/d696e7d7-50ef-4fab-9cd8-26f8766fdc42",
-      "prefLabel": {
-        "de": "Hydrolyse"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/dda79f25-3ea0-45c8-afb0-48e03a2bb61a",
-      "prefLabel": {
-        "de": "Chemische Analyse"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/ebfd63fe-9b85-4404-b1cf-72d953bfcab3",
       "prefLabel": {
         "de": "Gärung"
@@ -101,6 +95,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/ee2ff89e-9128-4b82-8358-fc8075eacf6c",
       "prefLabel": {
         "de": "Verbrennungsvorgang"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/06ef440c-3010-46db-b718-b78272fd4083",
+      "prefLabel": {
+        "de": "Pyrolyse"
       }
     },
     {
@@ -186,7 +186,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -195,7 +204,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

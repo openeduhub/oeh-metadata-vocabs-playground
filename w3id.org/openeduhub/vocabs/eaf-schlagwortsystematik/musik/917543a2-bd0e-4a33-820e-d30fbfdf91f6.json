@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/917543a2-bd0e-4a33-820e-d30fbfdf91f6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F917543a2-bd0e-4a33-820e-d30fbfdf91f6",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F917543a2-bd0e-4a33-820e-d30fbfdf91f6",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F917543a2-bd0e-4a33-820e-d30fbfdf91f6",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F917543a2-bd0e-4a33-820e-d30fbfdf91f6",
   "prefLabel": {
     "de": "Moderne Musik"
   },
@@ -17,6 +17,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/2f4e9bde-5a1d-4439-8ee8-1ecd1d10d01e",
       "prefLabel": {
         "de": "Rap-Musik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/d7227a6f-3136-4548-9de4-8b22bc8b36a8",
+      "prefLabel": {
+        "de": "Unterhaltungsmusik"
       }
     },
     {
@@ -35,12 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/d4a3708b-3140-4598-bfa3-e8a941fa27fe",
       "prefLabel": {
         "de": "Hip-Hop"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/d7227a6f-3136-4548-9de4-8b22bc8b36a8",
-      "prefLabel": {
-        "de": "Unterhaltungsmusik"
       }
     },
     {
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

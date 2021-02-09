@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2cd7b89e-f4b2-4d30-a9a4-0db58b1d4e18",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2cd7b89e-f4b2-4d30-a9a4-0db58b1d4e18",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2cd7b89e-f4b2-4d30-a9a4-0db58b1d4e18",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2cd7b89e-f4b2-4d30-a9a4-0db58b1d4e18",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F2cd7b89e-f4b2-4d30-a9a4-0db58b1d4e18",
   "prefLabel": {
     "de": "Wirtschaftsgeographie)"
   },
@@ -14,9 +14,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0c07a51d-6d81-4a4e-ab0c-782d71322107",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/120f6793-31f3-4dfc-9c1c-7c256f27fc12",
       "prefLabel": {
-        "de": "Wirtschaftliche Entwicklung "
+        "de": "Handelsweg"
       }
     },
     {
@@ -26,15 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/120f6793-31f3-4dfc-9c1c-7c256f27fc12",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3c0e4a5f-c964-4b0f-aa62-9d48dcb30a45",
       "prefLabel": {
-        "de": "Handelsweg"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1eb52d35-bb4c-476c-8d45-4d2620b80ba8",
-      "prefLabel": {
-        "de": "Umschlagplatz"
+        "de": "Industrie"
       }
     },
     {
@@ -50,15 +44,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b3fe6887-a34f-4c00-acdf-2cf3b7c24a79",
+      "prefLabel": {
+        "de": "Rohstoff"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2e804449-477e-47a3-9efb-4bc7f5b46eff",
       "prefLabel": {
         "de": "Einzugsbereich"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3c0e4a5f-c964-4b0f-aa62-9d48dcb30a45",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1eb52d35-bb4c-476c-8d45-4d2620b80ba8",
       "prefLabel": {
-        "de": "Industrie"
+        "de": "Umschlagplatz"
       }
     },
     {
@@ -68,9 +68,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7501a0f7-66c4-4937-b8d0-bb64ef2b4f08",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/83d34561-0198-483f-8a87-30cad28f7a10",
       "prefLabel": {
-        "de": "Kraftwerk"
+        "de": "Versorgung (Grunddaseinsfunktion)"
       }
     },
     {
@@ -80,15 +80,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/83d34561-0198-483f-8a87-30cad28f7a10",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0c07a51d-6d81-4a4e-ab0c-782d71322107",
       "prefLabel": {
-        "de": "Versorgung (Grunddaseinsfunktion)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b3fe6887-a34f-4c00-acdf-2cf3b7c24a79",
-      "prefLabel": {
-        "de": "Rohstoff"
+        "de": "Wirtschaftliche Entwicklung "
       }
     },
     {
@@ -101,6 +95,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e62f7f71-f030-4361-b7a0-f1ec8a736079",
       "prefLabel": {
         "de": "Großgrundbesitzer"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7501a0f7-66c4-4937-b8d0-bb64ef2b4f08",
+      "prefLabel": {
+        "de": "Kraftwerk"
       }
     }
   ],
@@ -174,7 +174,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -183,7 +192,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

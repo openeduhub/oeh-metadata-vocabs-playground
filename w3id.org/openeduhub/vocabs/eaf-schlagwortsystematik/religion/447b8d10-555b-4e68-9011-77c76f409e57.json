@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/447b8d10-555b-4e68-9011-77c76f409e57",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F447b8d10-555b-4e68-9011-77c76f409e57",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F447b8d10-555b-4e68-9011-77c76f409e57",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F447b8d10-555b-4e68-9011-77c76f409e57",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Freligion%2F447b8d10-555b-4e68-9011-77c76f409e57",
   "prefLabel": {
     "de": "Biblische Erzählung"
   },
@@ -11,6 +11,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/02f5960b-a23a-4d42-94be-98785e43d8d2",
       "prefLabel": {
         "de": "Exodus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/eb377dd1-af65-4e68-b86e-126151cda3fb",
+      "prefLabel": {
+        "de": "Prophet"
       }
     },
     {
@@ -44,21 +50,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/8a4ca056-dafa-45c4-b3e8-eea52b6a4a46",
-      "prefLabel": {
-        "de": "Passion Jesu"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/ac343a8c-fda6-473f-9d99-370a65b8c985",
       "prefLabel": {
         "de": "Sintflut"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/eb377dd1-af65-4e68-b86e-126151cda3fb",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/religion/8a4ca056-dafa-45c4-b3e8-eea52b6a4a46",
       "prefLabel": {
-        "de": "Prophet"
+        "de": "Passion Jesu"
       }
     }
   ],
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

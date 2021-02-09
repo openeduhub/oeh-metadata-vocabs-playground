@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/grammatik2cd1fc3d-1081-46fa-abc6-6845dfd5f686",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fgrammatik2cd1fc3d-1081-46fa-abc6-6845dfd5f686",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fgrammatik2cd1fc3d-1081-46fa-abc6-6845dfd5f686",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fgrammatik2cd1fc3d-1081-46fa-abc6-6845dfd5f686",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fgrammatik2cd1fc3d-1081-46fa-abc6-6845dfd5f686",
   "prefLabel": {
     "de": "Grammatik"
   },
@@ -14,9 +14,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adverbien22760c05-49c1-46a0-b63f-6e6bf8f41839",
+      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nomenafeb2dfd-c8bb-45d4-9822-f04f52038fad",
       "prefLabel": {
-        "de": "Adverbien"
+        "de": "Nomen"
       }
     },
     {
@@ -26,33 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interjektionenc79e8e7c-ca40-4e69-adcf-138126135937",
-      "prefLabel": {
-        "de": "Interjektionen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
-      "prefLabel": {
-        "de": "Konnektoren"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nomenafeb2dfd-c8bb-45d4-9822-f04f52038fad",
-      "prefLabel": {
-        "de": "Nomen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/numeraled7396bac-1912-4567-91a2-b8a9e7e196dc",
       "prefLabel": {
         "de": "Numerale"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praepositonen1bf4f1c3-45d2-46f7-a6b8-2e603146b8b2",
-      "prefLabel": {
-        "de": "Präpositonen"
       }
     },
     {
@@ -62,9 +38,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/verben1f705a86-39a2-445e-924d-83b36db71f77",
+      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adverbien22760c05-49c1-46a0-b63f-6e6bf8f41839",
       "prefLabel": {
-        "de": "Verben"
+        "de": "Adverbien"
       }
     },
     {
@@ -72,8 +48,38 @@
       "prefLabel": {
         "de": "Zeitformen"
       }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/verben1f705a86-39a2-445e-924d-83b36db71f77",
+      "prefLabel": {
+        "de": "Verben"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/interjektionenc79e8e7c-ca40-4e69-adcf-138126135937",
+      "prefLabel": {
+        "de": "Interjektionen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/praepositonen1bf4f1c3-45d2-46f7-a6b8-2e603146b8b2",
+      "prefLabel": {
+        "de": "Präpositonen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
+      "prefLabel": {
+        "de": "Konnektoren"
+      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/",
+    "prefLabel": {
+      "de": "Deutsch als Zweitsprache"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -138,7 +144,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -147,7 +162,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

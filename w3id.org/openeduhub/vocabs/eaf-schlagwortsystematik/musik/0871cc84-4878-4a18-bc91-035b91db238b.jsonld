@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/0871cc84-4878-4a18-bc91-035b91db238b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F0871cc84-4878-4a18-bc91-035b91db238b",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F0871cc84-4878-4a18-bc91-035b91db238b",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F0871cc84-4878-4a18-bc91-035b91db238b",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2F0871cc84-4878-4a18-bc91-035b91db238b",
   "prefLabel": {
     "de": "Musiker, Sänger etc."
   },
@@ -524,12 +524,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/34f3172e-d462-4ee8-94e6-1de4bcacb4c6",
-      "prefLabel": {
-        "de": "Mozart, Wolfgang Amadeus"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/3567e9d2-b6d3-417f-a256-59f0525ebef2",
       "prefLabel": {
         "de": "Tiomkin, Dimitri"
@@ -773,6 +767,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/51262909-6ebd-443f-8e55-0c184f531844",
       "prefLabel": {
         "de": "Beatles"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/34f3172e-d462-4ee8-94e6-1de4bcacb4c6",
+      "prefLabel": {
+        "de": "Mozart, Wolfgang Amadeus"
       }
     },
     {
@@ -2354,6 +2354,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/",
+    "prefLabel": {
+      "de": "musik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -2418,7 +2424,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -2427,7 +2442,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

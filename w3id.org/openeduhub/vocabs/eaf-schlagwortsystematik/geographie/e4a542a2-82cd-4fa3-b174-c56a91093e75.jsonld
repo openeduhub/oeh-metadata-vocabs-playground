@@ -1,40 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e4a542a2-82cd-4fa3-b174-c56a91093e75",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe4a542a2-82cd-4fa3-b174-c56a91093e75",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe4a542a2-82cd-4fa3-b174-c56a91093e75",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe4a542a2-82cd-4fa3-b174-c56a91093e75",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fe4a542a2-82cd-4fa3-b174-c56a91093e75",
   "prefLabel": {
     "de": "Südeuropa"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1230803d-fcd3-45a2-9c5c-67bf2114fc0e",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/65581a40-8b05-42c0-880d-b8c6b14d4c89",
       "prefLabel": {
-        "de": "Bosnien und Herzegowina"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/312c2a3f-d627-4bbf-b38a-1660e7fe3fbf",
-      "prefLabel": {
-        "de": "Portugal"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/38ac866b-4fb0-4838-818e-d9fd9e22d7f8",
-      "prefLabel": {
-        "de": "Montenegro (Republik)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3acd7652-9ec9-4fdc-9a4b-88e72de822d5",
-      "prefLabel": {
-        "de": "Serbien (Republik)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3dd05408-8e25-431f-9ad5-005e23da76e0",
-      "prefLabel": {
-        "de": "Makedonien (Republik)"
+        "de": "Italien"
       }
     },
     {
@@ -44,21 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/65581a40-8b05-42c0-880d-b8c6b14d4c89",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/312c2a3f-d627-4bbf-b38a-1660e7fe3fbf",
       "prefLabel": {
-        "de": "Italien"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6aadd9c6-7233-437a-89e7-436e95a7afd9",
-      "prefLabel": {
-        "de": "Spanien"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/70d600aa-f222-4f1e-94b9-5a7517ef026b",
-      "prefLabel": {
-        "de": "Albanien"
+        "de": "Portugal"
       }
     },
     {
@@ -68,9 +32,45 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1230803d-fcd3-45a2-9c5c-67bf2114fc0e",
+      "prefLabel": {
+        "de": "Bosnien und Herzegowina"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/38ac866b-4fb0-4838-818e-d9fd9e22d7f8",
+      "prefLabel": {
+        "de": "Montenegro (Republik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6aadd9c6-7233-437a-89e7-436e95a7afd9",
+      "prefLabel": {
+        "de": "Spanien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3dd05408-8e25-431f-9ad5-005e23da76e0",
+      "prefLabel": {
+        "de": "Makedonien (Republik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/70d600aa-f222-4f1e-94b9-5a7517ef026b",
+      "prefLabel": {
+        "de": "Albanien"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a6ae51a4-ada2-4115-976e-7286266a3250",
       "prefLabel": {
         "de": "Rumänien"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3acd7652-9ec9-4fdc-9a4b-88e72de822d5",
+      "prefLabel": {
+        "de": "Serbien (Republik)"
       }
     },
     {
@@ -162,7 +162,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -171,7 +180,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/technischeinformatik962db051-bc9c-46eb-a372-a823ee6df0cd",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftechnischeinformatik962db051-bc9c-46eb-a372-a823ee6df0cd",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftechnischeinformatik962db051-bc9c-46eb-a372-a823ee6df0cd",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftechnischeinformatik962db051-bc9c-46eb-a372-a823ee6df0cd",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Ftechnischeinformatik962db051-bc9c-46eb-a372-a823ee6df0cd",
   "prefLabel": {
     "de": "Technische Informatik"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informationsuebertragung60e2abc4-570b-4490-a091-fc1558b25ba0",
-      "prefLabel": {
-        "de": "Informationsübertragung"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kodierungdfbeb15c-0455-414b-930f-a784a7ca959e",
       "prefLabel": {
@@ -23,6 +17,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/netzwerke_osi3c48d245-4114-4a20-a89a-39c392a2b74f",
       "prefLabel": {
         "de": "Netzwerke / OSI"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informationsuebertragung60e2abc4-570b-4490-a091-fc1558b25ba0",
+      "prefLabel": {
+        "de": "Informationsübertragung"
       }
     },
     {
@@ -50,6 +50,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/",
+    "prefLabel": {
+      "de": "Informatik"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -114,7 +120,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -123,7 +138,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

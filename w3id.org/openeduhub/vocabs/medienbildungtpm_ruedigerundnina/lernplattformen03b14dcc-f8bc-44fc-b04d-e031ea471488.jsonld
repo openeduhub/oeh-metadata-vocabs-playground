@@ -1,18 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/lernplattformen03b14dcc-f8bc-44fc-b04d-e031ea471488",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Flernplattformen03b14dcc-f8bc-44fc-b04d-e031ea471488",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Flernplattformen03b14dcc-f8bc-44fc-b04d-e031ea471488",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Flernplattformen03b14dcc-f8bc-44fc-b04d-e031ea471488",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Flernplattformen03b14dcc-f8bc-44fc-b04d-e031ea471488",
   "prefLabel": {
     "de": "Lernplattformen"
   },
   "altLabel": {
     "de": [
+      "Lernplattform",
+      "Lernplattformen",
       "Learning Management System",
       "Learning-Management-System",
       "Lernmanagementsystem",
-      "Lernplattform",
-      "Lernplattformen",
       "Managed learning environment"
     ],
     "en": [
@@ -91,7 +91,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -100,7 +109,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

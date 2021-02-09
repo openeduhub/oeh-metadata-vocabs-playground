@@ -1,34 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2F",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2F",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2F",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2F",
   "prefLabel": {
     "de": "Deutsch"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/grammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/schreiben1183e35d-0ee7-4534-8e8c-743e235d62dd",
       "prefLabel": {
-        "de": "Grammatik und Sprache untersuchen"
+        "de": "Schreiben "
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lesen-mittextenundmedienumgehend89bf36a-cc95-4319-8206-4382d17717d1",
       "prefLabel": {
         "de": "Lesen - mit Texten und Medien umgehen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/rechtschreibungb445a183-4102-421e-9abf-944994af350e",
-      "prefLabel": {
-        "de": "Rechtschreibung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/schreiben1183e35d-0ee7-4534-8e8c-743e235d62dd",
-      "prefLabel": {
-        "de": "Schreiben "
       }
     },
     {
@@ -41,6 +29,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/zeichensetzung99be9122-d3cb-4199-9dd9-8df0d1201e65",
       "prefLabel": {
         "de": "Zeichensetzung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/rechtschreibungb445a183-4102-421e-9abf-944994af350e",
+      "prefLabel": {
+        "de": "Rechtschreibung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/grammatikundspracheuntersuchend03b1b51-a90c-4fa9-967e-f99849d884eb",
+      "prefLabel": {
+        "de": "Grammatik und Sprache untersuchen"
       }
     }
   ],
@@ -111,7 +111,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +129,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

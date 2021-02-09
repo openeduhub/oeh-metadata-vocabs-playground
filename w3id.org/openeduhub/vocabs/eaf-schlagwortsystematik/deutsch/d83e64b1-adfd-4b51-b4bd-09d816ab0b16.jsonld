@@ -1,16 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/d83e64b1-adfd-4b51-b4bd-09d816ab0b16",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fd83e64b1-adfd-4b51-b4bd-09d816ab0b16",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fd83e64b1-adfd-4b51-b4bd-09d816ab0b16",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fd83e64b1-adfd-4b51-b4bd-09d816ab0b16",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fdeutsch%2Fd83e64b1-adfd-4b51-b4bd-09d816ab0b16",
   "prefLabel": {
     "de": "Dichtung (Literatur)"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/221a7d43-b834-4c96-b2df-57f9c7d5a9c3",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/c32d00e1-06ae-4d6a-920c-6f544e1a5779",
       "prefLabel": {
-        "de": "Lyrik"
+        "de": "Gleichnis"
       }
     },
     {
@@ -26,9 +26,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/c32d00e1-06ae-4d6a-920c-6f544e1a5779",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/deutsch/221a7d43-b834-4c96-b2df-57f9c7d5a9c3",
       "prefLabel": {
-        "de": "Gleichnis"
+        "de": "Lyrik"
       }
     }
   ],
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

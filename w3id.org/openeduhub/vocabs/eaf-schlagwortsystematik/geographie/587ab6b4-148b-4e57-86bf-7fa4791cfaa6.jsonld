@@ -1,12 +1,30 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/587ab6b4-148b-4e57-86bf-7fa4791cfaa6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F587ab6b4-148b-4e57-86bf-7fa4791cfaa6",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F587ab6b4-148b-4e57-86bf-7fa4791cfaa6",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F587ab6b4-148b-4e57-86bf-7fa4791cfaa6",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F587ab6b4-148b-4e57-86bf-7fa4791cfaa6",
   "prefLabel": {
     "de": "Bundesrepublik Deutschland (nach 3.10.90)"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f5307d49-1cc1-4aec-9973-686138c1efa8",
+      "prefLabel": {
+        "de": "Rheinland-Pfalz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8bc503e3-f5e1-4ba6-b132-8f3e0858f238",
+      "prefLabel": {
+        "de": "Niedersachsen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d600ef60-fa3b-43a0-ad0d-f81f40ecee79",
+      "prefLabel": {
+        "de": "Sachsen (Freistaat)"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0b5cf738-669d-4ab0-ac16-e4598af538d8",
       "prefLabel": {
@@ -14,9 +32,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9a4491f3-063d-4c81-b68c-c4b14ba04992",
+      "prefLabel": {
+        "de": "Schleswig-Holstein"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/11ca8b73-6d80-428b-874c-da265db0a2ac",
       "prefLabel": {
         "de": "Süddeutschland"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4961a878-5e29-4c1e-abde-c8309f67ff1c",
+      "prefLabel": {
+        "de": "Nordrhein-Westfalen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/800a184d-5b73-404f-9885-a91223abb9b4",
+      "prefLabel": {
+        "de": "Hessen"
       }
     },
     {
@@ -32,24 +68,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
-      "prefLabel": {
-        "de": "Bayern"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4961a878-5e29-4c1e-abde-c8309f67ff1c",
-      "prefLabel": {
-        "de": "Nordrhein-Westfalen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4d095c54-9777-413b-9bff-c69dbe5e8fbe",
-      "prefLabel": {
-        "de": "Berlin (allgemein)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4db373d6-1dbc-4b93-911a-d5b915b9b7b1",
       "prefLabel": {
         "de": "Bremen"
@@ -62,39 +80,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7935ed62-f0fd-48c6-859c-6ca1f12c7f1c",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4d095c54-9777-413b-9bff-c69dbe5e8fbe",
       "prefLabel": {
-        "de": "Baden-Württemberg"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/800a184d-5b73-404f-9885-a91223abb9b4",
-      "prefLabel": {
-        "de": "Hessen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/8bc503e3-f5e1-4ba6-b132-8f3e0858f238",
-      "prefLabel": {
-        "de": "Niedersachsen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/941a9945-5ca7-42e9-9332-2216f74546e8",
-      "prefLabel": {
-        "de": "Hamburg"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/98c35366-f9ce-407e-9e4b-f97623324cdb",
-      "prefLabel": {
-        "de": "Saarland"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9a4491f3-063d-4c81-b68c-c4b14ba04992",
-      "prefLabel": {
-        "de": "Schleswig-Holstein"
+        "de": "Berlin (allgemein)"
       }
     },
     {
@@ -104,15 +92,27 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a0c4c6e1-8d2e-49f0-ab13-c5ac58f5442a",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/98c35366-f9ce-407e-9e4b-f97623324cdb",
       "prefLabel": {
-        "de": "Deutschland (Kultur/Gesellschaft)"
+        "de": "Saarland"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d600ef60-fa3b-43a0-ad0d-f81f40ecee79",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/941a9945-5ca7-42e9-9332-2216f74546e8",
       "prefLabel": {
-        "de": "Sachsen (Freistaat)"
+        "de": "Hamburg"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
+      "prefLabel": {
+        "de": "Bayern"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a0c4c6e1-8d2e-49f0-ab13-c5ac58f5442a",
+      "prefLabel": {
+        "de": "Deutschland (Kultur/Gesellschaft)"
       }
     },
     {
@@ -128,9 +128,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f5307d49-1cc1-4aec-9973-686138c1efa8",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7935ed62-f0fd-48c6-859c-6ca1f12c7f1c",
       "prefLabel": {
-        "de": "Rheinland-Pfalz"
+        "de": "Baden-Württemberg"
       }
     }
   ],
@@ -204,7 +204,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -213,7 +222,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

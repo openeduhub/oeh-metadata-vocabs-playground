@@ -1,18 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5ae85a26-82fb-4fe2-9bba-f6e8eff51263",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F5ae85a26-82fb-4fe2-9bba-f6e8eff51263",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F5ae85a26-82fb-4fe2-9bba-f6e8eff51263",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F5ae85a26-82fb-4fe2-9bba-f6e8eff51263",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F5ae85a26-82fb-4fe2-9bba-f6e8eff51263",
   "prefLabel": {
     "de": "Wiederkäuer"
   },
   "narrower": [
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/279d70c2-d889-4d3f-8d00-75a1da4bd471",
-      "prefLabel": {
-        "de": "Rinder"
-      }
-    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/3a4861ee-183b-40c4-9932-def560322cd5",
       "prefLabel": {
@@ -20,15 +14,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/482c1a10-9f81-4b8c-8ddb-c08fbe27c3ec",
-      "prefLabel": {
-        "de": "Ziegen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/4893b804-fab8-469d-8cef-b7841c44823c",
       "prefLabel": {
         "de": "Lamas"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/279d70c2-d889-4d3f-8d00-75a1da4bd471",
+      "prefLabel": {
+        "de": "Rinder"
       }
     },
     {
@@ -59,6 +53,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/c5b074e6-5fae-41f7-a1c2-fc43070dfc7e",
       "prefLabel": {
         "de": "Antilopen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/482c1a10-9f81-4b8c-8ddb-c08fbe27c3ec",
+      "prefLabel": {
+        "de": "Ziegen"
       }
     }
   ],
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

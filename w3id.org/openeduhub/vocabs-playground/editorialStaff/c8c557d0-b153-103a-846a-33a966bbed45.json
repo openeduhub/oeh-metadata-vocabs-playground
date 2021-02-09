@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/editorialStaff/c8c557d0-b153-103a-846a-33a966bbed45",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2Fc8c557d0-b153-103a-846a-33a966bbed45",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2Fc8c557d0-b153-103a-846a-33a966bbed45",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2Fc8c557d0-b153-103a-846a-33a966bbed45",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2Fc8c557d0-b153-103a-846a-33a966bbed45",
   "prefLabel": {
     "de": "Religion"
   },
@@ -73,7 +73,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -82,7 +91,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

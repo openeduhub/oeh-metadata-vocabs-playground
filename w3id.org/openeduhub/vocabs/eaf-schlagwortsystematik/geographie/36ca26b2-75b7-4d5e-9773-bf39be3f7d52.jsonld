@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F36ca26b2-75b7-4d5e-9773-bf39be3f7d52",
   "prefLabel": {
     "de": "Bayern"
   },
@@ -11,6 +11,24 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0a730c9d-bb8d-4ca9-bfe0-9f11a7c5576f",
       "prefLabel": {
         "de": "Oberpfalz (Regierungsbezirk)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/de6ee6a4-5570-42e0-91a7-cbda8dd90277",
+      "prefLabel": {
+        "de": "Oberbayern (Regierungsbezirk)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ef81fcd0-dcf0-416f-92c0-092b9324eae8",
+      "prefLabel": {
+        "de": "Schwaben (Regierungsbezirk)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9a1f0d3f-6003-441c-9b55-d95dcb8a42da",
+      "prefLabel": {
+        "de": "Mittelfranken (Regierungsbezirk)"
       }
     },
     {
@@ -26,33 +44,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9a1f0d3f-6003-441c-9b55-d95dcb8a42da",
-      "prefLabel": {
-        "de": "Mittelfranken (Regierungsbezirk)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9ead6496-4a3b-4ec7-81d3-f27958e732c7",
-      "prefLabel": {
-        "de": "Landeskunde (Bayern)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ae4439f0-095c-4d98-838d-81cc7523ebe5",
       "prefLabel": {
         "de": "Niederbayern (Regierungsbezirk)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/de6ee6a4-5570-42e0-91a7-cbda8dd90277",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/9ead6496-4a3b-4ec7-81d3-f27958e732c7",
       "prefLabel": {
-        "de": "Oberbayern (Regierungsbezirk)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/ef81fcd0-dcf0-416f-92c0-092b9324eae8",
-      "prefLabel": {
-        "de": "Schwaben (Regierungsbezirk)"
+        "de": "Landeskunde (Bayern)"
       }
     },
     {
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
   "prefLabel": {
     "de": "Pflanzen"
   },
@@ -23,12 +23,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6d1ebd6d-5777-4ff2-81dc-738e4fe2c066",
       "prefLabel": {
         "de": "Pflanzenbewegung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/716b3f61-bc0f-4cce-8b46-e55807b226b8",
-      "prefLabel": {
-        "de": "Photosynthese"
       }
     },
     {
@@ -59,6 +53,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/fcb889fe-5cb3-4770-a8ee-3fef97aff6aa",
       "prefLabel": {
         "de": "Pflanzenkrankheit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/716b3f61-bc0f-4cce-8b46-e55807b226b8",
+      "prefLabel": {
+        "de": "Photosynthese"
       }
     }
   ],
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

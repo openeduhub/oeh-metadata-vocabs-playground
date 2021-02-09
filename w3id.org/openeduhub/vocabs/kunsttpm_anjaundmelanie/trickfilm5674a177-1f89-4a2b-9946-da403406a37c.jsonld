@@ -1,20 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/trickfilm5674a177-1f89-4a2b-9946-da403406a37c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftrickfilm5674a177-1f89-4a2b-9946-da403406a37c",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftrickfilm5674a177-1f89-4a2b-9946-da403406a37c",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftrickfilm5674a177-1f89-4a2b-9946-da403406a37c",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftrickfilm5674a177-1f89-4a2b-9946-da403406a37c",
   "prefLabel": {
     "de": "Trickfilm"
   },
   "altLabel": {
     "de": [
+      "Trickfilm",
       "Animation",
       "Animationsfilm",
       "Animationsverfahren",
       "Animieren",
       "Cartoon",
       "Trickaufnahme",
-      "Trickfilm",
       "Trickfilmer",
       "Trickfilmzeichner"
     ],
@@ -92,7 +92,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -101,7 +110,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

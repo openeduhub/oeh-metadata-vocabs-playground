@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/a616ef0c-49b1-4253-abae-fbbb1a7247a5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fa616ef0c-49b1-4253-abae-fbbb1a7247a5",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fa616ef0c-49b1-4253-abae-fbbb1a7247a5",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fa616ef0c-49b1-4253-abae-fbbb1a7247a5",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fmusik%2Fa616ef0c-49b1-4253-abae-fbbb1a7247a5",
   "prefLabel": {
     "de": "Komposition (Musik)"
   },
@@ -26,12 +26,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/56dede16-da4c-4711-85c7-41a9f67df9fa",
-      "prefLabel": {
-        "de": "Aleatorik"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/5d10f353-e7d1-4e98-b11f-be28bccb1d2c",
       "prefLabel": {
         "de": "Zwölftonmusik"
@@ -41,6 +35,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/9431e65b-db29-460d-b1aa-42bbf679a530",
       "prefLabel": {
         "de": "Mehrstimmigkeit (Mittelalter Musik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/musik/56dede16-da4c-4711-85c7-41a9f67df9fa",
+      "prefLabel": {
+        "de": "Aleatorik"
       }
     },
     {
@@ -132,7 +132,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +150,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

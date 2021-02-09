@@ -1,46 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2F",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2F",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2F",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2F",
   "prefLabel": {
     "de": "Mathematik"
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rationalezahlen76d294ec-d85f-47f1-b5ae-c6c9c16d6472",
+      "prefLabel": {
+        "de": "Rationale Zahlen"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/aehnlichkeit1c04d9de-94fb-403d-94a8-64dad7e12f9a",
       "prefLabel": {
         "de": "Ähnlichkeit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
-      "prefLabel": {
-        "de": "Analysis"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
-      "prefLabel": {
-        "de": "Analytische Geometrie"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/arithmetikaf0c9401-704c-46e5-9632-d47b37006408",
-      "prefLabel": {
-        "de": "Arithmetik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/berechnungeninfigurenundkoerpern879ace44-41f2-4d22-88c5-02f4eff76063",
-      "prefLabel": {
-        "de": "Berechnungen in Figuren und Körpern"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/brueche387d7c70-34da-4ff6-8cf8-2b267ac36778",
-      "prefLabel": {
-        "de": "Brüche"
       }
     },
     {
@@ -50,9 +26,99 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeitcf7f74e0-e25d-49a6-9cf6-09ddf83c7364",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/symmetriesenkrecht_parallel_symmetrisch6491bbde-d0e4-4937-bcf6-edfcce42db6f",
+      "prefLabel": {
+        "de": "Symmetrie senkrecht_parallel_symmetrisch"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/arithmetikaf0c9401-704c-46e5-9632-d47b37006408",
+      "prefLabel": {
+        "de": "Arithmetik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analytischegeometrie05b7efc1-c496-4fed-82d9-6752937b62ef",
+      "prefLabel": {
+        "de": "Analytische Geometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/termeundgleichungen03aaa98c-aaaf-4197-b2f9-d7361c70a393",
+      "prefLabel": {
+        "de": "Terme und Gleichungen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zuordnungenfunktionen8df48c87-93eb-48de-9e18-7e84100e84e2",
+      "prefLabel": {
+        "de": "Zuordnungen (Funktionen)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/statistikfda80d2b-a4e2-4025-aebb-195873d6f0af",
+      "prefLabel": {
+        "de": "Statistik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/brueche387d7c70-34da-4ff6-8cf8-2b267ac36778",
+      "prefLabel": {
+        "de": "Brüche"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechnen6d68f650-037c-4b85-9480-5ba151515fc4",
+      "prefLabel": {
+        "de": "Rechnen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeit8abf3a5d-aa98-4e1b-a3c3-104a3cf42701",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzen1f493cf6-9f6e-4714-809e-e299b203aa48",
+      "prefLabel": {
+        "de": "Potenzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wurzeln9c805959-89a9-43b2-9b21-65e9be80f167",
+      "prefLabel": {
+        "de": "Wurzeln"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/figurenf1a610d2-ac11-4038-bf7f-fe776b72fa1e",
       "prefLabel": {
         "de": "Figuren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrie14c29fbf-09d7-49fd-98be-b99cfbe00d6a",
+      "prefLabel": {
+        "de": "Geometrie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/vermischtes604c7499-34ff-4b52-9a67-b80e4c4c3a2c",
+      "prefLabel": {
+        "de": "Vermischtes"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentrechnung3687bece-a821-4421-93a6-03758544588f",
+      "prefLabel": {
+        "de": "Prozentrechnung"
       }
     },
     {
@@ -62,9 +128,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/geometrie14c29fbf-09d7-49fd-98be-b99cfbe00d6a",
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechtwinkligedreieckeb1ff6180-e07c-4a24-89b1-fbb25e89e419",
       "prefLabel": {
-        "de": "Geometrie"
+        "de": "Rechtwinklige Dreiecke"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinsrechnung23602718-1ded-426f-b5ca-2ed3d9553fe4",
+      "prefLabel": {
+        "de": "Zinsrechnung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/berechnungeninfigurenundkoerpern879ace44-41f2-4d22-88c5-02f4eff76063",
+      "prefLabel": {
+        "de": "Berechnungen in Figuren und Körpern"
       }
     },
     {
@@ -80,81 +158,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/potenzen1f493cf6-9f6e-4714-809e-e299b203aa48",
-      "prefLabel": {
-        "de": "Potenzen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentrechnung3687bece-a821-4421-93a6-03758544588f",
-      "prefLabel": {
-        "de": "Prozentrechnung"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quadratischefunktionenaae2ae2a-3bfb-4ad1-9e5d-ce2b9bb3629b",
       "prefLabel": {
         "de": "Quadratische Funktionen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rationalezahlen76d294ec-d85f-47f1-b5ae-c6c9c16d6472",
-      "prefLabel": {
-        "de": "Rationale Zahlen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechnen6d68f650-037c-4b85-9480-5ba151515fc4",
-      "prefLabel": {
-        "de": "Rechnen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rechtwinkligedreieckeb1ff6180-e07c-4a24-89b1-fbb25e89e419",
-      "prefLabel": {
-        "de": "Rechtwinklige Dreiecke"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/statistikfda80d2b-a4e2-4025-aebb-195873d6f0af",
-      "prefLabel": {
-        "de": "Statistik"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/symmetriesenkrecht_parallel_symmetrisch6491bbde-d0e4-4937-bcf6-edfcce42db6f",
-      "prefLabel": {
-        "de": "Symmetrie senkrecht_parallel_symmetrisch"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/termeundgleichungen03aaa98c-aaaf-4197-b2f9-d7361c70a393",
-      "prefLabel": {
-        "de": "Terme und Gleichungen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/vermischtes604c7499-34ff-4b52-9a67-b80e4c4c3a2c",
-      "prefLabel": {
-        "de": "Vermischtes"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeit8abf3a5d-aa98-4e1b-a3c3-104a3cf42701",
-      "prefLabel": {
-        "de": "Wahrscheinlichkeit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wahrscheinlichkeitcf7f74e0-e25d-49a6-9cf6-09ddf83c7364",
-      "prefLabel": {
-        "de": "Wahrscheinlichkeit"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/wurzeln9c805959-89a9-43b2-9b21-65e9be80f167",
-      "prefLabel": {
-        "de": "Wurzeln"
       }
     },
     {
@@ -170,15 +176,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zinsrechnung23602718-1ded-426f-b5ca-2ed3d9553fe4",
+      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/analysis5099b278-aecb-4213-bcef-87ee38da9c6d",
       "prefLabel": {
-        "de": "Zinsrechnung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/zuordnungenfunktionen8df48c87-93eb-48de-9e18-7e84100e84e2",
-      "prefLabel": {
-        "de": "Zuordnungen (Funktionen)"
+        "de": "Analysis"
       }
     }
   ],
@@ -249,7 +249,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -258,7 +267,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

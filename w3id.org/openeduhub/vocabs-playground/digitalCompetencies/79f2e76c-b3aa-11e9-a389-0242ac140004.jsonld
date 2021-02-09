@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/digitalCompetencies/79f2e76c-b3aa-11e9-a389-0242ac140004",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FdigitalCompetencies%2F79f2e76c-b3aa-11e9-a389-0242ac140004",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FdigitalCompetencies%2F79f2e76c-b3aa-11e9-a389-0242ac140004",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FdigitalCompetencies%2F79f2e76c-b3aa-11e9-a389-0242ac140004",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FdigitalCompetencies%2F79f2e76c-b3aa-11e9-a389-0242ac140004",
   "prefLabel": {
     "de": "1.1 Daten, Informationen und digitale Inhalte suchen und filtern"
   },
@@ -111,7 +111,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +129,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

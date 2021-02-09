@@ -1,16 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/2f0a6a96-7c77-4fcd-912b-d11733cbae26",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F2f0a6a96-7c77-4fcd-912b-d11733cbae26",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F2f0a6a96-7c77-4fcd-912b-d11733cbae26",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F2f0a6a96-7c77-4fcd-912b-d11733cbae26",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F2f0a6a96-7c77-4fcd-912b-d11733cbae26",
   "prefLabel": {
     "de": "Chemie"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/2400fb6e-c6d9-478f-a344-8bea6f2d2c4b",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/da82436f-4bf8-48b7-a8b7-5e63a5aa4218",
       "prefLabel": {
-        "de": "Organische Chemie"
+        "de": "Chemische Reaktion"
       }
     },
     {
@@ -20,9 +20,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/3f8e332e-8a74-4401-b83c-49064acbd859",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/2400fb6e-c6d9-478f-a344-8bea6f2d2c4b",
       "prefLabel": {
-        "de": "Aggregatzustand"
+        "de": "Organische Chemie"
       }
     },
     {
@@ -62,15 +62,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/a2352017-ad3b-4297-86c4-2ed5384675b8",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/3f8e332e-8a74-4401-b83c-49064acbd859",
       "prefLabel": {
-        "de": "Funktionelle Gruppe"
+        "de": "Aggregatzustand"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/da82436f-4bf8-48b7-a8b7-5e63a5aa4218",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/a2352017-ad3b-4297-86c4-2ed5384675b8",
       "prefLabel": {
-        "de": "Chemische Reaktion"
+        "de": "Funktionelle Gruppe"
       }
     },
     {
@@ -80,6 +80,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/",
+    "prefLabel": {
+      "de": "chemie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -144,7 +150,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -153,7 +168,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

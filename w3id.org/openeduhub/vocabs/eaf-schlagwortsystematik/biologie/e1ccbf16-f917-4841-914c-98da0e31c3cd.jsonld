@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/e1ccbf16-f917-4841-914c-98da0e31c3cd",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe1ccbf16-f917-4841-914c-98da0e31c3cd",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe1ccbf16-f917-4841-914c-98da0e31c3cd",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe1ccbf16-f917-4841-914c-98da0e31c3cd",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe1ccbf16-f917-4841-914c-98da0e31c3cd",
   "prefLabel": {
     "de": "Tier"
   },
@@ -20,15 +20,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/214484ee-5dda-448a-ba6a-d709409198ba",
-      "prefLabel": {
-        "de": "Jungtier"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/438a0cd2-dbde-46a8-b569-acff2eead7a3",
       "prefLabel": {
         "de": "Tiersprache"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/9e3e5a63-f01c-4af4-94bf-afa7a936480c",
+      "prefLabel": {
+        "de": "Instinkt"
       }
     },
     {
@@ -41,12 +41,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6646ae33-18f3-409e-b604-6129b14c501b",
       "prefLabel": {
         "de": "Überwinterung"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6a8ae06e-10e9-4d76-87d3-91d49751d2e2",
-      "prefLabel": {
-        "de": "Tarnung (Tiere)"
       }
     },
     {
@@ -68,12 +62,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/9e3e5a63-f01c-4af4-94bf-afa7a936480c",
-      "prefLabel": {
-        "de": "Instinkt"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/a38a2c3f-a1b8-4b47-a19a-d90708605345",
       "prefLabel": {
         "de": "Winterstarre"
@@ -89,6 +77,18 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d562a2bb-3ff4-4e19-b6af-fff80f97de18",
       "prefLabel": {
         "de": "Reifungsprozess (Tier)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6a8ae06e-10e9-4d76-87d3-91d49751d2e2",
+      "prefLabel": {
+        "de": "Tarnung (Tiere)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/214484ee-5dda-448a-ba6a-d709409198ba",
+      "prefLabel": {
+        "de": "Jungtier"
       }
     },
     {
@@ -186,7 +186,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -195,7 +204,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

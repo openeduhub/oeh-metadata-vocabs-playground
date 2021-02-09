@@ -1,12 +1,30 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lesen-mittextenundmedienumgehend89bf36a-cc95-4319-8206-4382d17717d1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flesen-mittextenundmedienumgehend89bf36a-cc95-4319-8206-4382d17717d1",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flesen-mittextenundmedienumgehend89bf36a-cc95-4319-8206-4382d17717d1",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flesen-mittextenundmedienumgehend89bf36a-cc95-4319-8206-4382d17717d1",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Flesen-mittextenundmedienumgehend89bf36a-cc95-4319-8206-4382d17717d1",
   "prefLabel": {
     "de": "Lesen - mit Texten und Medien umgehen"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
+      "prefLabel": {
+        "de": "Literaturgeschichte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/journalistischetexte73abaea8-b5a9-41c8-a972-ad19d45c298a",
+      "prefLabel": {
+        "de": "Journalistische Texte"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/weiteremedienbda978e9-a197-462e-b511-2a14f11f2efc",
+      "prefLabel": {
+        "de": "Weitere Medien"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dramatischetexteaf0b03de-9f8f-4cf3-8b00-3e428bb50f79",
       "prefLabel": {
@@ -20,9 +38,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/journalistischetexte73abaea8-b5a9-41c8-a972-ad19d45c298a",
+      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
       "prefLabel": {
-        "de": "Journalistische Texte"
+        "de": "Lyrische Texte"
       }
     },
     {
@@ -32,30 +50,18 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
-      "prefLabel": {
-        "de": "Literaturgeschichte"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
-      "prefLabel": {
-        "de": "Lyrische Texte"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/pragmatischetexte16b6755a-52d7-4d90-8201-3952cb972c7d",
       "prefLabel": {
         "de": "Pragmatische Texte"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/weiteremedienbda978e9-a197-462e-b511-2a14f11f2efc",
-      "prefLabel": {
-        "de": "Weitere Medien"
-      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/",
+    "prefLabel": {
+      "de": "Deutsch"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/allSchoolTopics/",
     "title": {
@@ -120,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -129,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

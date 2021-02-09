@@ -1,16 +1,46 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/e31c2080-9d3f-404f-acce-0fb8b72f4992",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe31c2080-9d3f-404f-acce-0fb8b72f4992",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe31c2080-9d3f-404f-acce-0fb8b72f4992",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe31c2080-9d3f-404f-acce-0fb8b72f4992",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2Fe31c2080-9d3f-404f-acce-0fb8b72f4992",
   "prefLabel": {
     "de": "Botanik"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/1598ca41-7b06-4cbb-87dc-aa5577ce0794",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5082e860-653c-4960-8f95-8ee94a6b4433",
       "prefLabel": {
-        "de": "Blütenlose Pflanzen"
+        "de": "Fleisch fressende Pflanzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d7b81fb5-a1cd-4456-b892-8b5dc603722d",
+      "prefLabel": {
+        "de": "Nutzpflanze"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/eefe8000-f26f-4c9e-9ab5-875d3e6f91e8",
+      "prefLabel": {
+        "de": "Obst"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/fb13ac56-4689-4a35-9124-7d79fa5743a5",
+      "prefLabel": {
+        "de": "Blütenpflanzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/cd366aaa-c876-48f4-9f65-7a1da874af87",
+      "prefLabel": {
+        "de": "Zierpflanze"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/a27677f5-6fe3-486f-b617-4a518e7c78c5",
+      "prefLabel": {
+        "de": "Baum (Pflanze)"
       }
     },
     {
@@ -20,21 +50,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d063475d-1a7c-4257-bcfe-fc44a767a974",
+      "prefLabel": {
+        "de": "Strauch"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
+      "prefLabel": {
+        "de": "Pflanzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/1598ca41-7b06-4cbb-87dc-aa5577ce0794",
+      "prefLabel": {
+        "de": "Blütenlose Pflanzen"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/33dce9c7-e134-4b2f-9554-3d5857313db5",
       "prefLabel": {
         "de": "Stauden"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/40a0bf6d-c5ad-45a7-81ae-299e4127b119",
-      "prefLabel": {
-        "de": "Vegetation"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/5082e860-653c-4960-8f95-8ee94a6b4433",
-      "prefLabel": {
-        "de": "Fleisch fressende Pflanzen"
       }
     },
     {
@@ -56,9 +92,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/7d5cf391-3995-45ae-9ab6-5e6ff0675bc2",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/40a0bf6d-c5ad-45a7-81ae-299e4127b119",
       "prefLabel": {
-        "de": "Pflanzen"
+        "de": "Vegetation"
       }
     },
     {
@@ -86,12 +122,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/a27677f5-6fe3-486f-b617-4a518e7c78c5",
-      "prefLabel": {
-        "de": "Baum (Pflanze)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/ba55c631-2650-4e6a-a9d5-3cf44e5ac812",
       "prefLabel": {
         "de": "Kletterpflanze"
@@ -104,27 +134,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/cd366aaa-c876-48f4-9f65-7a1da874af87",
-      "prefLabel": {
-        "de": "Zierpflanze"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d063475d-1a7c-4257-bcfe-fc44a767a974",
-      "prefLabel": {
-        "de": "Strauch"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d3f7c8d1-ee18-455a-b5bb-af2426e55313",
       "prefLabel": {
         "de": "Gebirgspflanzen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/d7b81fb5-a1cd-4456-b892-8b5dc603722d",
-      "prefLabel": {
-        "de": "Nutzpflanze"
       }
     },
     {
@@ -138,20 +150,14 @@
       "prefLabel": {
         "de": "Waldpflanze"
       }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/eefe8000-f26f-4c9e-9ab5-875d3e6f91e8",
-      "prefLabel": {
-        "de": "Obst"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/fb13ac56-4689-4a35-9124-7d79fa5743a5",
-      "prefLabel": {
-        "de": "Blütenpflanzen"
-      }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/",
+    "prefLabel": {
+      "de": "biologie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -216,7 +222,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -225,7 +240,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

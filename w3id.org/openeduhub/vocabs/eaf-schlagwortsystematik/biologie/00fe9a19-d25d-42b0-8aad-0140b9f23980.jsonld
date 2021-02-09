@@ -1,22 +1,28 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/00fe9a19-d25d-42b0-8aad-0140b9f23980",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F00fe9a19-d25d-42b0-8aad-0140b9f23980",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F00fe9a19-d25d-42b0-8aad-0140b9f23980",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F00fe9a19-d25d-42b0-8aad-0140b9f23980",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F00fe9a19-d25d-42b0-8aad-0140b9f23980",
   "prefLabel": {
     "de": "Evolution"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/103b866a-3864-485d-8082-e490dfdb392b",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/98ed38fc-ae11-4a65-9030-f99a13e23086",
       "prefLabel": {
-        "de": "Homo erectus"
+        "de": "Paläonthologie"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/12720575-ba6d-49ed-857d-0e217f59df84",
       "prefLabel": {
         "de": "Homo sapiens"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/103b866a-3864-485d-8082-e490dfdb392b",
+      "prefLabel": {
+        "de": "Homo erectus"
       }
     },
     {
@@ -44,12 +50,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/98ed38fc-ae11-4a65-9030-f99a13e23086",
-      "prefLabel": {
-        "de": "Paläonthologie"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/a5082f62-6132-4c5c-bb2f-d852d72d7da5",
       "prefLabel": {
         "de": "Homologie (Biologie)"
@@ -68,6 +68,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/",
+    "prefLabel": {
+      "de": "biologie"
+    }
+  },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/",
     "title": {
@@ -132,7 +138,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -141,7 +156,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

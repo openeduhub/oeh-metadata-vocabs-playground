@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F6",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F6",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F6",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F6",
   "prefLabel": {
     "de": "GEISTESWISSENSCHAFTEN",
     "en": "HUMANITIES"
@@ -23,13 +23,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/603",
-      "prefLabel": {
-        "de": "Philosophie, Ethik, Religion",
-        "en": "Philosophy, Ethics, Religion"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/604",
       "prefLabel": {
         "de": "Kunstwissenschaften",
@@ -41,6 +34,13 @@
       "prefLabel": {
         "de": "Andere Geisteswissenschaften",
         "en": "Other Humanities"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/603",
+      "prefLabel": {
+        "de": "Philosophie, Ethik, Religion",
+        "en": "Philosophy, Ethics, Religion"
       }
     }
   ],
@@ -111,7 +111,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -120,7 +129,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,18 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/zeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fzeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fzeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fzeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fzeitformen7889b529-7a23-44cb-8372-52dcaa47a801",
   "prefLabel": {
     "de": "Zeitformen"
   },
   "altLabel": {
     "de": [
+      "Zeitform",
+      "Zeit",
+      "Tempus",
       "Deutsche Tempusformen",
       "Tempora",
-      "Tempus",
-      "Zeit",
-      "Zeitform",
       "Zeitformen"
     ],
     "en": [
@@ -139,7 +139,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -148,7 +157,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

@@ -1,12 +1,30 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F4f20a475-cad7-4cd8-96cd-9653b6f68fa5",
   "prefLabel": {
     "de": "Landschaftstyp/form)"
   },
   "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1ace2386-ff37-42eb-b54f-6d59b6667d21",
+      "prefLabel": {
+        "de": "Küste"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/af9e3bdb-a339-42e6-9655-c33d3a0da06d",
+      "prefLabel": {
+        "de": "Korallenriff"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7619b2d5-56d4-4496-860d-d393b9c83a0b",
+      "prefLabel": {
+        "de": "Marsch (Landschaftstyp)"
+      }
+    },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/0d65f9c9-538e-4989-86fb-ceb750ffb00a",
       "prefLabel": {
@@ -20,27 +38,27 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/81736ee0-40cc-4e97-99df-311f6648b8dd",
+      "prefLabel": {
+        "de": "Höhle"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/17753da3-0884-4767-830a-a204a0a0a941",
       "prefLabel": {
         "de": "Schichtstufenlandschaft"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/1ace2386-ff37-42eb-b54f-6d59b6667d21",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/349c7c13-90dc-4487-8cd1-578784c15783",
       "prefLabel": {
-        "de": "Küste"
+        "de": "Wüste"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3390b642-b19f-4fea-b653-c3cb965e0d47",
       "prefLabel": {
         "de": "Tiefebene"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/349c7c13-90dc-4487-8cd1-578784c15783",
-      "prefLabel": {
-        "de": "Wüste"
       }
     },
     {
@@ -62,27 +80,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6dd699b5-1752-4e8e-b763-aae90f5c2591",
-      "prefLabel": {
-        "de": "Geest"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7619b2d5-56d4-4496-860d-d393b9c83a0b",
-      "prefLabel": {
-        "de": "Marsch (Landschaftstyp)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7ca08285-d601-4299-b3ac-4ea2ff6cbe0e",
       "prefLabel": {
         "de": "Glaziallandschaft"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/81736ee0-40cc-4e97-99df-311f6648b8dd",
-      "prefLabel": {
-        "de": "Höhle"
       }
     },
     {
@@ -92,27 +92,21 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b6086d35-d4d1-4faa-b229-01e93fe3660e",
+      "prefLabel": {
+        "de": "Moor"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/95d0f58e-0d11-46d2-8b27-c6ab5216e4ff",
       "prefLabel": {
         "de": "Steppe"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/af9e3bdb-a339-42e6-9655-c33d3a0da06d",
-      "prefLabel": {
-        "de": "Korallenriff"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b3697848-62f8-4227-8871-898b85408a3b",
       "prefLabel": {
         "de": "Talform"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b6086d35-d4d1-4faa-b229-01e93fe3660e",
-      "prefLabel": {
-        "de": "Moor"
       }
     },
     {
@@ -137,6 +131,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e97ba779-67e2-417a-85f8-9806186a6c03",
       "prefLabel": {
         "de": "Insel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6dd699b5-1752-4e8e-b763-aae90f5c2591",
+      "prefLabel": {
+        "de": "Geest"
       }
     },
     {
@@ -216,7 +216,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -225,7 +234,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

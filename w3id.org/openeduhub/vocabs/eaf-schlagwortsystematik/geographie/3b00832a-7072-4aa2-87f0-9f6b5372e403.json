@@ -1,16 +1,28 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/3b00832a-7072-4aa2-87f0-9f6b5372e403",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F3b00832a-7072-4aa2-87f0-9f6b5372e403",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F3b00832a-7072-4aa2-87f0-9f6b5372e403",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F3b00832a-7072-4aa2-87f0-9f6b5372e403",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F3b00832a-7072-4aa2-87f0-9f6b5372e403",
   "prefLabel": {
     "de": "Oberfranken (Regierungsbezirk)"
   },
   "narrower": [
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/bb37a1f1-8e41-4dcd-ad7b-54090f90ae3c",
+      "prefLabel": {
+        "de": "Bamberg (Kreis)"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/38a80914-80ad-42e9-9614-3f04a922d209",
       "prefLabel": {
         "de": "Forchheim (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f014d817-7f40-43fa-8793-1d70e2e5d2f5",
+      "prefLabel": {
+        "de": "Bayreuth (Kreis)"
       }
     },
     {
@@ -20,33 +32,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b6e90d22-b002-4419-8980-04f8864febc0",
-      "prefLabel": {
-        "de": "Kulmbach (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/bb37a1f1-8e41-4dcd-ad7b-54090f90ae3c",
-      "prefLabel": {
-        "de": "Bamberg (Kreis)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/cc909f63-0d19-4577-b23c-0b4681dee019",
       "prefLabel": {
         "de": "Coburg (Kreis)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d6c41ebd-728c-4b83-a8eb-82bc90d0c616",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b6e90d22-b002-4419-8980-04f8864febc0",
       "prefLabel": {
-        "de": "Lichtenfels (Kreis)"
+        "de": "Kulmbach (Kreis)"
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f014d817-7f40-43fa-8793-1d70e2e5d2f5",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/d6c41ebd-728c-4b83-a8eb-82bc90d0c616",
       "prefLabel": {
-        "de": "Bayreuth (Kreis)"
+        "de": "Lichtenfels (Kreis)"
       }
     },
     {
@@ -126,7 +126,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -135,7 +144,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

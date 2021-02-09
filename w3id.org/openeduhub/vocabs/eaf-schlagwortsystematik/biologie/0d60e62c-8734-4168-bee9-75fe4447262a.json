@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/0d60e62c-8734-4168-bee9-75fe4447262a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F0d60e62c-8734-4168-bee9-75fe4447262a",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F0d60e62c-8734-4168-bee9-75fe4447262a",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F0d60e62c-8734-4168-bee9-75fe4447262a",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fbiologie%2F0d60e62c-8734-4168-bee9-75fe4447262a",
   "prefLabel": {
     "de": "Insekten"
   },
@@ -14,9 +14,9 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/207cf2a5-9ff3-4a3c-b9c6-ee66ed9c82c4",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/c8b081d8-9095-4889-9e5b-997845570519",
       "prefLabel": {
-        "de": "Fliegen (Insekten)"
+        "de": "Käfer"
       }
     },
     {
@@ -26,15 +26,21 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/56db4b07-3627-4188-b5a6-3ddeadaf0a18",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/b428c996-4f9e-4552-a42c-c228db0978b2",
       "prefLabel": {
-        "de": "Mücken"
+        "de": "Wanzen"
       }
     },
     {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/57795b2c-3c00-426e-bcbe-76fe6864ba15",
       "prefLabel": {
         "de": "Hautflügler)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/56db4b07-3627-4188-b5a6-3ddeadaf0a18",
+      "prefLabel": {
+        "de": "Mücken"
       }
     },
     {
@@ -47,6 +53,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/6cabad7a-f70e-4f17-a39a-61f03fb1cff9",
       "prefLabel": {
         "de": "Blattläuse"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/207cf2a5-9ff3-4a3c-b9c6-ee66ed9c82c4",
+      "prefLabel": {
+        "de": "Fliegen (Insekten)"
       }
     },
     {
@@ -86,12 +98,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/b428c996-4f9e-4552-a42c-c228db0978b2",
-      "prefLabel": {
-        "de": "Wanzen"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/b503a8a7-1eb9-431d-bdf4-c0ab6e6bfaec",
       "prefLabel": {
         "de": "Schaben"
@@ -101,12 +107,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/b5d6d027-6790-402f-8650-8d1ea57566a0",
       "prefLabel": {
         "de": "Libellen"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/biologie/c8b081d8-9095-4889-9e5b-997845570519",
-      "prefLabel": {
-        "de": "Käfer"
       }
     },
     {
@@ -186,7 +186,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -195,7 +204,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

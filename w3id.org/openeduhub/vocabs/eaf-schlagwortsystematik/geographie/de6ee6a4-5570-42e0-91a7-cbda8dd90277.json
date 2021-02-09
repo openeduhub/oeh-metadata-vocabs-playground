@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/de6ee6a4-5570-42e0-91a7-cbda8dd90277",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fde6ee6a4-5570-42e0-91a7-cbda8dd90277",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fde6ee6a4-5570-42e0-91a7-cbda8dd90277",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fde6ee6a4-5570-42e0-91a7-cbda8dd90277",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2Fde6ee6a4-5570-42e0-91a7-cbda8dd90277",
   "prefLabel": {
     "de": "Oberbayern (Regierungsbezirk)"
   },
@@ -29,6 +29,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2672d75d-306e-4616-b11b-458fc005845c",
       "prefLabel": {
         "de": "Miesbach (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c3693b84-d6ec-45cc-b8d1-517209c59709",
+      "prefLabel": {
+        "de": "Rosenheim (Kreis)"
       }
     },
     {
@@ -65,12 +71,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5c263ef1-fa39-4dec-a690-eae2060dab3d",
       "prefLabel": {
         "de": "Altötting (Kreis)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6017b50c-ad32-44d3-9122-167944a428a7",
-      "prefLabel": {
-        "de": "Berchtesgadener Land (Kreis)"
       }
     },
     {
@@ -122,15 +122,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c3693b84-d6ec-45cc-b8d1-517209c59709",
-      "prefLabel": {
-        "de": "Rosenheim (Kreis)"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/c5608767-5906-4f87-a75d-cf2d5be8eea1",
       "prefLabel": {
         "de": "Dachau (Kreis)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/6017b50c-ad32-44d3-9122-167944a428a7",
+      "prefLabel": {
+        "de": "Berchtesgadener Land (Kreis)"
       }
     }
   ],
@@ -204,7 +204,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -213,7 +222,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

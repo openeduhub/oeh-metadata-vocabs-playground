@@ -1,28 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/89f3d077-d786-4f37-bf16-7738e449aae0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F89f3d077-d786-4f37-bf16-7738e449aae0",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F89f3d077-d786-4f37-bf16-7738e449aae0",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F89f3d077-d786-4f37-bf16-7738e449aae0",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fgeographie%2F89f3d077-d786-4f37-bf16-7738e449aae0",
   "prefLabel": {
     "de": "Kulturlandschaft"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/01d2e7dd-b20b-4eb5-bd7e-9f08cfdb2130",
-      "prefLabel": {
-        "de": "Rheinland"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/13fb1777-7284-4fb4-81c8-c53c1d9d7d06",
       "prefLabel": {
         "de": "Markgräfler Land"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2046e01e-9f61-4ac9-bd0f-4523d861fbde",
-      "prefLabel": {
-        "de": "Lausitz"
       }
     },
     {
@@ -68,6 +56,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/01d2e7dd-b20b-4eb5-bd7e-9f08cfdb2130",
+      "prefLabel": {
+        "de": "Rheinland"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/5785a652-2a4d-4703-ac1a-8408287b3e4c",
       "prefLabel": {
         "de": "Siegerland"
@@ -83,6 +77,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/59cf3882-18a6-48bd-bd3d-8de4d877cace",
       "prefLabel": {
         "de": "Lappland"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7fc32e7f-1b83-4057-9997-480145dedbec",
+      "prefLabel": {
+        "de": "Friesland"
       }
     },
     {
@@ -110,12 +110,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/7fc32e7f-1b83-4057-9997-480145dedbec",
-      "prefLabel": {
-        "de": "Friesland"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/94c80256-af69-4c63-a5bf-81d77c2a60fb",
       "prefLabel": {
         "de": "Sahel"
@@ -125,12 +119,6 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/a3cf243b-9e75-4676-a186-99a7e3ef53d7",
       "prefLabel": {
         "de": "Patagonien"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b50e4206-fae4-4bbe-8c48-f83ce7440b8e",
-      "prefLabel": {
-        "de": "Hegau"
       }
     },
     {
@@ -158,6 +146,12 @@
       }
     },
     {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/b50e4206-fae4-4bbe-8c48-f83ce7440b8e",
+      "prefLabel": {
+        "de": "Hegau"
+      }
+    },
+    {
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/e1976f24-f0f4-498d-b0c9-3eabc2c18733",
       "prefLabel": {
         "de": "Ortenau"
@@ -167,6 +161,12 @@
       "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/f060ec21-141e-4fe0-b90b-2dede0fce695",
       "prefLabel": {
         "de": "Pfalz (Landschaft)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/geographie/2046e01e-9f61-4ac9-bd0f-4523d861fbde",
+      "prefLabel": {
+        "de": "Lausitz"
       }
     },
     {
@@ -258,7 +258,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -267,7 +276,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

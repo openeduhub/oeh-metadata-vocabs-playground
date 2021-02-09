@@ -1,22 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/75b92900-3ce4-460a-a104-602489d8022a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F75b92900-3ce4-460a-a104-602489d8022a",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F75b92900-3ce4-460a-a104-602489d8022a",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F75b92900-3ce4-460a-a104-602489d8022a",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortsystematik%2Fchemie%2F75b92900-3ce4-460a-a104-602489d8022a",
   "prefLabel": {
     "de": "Metalle"
   },
   "narrower": [
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/11e8a939-1ff1-44bc-a7bf-1c4051c25dc4",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/f42ef324-441b-4b31-ac6f-58bf956e37ce",
       "prefLabel": {
-        "de": "Übergangsmetalle)"
-      }
-    },
-    {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/34032e21-3eac-4d29-bb4c-b5ef1f3f0d54",
-      "prefLabel": {
-        "de": "Edelmetalle"
+        "de": "Leichtmetalle)"
       }
     },
     {
@@ -26,9 +20,15 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/f42ef324-441b-4b31-ac6f-58bf956e37ce",
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/34032e21-3eac-4d29-bb4c-b5ef1f3f0d54",
       "prefLabel": {
-        "de": "Leichtmetalle)"
+        "de": "Edelmetalle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortsystematik/chemie/11e8a939-1ff1-44bc-a7bf-1c4051c25dc4",
+      "prefLabel": {
+        "de": "Übergangsmetalle)"
       }
     }
   ],
@@ -102,7 +102,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -111,7 +120,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

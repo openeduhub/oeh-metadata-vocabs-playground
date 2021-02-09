@@ -1,21 +1,21 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/foto39d748fc-c414-4245-9c0b-b8bd21e03c52",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffoto39d748fc-c414-4245-9c0b-b8bd21e03c52",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffoto39d748fc-c414-4245-9c0b-b8bd21e03c52",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffoto39d748fc-c414-4245-9c0b-b8bd21e03c52",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffoto39d748fc-c414-4245-9c0b-b8bd21e03c52",
   "prefLabel": {
     "de": "Foto"
   },
   "altLabel": {
     "de": [
-      "Abbildung",
-      "Bild",
-      "Bilder",
-      "Diagram",
+      "Grafik",
       "Foto",
+      "Bilder",
+      "Bild",
+      "Abbildung",
+      "Diagram",
       "Fotografien",
       "Fotos",
-      "Grafik",
       "Lichtbild",
       "Lichtbilder",
       "Photo",
@@ -115,7 +115,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -124,7 +133,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

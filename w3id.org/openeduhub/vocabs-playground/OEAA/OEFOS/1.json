@@ -1,8 +1,8 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F1",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F1",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F1",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F1",
   "prefLabel": {
     "de": "NATURWISSENSCHAFTEN",
     "en": "NATURAL SCIENCES"
@@ -37,13 +37,6 @@
       }
     },
     {
-      "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/105",
-      "prefLabel": {
-        "de": "Geowissenschaften",
-        "en": "Geosciences"
-      }
-    },
-    {
       "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/106",
       "prefLabel": {
         "de": "Biologie",
@@ -55,6 +48,13 @@
       "prefLabel": {
         "de": "Andere Naturwissenschaften",
         "en": "Other Natural Sciences"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/105",
+      "prefLabel": {
+        "de": "Geowissenschaften",
+        "en": "Geosciences"
       }
     }
   ],
@@ -125,7 +125,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -134,7 +143,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }
