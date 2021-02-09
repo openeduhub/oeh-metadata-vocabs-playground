@@ -39,6 +39,7 @@
     {
       "id": "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/605005",
       "prefLabel": {
+        "de": "Publikumsforschung",
         "en": "Audience research"
       }
     },

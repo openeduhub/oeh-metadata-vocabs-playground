@@ -1,7 +1,7 @@
 {
   "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/605005",
   "type": "Service",
-  "name": "Audience research",
+  "name": "Publikumsforschung",
   "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732d706c617967726f756e642f4f4541412f4f45464f532f363035303035",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F605005",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs-playground%2FOEAA%2FOEFOS%2F605005",
