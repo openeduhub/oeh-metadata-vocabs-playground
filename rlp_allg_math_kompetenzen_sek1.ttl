@@ -1,0 +1,102 @@
+@base <http://w3id.org/openeduhub/vocabs-playground/allgMatheKompetenzenSek1Rlp/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix iqb: <http://w3id.org/openeduhub/vocabs-playground/allgMatheKompetenzenSek1Iqb/> .
+
+<> a skos:ConceptScheme ;
+    dct:title "Allgemeine Mathematische Kompetenzen im Fach Mathematik (RLP)"@de ;
+    skos:hasTopConcept <k1>, <k2>, <k3>, <k4>, <k5>, <k6> ;
+    .
+
+<k1> a skos:Concept ;
+    skos:prefLabel "K1 Mathematisch argumentieren"@de ;
+    skos:definition """
+Dazu gehört:
+
+– Fragen stellen, die für die Mathematik charakteristisch sind („Gibt es ...?“, „Wie verändert sich...?“, „Ist das immer so ...?“), und Vermutungen begründet äußern,
+
+– mathematische Argumentationen entwickeln (wie Erläuterungen, Be- gründungen, Beweise),
+
+– Lösungswege beschreiben und begründen.
+    """@de ;
+    skos:relatedMatch iqb:k1 ;
+    skos:topConceptOf <> ;
+    .
+
+<k2> a skos:Concept ;
+    skos:prefLabel "K2 Probleme mathematisch lösen"@de ;
+    skos:definition """
+Dazu gehört:
+
+– vorgegebene und selbst formulierte Probleme bearbeiten,
+
+– geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden,
+
+– die Plausibilität der Ergebnisse überprüfen sowie das Finden von Lösungsideen und die Lösungswege reflektieren.
+
+    """@de ;
+    skos:relatedMatch iqb:k2 ;
+    skos:topConceptOf <> ;
+    .
+
+<k3> a skos:Concept ;
+    skos:prefLabel "K3 Mathematisch modellieren"@de ;
+    skos:definition """
+Dazu gehört:
+
+– Bereiche oder Situationen, die modelliert werden sollen, in mathema- tische Begriffe, Strukturen und Relationen übersetzen,
+
+– in dem jeweiligen mathematischen Modell arbeiten,
+
+– Ergebnisse in dem entsprechenden Bereich oder der entsprechenden Situation interpretieren und prüfen.
+    """@de ;
+    skos:relatedMatch iqb:k3 ;
+    skos:topConceptOf <> ;
+    .
+
+<k4> a skos:Concept ;
+    skos:prefLabel "K4 Mathematische Darstellungen verwenden"@de ;
+    skos:definition """
+Dazu gehört:
+
+– verschiedene Formen der Darstellung von mathematischen Objekten und Situationen anwenden, interpretieren und unterscheiden,
+
+– Beziehungen zwischen Darstellungsformen erkennen,
+
+– unterschiedliche Darstellungsformen je nach Situation und Zweck auswählen und zwischen ihnen wechseln.
+    """@de ;
+    skos:relatedMatch iqb:k4 ;
+    skos:topConceptOf <> ;
+    .
+
+<k5> a skos:Concept ;
+    skos:prefLabel "K5 Mit symbolischen / formalen / technischen Elementen der Mathematik umgehen"@de ;
+    skos:definition """
+Dazu gehört:
+
+– mit Variablen, Termen, Gleichungen, Funktionen, Diagrammen, Tabellen arbeiten,
+
+– symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt,
+
+– Lösungs- und Kontrollverfahren ausführen,
+
+– mathematische Werkzeuge (wie Formelsammlungen, Taschenrechner, Software) sinnvoll und verständig einsetzen.
+    """@de ;
+    skos:relatedMatch iqb:k5 ;
+    skos:topConceptOf <> ;
+    .
+
+<k6> a skos:Concept ;
+    skos:prefLabel "K6 Mathematisch kommunizieren"@de ;
+    skos:definition """
+Dazu gehört:
+
+- Überlegungen, Lösungswege bzw. Ergebnisse dokumentieren, verständlich darstellen und präsentieren, auch unter Nutzung geeigneter Medien,
+
+- die Fachsprache adressatengerecht verwenden,
+
+- Äußerungen von anderen und Texte zu mathematischen Inhalten verstehen und überprüfen
+    """@de ;
+    skos:relatedMatch iqb:k6 ;
+    skos:topConceptOf <> ;
+    .
