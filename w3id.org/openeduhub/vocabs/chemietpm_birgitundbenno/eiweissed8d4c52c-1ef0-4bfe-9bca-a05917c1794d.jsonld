@@ -8,10 +8,10 @@
   },
   "altLabel": {
     "de": [
-      "Proteine",
       "Eiweiß",
       "Eiweiße",
-      "Protein"
+      "Protein",
+      "Proteine"
     ],
     "en": [
       "proteins"
