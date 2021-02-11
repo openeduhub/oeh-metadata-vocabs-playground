@@ -4,7 +4,7 @@
 @prefix rlp: <http://w3id.org/openeduhub/vocabs-playground/allgMatheKompetenzenSek1Rlp/> .
 
 <> a skos:ConceptScheme ;
-    dct:title "Allgemeine Kompetenzen Mathematik"@de ;
+    dct:title "Allgemeine Mathematische Kompetenzen im Fach Mathematik (IQB)"@de ;
     skos:hasTopConcept <k1>, <k2>, <k3>, <k4>, <k5>, <k6> ;
     .
 
