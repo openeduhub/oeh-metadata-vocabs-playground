@@ -6,6 +6,86 @@
   "prefLabel": {
     "de": "Chemie"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/18885",
+      "prefLabel": {
+        "de": "Chemische Reaktionen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/18887",
+      "prefLabel": {
+        "de": "Organische Chemie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/155743",
+      "prefLabel": {
+        "de": "Stoffmenge "
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23256",
+      "prefLabel": {
+        "de": "Chemische Bindung"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/155709",
+      "prefLabel": {
+        "de": "Grundlagen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/18884",
+      "prefLabel": {
+        "de": "Stoffe und Stoffeigenschaften"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/203233",
+      "prefLabel": {
+        "de": "Elektrochemie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/135390",
+      "prefLabel": {
+        "de": "Baustelle Chemie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/184033",
+      "prefLabel": {
+        "de": "Experimentieren in der Chemie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/203352",
+      "prefLabel": {
+        "de": "Farben"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/95818",
+      "prefLabel": {
+        "de": "Testbereich Serlo-Chemie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/18886",
+      "prefLabel": {
+        "de": "Atombau"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/155738",
+      "prefLabel": {
+        "de": "Chemische Zeichensprache"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

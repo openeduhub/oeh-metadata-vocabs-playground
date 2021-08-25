@@ -6,6 +6,38 @@
   "prefLabel": {
     "de": "Permakultur Forum"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/25290",
+      "prefLabel": {
+        "de": "Alle Lernobjekte"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25331",
+      "prefLabel": {
+        "de": "Seite von Lehrplan wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25333",
+      "prefLabel": {
+        "de": "Richtlinien-Seiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/17747",
+      "prefLabel": {
+        "de": "Seite von Thema wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/21546",
+      "prefLabel": {
+        "de": "Community-Seiten"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

@@ -6,6 +6,62 @@
   "prefLabel": {
     "de": "Biologie"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/64169",
+      "prefLabel": {
+        "de": "Zellbiologie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23369",
+      "prefLabel": {
+        "de": "Biologie des Menschen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23376",
+      "prefLabel": {
+        "de": "Vielfalt der Lebewesen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23402",
+      "prefLabel": {
+        "de": "Evolutionsbiologie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/26201",
+      "prefLabel": {
+        "de": "Kompetenzen in der Biologie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23399",
+      "prefLabel": {
+        "de": "Genetik und Gentechnik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23401",
+      "prefLabel": {
+        "de": "Verhaltensbiologie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23400",
+      "prefLabel": {
+        "de": "Ökologie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23384",
+      "prefLabel": {
+        "de": "Deutschland"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

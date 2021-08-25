@@ -1,0 +1,16 @@
+{
+  "id": "https://test.skohub.io/oeh-metadata-vocabs-playground/vocabs.serlo.org/terms/55183",
+  "type": "Service",
+  "preferredUsername": "6f65682d6d657461646174612d766f636162732d706c617967726f756e642f766f636162732e7365726c6f2e6f72672f7465726d732f3535313833",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F55183",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F55183",
+  "publicKey": {
+    "id": "https://test.skohub.io/oeh-metadata-vocabs-playground/vocabs.serlo.org/terms/55183#main-key",
+    "owner": "https://test.skohub.io/oeh-metadata-vocabs-playground/vocabs.serlo.org/terms/55183",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

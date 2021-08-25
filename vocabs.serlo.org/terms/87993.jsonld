@@ -6,6 +6,56 @@
   "prefLabel": {
     "de": "Community"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/106081",
+      "prefLabel": {
+        "de": "Neue Fächer und Themen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/88059",
+      "prefLabel": {
+        "de": "Hilfeseiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/106082",
+      "prefLabel": {
+        "de": "Sandkasten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/142215",
+      "prefLabel": {
+        "de": "Veranstaltungen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/111255",
+      "prefLabel": {
+        "de": "Blog-Archiv"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/88061",
+      "prefLabel": {
+        "de": "Ressourcen für Pädagog*innen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/94688",
+      "prefLabel": {
+        "de": "Über Serlo"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/181028",
+      "prefLabel": {
+        "de": "Werte und Entscheidungen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

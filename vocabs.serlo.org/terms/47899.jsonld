@@ -6,6 +6,68 @@
   "prefLabel": {
     "de": "Informatik"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/76683",
+      "prefLabel": {
+        "de": "Werkzeuge und Methoden"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/69501",
+      "prefLabel": {
+        "de": "Datenbanken und Datenbanksysteme"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/199823",
+      "prefLabel": {
+        "de": "Objektorientierte Programmierung und Modellierung"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/75211",
+      "prefLabel": {
+        "de": "Baustelle"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/57628",
+      "prefLabel": {
+        "de": "Daten und Informationen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/162150",
+      "prefLabel": {
+        "de": "Datenstrukturen und Algorithmen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/76682",
+      "prefLabel": {
+        "de": "Informatik, Mensch und Gesellschaft"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/60395",
+      "prefLabel": {
+        "de": "Bayern"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/162149",
+      "prefLabel": {
+        "de": "Theoretische Informatik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/199822",
+      "prefLabel": {
+        "de": "Funktionale Programmierung und Modellierung"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

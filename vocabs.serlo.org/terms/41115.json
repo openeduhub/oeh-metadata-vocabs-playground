@@ -6,6 +6,26 @@
   "prefLabel": {
     "de": "Physik Forum"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/41120",
+      "prefLabel": {
+        "de": "Alle Lernobjekte"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/41132",
+      "prefLabel": {
+        "de": "Seite von Thema wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/41133",
+      "prefLabel": {
+        "de": "Seite von Lehrplan wählen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

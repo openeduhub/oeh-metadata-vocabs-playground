@@ -6,6 +6,44 @@
   "prefLabel": {
     "de": "Lerntipps"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/118055",
+      "prefLabel": {
+        "de": "Aufgabenbearbeitung"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/118588",
+      "prefLabel": {
+        "de": "Emotionen beim Lernen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/118054",
+      "prefLabel": {
+        "de": "Effektiver lernen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/135480",
+      "prefLabel": {
+        "de": "Umgang mit Stress "
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/121362",
+      "prefLabel": {
+        "de": "Lerntypen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/134366",
+      "prefLabel": {
+        "de": "Motivationstechniken"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

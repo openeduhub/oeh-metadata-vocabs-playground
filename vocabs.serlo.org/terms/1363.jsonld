@@ -1,0 +1,225 @@
+{
+  "id": "https://vocabs.serlo.org/terms/1363",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F1363",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F1363",
+  "prefLabel": {
+    "de": "Größen und Einheiten"
+  },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/24418",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Geschwindigkeit"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24377",
+      "prefLabel": {
+        "de": "Aufgaben zum Umrechnen von Masseneinheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24376",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Masse"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/26430",
+      "prefLabel": {
+        "de": "Gemischte Sachaufgaben zu Größen und Einheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/26431",
+      "prefLabel": {
+        "de": "Aufgaben zum Thema Maßstab"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24363",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Zeit"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24373",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Fläche"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35087",
+      "prefLabel": {
+        "de": "Gemischte Aufgaben zu Größen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24374",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Volumen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24386",
+      "prefLabel": {
+        "de": "Aufgaben zum Umrechnen von Volumeneinheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24384",
+      "prefLabel": {
+        "de": "Aufgaben zum Umrechnen von Flächeneinheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24365",
+      "prefLabel": {
+        "de": "Aufgaben zum Umrechnen von Geldeinheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24382",
+      "prefLabel": {
+        "de": "Aufgaben zum Umrechnen von Längeneinheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24371",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Geld"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/1365",
+      "prefLabel": {
+        "de": "Gemischte Sachaufgaben zu Einheiten und Größen ALT"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24361",
+      "prefLabel": {
+        "de": "Aufgaben zum Umrechnen von Zeiteinheiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/24372",
+      "prefLabel": {
+        "de": "Sachaufgaben zum Thema Länge"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/26429",
+      "prefLabel": {
+        "de": "Gemischte Aufgaben zum Umrechnen von Einheiten"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocabs.serlo.org/terms/1385",
+    "prefLabel": {
+      "de": "Zahlen und Größen"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocabs.serlo.org/terms/3",
+    "title": {
+      "de": "Taxonomie"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

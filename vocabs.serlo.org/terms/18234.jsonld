@@ -6,6 +6,38 @@
   "prefLabel": {
     "de": "Chemie Forum"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/25339",
+      "prefLabel": {
+        "de": "Alle Lernobjekte"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25343",
+      "prefLabel": {
+        "de": "Seite von Lehrplan wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25341",
+      "prefLabel": {
+        "de": "Community-Seiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/18235",
+      "prefLabel": {
+        "de": "Seite von Thema wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25344",
+      "prefLabel": {
+        "de": "Richtlinien-Seiten"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

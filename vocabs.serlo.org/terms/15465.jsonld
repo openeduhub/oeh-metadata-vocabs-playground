@@ -6,6 +6,62 @@
   "prefLabel": {
     "de": "Mathematik Forum"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/23837",
+      "prefLabel": {
+        "de": "Alte Foren"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/16050",
+      "prefLabel": {
+        "de": "Seite von Lehrplan wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/20541",
+      "prefLabel": {
+        "de": "Richtlinien-Seiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/20829",
+      "prefLabel": {
+        "de": "Community-Seiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/15467",
+      "prefLabel": {
+        "de": "Artikel"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/15466",
+      "prefLabel": {
+        "de": "Seite von Thema wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/16091",
+      "prefLabel": {
+        "de": "Videos"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/18518",
+      "prefLabel": {
+        "de": "Kurse"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/17295",
+      "prefLabel": {
+        "de": "Aufgaben und Lösungen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

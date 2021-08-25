@@ -6,6 +6,38 @@
   "prefLabel": {
     "de": "Biologie Forum"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/25334",
+      "prefLabel": {
+        "de": "Alle Lernobjekte"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23390",
+      "prefLabel": {
+        "de": "Seite von Lehrplan wählen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25338",
+      "prefLabel": {
+        "de": "Richtlinien-Seiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/25016",
+      "prefLabel": {
+        "de": "Community-Seiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23383",
+      "prefLabel": {
+        "de": "Seite von Thema wählen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

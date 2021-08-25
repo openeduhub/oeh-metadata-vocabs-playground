@@ -6,6 +6,20 @@
   "prefLabel": {
     "de": "Politik"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/79160",
+      "prefLabel": {
+        "de": "Globalisierung"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/82914",
+      "prefLabel": {
+        "de": "Politisches System in Deutschland"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

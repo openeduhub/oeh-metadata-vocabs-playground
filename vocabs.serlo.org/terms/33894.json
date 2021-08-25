@@ -6,6 +6,14 @@
   "prefLabel": {
     "de": "Latein"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/33895",
+      "prefLabel": {
+        "de": "Latein-Grammatik"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

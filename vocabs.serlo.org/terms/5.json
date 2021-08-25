@@ -6,6 +6,68 @@
   "prefLabel": {
     "de": "Mathe"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/1289",
+      "prefLabel": {
+        "de": "Funktionen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/1290",
+      "prefLabel": {
+        "de": "Stochastik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/1397",
+      "prefLabel": {
+        "de": "Sonstiges"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/16030",
+      "prefLabel": {
+        "de": "Deutschland"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/1385",
+      "prefLabel": {
+        "de": "Zahlen und Größen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/44323",
+      "prefLabel": {
+        "de": "Hochschule"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/1390",
+      "prefLabel": {
+        "de": "Terme und Gleichungen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/1288",
+      "prefLabel": {
+        "de": "Geometrie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/146728",
+      "prefLabel": {
+        "de": "Partner"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/16063",
+      "prefLabel": {
+        "de": "Österreich"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

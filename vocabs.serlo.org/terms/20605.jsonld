@@ -6,6 +6,38 @@
   "prefLabel": {
     "de": "Nutzerprofile, Hilfe, Community und Allgemeines"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/25077",
+      "prefLabel": {
+        "de": "Technischer Support"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/21396",
+      "prefLabel": {
+        "de": "Hilfeseiten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23842",
+      "prefLabel": {
+        "de": "Communityseiten - faecheruebergreifend"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/26684",
+      "prefLabel": {
+        "de": "Diskussionen bei Nutzerprofilen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/23847",
+      "prefLabel": {
+        "de": "Allgemeines rund um Serlo"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

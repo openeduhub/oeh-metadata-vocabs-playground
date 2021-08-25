@@ -1,0 +1,165 @@
+{
+  "id": "https://vocabs.serlo.org/terms/34219",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F34219",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F34219",
+  "prefLabel": {
+    "de": "Klassenstufe 9"
+  },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/35202",
+      "prefLabel": {
+        "de": "Wahlpflicht: Rund um den Pythagoras"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35196",
+      "prefLabel": {
+        "de": "Kreise, Kreiszylinder und Kugeln"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35198",
+      "prefLabel": {
+        "de": "Auswerten von Daten"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35195",
+      "prefLabel": {
+        "de": "Funktionen und Potenzen "
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35200",
+      "prefLabel": {
+        "de": "Vernetzung: Mathematik und moderne Rechentechnik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35203",
+      "prefLabel": {
+        "de": "Wahlpflicht: Baupläne und Bauzeichnungen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35201",
+      "prefLabel": {
+        "de": "Wahlpflicht: Der goldene Schnitt"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/35197",
+      "prefLabel": {
+        "de": "Rechtwinklige Dreiecke"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocabs.serlo.org/terms/34199",
+    "prefLabel": {
+      "de": "Gymnasium"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocabs.serlo.org/terms/3",
+    "title": {
+      "de": "Taxonomie"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

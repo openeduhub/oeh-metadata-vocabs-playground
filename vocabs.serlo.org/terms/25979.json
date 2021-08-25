@@ -6,6 +6,14 @@
   "prefLabel": {
     "de": "Englisch"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/26872",
+      "prefLabel": {
+        "de": "Grammar"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

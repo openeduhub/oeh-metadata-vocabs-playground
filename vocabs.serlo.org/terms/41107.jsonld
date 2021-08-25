@@ -6,6 +6,56 @@
   "prefLabel": {
     "de": "Physik"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/50540",
+      "prefLabel": {
+        "de": "Lehrplan Deutschland"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/48598",
+      "prefLabel": {
+        "de": "Atom- und Kernphysik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/67192",
+      "prefLabel": {
+        "de": "Theoretische Physik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/41148",
+      "prefLabel": {
+        "de": "Elektrizität und Magnetismus"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/114704",
+      "prefLabel": {
+        "de": "Grundlagen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/48260",
+      "prefLabel": {
+        "de": "Quantenphysik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/41147",
+      "prefLabel": {
+        "de": "Mechanik"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/71274",
+      "prefLabel": {
+        "de": "Testbereich Serlo-Physik"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {

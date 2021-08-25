@@ -1,0 +1,165 @@
+{
+  "id": "https://vocabs.serlo.org/terms/34216",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F34216",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fvocabs.serlo.org%2Fterms%2F34216",
+  "prefLabel": {
+    "de": "Klassenstufe 6"
+  },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/34356",
+      "prefLabel": {
+        "de": "  Zuordnungen in der Umwelt "
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34354",
+      "prefLabel": {
+        "de": "Arbeiten mit gebrochenen Zahlen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34362",
+      "prefLabel": {
+        "de": "Wahlpflicht: Unterhaltsame Geometrie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34363",
+      "prefLabel": {
+        "de": "Wahlpflicht: Primzahlen"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34360",
+      "prefLabel": {
+        "de": "Vernetzung: Anteile"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34358",
+      "prefLabel": {
+        "de": "Dreiecke und Vierecke"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34361",
+      "prefLabel": {
+        "de": "Wahlpflicht: Finden von Vermutungen mit dynamischer Geometrie"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/34359",
+      "prefLabel": {
+        "de": "Prismen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocabs.serlo.org/terms/34199",
+    "prefLabel": {
+      "de": "Gymnasium"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocabs.serlo.org/terms/3",
+    "title": {
+      "de": "Taxonomie"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

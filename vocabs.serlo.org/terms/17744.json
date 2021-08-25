@@ -6,6 +6,44 @@
   "prefLabel": {
     "de": "Nachhaltigkeit"
   },
+  "narrower": [
+    {
+      "id": "https://vocabs.serlo.org/terms/123487",
+      "prefLabel": {
+        "de": "Natur und Mensch"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/74950",
+      "prefLabel": {
+        "de": "Was bedeutet Nachhaltigkeit?"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/78660",
+      "prefLabel": {
+        "de": "Gartenkurs"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/123772",
+      "prefLabel": {
+        "de": "DIY: Nachhaltig leben"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/80267",
+      "prefLabel": {
+        "de": "Klima"
+      }
+    },
+    {
+      "id": "https://vocabs.serlo.org/terms/102789",
+      "prefLabel": {
+        "de": "Plastik"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://vocabs.serlo.org/terms/3",
     "title": {
