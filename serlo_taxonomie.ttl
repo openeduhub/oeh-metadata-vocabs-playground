@@ -1722,7 +1722,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
     <https://vocabs.serlo.org/terms/25979>,
     <https://vocabs.serlo.org/terms/23362>;
   dct:creator "de.serlo.org"@de;
-  dct:title "Taxonomie"@de.
+  dct:title "Taxonomie (Serlo)"@de.
 
 <https://vocabs.serlo.org/terms/155751> a skos:Concept;
   skos:inScheme <https://vocabs.serlo.org/terms/3>;
