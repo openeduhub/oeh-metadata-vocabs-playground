@@ -1,0 +1,147 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/new_lrt/db86f4b3-fd34-4a77-b722-d86e3cece63b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fnew_lrt%2Fdb86f4b3-fd34-4a77-b722-d86e3cece63b",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fnew_lrt%2Fdb86f4b3-fd34-4a77-b722-d86e3cece63b",
+  "prefLabel": {
+    "de": "Interaktives Medium"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/28049b6a-07c0-409f-81be-ac4364a83e8d",
+      "prefLabel": {
+        "de": "sonstiges Interaktives Medium"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/6b175c0c-bcf7-4b97-bb36-bc534eba3761",
+      "prefLabel": {
+        "de": "Animation"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/6e15474a-915f-43c9-afbb-b477a75b416a",
+      "prefLabel": {
+        "de": "Virtual Reality"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/a7a97de9-3a5f-493a-afad-faf8a037c05d",
+      "prefLabel": {
+        "de": "Simulation"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/e84dc38b-0c87-475a-bd83-0f6a206d5ea9",
+      "prefLabel": {
+        "de": "Augmented Reality"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/new_lrt/0a730990-0b96-4c27-9863-4a852d95c281",
+    "prefLabel": {
+      "de": "MATERIAL"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/new_lrt/",
+    "title": {
+      "de": "Liste von Ressourcentypen im Openeduhub"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

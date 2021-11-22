@@ -1,0 +1,171 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/new_lrt/723377f5-32f4-44d4-8acd-11ea9ce8aade",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fnew_lrt%2F723377f5-32f4-44d4-8acd-11ea9ce8aade",
+  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fnew_lrt%2F723377f5-32f4-44d4-8acd-11ea9ce8aade",
+  "prefLabel": {
+    "de": "Lernen, Quiz, Spiel"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/2ed37d7c-cbf4-423d-838f-6c12b4a0e44e",
+      "prefLabel": {
+        "de": "Quiz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/3f72c617-e2e1-4520-8053-a0c3d2c9583d",
+      "prefLabel": {
+        "de": "E-Tests & Selbsttest-Tools"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/6f4e0f3b-9cad-4f73-84f3-b835261d1e38",
+      "prefLabel": {
+        "de": "E-Prüfungs-Software"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/785775de-6b94-4e69-898f-7e6b82825104",
+      "prefLabel": {
+        "de": "Vokabel-Trainer, Karteikarten-Lernen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/943042e5-9c06-4803-8908-d88e01fb202e",
+      "prefLabel": {
+        "de": "Mathematik-Tool"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/a0809450-12e7-4588-b41c-5d68836350e4",
+      "prefLabel": {
+        "de": "Lernspiel-Umgebung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/a56db046-b2ca-4cd5-80d3-18b62068bf54",
+      "prefLabel": {
+        "de": "Lern-App"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/a898ee1b-75ac-41b0-931f-c564568c95cb",
+      "prefLabel": {
+        "de": "E-Portfolio, Personal Learning Environment (PLE)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/new_lrt/b6cdba00-9f3b-4e41-8408-ecef07a98698",
+      "prefLabel": {
+        "de": "Sprachlern-Tools / Apps"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/new_lrt/1937efe1-c818-4dc1-8c12-4311dfe37748",
+    "prefLabel": {
+      "de": "TOOL"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/new_lrt/",
+    "title": {
+      "de": "Liste von Ressourcentypen im Openeduhub"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
