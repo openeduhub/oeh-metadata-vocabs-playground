@@ -1,0 +1,1431 @@
+@base <http://w3id.org/openeduhub/vocabs/new_lrt/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<00fe1db2-8e9e-487e-8c95-fe229cf53287> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Noten"@de .
+
+<014e61d9-bb7e-4dde-a1eb-9490a0125644> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Web-Content-Managment"@de .
+
+<02bc198a-8f11-4673-81bb-cce43c1af6aa> a skos:Concept ;
+    skos:broader <1218ac7d-7a04-4c27-b5b8-573219ca89f8> ;
+    skos:definition "Eine zum bestimmtem, übergreifenden Thema umfassende Folge von Unterrichtsstunde/n"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtseinheit, Unterrichtssequenz"@de .
+
+<03465bc0-999f-4d54-8355-80f1ee07ae2b> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wiki (dynamisch)"@de .
+
+<035723d8-b211-4db5-8593-46744b83185e> a skos:Concept ;
+    skos:broader <9062fddc-b20b-460b-95ff-b0993d432c5d> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umfragen, Evaluationen (Editor für)"@de .
+
+<07612a9a-6564-4db7-a6d7-3f4a07bd9412> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Multimedia"@de .
+
+<081fd3b5-caa5-46d1-8436-68d1d617263e> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Modell, 3-D-Druck"@de .
+
+<089972a2-34bb-41ce-966e-1e2e56b7eaba> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition "z.B. Schulbuch oder ähnliches umfassendes Grundlagenwerk zu einem Fach"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lehrbuch / Grundlagenwerk (auch E-Book)"@de .
+
+<08a0c632-8954-48ac-a004-7ead6f52195e> a skos:Concept ;
+    skos:broader <b5a4c3bc-6746-4508-bea9-f2d129dd61f7> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stationenlernen"@de .
+
+<08f1cb4f-957f-4180-86c6-45664ec52c17> a skos:Concept ;
+    skos:broader <9062fddc-b20b-460b-95ff-b0993d432c5d> ;
+    skos:definition "z.B. Moodle"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kurseditor, Lernplattform"@de .
+
+<09312e22-d70d-47ae-bd0f-5c55e6a3d9b0> a skos:Concept ;
+    skos:broader <dc74fc13-a5ad-491c-8f11-2a38fac10f02> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "außerschulische Angebot (Bildungsangebot)"@de .
+
+<0ce7b0c1-dc2b-49fe-bf9b-74c9f4ceb994> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "sonstiges Textdokument"@de .
+
+<0d312504-193d-40cb-a75c-bbd4dca5dfd5> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entdeckendes Lernen (Lehr-/Lernmaterial)"@de .
+
+<11e584dc-273b-4844-83e9-c8dc56652d00> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Ein Strom von Inhalten, auf denen zu einem Thema oder einem Inhaltetyp stetig neue Inhalte versendet / angeboten werden"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stream/ RSS"@de .
+
+<158a8d5a-dd6f-46c3-9aab-95c44fcc557d> a skos:Concept ;
+    skos:broader <cdeb7453-51c0-4309-afa3-59a8d7d8ac1c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lösungs(beispiel), Erwartungshorizont"@de .
+
+<15e20fe3-9563-4800-b2a6-36260de48ccf> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Zusammenstellung von Inhalten zu einem Thema oder einer Art, z.B. ein Youtube Channel"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kollektion, Sammlung, Channel"@de .
+
+<170ebaae-ea7f-4f90-b40b-5d4bf16f4caa> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition "Webseite oder Portal, das relativ stabile Inhalte für Bildungszwecke anbietet (im Gegensatz zu Blog und Wiki, die oft aktualisiert werden)"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Webseite / Portal (stabil)"@de .
+
+<1a7573c0-ed1d-4ccd-9fc1-0a5c6100f1f2> a skos:Concept ;
+    skos:broader <fdfe69c8-09d8-4cfe-9457-5ac66649f786> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tabellenkalkulation"@de .
+
+<218d4dde-ac37-4db4-87fd-78ae61a986e3> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Barcamp"@de .
+
+<2243a0ac-b4f1-45b2-acfa-fb6f4a942ca0> a skos:Concept ;
+    skos:broader <33a47dd3-4e2d-4f22-96bb-d710e26703f9> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Pädagogische News"@de .
+
+<22859f15-509b-4464-9bff-1fc24c47ff94> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition "Material für Übungen"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Übung, Übungsmaterial"@de .
+
+<26cf2de3-1bce-4956-961a-7786b4f3bb4d> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Ein sonstiges Audio außerhalb der anderen zuvor genannten Audiotypen."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "sonstiges Audio"@de .
+
+<2721f9f3-e143-411e-bd10-a967550dc74d> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wort- und Vokabellisten"@de .
+
+<27dcf169-6392-4521-a6db-df9b091d1a85> a skos:Concept ;
+    skos:broader <8e96a637-2991-4785-b8fc-2b5ecdc98d66> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kollaboratives Editieren, gestalten, sammeln"@de .
+
+<28049b6a-07c0-409f-81be-ac4364a83e8d> a skos:Concept ;
+    skos:broader <db86f4b3-fd34-4a77-b722-d86e3cece63b> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "sonstiges Interaktives Medium"@de .
+
+<28930799-d006-46a1-b1b2-2a16c9dbd7a5> a skos:Concept ;
+    skos:broader <68cb6014-c8b2-4919-83d3-3fcf4d90d25e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lernplattform, Kursorganisation"@de .
+
+<28e866ed-0e90-4973-87a8-9de0c2e8b456> a skos:Concept ;
+    skos:broader <1218ac7d-7a04-4c27-b5b8-573219ca89f8> ;
+    skos:definition "Unterrichtsbausteine wie Good Practice-Beispiele, die konkrete Unterrichtssituationen im schulischen Fachunterricht beschreiben, "@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtsidee"@de .
+
+<2ae1d81c-89dc-4bb1-a193-8aac936e03de> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition """Ein Bildmedium, das zu Gestaltungszwecken genutzt wird.
+Beispiele:, Motivbild, Muster, Ornament, Icon, Muster"""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cliparts, Pictogramme, Icons"@de .
+
+<2cc1608d-a199-44bb-8226-5f19a8021dbb> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Querschnittstypisierung, kann parallel zu Podcast, Sprachlernaudio o.a. getaggt werden. Audio in einer Fremdsprache, um die Äußerung zu verstehen und zu interpretieren. "@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Hörverstehen"@de .
+
+<2df9deb1-5f1e-4e83-b5ac-b69c9a5bdf14> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mail"@de .
+
+<2e4a2bb2-9ccc-4756-974e-95716c3399ad> a skos:Concept ;
+    skos:broader <3f3d299c-be6c-45b5-a317-990bf0ed9beb> ;
+    skos:definition "Eine TV-Sendung, ein Video-Podcast oder ein anderer Sendebeitrag, die keine Schul-/Bildungssendung ist."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "TV-Sendung, Video-Podcast"@de .
+
+<2ed37d7c-cbf4-423d-838f-6c12b4a0e44e> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quiz"@de .
+
+<2f7b3698-e1f7-4722-9fea-10d9e8090c04> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenbank-Systeme"@de .
+
+<2f916803-bc3f-40c7-978a-b17a46afbbae> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition "Tools oder Plattformen für strukturierte Diskussionen, Pro- und Contra-Listen, Argumentationsketten"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Argumentation, Plattformen für strukturierte Diskussion"@de .
+
+<30feaed5-3ef3-4407-97d0-0a6f1575f252> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Ein Internetportal das zu einem Thema informiert und Inhalte anbietet."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Portal"@de .
+
+<326329ca-7b51-4bf7-990c-4ba9afb5b3dd> a skos:Concept ;
+    skos:broader <8e96a637-2991-4785-b8fc-2b5ecdc98d66> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mindmap"@de .
+
+<33c02a52-0db9-40ef-8455-26a3dea9869e> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition "Software in der Bildungsinhalte verwaltet werden, entweder als Referatorium  wo nur Metadaten und Links zum Inhalt redaktionell gepflegt werden, oder als Repositorium wo zusätzlich die Dokumente selbst gespeichert sind."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lerninhalte-Management, Repositorien, Referatorien"@de .
+
+<33f89232-5afc-4797-9753-c844139213fe> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Markdown- oder HTML-Editor"@de .
+
+<345a185f-7d2d-4d1e-8d6a-ccf1710998b5> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Recherche-/Lernauftrag"@de .
+
+<37a785b2-2655-429f-b1f4-d02517decd14> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Videokonferenzen"@de .
+
+<38e568fe-3742-450f-815e-2e0e3fc270d0> a skos:Concept ;
+    skos:broader <9062fddc-b20b-460b-95ff-b0993d432c5d> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "E-Prüfungs-Editor (z.B. QTI-Editor)"@de .
+
+<39f7cf9b-301b-4a6d-92e8-7af2ceee54d6> a skos:Concept ;
+    skos:broader <fdfe69c8-09d8-4cfe-9457-5ac66649f786> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Folieneditor"@de .
+
+<3f72c617-e2e1-4520-8053-a0c3d2c9583d> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "E-Tests & Selbsttest-Tools"@de .
+
+<4342845b-a9be-4819-8c00-4e22fc3e91dc> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Ein Nachschlagewerk speziell für Wörter oder Phrasen"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wörterbuch"@de .
+
+<45213d4b-0f80-4750-b02a-308acdae9090> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition "Ein Spiel oder spielerischer Zugang zu einem Lerngegenstand, der analog eingesetzt wird."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lernspiel (Lehr/-Lernmaterial für)"@de .
+
+<4766a323-4430-4cce-b705-b4593f00f281> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "- Animationen (Editor für)"@de .
+
+<48938c36-37c9-467c-bc47-f5ec671c96f0> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Handbuch, Dokumentation, Regularien"@de .
+
+<4ddc8f85-a1ac-4cd0-8436-b3b9c57f77d3> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition "Eine fotographische Aufnahme der Realität"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Foto"@de .
+
+<4e184294-2f10-4d25-9f80-2c69ccf01041> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Merksatz"@de .
+
+<4f6c51c2-f84a-4de9-ad52-b4ca1ba9f70a> a skos:Concept ;
+    skos:broader <3f3d299c-be6c-45b5-a317-990bf0ed9beb> ;
+    skos:definition "Ein Video, das einen bestimmten Sachverhalt erklärt"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erklär-Video, gefilmtes Experiment"@de .
+
+<4ff0d785-2a53-4d3b-a013-497ac0c3f19c> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tabellen"@de .
+
+<4ff68f12-2b74-49c0-95da-ed87a8af0849> a skos:Concept ;
+    skos:broader <fdfe69c8-09d8-4cfe-9457-5ac66649f786> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Texteditor"@de .
+
+<4ffda262-2e74-46b0-836f-109260d6fa82> a skos:Concept ;
+    skos:broader <33a47dd3-4e2d-4f22-96bb-d710e26703f9> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Alltags News"@de .
+
+<503b0521-79e1-4cc4-a47e-e55e7b50b82f> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Präsentation"@de .
+
+<50ddbef9-aba9-4f7f-98cf-e6a6a78b1cfb> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Ein Nachschlagewerk für Inhalte, z.B. die Wikipedia"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lexikon/ Enzyklopädie / Wiki"@de .
+
+<5154b1c9-1a43-42e0-b4e2-b6fad71cae91> a skos:Concept ;
+    skos:broader <f56fdb48-bd35-44af-a87c-c511b1b524a6> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "außerschulische Angebot"@de .
+
+<5177f519-5596-4f31-911a-547c39cecb25> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition "Eine mathematische Darstellungen"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Graph, Diagramm, Charts"@de .
+
+<54f4536f-9d97-40b5-8d2f-5ad32b90bcf2> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Eine Quelle in der Daten(sätze) verwaltet / angeboten werden. Bsp. Forschungsdaten, OpenData"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Datenbank"@de .
+
+<562107e9-bd32-4386-a724-d736045aa431> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Arbeitsblatt / -material"@de .
+
+<5660d3bd-495d-4beb-bd19-e455093acf66> a skos:Concept ;
+    skos:broader <b835624a-847e-4fb4-8f97-9d0bc51b746a> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Präsentations-Software"@de .
+
+<5701f23f-c87d-4532-893a-3883b17d3913> a skos:Concept ;
+    skos:broader <dc74fc13-a5ad-491c-8f11-2a38fac10f02> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Frühkindliches Bildungsangebot / KITA"@de .
+
+<58af7ba9-ae5d-4b89-9bb1-1ce312708dc8> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gruppenarbeit"@de .
+
+<593d30d3-2a9a-45a3-9f6f-636574fcf4d4> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rollenspiel"@de .
+
+<5cc9eac1-f3f0-4230-9ddc-826fb8619281> a skos:Concept ;
+    skos:broader <3f3d299c-be6c-45b5-a317-990bf0ed9beb> ;
+    skos:definition "Eine Videoaufzeichnung von Unterricht oder Vortragenden, die i.d.R. mehr als einen bestimmten Sachverhalt erläutert (ansonsten als Erklärvideo einzuordnen)."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vortrags- u. Unterrichtsaufzeichnung"@de .
+
+<5e352a26-19be-4ac4-a3e7-4a2326278a56> a skos:Concept ;
+    skos:broader <9062fddc-b20b-460b-95ff-b0993d432c5d> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kompetenz- / Lehrplan-Editor, Lernzieleditor"@de .
+
+<5efe22de-823b-4357-b89f-9118277b69a3> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Live-Umfrage"@de .
+
+<6274eba1-eb4b-4a53-ae33-4b3c1d533767> a skos:Concept ;
+    skos:broader <dc74fc13-a5ad-491c-8f11-2a38fac10f02> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Studiengang"@de .
+
+<63282643-2dbb-4005-b3c2-0668602badec> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition "Seite mit News- u.a. Beiträgen Bildungszwecke die oft ergänzt werden."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Webblog (dynamisch)"@de .
+
+<69f08ae4-795e-4f97-84b1-248e19b574d2> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Quelle die Metadaten und Links auf Inhalte zu einem Thema anbietet, auch maschinenlesbar über Schnittstellen (HUB)."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Referatory"@de .
+
+<6b175c0c-bcf7-4b97-bb36-bc534eba3761> a skos:Concept ;
+    skos:broader <db86f4b3-fd34-4a77-b722-d86e3cece63b> ;
+    skos:definition """Ein Medium, das einen Sachverhalt bspw. im Zeitablauf erfahrbar macht.
+Beispiel: Animated Gif, das Softwarebediensequenzen zeigt."""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Animation"@de .
+
+<6e15474a-915f-43c9-afbb-b477a75b416a> a skos:Concept ;
+    skos:broader <db86f4b3-fd34-4a77-b722-d86e3cece63b> ;
+    skos:definition "Ein interaktives Medium, das virtuelle Inhalte erfahrbar macht."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Virtual Reality"@de .
+
+<6e2a2a8f-9370-4d91-9e6e-499fca7a11c3> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition """Eine grafische Landkartenübersicht.
+Beispiele: geographische Karte, Wissenslandkarte"""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Karte"@de .
+
+<6f4e0f3b-9cad-4f73-84f3-b835261d1e38> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "E-Prüfungs-Software"@de .
+
+<72066b1e-1781-49ef-af7c-1e6ac8f6335b> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Regelung, Vorgabe"@de .
+
+<738c10db-c58e-4829-bbe9-49ef2c411ebd> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "(Wirkungs-) Zusammenhang, Gesetzmäßigkeit"@de .
+
+<764355dd-3693-401a-94d9-6ffcd16735dc> a skos:Concept ;
+    skos:broader <1218ac7d-7a04-4c27-b5b8-573219ca89f8> ;
+    skos:definition "Eine längere Themeneinheit, z.B. als Bestandteil eines Kurses, i.d.R. mehrere Wochen lang"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtsreihe"@de .
+
+<77386d2b-064d-488a-9742-c9706153b089> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Medien-Management"@de .
+
+<785775de-6b94-4e69-898f-7e6b82825104> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vokabel-Trainer, Karteikarten-Lernen"@de .
+
+<7c719955-39d0-49b7-a31a-c0effa3bdaaa> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Noteneditor (Musikeditor)"@de .
+
+<7d03c31d-c3d6-4af0-af97-b88e1bf2b7b4> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Suchmaschinen"@de .
+
+<7d8fb1cf-b5b9-4f3d-add7-8e0f0a25511f> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition "Konzepte darstellender Abbildung, z.B. Organigramme, Prozessdarstellungen, Concept Maps"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Veranschaulichung, Schaubild, Tafelbild"@de .
+
+<7fd7d1dd-2884-4c31-b556-bb750d5e188c> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition "Buch oder E-Book, AUSSER Schulbücher oder ähnliche umfassende Grundlagenwerke"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "sonstiges Buch / E-Book"@de .
+
+<8103d039-9967-4516-9d70-4ff62e98128c> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Projekt"@de .
+
+<8280ef22-05e6-4925-9cf9-e01f15587ff7> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Quelle enthält eine Suchfunktion."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Suchmaschine"@de .
+
+<84cfd6fa-bce6-4100-acc9-bb56d01861b4> a skos:Concept ;
+    skos:broader <f56fdb48-bd35-44af-a87c-c511b1b524a6> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fortbildungsangebot  (Termin)"@de .
+
+<86aaa626-c0e7-4be0-9782-c51905570f71> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schülerarbeit / Studienarbeit"@de .
+
+<873e9c9c-53c2-4ba0-971d-0111a6b6a92e> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Webseiten-Editor, Web CMS"@de .
+
+<89eba3ce-27b7-456a-a812-fe2c1949d036> a skos:Concept ;
+    skos:broader <8e96a637-2991-4785-b8fc-2b5ecdc98d66> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "File-Sharing"@de .
+
+<8dd222ba-b4ad-4c5b-8561-c1ca7d2e34a8> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition "Ein großformatiges Bildmedium"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Poster, Plakat"@de .
+
+<8dea122e-253b-4d3c-b2c3-47d76a2b9e71> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "- Augmented Reality Editor"@de .
+
+<8e9fee69-3a64-491e-a70c-fc6dc59bb042> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition """Eine längere i.d.R. digitale Themeneinheit
+(mittelgroße Unterrichtseinheit - eher Stunden, Tage, mit einzelnen Lernschritten, die in individueller Geschwindigkeit zu vergleichbaren, überprüfbaren Lernergebnissen führen). Ein Lernpfad ist eine Unterrichtseinheit mit einzelnen Lernschritten, die die Lernenden im eigenen Tempo online selbstständig bearbeiten. Die Lernenden bearbeiten die Lernschritte in der vorgegebenen Reihenfolge, dokumentieren ihren Lernzuwachs nach jedem Schritt und können am Schluss auf vergleichbare Ergebnisse zurückgreifen."""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtsbaustein, Lernobjekt, Lernpfad"@de .
+
+<910a408c-5674-488a-878c-bd3566d6d9f7> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mindmap-Editor"@de .
+
+<94201402-f723-4152-852d-2b78a7760546> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition """Ein Bildmedium, das zum Bearbeiten einlädt.
+Beispiele: Bild zum Ausmalen und Ergänzen."""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mal- und Bastelvorlagen"@de .
+
+<943042e5-9c06-4803-8908-d88e01fb202e> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Mathematik-Tool"@de .
+
+<98264641-ee40-4f73-96ae-e47603fa3d3b> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Experiment"@de .
+
+<98edc15e-f6a9-40d5-8576-6f97e1ccdd2d> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Ein Audio zum Lernen, Wiederholen oder Üben."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprach-/Lernaudio (z.B. Listen & Repeat)"@de .
+
+<9a03e835-789a-4f1b-9dce-a33818dae78b> a skos:Concept ;
+    skos:broader <082764a3-c773-4d7c-90a6-463dc06acd61> ;
+    skos:definition "Quelle die Dokumente zu einem Thema anbietet, auch über Schnittstellen für angeschlossene Systeme"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Repository"@de .
+
+<9b0b3e46-e55c-41a3-8d24-1d7806a4ed07> a skos:Concept ;
+    skos:broader <0c0a48e8-2a76-4c64-84c5-d25095b7b7bd> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Tool-Einsatzszenarien"@de .
+
+<9d3758a9-d4a4-4ccc-a6bd-646e000ae11e> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Audio-Editor (Tonschnitt-Software, Ton-Editor, Musik-Editor)"@de .
+
+<9dc44e6e-9317-47fd-a61a-c7cb29d20a30> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition """Größere Einheit - eher über Wochen, die i.d.R. mit einem Zertifikat/Abschluss endet
+(z.B. Physik ein Schuljahr oder ein Fachsemester im Studium)"""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kurs"@de .
+
+<a0809450-12e7-4588-b41c-5d68836350e4> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lernspiel-Umgebung"@de .
+
+<a2c169b3-c021-4e90-bbee-a9a58bf6911c> a skos:Concept ;
+    skos:broader <dc74fc13-a5ad-491c-8f11-2a38fac10f02> ;
+    skos:definition "z.B. Angebote der Volkshochschule"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fortbilungsangebot"@de .
+
+<a56db046-b2ca-4cd5-80d3-18b62068bf54> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lern-App"@de .
+
+<a79ea282-c9fd-4c0c-b659-764b57ed0cb3> a skos:Concept ;
+    skos:broader <68cb6014-c8b2-4919-83d3-3fcf4d90d25e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Kalender"@de .
+
+<a7a97de9-3a5f-493a-afad-faf8a037c05d> a skos:Concept ;
+    skos:broader <db86f4b3-fd34-4a77-b722-d86e3cece63b> ;
+    skos:definition "Ein Medium, dass einen Sachverhalt interaktiv erfahrbar macht, bspw. indem Eingabewerte der Nutzenden in ihrer Wirkung auf ein System gezeigt werden."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Simulation"@de .
+
+<a898ee1b-75ac-41b0-931f-c564568c95cb> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "E-Portfolio, Personal Learning Environment (PLE)"@de .
+
+<a9b93bbd-27d1-4c5f-ad12-0c23da8e7a4a> a skos:Concept ;
+    skos:broader <3f3d299c-be6c-45b5-a317-990bf0ed9beb> ;
+    skos:definition "Ein Video, das zum Üben und Lernen genutzt wird, aber keine Vortragsaufzeichnung oder TV-Sendung ist."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lern- od. Übungsvideo (z.B. Sprachlernvideo)"@de .
+
+<aa31b792-fe97-4db3-a65c-1c97b6e080e9> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "interaktive Medien, Mixed Media z.B. H5P"@de .
+
+<aaeac07e-b417-4576-88a2-d8c69779f217> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Audiokonferenz"@de .
+
+<adf6e324-e46c-471f-b7bc-8cd25bef007b> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Umfrage, Evaluations-Plattform"@de .
+
+<ae0b5a38-19d2-4fa5-8398-70fafd827b89> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Rollenspiel (Lehr/-Lernmaterial)"@de .
+
+<b0bb5166-0c90-4948-a164-0d70164a1501> a skos:Concept ;
+    skos:broader <f56fdb48-bd35-44af-a87c-c511b1b524a6> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Messe"@de .
+
+<b2485956-f4b0-45d0-a841-ee1f0680401a> a skos:Concept ;
+    skos:broader <9062fddc-b20b-460b-95ff-b0993d432c5d> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Quizz- / Voting- und Selbsttest-Editor"@de .
+
+<b26788d1-3b21-4c7d-a207-482d5b81c626> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "- Virtual Reality Editor"@de .
+
+<b529c54f-dd0d-418e-8e27-1dc922754a77> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vektorgrafiken (Editor für)"@de .
+
+<b5f4d421-ea91-4c3c-b6d8-84e0c851c57a> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition "Ein sonstiges Bild außerhalb der anderen zuvor genannten Bildtypen."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "sonstiges Bild"@de .
+
+<b6203c5c-e487-4a10-9f89-b9f692661e1a> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fotos, Rastergrafiken (Editor für)"@de .
+
+<b6cdba00-9f3b-4e41-8408-ecef07a98698> a skos:Concept ;
+    skos:broader <723377f5-32f4-44d4-8acd-11ea9ce8aade> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Sprachlern-Tools / Apps"@de .
+
+<b9990567-f472-487f-814a-c4f7621167e7> a skos:Concept ;
+    skos:broader <b835624a-847e-4fb4-8f97-9d0bc51b746a> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Visualisierungs-Software"@de .
+
+<ba4a49f8-18cd-47e5-89fc-67f42a25b3a2> a skos:Concept ;
+    skos:broader <3f3d299c-be6c-45b5-a317-990bf0ed9beb> ;
+    skos:definition "Ein sonstiges Video außerhalb der anderen zuvor genannten Videotypen."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "sonstiges Video"@de .
+
+<c0991506-7bef-4f95-8b51-424164421df1> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Beispiel"@de .
+
+<c0c956e9-b063-4f07-8634-fcf9d0f151e7> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "bekannte Persönlichkeit"@de .
+
+<c2828142-c6a8-421b-af7e-f81cfa74b380> a skos:Concept ;
+    skos:broader <9062fddc-b20b-460b-95ff-b0993d432c5d> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Lernabläufe, Lernszenarien (z.B. H5P)"@de .
+
+<c55f05e8-8938-4a1d-81a9-0552d8256793> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Energizer, Auflockerungsübung"@de .
+
+<c7089506-9a46-43c0-9647-2bc139a1a22d> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Ein Audiomedium, das Klänge, Geräusche enthält, die nicht explizit ein Hörbeispiel im Sinne eines Lern-Audios sind."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klang / Tonaufnahme"@de .
+
+<c811133e-f4fe-4af3-8a39-57323c378886> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Concept Map Editor, Wissenslandkarten"@de .
+
+<c9042d29-1ea6-4039-a2be-4deef428cf21> a skos:Concept ;
+    skos:broader <cdeb7453-51c0-4309-afa3-59a8d7d8ac1c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klausur, Klassenarbeit, Test"@de .
+
+<cb52a4ed-15de-445e-8a25-4450aca12e10> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Diskussionsforen"@de .
+
+<cb765d13-726a-4f89-b21d-77b6ac0110dd> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Icebreaker"@de .
+
+<ccb8f70e-9c74-4bf3-a4d9-86cbaabdc82f> a skos:Concept ;
+    skos:broader <dc74fc13-a5ad-491c-8f11-2a38fac10f02> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Ausbildungsberuf"@de .
+
+<ce252fde-2f25-4d6f-9317-89349bd60182> a skos:Concept ;
+    skos:broader <cdeb7453-51c0-4309-afa3-59a8d7d8ac1c> ;
+    skos:definition "interaktiv mit direkter Rückmeldung "@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Selbst-Testaufgabe"@de .
+
+<d1000157-1a78-463a-a3b7-19368a4bb217> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition "Eine Karikatur "@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Cartoon, Comic"@de .
+
+<d4f6dd24-8de7-41d2-824d-995c3a8c99b6> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Primärmaterial / Quelle"@de .
+
+<d56024b2-6060-4dcb-aa54-3d271b3bc665> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nachschlagewerk / Glossar"@de .
+
+<d67a2eb4-1565-4e84-a255-b342b0c283b7> a skos:Concept ;
+    skos:broader <68cb6014-c8b2-4919-83d3-3fcf4d90d25e> ;
+    skos:definition "Einschreibung Bildungsgänge, Nutzerdaten-Verwaltung, Prüfungsverwaltung, etc."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Bildungsverwaltungssoftware"@de .
+
+<d68cedd8-a99a-4355-853f-caf1bd2dd4e7> a skos:Concept ;
+    skos:broader <aabbd560-7cf6-4453-8f35-cd50ce7c0f99> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Gemälde, Kunstwerke, Zeichnungen"@de .
+
+<d6a71c14-a9b9-41a3-82ab-26134a8b06ba> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Entdeckendes Lernen"@de .
+
+<d83bcb7a-f1f6-43d5-addc-68263eaa0496> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Daten"@de .
+
+<d85f9e7c-83e9-4d5a-b62a-43752f0c18a0> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Nachschlagewerke"@de .
+
+<d8e7217a-c84c-448e-95c8-41ead17c71c3> a skos:Concept ;
+    skos:broader <f56fdb48-bd35-44af-a87c-c511b1b524a6> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Wettbewerbe"@de .
+
+<d902b872-5aaa-4c98-94ba-05ed9fc1f826> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fakt"@de .
+
+<d931eb89-6b91-43c0-9a2b-fc94da9aaf43> a skos:Concept ;
+    skos:broader <cdeb7453-51c0-4309-afa3-59a8d7d8ac1c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fragebogen / Umfragen"@de .
+
+<da3aa7fb-4bed-4c27-919a-95eadb0d815a> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Ein Audio, das einen bestimmten Sachverhalt erklärt."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Erklär-Audio"@de .
+
+<dc5151d1-e28a-4fe3-a5bc-fc8ae70f4614> a skos:Concept ;
+    skos:broader <f56fdb48-bd35-44af-a87c-c511b1b524a6> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachtagung"@de .
+
+<dd9ad33a-9d7b-44f5-b5c2-a0c15557e517> a skos:Concept ;
+    skos:broader <68cb6014-c8b2-4919-83d3-3fcf4d90d25e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Klassenverwaltungs-App"@de .
+
+<ddf5eb7b-1465-4008-9d51-4106c6f43a80> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition "z.B. PDF"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Artikel / Einzelpublikation"@de .
+
+<df0ed505-77e6-49df-98b7-19ae2e24e500> a skos:Concept ;
+    skos:broader <33a47dd3-4e2d-4f22-96bb-d710e26703f9> ;
+    skos:definition "Neuigkeiten aus Forschung und Politik zum Fach."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fachliche News"@de .
+
+<e0077fb9-d506-41d5-91db-672423665a9e> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "- Simulationen (Editor für)"@de .
+
+<e044dc4b-4cf7-42f3-9a63-853a9726cf46> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition "im Sinne einer pädagogische Zusammenstellung (z.B. Schul-/Studienprojektaktivität)"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Projekt  (Lehr/-Lernmaterial)"@de .
+
+<e09f1285-3c23-4357-8046-240a47c542a9> a skos:Concept ;
+    skos:broader <3f3d299c-be6c-45b5-a317-990bf0ed9beb> ;
+    skos:definition "Eine Bildungssendung im Sinne einer Unterrichtseinheit."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schul- / Bildungssendung  (Material)"@de .
+
+<e3e26706-89ce-4c5d-a8c3-d79963f67434> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Experiment (Lehr/-Lernmaterial)"@de .
+
+<e797bc71-5f67-4aea-880d-469e19e243db> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Eine Audioaufzeichnung von Unterricht oder Vortragenden, die i.d.R. mehr als einen bestimmten Sachverhalt erläutert (ansonsten wäre es ein Erklär-Audio)."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Vortrag (Audio-Aufzeichnung / Lesung)"@de .
+
+<e84dc38b-0c87-475a-bd83-0f6a206d5ea9> a skos:Concept ;
+    skos:broader <db86f4b3-fd34-4a77-b722-d86e3cece63b> ;
+    skos:definition "Ein interaktives Medium, das virtuelle Inhalte in die Realität einblendet."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Augmented Reality"@de .
+
+<e97b889e-46f1-4167-892e-ac3a821223aa> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Landkarten Editor (geographisch)"@de .
+
+<ea854b44-5ccd-48c8-b5ac-fc35f3488d93> a skos:Concept ;
+    skos:broader <84ecf459-e792-4973-8db8-5f5eedf04791> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Dateiablagen"@de .
+
+<ebb60dfc-3cec-4a6e-a019-e1c4de3f2170> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Formel, Mathematischer Inhalt"@de .
+
+<ec27e6f6-9c54-4187-a83b-44af7e45059e> a skos:Concept ;
+    skos:broader <0dc37956-788e-4c6f-8ec1-036641a3865e> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Video-Editor (Videoschnitt)"@de .
+
+<ec9354ad-9623-4e5a-ac1a-1e248a305759> a skos:Concept ;
+    skos:broader <55393545-f821-4fc8-87a0-1f02e605bc84> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Skript, Handout, Handreichung"@de .
+
+<ee12fd20-d1cb-4e55-8393-01ea9383e6c8> a skos:Concept ;
+    skos:broader <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stationenlernen"@de .
+
+<eff0d52a-c662-4cc5-a8dd-f7e0dc331aaf> a skos:Concept ;
+    skos:broader <8e96a637-2991-4785-b8fc-2b5ecdc98d66> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Interaktives Concept Board"@de .
+
+<f0331fe0-4583-4ad5-bac0-42f5c3bcc03f> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Musik oder Musikalische Audiosequenz"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Musik"@de .
+
+<f0d16105-36fb-4298-b2d8-df984f21d75a> a skos:Concept ;
+    skos:broader <1218ac7d-7a04-4c27-b5b8-573219ca89f8> ;
+    skos:definition "verfolgt einen konkreten Zweck, ausgearbeitet"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stundenentwurf"@de .
+
+<f1a690b1-80f7-41c4-9d7d-b0ae5bdb2c02> a skos:Concept ;
+    skos:broader <b150be84-9138-4343-95c3-0bce4858440c> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Formeleditor"@de .
+
+<f334420b-fcd0-4192-82c4-b0e72a7ddd5c> a skos:Concept ;
+    skos:broader <99f10000-59ed-43b9-8bf6-7489560a947f> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Messenger"@de .
+
+<f49f0b86-503f-4470-8f5a-fe44e19bfafc> a skos:Concept ;
+    skos:broader <dc74fc13-a5ad-491c-8f11-2a38fac10f02> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Schulbildung(sangebot)"@de .
+
+<f58ff9b1-f7e9-422f-8b6a-c758078e97df> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Darstellung Sachverhalt / Ding"@de .
+
+<f6ea9706-e659-4b7a-a695-353072e83391> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition "Lehr-/Lernthema an einem Fall dargestellt - bspw. alle Projektmanagementmethoden an einem Beispielprojekt  "@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Fallstudie  "@de .
+
+<fa32e8d0-6da7-4a13-be49-c07eb3b23677> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Anderes Material, anderer Typ"@de .
+
+<fa767610-3d46-4362-8ea7-031a5fdb8978> a skos:Concept ;
+    skos:broader <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Definition"@de .
+
+<faa7f777-4d0f-47cf-af76-4bba4c82d019> a skos:Concept ;
+    skos:broader <f56fdb48-bd35-44af-a87c-c511b1b524a6> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Workshop/ Barcamp"@de .
+
+<fb20aea5-55d4-406c-848e-90ec3bbb19b9> a skos:Concept ;
+    skos:broader <68cb6014-c8b2-4919-83d3-3fcf4d90d25e> ;
+    skos:definition "Vorlesungs-/Veranstaltungsverzeichnis,"@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Stundenplan-Software"@de .
+
+<fb564404-2a8f-4280-b86e-7b427c94d75c> a skos:Concept ;
+    skos:broader <1218ac7d-7a04-4c27-b5b8-573219ca89f8> ;
+    skos:definition "Ein Konzept für eine pädagogische Einheit undefinierter Größe / Länge."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Unterrichtsbaustein"@de .
+
+<fc8e45d5-8721-4c71-a22b-f9b13cf26fda> a skos:Concept ;
+    skos:broader <062ed764-4733-4fad-9ad4-61fcbcbd9172> ;
+    skos:definition "Eine Radio- oder Podcast-Sendung, die ein oder mehrere Themen im journalistischen Stil aufarbeitet."@de ;
+    skos:inScheme <> ;
+    skos:prefLabel "Radio, Podcast, Interview"@de .
+
+<b5a4c3bc-6746-4508-bea9-f2d129dd61f7> a skos:Concept ;
+    skos:broader <caceef06-1ea7-4ba0-b6d6-586f828df110> ;
+    skos:definition """Aktivität z.B. in einer Unterrichtsstunde mit Aufgabenstellung - 
+(Kreative) Aufgabe; Spiele ohne feste Rahmenbedingung"""@de ;
+    skos:inScheme <> ;
+    skos:narrower <08a0c632-8954-48ac-a004-7ead6f52195e> ;
+    skos:prefLabel "offene / kreative Aktivität   (Lehr/-Lernmaterial)"@de .
+
+<0c0a48e8-2a76-4c64-84c5-d25095b7b7bd> a skos:Concept ;
+    skos:definition ""@de ;
+    skos:narrower <9b0b3e46-e55c-41a3-8d24-1d7806a4ed07>,
+        <eb152abc-cf69-4ad0-bcba-c0a85d2c8805> ;
+    skos:prefLabel "METHODE"@de ;
+    skos:topConceptOf <> .
+
+<b835624a-847e-4fb4-8f97-9d0bc51b746a> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <5660d3bd-495d-4beb-bd19-e455093acf66>,
+        <b9990567-f472-487f-814a-c4f7621167e7> ;
+    skos:prefLabel "Präsentation (Tool)"@de .
+
+<33a47dd3-4e2d-4f22-96bb-d710e26703f9> a skos:Concept ;
+    skos:broader <6cc83e97-f5ab-4adc-963b-0a3662fd23ee> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <2243a0ac-b4f1-45b2-acfa-fb6f4a942ca0>,
+        <4ffda262-2e74-46b0-836f-109260d6fa82>,
+        <df0ed505-77e6-49df-98b7-19ae2e24e500> ;
+    skos:prefLabel "Nachrichten, Neuigkeiten"@de .
+
+<fdfe69c8-09d8-4cfe-9457-5ac66649f786> a skos:Concept ;
+    skos:broader <34eca812-38d5-4ccf-a8da-986d3dc500c2> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <1a7573c0-ed1d-4ccd-9fc1-0a5c6100f1f2>,
+        <39f7cf9b-301b-4a6d-92e8-7af2ceee54d6>,
+        <4ff68f12-2b74-49c0-95da-ed87a8af0849> ;
+    skos:prefLabel "Editor Officedateiformate"@de .
+
+<34eca812-38d5-4ccf-a8da-986d3dc500c2> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <0dc37956-788e-4c6f-8ec1-036641a3865e>,
+        <9062fddc-b20b-460b-95ff-b0993d432c5d>,
+        <b150be84-9138-4343-95c3-0bce4858440c>,
+        <fdfe69c8-09d8-4cfe-9457-5ac66649f786> ;
+    skos:prefLabel "Editoren"@de .
+
+<8e96a637-2991-4785-b8fc-2b5ecdc98d66> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <27dcf169-6392-4521-a6db-df9b091d1a85>,
+        <326329ca-7b51-4bf7-990c-4ba9afb5b3dd>,
+        <89eba3ce-27b7-456a-a812-fe2c1949d036>,
+        <eff0d52a-c662-4cc5-a8dd-f7e0dc331aaf> ;
+    skos:prefLabel "Kooperation, Kollaboration, Kreatives"@de .
+
+<cdeb7453-51c0-4309-afa3-59a8d7d8ac1c> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <158a8d5a-dd6f-46c3-9aab-95c44fcc557d>,
+        <c9042d29-1ea6-4039-a2be-4deef428cf21>,
+        <ce252fde-2f25-4d6f-9317-89349bd60182>,
+        <d931eb89-6b91-43c0-9a2b-fc94da9aaf43> ;
+    skos:prefLabel "Test / Fragebogen"@de .
+
+<1218ac7d-7a04-4c27-b5b8-573219ca89f8> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <02bc198a-8f11-4673-81bb-cce43c1af6aa>,
+        <28e866ed-0e90-4973-87a8-9de0c2e8b456>,
+        <764355dd-3693-401a-94d9-6ffcd16735dc>,
+        <f0d16105-36fb-4298-b2d8-df984f21d75a>,
+        <fb564404-2a8f-4280-b86e-7b427c94d75c> ;
+    skos:prefLabel "Unterrichtsplanung"@de .
+
+<68cb6014-c8b2-4919-83d3-3fcf4d90d25e> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <28930799-d006-46a1-b1b2-2a16c9dbd7a5>,
+        <a79ea282-c9fd-4c0c-b659-764b57ed0cb3>,
+        <d67a2eb4-1565-4e84-a255-b342b0c283b7>,
+        <dd9ad33a-9d7b-44f5-b5c2-a0c15557e517>,
+        <fb20aea5-55d4-406c-848e-90ec3bbb19b9> ;
+    skos:prefLabel "Unterrichtsorganisation & Verwaltung Bildungsorganisation"@de .
+
+<db86f4b3-fd34-4a77-b722-d86e3cece63b> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <28049b6a-07c0-409f-81be-ac4364a83e8d>,
+        <6b175c0c-bcf7-4b97-bb36-bc534eba3761>,
+        <6e15474a-915f-43c9-afbb-b477a75b416a>,
+        <a7a97de9-3a5f-493a-afad-faf8a037c05d>,
+        <e84dc38b-0c87-475a-bd83-0f6a206d5ea9> ;
+    skos:prefLabel "Interaktives Medium"@de .
+
+<3f3d299c-be6c-45b5-a317-990bf0ed9beb> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <2e4a2bb2-9ccc-4756-974e-95716c3399ad>,
+        <4f6c51c2-f84a-4de9-ad52-b4ca1ba9f70a>,
+        <5cc9eac1-f3f0-4230-9ddc-826fb8619281>,
+        <a9b93bbd-27d1-4c5f-ad12-0c23da8e7a4a>,
+        <ba4a49f8-18cd-47e5-89fc-67f42a25b3a2>,
+        <e09f1285-3c23-4357-8046-240a47c542a9> ;
+    skos:prefLabel "Video (Material)"@de .
+
+<9062fddc-b20b-460b-95ff-b0993d432c5d> a skos:Concept ;
+    skos:broader <34eca812-38d5-4ccf-a8da-986d3dc500c2> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <035723d8-b211-4db5-8593-46744b83185e>,
+        <08f1cb4f-957f-4180-86c6-45664ec52c17>,
+        <38e568fe-3742-450f-815e-2e0e3fc270d0>,
+        <5e352a26-19be-4ac4-a3e7-4a2326278a56>,
+        <b2485956-f4b0-45d0-a841-ee1f0680401a>,
+        <c2828142-c6a8-421b-af7e-f81cfa74b380> ;
+    skos:prefLabel "Bildungsinhalte-Formate (Editor)"@de .
+
+<dc74fc13-a5ad-491c-8f11-2a38fac10f02> a skos:Concept ;
+    skos:definition ""@de ;
+    skos:narrower <09312e22-d70d-47ae-bd0f-5c55e6a3d9b0>,
+        <5701f23f-c87d-4532-893a-3883b17d3913>,
+        <6274eba1-eb4b-4a53-ae33-4b3c1d533767>,
+        <a2c169b3-c021-4e90-bbee-a9a58bf6911c>,
+        <ccb8f70e-9c74-4bf3-a4d9-86cbaabdc82f>,
+        <f49f0b86-503f-4470-8f5a-fe44e19bfafc> ;
+    skos:prefLabel "BILDUNGSANGEBOTE"@de ;
+    skos:topConceptOf <> .
+
+<f56fdb48-bd35-44af-a87c-c511b1b524a6> a skos:Concept ;
+    skos:definition ""@de ;
+    skos:narrower <5154b1c9-1a43-42e0-b4e2-b6fad71cae91>,
+        <84cfd6fa-bce6-4100-acc9-bb56d01861b4>,
+        <b0bb5166-0c90-4948-a164-0d70164a1501>,
+        <d8e7217a-c84c-448e-95c8-41ead17c71c3>,
+        <dc5151d1-e28a-4fe3-a5bc-fc8ae70f4614>,
+        <faa7f777-4d0f-47cf-af76-4bba4c82d019> ;
+    skos:prefLabel "konkreter TERMIN, EVENT, VERANSTALTUNG"@de ;
+    skos:topConceptOf <> .
+
+<1937efe1-c818-4dc1-8c12-4311dfe37748> a skos:Concept ;
+    skos:definition "Zweck (Editieren, Voten, Lehren, Lernen)"@de ;
+    skos:narrower <34eca812-38d5-4ccf-a8da-986d3dc500c2>,
+        <68cb6014-c8b2-4919-83d3-3fcf4d90d25e>,
+        <723377f5-32f4-44d4-8acd-11ea9ce8aade>,
+        <84ecf459-e792-4973-8db8-5f5eedf04791>,
+        <8e96a637-2991-4785-b8fc-2b5ecdc98d66>,
+        <99f10000-59ed-43b9-8bf6-7489560a947f>,
+        <b835624a-847e-4fb4-8f97-9d0bc51b746a> ;
+    skos:prefLabel "TOOL"@de ;
+    skos:topConceptOf <> .
+
+<6cc83e97-f5ab-4adc-963b-0a3662fd23ee> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <081fd3b5-caa5-46d1-8436-68d1d617263e>,
+        <33a47dd3-4e2d-4f22-96bb-d710e26703f9>,
+        <4ff0d785-2a53-4d3b-a013-497ac0c3f19c>,
+        <c0c956e9-b063-4f07-8634-fcf9d0f151e7>,
+        <d83bcb7a-f1f6-43d5-addc-68263eaa0496>,
+        <ebb60dfc-3cec-4a6e-a019-e1c4de3f2170>,
+        <fa32e8d0-6da7-4a13-be49-c07eb3b23677> ;
+    skos:prefLabel "Weiteres Material"@de .
+
+<8110c16c-96ef-4d54-ba5e-7cad1b8a8c33> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition "Textbausteine sollen in Dokumenten markier- und speicherbar sein, damit nachfolgende OER-Autor*innen sie wiederverwenden können."@de ;
+    skos:inScheme <> ;
+    skos:narrower <4e184294-2f10-4d25-9f80-2c69ccf01041>,
+        <72066b1e-1781-49ef-af7c-1e6ac8f6335b>,
+        <738c10db-c58e-4829-bbe9-49ef2c411ebd>,
+        <c0991506-7bef-4f95-8b51-424164421df1>,
+        <d902b872-5aaa-4c98-94ba-05ed9fc1f826>,
+        <f58ff9b1-f7e9-422f-8b6a-c758078e97df>,
+        <fa767610-3d46-4362-8ea7-031a5fdb8978> ;
+    skos:prefLabel "Textbaustein zum Wiederverwenden"@de .
+
+<84ecf459-e792-4973-8db8-5f5eedf04791> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <014e61d9-bb7e-4dde-a1eb-9490a0125644>,
+        <2f7b3698-e1f7-4722-9fea-10d9e8090c04>,
+        <33c02a52-0db9-40ef-8455-26a3dea9869e>,
+        <77386d2b-064d-488a-9742-c9706153b089>,
+        <7d03c31d-c3d6-4af0-af97-b88e1bf2b7b4>,
+        <d85f9e7c-83e9-4d5a-b62a-43752f0c18a0>,
+        <ea854b44-5ccd-48c8-b5ac-fc35f3488d93> ;
+    skos:prefLabel "Inhalteverwaltung, Suche"@de .
+
+<b150be84-9138-4343-95c3-0bce4858440c> a skos:Concept ;
+    skos:broader <34eca812-38d5-4ccf-a8da-986d3dc500c2> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <33f89232-5afc-4797-9753-c844139213fe>,
+        <7c719955-39d0-49b7-a31a-c0effa3bdaaa>,
+        <873e9c9c-53c2-4ba0-971d-0111a6b6a92e>,
+        <910a408c-5674-488a-878c-bd3566d6d9f7>,
+        <c811133e-f4fe-4af3-8a39-57323c378886>,
+        <e97b889e-46f1-4167-892e-ac3a821223aa>,
+        <f1a690b1-80f7-41c4-9d7d-b0ae5bdb2c02> ;
+    skos:prefLabel "für Weitere Formate"@de .
+
+<062ed764-4733-4fad-9ad4-61fcbcbd9172> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <26cf2de3-1bce-4956-961a-7786b4f3bb4d>,
+        <2cc1608d-a199-44bb-8226-5f19a8021dbb>,
+        <98edc15e-f6a9-40d5-8576-6f97e1ccdd2d>,
+        <c7089506-9a46-43c0-9647-2bc139a1a22d>,
+        <da3aa7fb-4bed-4c27-919a-95eadb0d815a>,
+        <e797bc71-5f67-4aea-880d-469e19e243db>,
+        <f0331fe0-4583-4ad5-bac0-42f5c3bcc03f>,
+        <fc8e45d5-8721-4c71-a22b-f9b13cf26fda> ;
+    skos:prefLabel "Audio"@de .
+
+<99f10000-59ed-43b9-8bf6-7489560a947f> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <2df9deb1-5f1e-4e83-b5ac-b69c9a5bdf14>,
+        <2f916803-bc3f-40c7-978a-b17a46afbbae>,
+        <37a785b2-2655-429f-b1f4-d02517decd14>,
+        <5efe22de-823b-4357-b89f-9118277b69a3>,
+        <aaeac07e-b417-4576-88a2-d8c69779f217>,
+        <adf6e324-e46c-471f-b7bc-8cd25bef007b>,
+        <cb52a4ed-15de-445e-8a25-4450aca12e10>,
+        <f334420b-fcd0-4192-82c4-b0e72a7ddd5c> ;
+    skos:prefLabel "Kommunikation, Feedback"@de .
+
+<082764a3-c773-4d7c-90a6-463dc06acd61> a skos:Concept ;
+    skos:definition ""@de ;
+    skos:narrower <11e584dc-273b-4844-83e9-c8dc56652d00>,
+        <15e20fe3-9563-4800-b2a6-36260de48ccf>,
+        <30feaed5-3ef3-4407-97d0-0a6f1575f252>,
+        <4342845b-a9be-4819-8c00-4e22fc3e91dc>,
+        <50ddbef9-aba9-4f7f-98cf-e6a6a78b1cfb>,
+        <54f4536f-9d97-40b5-8d2f-5ad32b90bcf2>,
+        <69f08ae4-795e-4f97-84b1-248e19b574d2>,
+        <8280ef22-05e6-4925-9cf9-e01f15587ff7>,
+        <9a03e835-789a-4f1b-9dce-a33818dae78b> ;
+    skos:prefLabel "QUELLE "@de ;
+    skos:topConceptOf <> .
+
+<0dc37956-788e-4c6f-8ec1-036641a3865e> a skos:Concept ;
+    skos:broader <34eca812-38d5-4ccf-a8da-986d3dc500c2> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <4766a323-4430-4cce-b705-b4593f00f281>,
+        <8dea122e-253b-4d3c-b2c3-47d76a2b9e71>,
+        <9d3758a9-d4a4-4ccc-a6bd-646e000ae11e>,
+        <aa31b792-fe97-4db3-a65c-1c97b6e080e9>,
+        <b26788d1-3b21-4c7d-a207-482d5b81c626>,
+        <b529c54f-dd0d-418e-8e27-1dc922754a77>,
+        <b6203c5c-e487-4a10-9f89-b9f692661e1a>,
+        <e0077fb9-d506-41d5-91db-672423665a9e>,
+        <ec27e6f6-9c54-4187-a83b-44af7e45059e> ;
+    skos:prefLabel "Medienbearbeitung"@de .
+
+<723377f5-32f4-44d4-8acd-11ea9ce8aade> a skos:Concept ;
+    skos:broader <1937efe1-c818-4dc1-8c12-4311dfe37748> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <2ed37d7c-cbf4-423d-838f-6c12b4a0e44e>,
+        <3f72c617-e2e1-4520-8053-a0c3d2c9583d>,
+        <6f4e0f3b-9cad-4f73-84f3-b835261d1e38>,
+        <785775de-6b94-4e69-898f-7e6b82825104>,
+        <943042e5-9c06-4803-8908-d88e01fb202e>,
+        <a0809450-12e7-4588-b41c-5d68836350e4>,
+        <a56db046-b2ca-4cd5-80d3-18b62068bf54>,
+        <a898ee1b-75ac-41b0-931f-c564568c95cb>,
+        <b6cdba00-9f3b-4e41-8408-ecef07a98698> ;
+    skos:prefLabel "Lernen, Quiz, Spiel"@de .
+
+<eb152abc-cf69-4ad0-bcba-c0a85d2c8805> a skos:Concept ;
+    skos:broader <0c0a48e8-2a76-4c64-84c5-d25095b7b7bd> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <218d4dde-ac37-4db4-87fd-78ae61a986e3>,
+        <58af7ba9-ae5d-4b89-9bb1-1ce312708dc8>,
+        <593d30d3-2a9a-45a3-9f6f-636574fcf4d4>,
+        <8103d039-9967-4516-9d70-4ff62e98128c>,
+        <98264641-ee40-4f73-96ae-e47603fa3d3b>,
+        <c55f05e8-8938-4a1d-81a9-0552d8256793>,
+        <cb765d13-726a-4f89-b21d-77b6ac0110dd>,
+        <d6a71c14-a9b9-41a3-82ab-26134a8b06ba>,
+        <ee12fd20-d1cb-4e55-8393-01ea9383e6c8> ;
+    skos:prefLabel "Pädagogische Methode, Konzept, Muster"@de .
+
+<0a730990-0b96-4c27-9863-4a852d95c281> a skos:Concept ;
+    skos:definition ""@de ;
+    skos:narrower <062ed764-4733-4fad-9ad4-61fcbcbd9172>,
+        <1218ac7d-7a04-4c27-b5b8-573219ca89f8>,
+        <3f3d299c-be6c-45b5-a317-990bf0ed9beb>,
+        <55393545-f821-4fc8-87a0-1f02e605bc84>,
+        <6cc83e97-f5ab-4adc-963b-0a3662fd23ee>,
+        <8110c16c-96ef-4d54-ba5e-7cad1b8a8c33>,
+        <aabbd560-7cf6-4453-8f35-cd50ce7c0f99>,
+        <caceef06-1ea7-4ba0-b6d6-586f828df110>,
+        <cdeb7453-51c0-4309-afa3-59a8d7d8ac1c>,
+        <db86f4b3-fd34-4a77-b722-d86e3cece63b> ;
+    skos:prefLabel "MATERIAL"@de ;
+    skos:topConceptOf <> .
+
+<aabbd560-7cf6-4453-8f35-cd50ce7c0f99> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <2ae1d81c-89dc-4bb1-a193-8aac936e03de>,
+        <4ddc8f85-a1ac-4cd0-8436-b3b9c57f77d3>,
+        <5177f519-5596-4f31-911a-547c39cecb25>,
+        <6e2a2a8f-9370-4d91-9e6e-499fca7a11c3>,
+        <7d8fb1cf-b5b9-4f3d-add7-8e0f0a25511f>,
+        <8dd222ba-b4ad-4c5b-8561-c1ca7d2e34a8>,
+        <94201402-f723-4152-852d-2b78a7760546>,
+        <b5f4d421-ea91-4c3c-b6d8-84e0c851c57a>,
+        <d1000157-1a78-463a-a3b7-19368a4bb217>,
+        <d68cedd8-a99a-4355-853f-caf1bd2dd4e7> ;
+    skos:prefLabel "Bild (Material)"@de .
+
+<55393545-f821-4fc8-87a0-1f02e605bc84> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <00fe1db2-8e9e-487e-8c95-fe229cf53287>,
+        <03465bc0-999f-4d54-8355-80f1ee07ae2b>,
+        <089972a2-34bb-41ce-966e-1e2e56b7eaba>,
+        <0ce7b0c1-dc2b-49fe-bf9b-74c9f4ceb994>,
+        <170ebaae-ea7f-4f90-b40b-5d4bf16f4caa>,
+        <2721f9f3-e143-411e-bd10-a967550dc74d>,
+        <48938c36-37c9-467c-bc47-f5ec671c96f0>,
+        <63282643-2dbb-4005-b3c2-0668602badec>,
+        <7fd7d1dd-2884-4c31-b556-bb750d5e188c>,
+        <86aaa626-c0e7-4be0-9782-c51905570f71>,
+        <d4f6dd24-8de7-41d2-824d-995c3a8c99b6>,
+        <d56024b2-6060-4dcb-aa54-3d271b3bc665>,
+        <ddf5eb7b-1465-4008-9d51-4106c6f43a80>,
+        <ec9354ad-9623-4e5a-ac1a-1e248a305759> ;
+    skos:prefLabel "Dokumente, Textbasierte Inhalte"@de .
+
+<caceef06-1ea7-4ba0-b6d6-586f828df110> a skos:Concept ;
+    skos:broader <0a730990-0b96-4c27-9863-4a852d95c281> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <07612a9a-6564-4db7-a6d7-3f4a07bd9412>,
+        <0d312504-193d-40cb-a75c-bbd4dca5dfd5>,
+        <22859f15-509b-4464-9bff-1fc24c47ff94>,
+        <345a185f-7d2d-4d1e-8d6a-ccf1710998b5>,
+        <45213d4b-0f80-4750-b02a-308acdae9090>,
+        <503b0521-79e1-4cc4-a47e-e55e7b50b82f>,
+        <562107e9-bd32-4386-a724-d736045aa431>,
+        <8e9fee69-3a64-491e-a70c-fc6dc59bb042>,
+        <9dc44e6e-9317-47fd-a61a-c7cb29d20a30>,
+        <ae0b5a38-19d2-4fa5-8398-70fafd827b89>,
+        <b5a4c3bc-6746-4508-bea9-f2d129dd61f7>,
+        <e044dc4b-4cf7-42f3-9a63-853a9726cf46>,
+        <e3e26706-89ce-4c5d-a8c3-d79963f67434>,
+        <f6ea9706-e659-4b7a-a695-353072e83391> ;
+    skos:prefLabel "Lehr-/Lernmaterial "@de .
+
+<> a skos:ConceptScheme ;
+    dct:creator <https://www.wirlernenonline.de> ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dct:title "Liste von Ressourcentypen im Openeduhub"@de ;
+    skos:hasTopConcept <082764a3-c773-4d7c-90a6-463dc06acd61>,
+        <0a730990-0b96-4c27-9863-4a852d95c281>,
+        <0c0a48e8-2a76-4c64-84c5-d25095b7b7bd>,
+        <1937efe1-c818-4dc1-8c12-4311dfe37748>,
+        <dc74fc13-a5ad-491c-8f11-2a38fac10f02>,
+        <f56fdb48-bd35-44af-a87c-c511b1b524a6> .
+
