@@ -2,7 +2,7 @@
   "id": "http://w3id.org/openeduhub/vocabs-playground/licenses/CC_BY_NC_SA_40",
   "type": "Concept",
   "prefLabel": {
-    "de": "CC-BY-NC 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Weitergabe unter gleichen Bedingungen)"
+    "de": "CC-BY-NC-SA 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Weitergabe unter gleichen Bedingungen)"
   },
   "inScheme": {
     "id": "http://w3id.org/openeduhub/vocabs-playground/licenses/",
