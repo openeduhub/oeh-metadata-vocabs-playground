@@ -36,16 +36,16 @@
     .
 
 <CC_BY_ND_40> a skos:Concept ;
-    skos:prefLabel "CC-BY-NC 4.0 (freie Nutzung bei Namensnennung, Keine Bearbeitung des Werks erlaubt)"@de ;
+    skos:prefLabel "CC-BY-ND 4.0 (freie Nutzung bei Namensnennung, Keine Bearbeitung des Werks erlaubt)"@de ;
     skos:inScheme <> ;
     .
 
 <CC_BY_NC_SA_40> a skos:Concept ;
-    skos:prefLabel "CC-BY-NC 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Weitergabe unter gleichen Bedingungen)"@de ;
+    skos:prefLabel "CC-BY-NC-SA 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Weitergabe unter gleichen Bedingungen)"@de ;
     skos:inScheme <> ;
     .
 
 <CC_BY_NC_ND_40> a skos:Concept ;
-    skos:prefLabel "CC-BY-NC 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Keine Bearbeitung des Werks erlaubt)"@de ;
+    skos:prefLabel "CC-BY-NC-ND 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Keine Bearbeitung des Werks erlaubt)"@de ;
     skos:inScheme <> ;
     .
