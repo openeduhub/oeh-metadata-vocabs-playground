@@ -1,10 +1,23 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonaromaten7a981336-ebdd-419b-a8dd-1efd70080588",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feigenschaftenvonaromaten7a981336-ebdd-419b-a8dd-1efd70080588",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feigenschaftenvonaromaten7a981336-ebdd-419b-a8dd-1efd70080588",
   "prefLabel": {
     "de": "Eigenschaften von Aromaten"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Hückel-Regel",
+      "Mesomerie",
+      "aromatisch",
+      "aromatischer Geruch",
+      "delokalisiertes Pi-Elektronensystem",
+      "konjugierte Doppelbindungen",
+      "konjugiertes Doppelbindungssystem",
+      "mesomere Grenzstrukturen",
+      "p-Orbitale",
+      "sp2-Hybridisierung",
+      "π-Elektronen-System"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aromatencfa0c5b3-5155-40f7-972a-2b8c1aa20a23",
@@ -27,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

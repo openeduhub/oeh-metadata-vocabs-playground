@@ -1,10 +1,21 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/photonen28226bba-a51b-4533-b91f-26f1447204aa",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fphotonen28226bba-a51b-4533-b91f-26f1447204aa",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fphotonen28226bba-a51b-4533-b91f-26f1447204aa",
   "prefLabel": {
     "de": "Photonen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "COMPTON-Effekt",
+      "EINSTEINs Theorie des Lichts",
+      "Energie-Impuls-Beziehung beim Photon",
+      "Lichtteilchen",
+      "Photoeffekt",
+      "Photon",
+      "Photonenimpuls",
+      "Photonenmodell",
+      "lichtelektrischer Effekt"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/quantenphysikb7ba13f9-73ea-47de-9a61-94cb2e5adff1",
@@ -27,7 +38,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +69,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +122,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konjunktiv27b46728c-581e-4a2c-8d90-1056e3a1f297",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkonjunktiv27b46728c-581e-4a2c-8d90-1056e3a1f297",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkonjunktiv27b46728c-581e-4a2c-8d90-1056e3a1f297",
   "prefLabel": {
     "de": "Konjunktiv 2"
   },
@@ -11,6 +9,14 @@
       "Irrealis",
       "Konjunktiv 2",
       "Konjunktiv II"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Konjunktiv 2",
+      "Konjunkitv II",
+      "Konjunktiv 2 der Gegenwart",
+      "Konjunktiv 2 der Vergangenheit "
     ]
   },
   "broader": {
@@ -34,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -66,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -113,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

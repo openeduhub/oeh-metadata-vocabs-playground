@@ -1,10 +1,21 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/einfachestromkreiseeac4d0e7-8ff5-4f25-bffd-f97388b073d1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Feinfachestromkreiseeac4d0e7-8ff5-4f25-bffd-f97388b073d1",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Feinfachestromkreiseeac4d0e7-8ff5-4f25-bffd-f97388b073d1",
   "prefLabel": {
     "de": "Einfache Stromkreise"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Atomare Vorstellungen der Elektrizität",
+      "Einfache Stromkreise",
+      "Elektrische Leiter",
+      "Nichtleiter",
+      "Parallelschaltung von Widerständen",
+      "Reihenschaltung von Widerständen",
+      "Schaltplan",
+      "Stromkreiselemente",
+      "Stromkreismodelle"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/grundlagene-lehreb0f34bfd-fa0f-4f64-abfb-24d920614d64",
@@ -27,7 +38,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +69,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +122,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

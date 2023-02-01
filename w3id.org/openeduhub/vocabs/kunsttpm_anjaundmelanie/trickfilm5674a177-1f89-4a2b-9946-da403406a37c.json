@@ -1,25 +1,60 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/trickfilm5674a177-1f89-4a2b-9946-da403406a37c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftrickfilm5674a177-1f89-4a2b-9946-da403406a37c",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftrickfilm5674a177-1f89-4a2b-9946-da403406a37c",
   "prefLabel": {
     "de": "Trickfilm"
   },
   "altLabel": {
     "de": [
       "Animation",
-      "Trickfilm",
       "Animationsfilm",
       "Animationsverfahren",
       "Animieren",
       "Cartoon",
       "Trickaufnahme",
+      "Trickfilm",
       "Trickfilmer",
       "Trickfilmzeichner"
     ],
     "en": [
       "cartoon"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Froschperspektive",
+      "Untersicht",
+      "Vogelperspektive",
+      "Detailaufnahme",
+      "Amerikanisch",
+      "Close up",
+      "Einstellungsgrößen",
+      "Halbtotale",
+      "Medium Close up",
+      "Medium Shot",
+      "Normalansicht",
+      "Supertotale",
+      "Totale",
+      "Animationsfilm",
+      "Daumenkino",
+      "Flip book",
+      "Knetanimation",
+      "Kulisse",
+      "Legetrick",
+      "Lotte Reininger",
+      "Pappanimation",
+      "Phenakistoskop",
+      "Replacement Animation",
+      "Ruth Hayes",
+      "Stopmotion",
+      "Thaumatrop",
+      "Tim Burton",
+      "Tricktisch",
+      "William Kentridge",
+      "Wunderscheibe",
+      "Zeichentrickfilm\nComputeranimation",
+      "Zirkulationskino",
+      "animierte Linie"
     ]
   },
   "broader": {
@@ -43,7 +78,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -75,6 +109,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -122,8 +162,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,14 +1,44 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/malereic86f88f8-d0eb-4f47-987a-c103aec8df39",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmalereic86f88f8-d0eb-4f47-987a-c103aec8df39",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fmalereic86f88f8-d0eb-4f47-987a-c103aec8df39",
   "prefLabel": {
     "de": "Malerei"
   },
   "altLabel": {
     "en": [
       "painting"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Gouache",
+      "Malgrund",
+      "Pinselduktus",
+      "lasieren",
+      "Aquarell",
+      "Enkaustik",
+      "Ölmalerei",
+      "Duktus",
+      "Fläche",
+      "Art des Farbauftrags",
+      "Auftrag von Farbmaterial",
+      "Bildträger",
+      "Eitempera",
+      "Farbschichten",
+      "Fresko",
+      "Herstellung der Werkstoffe",
+      "Kaseintempera",
+      "Mischtechnik",
+      "Pinselmalerei",
+      "Temperamalerei",
+      "Verarbeitung der Werkstoffe",
+      "abstrakte Malerei",
+      "altmeisterlich malen",
+      "deckend malen",
+      "durchscheinend malen",
+      "lavieren",
+      "pastos malen",
+      "spachteln"
     ]
   },
   "narrower": [
@@ -40,7 +70,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -72,6 +101,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -119,8 +154,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

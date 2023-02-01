@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/namensreaktionen92734db0-1e33-4c29-8b4c-460d2abdb2d9",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fnamensreaktionen92734db0-1e33-4c29-8b4c-460d2abdb2d9",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fnamensreaktionen92734db0-1e33-4c29-8b4c-460d2abdb2d9",
   "prefLabel": {
     "de": "Namensreaktionen"
   },
@@ -12,6 +10,22 @@
       "Liste von Namensreaktionen",
       "Namensreaktion",
       "Namensreaktionen"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Azokupplung",
+      "Belousov-Zhabotinsky-Reaktion",
+      "Cannizzaro-Reaktion",
+      "Diazotierung",
+      "Diels-Alder-Reaktion",
+      "Fischer-Tropsch-Synthese",
+      "Friedel-Crafts-Acylierung        ",
+      "Grignard-Reaktion",
+      "Landolt-Reaktion",
+      "Maillard-Reaktion",
+      "Wacker-Verfahren",
+      "Ziegler-Natta-Verfahren\n"
     ]
   },
   "broader": {
@@ -35,7 +49,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -67,6 +80,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -114,8 +133,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

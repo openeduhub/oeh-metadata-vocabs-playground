@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/additione03012d2-23a8-4ed0-a0d7-5658a652c887",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fadditione03012d2-23a8-4ed0-a0d7-5658a652c887",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fadditione03012d2-23a8-4ed0-a0d7-5658a652c887",
   "prefLabel": {
     "de": "Addition"
   },
@@ -23,6 +21,20 @@
       "plus",
       "summation",
       "summing"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Alken",
+      "Alkin",
+      "Carbonylgruppen",
+      "Dearomatisierung,",
+      "Elektrophile Addition",
+      "Markownikow Regel",
+      "Nitril",
+      "Nucleophile Addition",
+      "Radikalische Addition",
+      "Thiocarbonyl"
     ]
   },
   "broader": {
@@ -46,7 +58,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -78,6 +89,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -125,8 +142,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

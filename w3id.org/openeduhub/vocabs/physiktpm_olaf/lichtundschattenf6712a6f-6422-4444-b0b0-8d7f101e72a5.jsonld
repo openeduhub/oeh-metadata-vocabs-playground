@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/lichtundschattenf6712a6f-6422-4444-b0b0-8d7f101e72a5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Flichtundschattenf6712a6f-6422-4444-b0b0-8d7f101e72a5",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Flichtundschattenf6712a6f-6422-4444-b0b0-8d7f101e72a5",
   "prefLabel": {
     "de": "Licht und Schatten"
   },
@@ -15,6 +13,23 @@
       "Ombre et Lumière",
       "Ombre et lumiere",
       "Shadow and Light"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Schlagschatten",
+      "Grenzstrahlen",
+      "Halbschatten",
+      "Kernschatten",
+      "Schatten",
+      "Schatten werfen",
+      "Schattenbereich",
+      "Schattenbereiche",
+      "Schattengrenze",
+      "Vollschatten",
+      "lichtfreier Bereich hinter einem Gegenstand",
+      "unbeleuchtete Fläche",
+      "Übergangsschatten"
     ]
   },
   "broader": {
@@ -38,7 +53,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -70,6 +84,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -117,8 +137,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

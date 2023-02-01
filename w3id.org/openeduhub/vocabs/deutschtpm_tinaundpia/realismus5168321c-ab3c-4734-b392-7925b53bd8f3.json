@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/realismus5168321c-ab3c-4734-b392-7925b53bd8f3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frealismus5168321c-ab3c-4734-b392-7925b53bd8f3",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Frealismus5168321c-ab3c-4734-b392-7925b53bd8f3",
   "prefLabel": {
     "de": "Realismus"
   },
@@ -26,6 +24,19 @@
       "realism"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Wirklichkeit",
+      "Schimmelreiter",
+      "Conrad Ferdinand Meyer",
+      "Effi Briest\r",
+      "Gottfried Keller",
+      "Irrungen",
+      "Storm",
+      "Theodor Fontane",
+      "Wirrungen"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
     "prefLabel": {
@@ -47,7 +58,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -79,6 +89,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -126,8 +142,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

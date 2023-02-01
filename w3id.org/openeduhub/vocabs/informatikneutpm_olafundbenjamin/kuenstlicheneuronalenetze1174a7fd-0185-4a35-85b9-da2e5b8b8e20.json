@@ -1,10 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kuenstlicheneuronalenetze1174a7fd-0185-4a35-85b9-da2e5b8b8e20",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fkuenstlicheneuronalenetze1174a7fd-0185-4a35-85b9-da2e5b8b8e20",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fkuenstlicheneuronalenetze1174a7fd-0185-4a35-85b9-da2e5b8b8e20",
   "prefLabel": {
     "de": "Künstliche Neuronale Netze"
+  },
+  "hiddenLabel": {
+    "de": [
+      "backpropagation"
+    ]
   },
   "note": {
     "de": "backpropagation"
@@ -30,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -62,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -109,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

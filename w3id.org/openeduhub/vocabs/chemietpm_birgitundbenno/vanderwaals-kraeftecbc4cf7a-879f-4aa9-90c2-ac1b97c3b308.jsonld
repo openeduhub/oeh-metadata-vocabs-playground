@@ -1,10 +1,17 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/vanderwaals-kraeftecbc4cf7a-879f-4aa9-90c2-ac1b97c3b308",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fvanderwaals-kraeftecbc4cf7a-879f-4aa9-90c2-ac1b97c3b308",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fvanderwaals-kraeftecbc4cf7a-879f-4aa9-90c2-ac1b97c3b308",
   "prefLabel": {
     "de": "Van der Waals-Kräfte"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Elektronenverteilung",
+      "London-Dispersion-Forces",
+      "Londonsche Dispersionswechselwirkung",
+      "Van-der-Waals",
+      "VdW"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/zwischenmolekularekraeftecd7ae455-af4e-45d0-ac9f-c1c103bcab00",
@@ -27,7 +34,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +65,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +118,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

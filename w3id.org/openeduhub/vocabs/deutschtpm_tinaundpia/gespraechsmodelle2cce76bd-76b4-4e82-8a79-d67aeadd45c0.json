@@ -1,10 +1,17 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gespraechsmodelle2cce76bd-76b4-4e82-8a79-d67aeadd45c0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgespraechsmodelle2cce76bd-76b4-4e82-8a79-d67aeadd45c0",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgespraechsmodelle2cce76bd-76b4-4e82-8a79-d67aeadd45c0",
   "prefLabel": {
     "de": "Gesprächsmodelle"
+  },
+  "hiddenLabel": {
+    "de": [
+      "4-Ohren-Modell",
+      "4-Seiten-Modell",
+      "Beziehungsebene",
+      "Sachebene",
+      "Schulz von Thun"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gespraechefuehren0a3a960d-16a1-43ba-b9dd-d6112c93a9d4",
@@ -27,7 +34,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +65,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +118,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

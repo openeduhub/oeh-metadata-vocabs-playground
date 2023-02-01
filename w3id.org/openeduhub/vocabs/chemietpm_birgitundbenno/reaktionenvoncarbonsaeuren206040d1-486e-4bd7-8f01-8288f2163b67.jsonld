@@ -1,10 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/reaktionenvoncarbonsaeuren206040d1-486e-4bd7-8f01-8288f2163b67",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Freaktionenvoncarbonsaeuren206040d1-486e-4bd7-8f01-8288f2163b67",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Freaktionenvoncarbonsaeuren206040d1-486e-4bd7-8f01-8288f2163b67",
   "prefLabel": {
     "de": "Reaktionen von Carbonsäuren"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Veresterung",
+      "Salzbildung",
+      "Nucleophile Substitution",
+      "Dehydratisierung,",
+      "Dimerisierung",
+      "Neutralisation"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/carbonsaeuren8ee0cd22-c807-4ce2-ad4e-cef4cb58dd98",
@@ -27,7 +35,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +66,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +119,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

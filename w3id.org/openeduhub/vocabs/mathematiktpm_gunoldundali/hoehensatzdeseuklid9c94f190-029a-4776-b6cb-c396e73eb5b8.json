@@ -1,14 +1,19 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/hoehensatzdeseuklid9c94f190-029a-4776-b6cb-c396e73eb5b8",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fhoehensatzdeseuklid9c94f190-029a-4776-b6cb-c396e73eb5b8",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fhoehensatzdeseuklid9c94f190-029a-4776-b6cb-c396e73eb5b8",
   "prefLabel": {
     "de": "Höhensatz des Euklid"
   },
   "altLabel": {
     "de": [
       "Höhensatz"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Dreieck",
+      "Euklid",
+      "Kathetensatz"
     ]
   },
   "broader": {
@@ -32,7 +37,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -64,6 +68,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -111,8 +121,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

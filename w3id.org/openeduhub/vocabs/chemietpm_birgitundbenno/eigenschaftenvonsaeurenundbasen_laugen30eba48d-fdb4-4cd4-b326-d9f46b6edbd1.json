@@ -1,10 +1,44 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenvonsaeurenundbasen_laugen30eba48d-fdb4-4cd4-b326-d9f46b6edbd1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feigenschaftenvonsaeurenundbasen_laugen30eba48d-fdb4-4cd4-b326-d9f46b6edbd1",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feigenschaftenvonsaeurenundbasen_laugen30eba48d-fdb4-4cd4-b326-d9f46b6edbd1",
   "prefLabel": {
     "de": "Eigenschaften von Säuren und Basen/Laugen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Proton",
+      "  H+",
+      " Oxonium-Ion",
+      " Protonendonator",
+      "Ammoniak",
+      "Benzoesäure",
+      "Flusssäure",
+      "H3O+ ",
+      "Hydrogenphosphat,",
+      "Hydrogensulfat",
+      "Kalilauge",
+      "Kalk ",
+      "Kieselsäure",
+      "Kohlensäure",
+      "Königswasser",
+      "Natronlauge",
+      "Phosphorsäure",
+      "Salpetersäure",
+      "Salzsäure",
+      "Schwefelsäure",
+      "Säurerestion",
+      "Wasserstoff",
+      "gefährlich",
+      "giftig",
+      "mehrprotonige Säuren",
+      "pH-Wert",
+      "sauer",
+      "saure Salze",
+      "saurer Regen",
+      "unedle Metalle",
+      "verdünnen",
+      "ätzend"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/saeuren,basenundlaugena331d5d3-ca5a-4289-b205-791b3c8a2a0a",
@@ -27,7 +61,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +92,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +145,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

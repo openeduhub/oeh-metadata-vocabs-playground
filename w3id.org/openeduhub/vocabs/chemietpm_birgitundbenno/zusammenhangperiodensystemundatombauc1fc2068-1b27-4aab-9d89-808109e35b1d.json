@@ -1,10 +1,26 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/zusammenhangperiodensystemundatombauc1fc2068-1b27-4aab-9d89-808109e35b1d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fzusammenhangperiodensystemundatombauc1fc2068-1b27-4aab-9d89-808109e35b1d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fzusammenhangperiodensystemundatombauc1fc2068-1b27-4aab-9d89-808109e35b1d",
   "prefLabel": {
     "de": "Zusammenhang Periodensystem und Atombau"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Atommasse",
+      "Neutron",
+      "Ion",
+      "Isotop",
+      "Masse",
+      "Elektronenhülle",
+      "Gruppennummer",
+      "Kernladung",
+      "Ordnungszahl",
+      "Periodenzahl",
+      "Protonenanzahl",
+      "Schalenanzahl",
+      "Schalennummer",
+      "Schalenzahl"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/periodensystem4c79fbc7-8aab-4be7-b487-eb447fb7edda",
@@ -27,7 +43,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +74,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +127,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

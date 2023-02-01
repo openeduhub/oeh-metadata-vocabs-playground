@@ -1,10 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/deklination_flexion_konjugation4cc35247-bb11-4028-b646-d3fee0e801bb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fdeklination_flexion_konjugation4cc35247-bb11-4028-b646-d3fee0e801bb",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fdeklination_flexion_konjugation4cc35247-bb11-4028-b646-d3fee0e801bb",
   "prefLabel": {
     "de": "Deklination/ Flexion/ Konjugation"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Kasus",
+      "Person",
+      "Anpassung",
+      "Beugung",
+      "Modus",
+      "Numerus",
+      "Tempus",
+      "Veränderung"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/wortformen3a038f76-31ab-451d-b3fb-0001e698361b",
@@ -27,7 +37,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +68,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +121,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

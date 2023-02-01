@@ -1,15 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/tempusa9b5b367-bc71-4723-91a5-a1d2e62580aa",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Ftempusa9b5b367-bc71-4723-91a5-a1d2e62580aa",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Ftempusa9b5b367-bc71-4723-91a5-a1d2e62580aa",
   "prefLabel": {
     "de": "Tempus"
   },
   "altLabel": {
     "de": [
-      "Zeit",
       "Zeitform",
+      "Zeit",
       "Tempus",
       "Deutsche Tempusformen",
       "Tempora",
@@ -18,6 +16,19 @@
     ],
     "en": [
       "grammatical tense"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Futur",
+      "Zeitform",
+      "Zukunft",
+      "Perfekt",
+      "Vergangenheit",
+      "Plusquamperfekt",
+      "Gegenwart",
+      "Präsens",
+      "Präteritum"
     ]
   },
   "broader": {
@@ -41,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -73,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -120,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

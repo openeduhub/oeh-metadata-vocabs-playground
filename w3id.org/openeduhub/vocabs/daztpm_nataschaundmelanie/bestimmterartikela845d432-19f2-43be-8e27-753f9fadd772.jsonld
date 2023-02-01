@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/bestimmterartikela845d432-19f2-43be-8e27-753f9fadd772",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fbestimmterartikela845d432-19f2-43be-8e27-753f9fadd772",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fbestimmterartikela845d432-19f2-43be-8e27-753f9fadd772",
   "prefLabel": {
     "de": "Bestimmter Artikel"
   },
@@ -20,6 +18,16 @@
       "art.",
       "grammatical article",
       "linguistic article"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "bestimmter Artikel",
+      "Geschlechtswörter",
+      "Nomenbegleiter",
+      "definite Artikel",
+      "der",
+      "die das"
     ]
   },
   "broader": {
@@ -43,7 +51,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -75,6 +82,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -122,8 +135,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

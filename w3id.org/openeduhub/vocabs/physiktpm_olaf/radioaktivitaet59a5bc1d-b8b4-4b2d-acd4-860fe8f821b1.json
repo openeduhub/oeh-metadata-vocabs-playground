@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/radioaktivitaet59a5bc1d-b8b4-4b2d-acd4-860fe8f821b1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fradioaktivitaet59a5bc1d-b8b4-4b2d-acd4-860fe8f821b1",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fradioaktivitaet59a5bc1d-b8b4-4b2d-acd4-860fe8f821b1",
   "prefLabel": {
     "de": "Radioaktivität"
   },
@@ -22,6 +20,23 @@
     "en": [
       "nuclear decay",
       "radioactive decay"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Halbwertszeit",
+      "Gammastrahlung",
+      "Alphastrahlung",
+      "Alphazerfall",
+      "Beta-Minus-Strahlung",
+      "Beta-Minus-Zerfall",
+      "Beta-Plus-Zerfall",
+      "GEIGER-MÜLLER-Zählrohr",
+      "Gammaübergang",
+      "Halbwertsdicke",
+      "Ionisierende Strahlung",
+      "Ionisierung durch Strahlung",
+      "Strahlenschutz"
     ]
   },
   "broader": {
@@ -45,7 +60,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -77,6 +91,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -124,8 +144,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

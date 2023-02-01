@@ -1,10 +1,14 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentwertberechnendreisatz779d57f9-1450-4bb5-90a3-04a2e0f9dab1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fprozentwertberechnendreisatz779d57f9-1450-4bb5-90a3-04a2e0f9dab1",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fprozentwertberechnendreisatz779d57f9-1450-4bb5-90a3-04a2e0f9dab1",
   "prefLabel": {
     "de": "Prozentwert berechnen (Dreisatz)"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Hundertstel",
+      "Rabatt"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/prozentrechnung3687bece-a821-4421-93a6-03758544588f",
@@ -27,7 +31,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +62,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +115,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

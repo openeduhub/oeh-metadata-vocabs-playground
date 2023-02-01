@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/gebaeude9ae4946a-cbe9-4bf4-b557-c2e11fa79ee9",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fgebaeude9ae4946a-cbe9-4bf4-b557-c2e11fa79ee9",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fgebaeude9ae4946a-cbe9-4bf4-b557-c2e11fa79ee9",
   "prefLabel": {
     "de": "Gebäude"
   },
@@ -12,6 +10,43 @@
       "building listed on the National Register of Historic Places",
       "buildings",
       "edifice"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Architektur aus Eis und Schnee",
+      "Architekturikone",
+      "Ausstellungsarchitektur",
+      "Baukörper",
+      "Coworking Spaces",
+      "Dachformen",
+      "Einkaufszentrum",
+      "Geschichte des Sakralbaus",
+      "Großbauten",
+      "Hochhausbau",
+      "Hochhäuser",
+      "Ingenieurbau",
+      "Kathedralen",
+      "Kirche",
+      "Kommunalbauten",
+      "Massivbau",
+      "Meditationsbau",
+      "Museumsbau",
+      "Profanbau",
+      "Pyramiden",
+      "Sakralbau",
+      "Schaufassade",
+      "Schlossbau",
+      "Schulen",
+      "Shopping-Mall",
+      "Stadien",
+      "Tempel",
+      "Verkehrsbauten",
+      "Wolkenkratzer",
+      "energieeffizientes Bauen",
+      "gotischer Sakralbau",
+      "wehrhafte Gottesburgen",
+      "öffentliche Bauaufgaben"
     ]
   },
   "broader": {
@@ -35,7 +70,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -67,6 +101,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -114,8 +154,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

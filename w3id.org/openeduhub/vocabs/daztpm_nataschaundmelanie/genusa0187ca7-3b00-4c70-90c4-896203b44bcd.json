@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/genusa0187ca7-3b00-4c70-90c4-896203b44bcd",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fgenusa0187ca7-3b00-4c70-90c4-896203b44bcd",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fgenusa0187ca7-3b00-4c70-90c4-896203b44bcd",
   "prefLabel": {
     "de": "Genus"
   },
@@ -41,6 +39,18 @@
       "topological genus"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "neutral",
+      "Genus",
+      "Geschlecht",
+      "feminin",
+      "maskulin",
+      "männlich",
+      "sächlich",
+      "weiblich"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nomenafeb2dfd-c8bb-45d4-9822-f04f52038fad",
     "prefLabel": {
@@ -62,7 +72,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -94,6 +103,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -141,8 +156,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

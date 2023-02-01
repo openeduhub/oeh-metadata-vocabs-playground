@@ -1,22 +1,52 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/drucken3a5573ab-b99c-4b6c-a31d-ba14cfff8073",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fdrucken3a5573ab-b99c-4b6c-a31d-ba14cfff8073",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fdrucken3a5573ab-b99c-4b6c-a31d-ba14cfff8073",
   "prefLabel": {
     "de": "Drucken"
   },
   "altLabel": {
     "de": [
       "Druck",
-      "Drucktechnik",
       "Drucken",
+      "Drucktechnik",
       "Druckverfahren",
       "Gravur"
     ],
     "en": [
       "printing",
       "printing technique"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Aquatinta",
+      "Durchdruck",
+      "Fingerdruck",
+      "Flachdruck",
+      "Hochdruck",
+      "Holzschnitt",
+      "Holzstich",
+      "Kaltnadelradierung",
+      "Kartoffeldruck",
+      "Kupferstich",
+      "Linolschnitt",
+      "Lithografie",
+      "Materialdruck",
+      "Monotypie",
+      "Objektdruck",
+      "Offsetdruck",
+      "Radiergummidruck",
+      "Radierung",
+      "Schablonendruck",
+      "Serigrafie",
+      "Siebdruck",
+      "Spritzschablone",
+      "Stempeln",
+      "Tiefdruck",
+      "Vernis Mou",
+      "verlorene Platte",
+      "Ätzradierung",
+      "Überdruck;"
     ]
   },
   "broader": {
@@ -40,7 +70,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -72,6 +101,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -119,8 +154,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

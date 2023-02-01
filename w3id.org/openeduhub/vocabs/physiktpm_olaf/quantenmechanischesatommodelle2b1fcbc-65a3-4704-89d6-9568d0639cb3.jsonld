@@ -1,10 +1,24 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/quantenmechanischesatommodelle2b1fcbc-65a3-4704-89d6-9568d0639cb3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fquantenmechanischesatommodelle2b1fcbc-65a3-4704-89d6-9568d0639cb3",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fquantenmechanischesatommodelle2b1fcbc-65a3-4704-89d6-9568d0639cb3",
   "prefLabel": {
     "de": "Quantenmechanisches Atommodell"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Orbitalmodell",
+      "Elektronenkonfigurationen",
+      "Hauptquantenzahl",
+      "Linearer Potentialtopf",
+      "Nebenquantenzahl",
+      "Pauli-Prinzip",
+      "Potentialtopf",
+      "Quantenzahlen",
+      "Spin-Quantenzahl",
+      "Wahrscheinlichkeitsverteilungen beim H-Atom",
+      "Wahrscheinlichkeitsverteilungen beim Wasserstoffatom",
+      "magnetische Quantenzahl"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/atomphysik9ac5ed5a-27de-4dd1-8c41-76f47392a3c3",
@@ -27,7 +41,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +72,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +125,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

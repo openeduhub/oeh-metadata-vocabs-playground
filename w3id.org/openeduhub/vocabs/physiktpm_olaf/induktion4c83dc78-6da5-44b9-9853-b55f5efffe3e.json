@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/induktion4c83dc78-6da5-44b9-9853-b55f5efffe3e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Finduktion4c83dc78-6da5-44b9-9853-b55f5efffe3e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Finduktion4c83dc78-6da5-44b9-9853-b55f5efffe3e",
   "prefLabel": {
     "de": "Induktion"
   },
@@ -28,6 +26,19 @@
       "proof by induction"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Elektromagnetische Induktion",
+      "Induktionserscheinung",
+      "Induktionsgesetz",
+      "Induktionsvorgang",
+      "Induktivität",
+      "Magnetischer Fluss",
+      "RL-Kreis",
+      "Regel von LENZ",
+      "Selbstinduktion"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/vertiefunge-lehre1b2555a6-c55b-4673-a823-15ca9baf5d55",
     "prefLabel": {
@@ -49,7 +60,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -81,6 +91,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -128,8 +144,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,14 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/verschiebungdernormalparabel9dff2dfa-5359-459a-9411-4c0040b6aca4",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fverschiebungdernormalparabel9dff2dfa-5359-459a-9411-4c0040b6aca4",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fverschiebungdernormalparabel9dff2dfa-5359-459a-9411-4c0040b6aca4",
   "prefLabel": {
     "de": "Verschiebung der Normalparabel"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Punktprobe",
+      "verschobene Normalparabel"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/quadratischefunktionenaae2ae2a-3bfb-4ad1-9e5d-ce2b9bb3629b",
@@ -27,7 +31,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +62,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +115,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

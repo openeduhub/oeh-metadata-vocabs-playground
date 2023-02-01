@@ -1,14 +1,21 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/glosseb5b5fb09-0d18-4bf1-bae4-2e7bc99a3a8d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fglosseb5b5fb09-0d18-4bf1-bae4-2e7bc99a3a8d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fglosseb5b5fb09-0d18-4bf1-bae4-2e7bc99a3a8d",
   "prefLabel": {
     "de": "Glosse"
   },
   "altLabel": {
     "de": [
       "Glosa"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Pointe",
+      "Polemik",
+      "Satire",
+      "Satirischer Text",
+      "feuilletonistischen Charakter"
     ]
   },
   "broader": {
@@ -32,7 +39,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -64,6 +70,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -111,8 +123,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

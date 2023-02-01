@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/sage14de91e2-0b1b-4419-af56-9926b82e9567",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fsage14de91e2-0b1b-4419-af56-9926b82e9567",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fsage14de91e2-0b1b-4419-af56-9926b82e9567",
   "prefLabel": {
     "de": "Sage"
   },
@@ -18,6 +16,20 @@
       "SageMath",
       "System for Algebra and Geometry Experimentation",
       "The Sage Group plc"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Legende",
+      "Feen",
+      "Loreley",
+      "Mythos",
+      "Riesen",
+      "Ritter",
+      "Volkssage",
+      "mystisch",
+      "mündliche Überlieferung",
+      "wundersame Wesen"
     ]
   },
   "broader": {
@@ -41,7 +53,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -73,6 +84,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -120,8 +137,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

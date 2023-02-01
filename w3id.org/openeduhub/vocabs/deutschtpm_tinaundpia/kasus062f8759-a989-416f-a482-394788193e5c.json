@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/kasus062f8759-a989-416f-a482-394788193e5c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fkasus062f8759-a989-416f-a482-394788193e5c",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fkasus062f8759-a989-416f-a482-394788193e5c",
   "prefLabel": {
     "de": "Kasus"
   },
@@ -14,6 +12,20 @@
     ],
     "en": [
       "grammatical case"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Akkusativ",
+      "Dativ",
+      "Genitiv",
+      "Nominativ",
+      "Fall",
+      "4 Fälle",
+      "Wem?",
+      "Wen oder Was? ",
+      "Wer?",
+      "Wessen?"
     ]
   },
   "broader": {
@@ -37,7 +49,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -69,6 +80,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -116,8 +133,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

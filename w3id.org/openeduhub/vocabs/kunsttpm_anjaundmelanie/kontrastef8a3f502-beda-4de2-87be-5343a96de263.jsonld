@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/kontrastef8a3f502-beda-4de2-87be-5343a96de263",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkontrastef8a3f502-beda-4de2-87be-5343a96de263",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkontrastef8a3f502-beda-4de2-87be-5343a96de263",
   "prefLabel": {
     "de": "Kontraste"
   },
@@ -15,6 +13,46 @@
       "ARD Kontraste",
       "BB 116",
       "Sz. 111"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "kalte Farben",
+      "warme Farben",
+      "Farbfamilie",
+      "Farbintensität",
+      "Farbkontraste",
+      "Farbkreis",
+      "Komplementärfarbe",
+      "Leuchtkraft",
+      "Buntfarben",
+      "Buntheit",
+      "Farbe-an-sich-Kontrast",
+      "Farbhelligkeitskontrast",
+      "Farbkontraste nach Itten",
+      "Farbtemperaturen",
+      "Flimmerkontrast",
+      "Formkontrast",
+      "Gegenfarben",
+      "Gegensätze",
+      "Grundfarbenkontrast",
+      "Größenunterschiede",
+      "Hell-Dunkel-Kontrast",
+      "Intensitätskontrast",
+      "Komplementärkontrast",
+      "Neutralisation der Farben",
+      "Qualitätskontrast",
+      "Quantitätskontrast",
+      "Simultankontrast",
+      "Sukzessivkontrast",
+      "Warm-Kalt-Kontrast",
+      "aufgehellte oder abgedunkelte Farben",
+      "getrübte Farben",
+      "kontrastierende Wirkung",
+      "negatives Nachbild",
+      "reinbunte Farben",
+      "sich im Farbkreis gegenüberliegende Farben",
+      "starke Gegensätze"
     ]
   },
   "broader": {
@@ -38,7 +76,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -70,6 +107,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -117,8 +160,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

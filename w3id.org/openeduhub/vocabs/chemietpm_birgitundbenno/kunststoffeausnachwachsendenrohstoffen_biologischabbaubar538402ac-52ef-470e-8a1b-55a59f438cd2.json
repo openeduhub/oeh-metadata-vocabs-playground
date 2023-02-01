@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffeausnachwachsendenrohstoffen_biologischabbaubar538402ac-52ef-470e-8a1b-55a59f438cd2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkunststoffeausnachwachsendenrohstoffen_biologischabbaubar538402ac-52ef-470e-8a1b-55a59f438cd2",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkunststoffeausnachwachsendenrohstoffen_biologischabbaubar538402ac-52ef-470e-8a1b-55a59f438cd2",
   "prefLabel": {
     "de": "Kunststoffe aus nachwachsenden Rohstoffen/biologisch abbaubar"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Milchsäure",
+      "Lactate",
+      "PLA",
+      "Plattformchemikalien,"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
@@ -27,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

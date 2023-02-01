@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kupferd59e5bd5-cf74-431c-971c-db5c79aecc08",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkupferd59e5bd5-cf74-431c-971c-db5c79aecc08",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkupferd59e5bd5-cf74-431c-971c-db5c79aecc08",
   "prefLabel": {
     "de": "Kupfer"
   },
@@ -28,6 +26,21 @@
       "element 29"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "weiches Metall",
+      "Rösten",
+      "Bronzezeit",
+      "Chuiquicamata",
+      "Halbedelmetall",
+      "Münzmetalle",
+      "Stromleiter",
+      "Wärmeleiter",
+      "elektrolytische Kupferraffination",
+      "gut formbar",
+      "zäh"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/metalleunderzeb569e361-e899-4150-bb3b-c57466675069",
     "prefLabel": {
@@ -49,7 +62,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -81,6 +93,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -128,8 +146,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/transformatorgeneratormotor8b5f6cbb-aea6-4e9e-9eab-7b7c0c308f18",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Ftransformatorgeneratormotor8b5f6cbb-aea6-4e9e-9eab-7b7c0c308f18",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Ftransformatorgeneratormotor8b5f6cbb-aea6-4e9e-9eab-7b7c0c308f18",
   "prefLabel": {
     "de": "Transformator Generator Motor"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Elektromotor",
+      "Elektrischer Generator",
+      "Energieübertragung durch Hochspannung",
+      "Generatorprinzip",
+      "Hochspannungsleitung",
+      "Motorprinzip",
+      "Primärspule",
+      "Sekundärspule",
+      "Stator",
+      "Transformator"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/vertiefunge-lehre1b2555a6-c55b-4673-a823-15ca9baf5d55",
@@ -27,7 +39,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +70,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +123,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

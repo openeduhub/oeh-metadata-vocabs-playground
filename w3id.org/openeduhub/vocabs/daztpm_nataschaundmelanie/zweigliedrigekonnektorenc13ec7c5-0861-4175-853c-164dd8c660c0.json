@@ -1,10 +1,23 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/zweigliedrigekonnektorenc13ec7c5-0861-4175-853c-164dd8c660c0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fzweigliedrigekonnektorenc13ec7c5-0861-4175-853c-164dd8c660c0",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fzweigliedrigekonnektorenc13ec7c5-0861-4175-853c-164dd8c660c0",
   "prefLabel": {
     "de": "Zweigliedrige Konnektoren"
+  },
+  "hiddenLabel": {
+    "de": [
+      "einerseits andererseits",
+      "entweder oder",
+      "je desto",
+      "je umso",
+      "mehrteilige Konnektoren",
+      "nicht nur sondern auch",
+      "sowohl als auch",
+      "weder noch",
+      "zwar aber",
+      "zweigliedrige Konnektoren",
+      "zweiteilige Konnektoren"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konnektoren9e04bcfa-dc67-4b29-b060-9d77625c792a",
@@ -27,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

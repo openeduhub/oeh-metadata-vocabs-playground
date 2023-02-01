@@ -1,10 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/paedagogischesmaterial8a45c574-c8c6-48d2-b13a-c1d8b2305048",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fpaedagogischesmaterial8a45c574-c8c6-48d2-b13a-c1d8b2305048",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fpaedagogischesmaterial8a45c574-c8c6-48d2-b13a-c1d8b2305048",
   "prefLabel": {
     "de": "pädagogisches Material"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Angebote für Schulen",
+      "Begleitmaterial",
+      "Lehrer*innenmaterial",
+      "Lehrermaterial",
+      "Schüler*innenmaterial",
+      "Schülermaterial",
+      "museumspädagogisches Material;",
+      "pädagogisches Material"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/museen2e2ac839-df74-4c9b-b0ff-8d84f55a4d7c",
@@ -27,7 +37,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +68,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +121,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

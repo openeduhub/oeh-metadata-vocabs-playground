@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/illustration4b00e1ce-910b-480e-bb8c-c61d60d52f1b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fillustration4b00e1ce-910b-480e-bb8c-c61d60d52f1b",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fillustration4b00e1ce-910b-480e-bb8c-c61d60d52f1b",
   "prefLabel": {
     "de": "Illustration"
   },
@@ -13,6 +11,14 @@
     "en": [
       "illustrating",
       "illustration process"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Bebilderung",
+      "Magazingestaltung",
+      "Worte werden zu Bildern",
+      "bildliche Veranschaulichung eines Textes"
     ]
   },
   "broader": {
@@ -36,7 +42,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -68,6 +73,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -115,8 +126,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

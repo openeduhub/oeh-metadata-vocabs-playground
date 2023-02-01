@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/modus8ddb2dfb-3e16-4c45-b12b-567360a85c28",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fmodus8ddb2dfb-3e16-4c45-b12b-567360a85c28",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fmodus8ddb2dfb-3e16-4c45-b12b-567360a85c28",
   "prefLabel": {
     "de": "Modus"
   },
@@ -23,6 +21,14 @@
       "modes",
       "mood",
       "statistical mode"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Aussageform",
+      "Imperativ",
+      "Indikativ",
+      "Konjunktion"
     ]
   },
   "broader": {
@@ -46,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -78,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -125,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

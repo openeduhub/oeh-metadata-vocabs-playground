@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dialekt43e2770a-5cc5-4d52-b97c-04bf2f34e254",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fdialekt43e2770a-5cc5-4d52-b97c-04bf2f34e254",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fdialekt43e2770a-5cc5-4d52-b97c-04bf2f34e254",
   "prefLabel": {
     "de": "Dialekt"
   },
@@ -15,6 +13,15 @@
     ],
     "en": [
       "dialects"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Mundart",
+      "Akzent ",
+      "Bayrisch",
+      "Schwäbisch",
+      "regionale Sprachvarietät"
     ]
   },
   "broader": {
@@ -38,7 +45,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -70,6 +76,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -117,8 +129,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

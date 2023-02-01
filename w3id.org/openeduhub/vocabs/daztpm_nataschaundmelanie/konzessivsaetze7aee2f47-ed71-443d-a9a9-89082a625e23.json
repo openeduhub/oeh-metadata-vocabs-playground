@@ -1,10 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/konzessivsaetze7aee2f47-ed71-443d-a9a9-89082a625e23",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkonzessivsaetze7aee2f47-ed71-443d-a9a9-89082a625e23",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkonzessivsaetze7aee2f47-ed71-443d-a9a9-89082a625e23",
   "prefLabel": {
     "de": "Konzessivsätze"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Einschränkung",
+      "Adverbialsätze",
+      "\nGegengrund",
+      "\nobgleich",
+      "Konzessivsätze",
+      "obwohl"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nebensaetzeimsatzgefuegeea5a2777-6322-4b67-9db4-a9930b1b6a8e",
@@ -27,7 +35,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +66,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +119,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

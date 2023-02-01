@@ -1,10 +1,26 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/winkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fwinkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fwinkelundabstaende502c075e-2d99-4bd1-9cb5-123f86c1ef2b",
   "prefLabel": {
     "de": "Winkel und Abstände"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Abstand berechnen",
+      "Abstand eines Punktes von einer",
+      "Abstand eines Punktes zu einer Geraden berechnen (Analytische Geometrie)",
+      "Abstand zweier Ebenen bestimmen",
+      "Abstand zweier Geraden",
+      "Abstand zweier Punkte berechnen",
+      "Aufgaben ",
+      "Aufgaben zum Schnittwinkel von Geraden und Ebenen",
+      "Ebene berechnen (Projektionsverfahren)",
+      "Schnittwinkel in der analytischen Geometrie",
+      "Schnittwinkel von Geraden und Ebenen",
+      "Schnittwinkel zwischen Gerade und Ebene\n",
+      "Video ",
+      "Zwei zueinander senkrechte Geraden (analytische Geometrie)"
+    ]
   },
   "narrower": [
     {
@@ -65,7 +81,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -97,6 +112,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -144,8 +165,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

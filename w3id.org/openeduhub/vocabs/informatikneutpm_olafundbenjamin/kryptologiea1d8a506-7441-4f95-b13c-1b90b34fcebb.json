@@ -1,10 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kryptologiea1d8a506-7441-4f95-b13c-1b90b34fcebb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fkryptologiea1d8a506-7441-4f95-b13c-1b90b34fcebb",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fkryptologiea1d8a506-7441-4f95-b13c-1b90b34fcebb",
   "prefLabel": {
     "de": "Kryptologie"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Informationssicherheit",
+      "ENIGMA",
+      "Homomorphe Verschlüsselung",
+      "Kerckhoffs’ Prinzip",
+      "Kryptographie",
+      "PGP",
+      "Public-Key",
+      "RSA",
+      "Schlüsselaustausch",
+      "Wissenschaft der Verschlüsselung von Informationen"
+    ]
   },
   "narrower": [
     {
@@ -59,7 +71,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -91,6 +102,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -138,8 +155,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/historischeatommodellea95dea6c-c7fc-47a2-afb1-f88f24258cd5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fhistorischeatommodellea95dea6c-c7fc-47a2-afb1-f88f24258cd5",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fhistorischeatommodellea95dea6c-c7fc-47a2-afb1-f88f24258cd5",
   "prefLabel": {
     "de": "Historische Atommodelle"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Rosinenkuchenmodell",
+      "Bohrsches Atommodell",
+      "Rutherfordsches Modell",
+      "Tröpfchenmodell"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/atomphysik9ac5ed5a-27de-4dd1-8c41-76f47392a3c3",
@@ -27,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

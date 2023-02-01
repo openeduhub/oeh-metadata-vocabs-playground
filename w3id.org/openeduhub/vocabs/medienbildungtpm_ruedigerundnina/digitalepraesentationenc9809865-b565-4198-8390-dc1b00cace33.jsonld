@@ -1,10 +1,28 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/digitalepraesentationenc9809865-b565-4198-8390-dc1b00cace33",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fdigitalepraesentationenc9809865-b565-4198-8390-dc1b00cace33",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Fdigitalepraesentationenc9809865-b565-4198-8390-dc1b00cace33",
   "prefLabel": {
     "de": "Digitale Präsentationen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Keynote",
+      "Keynotepräsentation",
+      "Power Point",
+      "Powerpoint",
+      "Powerpointpräsentation",
+      "Präsentation beurteilen",
+      "Präsentation bewerten",
+      "Präsentation erstellen",
+      "Präsentation vorführen",
+      "Präsentationen beurteilen",
+      "Präsentationen vorführen",
+      "Präsentationsapp",
+      "Präsentationsprogramm",
+      "Präsentationsregeln",
+      "Präsentationssoftware",
+      "Prästentationen erstellen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
@@ -27,7 +45,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +76,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +129,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

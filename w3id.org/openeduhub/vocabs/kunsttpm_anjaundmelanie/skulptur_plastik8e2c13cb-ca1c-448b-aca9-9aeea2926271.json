@@ -1,10 +1,78 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/skulptur_plastik8e2c13cb-ca1c-448b-aca9-9aeea2926271",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fskulptur_plastik8e2c13cb-ca1c-448b-aca9-9aeea2926271",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fskulptur_plastik8e2c13cb-ca1c-448b-aca9-9aeea2926271",
   "prefLabel": {
     "de": "Skulptur/Plastik"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Materialgerechtigkeit",
+      "Niki de Saint Phalle",
+      "Abformen",
+      "Abtragen des Werkstoffs",
+      "Addition von Material",
+      "Alberto Giacometti",
+      "Allansichtigkeit",
+      "Ansichtigkeit",
+      "Armierung",
+      "Aufbautechnik",
+      "Auguste Rodin",
+      "Bildnisplastik",
+      "Blockhafte Plastik",
+      "Bodenplastik",
+      "Camille Claudel",
+      "Donatello",
+      "Duane Hanson",
+      "Ernst Barlach",
+      "Fertigteil",
+      "Figur-Sockel-Bezug",
+      "Flachrelief",
+      "Formen mit Papiermaché",
+      "Franz Bernhard",
+      "George Segal",
+      "Gips- und Betonguss",
+      "Gipsabdruck",
+      "Gussformen",
+      "Halbrelief",
+      "Henry Moore",
+      "Hinzufügen von Material",
+      "Hochrelief",
+      "Hohlguss",
+      "Holzskulptur",
+      "Kaschieren von Formen",
+      "Konstruktive Plastik",
+      "Körper-Raum-Verhältnis",
+      "Massivguss",
+      "Michelangelo Buonarotti",
+      "Modellieren",
+      "Modellieren mit Gips",
+      "Modellieren mit Ton",
+      "Pablo Picasso",
+      "Porträtmodellieren",
+      "Raumlineatur",
+      "Raumoffene und raumhaltige Plastik",
+      "Raumvolumen",
+      "Raumweisende Plastik",
+      "Ready-made",
+      "Relief",
+      "Reliefguss",
+      "Renée Sintenis",
+      "Schema des Kontrapost",
+      "Sockel",
+      "Stand- und Spielbein",
+      "Steinbearbeitung",
+      "Subtraktion des Werkstoffs",
+      "Tektonische Plastik",
+      "Ulrich Rückriem",
+      "Verhüllen",
+      "Wachsausschmelzverfahren",
+      "Wachsmodell",
+      "abstrakte Plastik",
+      "aufbauende Arbeitsweise",
+      "organische Plastik",
+      "sockelsprengende Figur",
+      "wegnehmende Arbeitsweise"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plastikundinstallatione1cf2f8a-9e71-45ea-8ab2-bedfe1f00cf0",
@@ -27,7 +95,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +126,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +179,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,17 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/tierundhaustiere5b62a1cf-bf70-41ae-aa67-74e4573cdeb0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Ftierundhaustiere5b62a1cf-bf70-41ae-aa67-74e4573cdeb0",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Ftierundhaustiere5b62a1cf-bf70-41ae-aa67-74e4573cdeb0",
   "prefLabel": {
     "de": "Tier und Haustiere"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Deutsch als Fremdsprache",
+      "Deutsch als Zweitsprache",
+      "Haustiere",
+      "Nutztiere",
+      "Tiere"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/wortschatz5b3e0b18-9d9b-4bd4-b72b-11b6f8126642",
@@ -27,7 +34,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +65,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +118,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

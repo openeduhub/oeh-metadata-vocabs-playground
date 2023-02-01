@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/informationsuebertragung60e2abc4-570b-4490-a091-fc1558b25ba0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Finformationsuebertragung60e2abc4-570b-4490-a091-fc1558b25ba0",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Finformationsuebertragung60e2abc4-570b-4490-a091-fc1558b25ba0",
   "prefLabel": {
     "de": "Informationsübertragung"
   },
@@ -16,6 +14,24 @@
       "data transfer",
       "digital communications",
       "digital transmission"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Datenübertragung",
+      "Brailleschrift",
+      "Dosentelefon",
+      "Fax",
+      "Fernsehen",
+      "IP-Telefonie",
+      "ISDN",
+      "Informationsübermittöung",
+      "Morsecode",
+      "Radio",
+      "Rauchzeichen",
+      "Telegrafie",
+      "Telegraphie",
+      "Winkeralphabet"
     ]
   },
   "broader": {
@@ -39,7 +55,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -71,6 +86,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -118,8 +139,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/reflexiondd7e31b4-52d7-4d80-a70b-5179d5bb3213",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Freflexiondd7e31b4-52d7-4d80-a70b-5179d5bb3213",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Freflexiondd7e31b4-52d7-4d80-a70b-5179d5bb3213",
   "prefLabel": {
     "de": "Reflexion"
   },
@@ -22,6 +20,17 @@
       "reflective",
       "reflective programming",
       "reflexion"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Ausfallswinkel",
+      "Einfallslot",
+      "Einfallswinkel",
+      "Reflexionsgesetz",
+      "Spiegel",
+      "einfallende Strahl",
+      "reflektierter Strahl"
     ]
   },
   "broader": {
@@ -45,7 +54,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -77,6 +85,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -124,8 +138,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

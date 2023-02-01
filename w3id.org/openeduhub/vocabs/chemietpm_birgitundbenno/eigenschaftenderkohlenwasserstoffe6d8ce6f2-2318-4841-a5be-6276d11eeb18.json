@@ -1,10 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eigenschaftenderkohlenwasserstoffe6d8ce6f2-2318-4841-a5be-6276d11eeb18",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feigenschaftenderkohlenwasserstoffe6d8ce6f2-2318-4841-a5be-6276d11eeb18",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feigenschaftenderkohlenwasserstoffe6d8ce6f2-2318-4841-a5be-6276d11eeb18",
   "prefLabel": {
     "de": "Eigenschaften der  Kohlenwasserstoffe"
+  },
+  "hiddenLabel": {
+    "de": [
+      "gesättigt",
+      "ungesättigt",
+      "Benzin",
+      "Cetanzahl",
+      "Diesel",
+      "Klopfen,",
+      "Oktanzahl",
+      "Verbrennungsmotor",
+      "aliphatische Kohlenwasserstoffe",
+      "aromatische"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kohlenwasserstoffe640308ce-563a-4b05-a5fa-72cbef1cbd72",
@@ -27,7 +39,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +70,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +123,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

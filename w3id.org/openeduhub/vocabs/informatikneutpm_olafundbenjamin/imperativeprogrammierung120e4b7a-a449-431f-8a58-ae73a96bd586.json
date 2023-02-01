@@ -1,10 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/imperativeprogrammierung120e4b7a-a449-431f-8a58-ae73a96bd586",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fimperativeprogrammierung120e4b7a-a449-431f-8a58-ae73a96bd586",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fimperativeprogrammierung120e4b7a-a449-431f-8a58-ae73a96bd586",
   "prefLabel": {
     "de": "Imperative Programmierung"
+  },
+  "hiddenLabel": {
+    "de": [
+      "C",
+      "ALGOL",
+      "Ada",
+      "Assembler",
+      "Cobol",
+      "Fortran",
+      "PL/I",
+      "Pascal"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/programmiersprachen_integrierteentwicklungsumgebungenide67587feb-bf59-4bb8-9456-266d7ecaa3f7",
@@ -27,7 +37,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +68,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +121,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

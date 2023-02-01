@@ -1,18 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/grafikd34255ce-0597-48af-bcde-81abfaba02bd",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fgrafikd34255ce-0597-48af-bcde-81abfaba02bd",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fgrafikd34255ce-0597-48af-bcde-81abfaba02bd",
   "prefLabel": {
     "de": "Grafik"
   },
   "altLabel": {
     "de": [
-      "Foto",
-      "Grafik",
       "Bild",
       "Abbildung",
       "Diagram",
+      "Foto",
+      "Grafik",
       "Druckgrafik",
       "Druckgraphik",
       "Graphik",
@@ -36,6 +34,25 @@
       "screenshot",
       "still",
       "graphic"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Reproduktionsgrafik",
+      "Originalgrafik",
+      "Architekturzeichnungen",
+      "Druckbild;",
+      "Felszeichnungen",
+      "Funktionszeichnung",
+      "Graffiti",
+      "Handzeichnung",
+      "Höhlenmalereien",
+      "Muster entwickeln",
+      "anatomische Zeichnungen",
+      "angewandte Grafik",
+      "freie Grafik",
+      "grafische Gestaltungselemente",
+      "grafische Installation"
     ]
   },
   "narrower": [
@@ -73,7 +90,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -105,6 +121,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -152,8 +174,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

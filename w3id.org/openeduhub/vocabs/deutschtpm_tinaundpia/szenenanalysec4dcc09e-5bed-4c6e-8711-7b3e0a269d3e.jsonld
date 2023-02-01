@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/szenenanalysec4dcc09e-5bed-4c6e-8711-7b3e0a269d3e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fszenenanalysec4dcc09e-5bed-4c6e-8711-7b3e0a269d3e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fszenenanalysec4dcc09e-5bed-4c6e-8711-7b3e0a269d3e",
   "prefLabel": {
     "de": "Szenenanalyse"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Deutungshypothese",
+      "Dialoganalyse",
+      "Inhaltsangabe Drama",
+      "Szene"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/dramatischetexteaf0b03de-9f8f-4cf3-8b00-3e428bb50f79",
@@ -27,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

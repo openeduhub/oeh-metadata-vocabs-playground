@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/spule0a81c592-0c91-468e-b251-78a537858302",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fspule0a81c592-0c91-468e-b251-78a537858302",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fspule0a81c592-0c91-468e-b251-78a537858302",
   "prefLabel": {
     "de": "Spule"
   },
@@ -20,6 +18,17 @@
       "electromagnetic coil",
       "passive two terminal",
       "spool"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "LC-Schwingkreis",
+      "Bandpass",
+      "HELMHOLTZ-Spule",
+      "Hochpass",
+      "Tiefpass",
+      "Zylinderspule",
+      "langgestreckten Spule"
     ]
   },
   "broader": {
@@ -43,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -75,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -122,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

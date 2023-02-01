@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/phaenomenecd505875-7f04-4c81-86c4-4ac1ef197c3e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fphaenomenecd505875-7f04-4c81-86c4-4ac1ef197c3e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fphaenomenecd505875-7f04-4c81-86c4-4ac1ef197c3e",
   "prefLabel": {
     "de": "Phänomene"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Interferenz",
+      "Doppler-Effekt",
+      "Obertöne",
+      "Schwebung"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/akustik716159b7-124d-4ce4-8c66-0fb01fe34bcf",
@@ -27,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

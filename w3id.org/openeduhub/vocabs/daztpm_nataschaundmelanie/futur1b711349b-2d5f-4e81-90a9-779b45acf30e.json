@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/futur1b711349b-2d5f-4e81-90a9-779b45acf30e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Ffutur1b711349b-2d5f-4e81-90a9-779b45acf30e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Ffutur1b711349b-2d5f-4e81-90a9-779b45acf30e",
   "prefLabel": {
     "de": "Futur 1"
   },
@@ -15,6 +13,15 @@
       "Futurum exactum",
       "Vorzukunft",
       "Zukunftsform"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Futur 1",
+      "Futur I",
+      "Zeitform",
+      "Zukunft",
+      "Zukunftszeitformen"
     ]
   },
   "broader": {
@@ -38,7 +45,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -70,6 +76,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -117,8 +129,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

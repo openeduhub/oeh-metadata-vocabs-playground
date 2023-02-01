@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elementarteilchen8f01a5f3-9a78-49b0-b776-0ed5a26a3bb0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felementarteilchen8f01a5f3-9a78-49b0-b776-0ed5a26a3bb0",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felementarteilchen8f01a5f3-9a78-49b0-b776-0ed5a26a3bb0",
   "prefLabel": {
     "de": "Elementarteilchen"
   },
@@ -20,6 +18,17 @@
       "elementary particle (non-composite)",
       "fundamental particle",
       "non-composite quantum particle"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Antiteilchen",
+      "Austauschteilchen",
+      "Baryonen",
+      "Gluon",
+      "Leptonen: Hadronen",
+      "Mesonen",
+      "Quark"
     ]
   },
   "broader": {
@@ -43,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -75,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -122,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

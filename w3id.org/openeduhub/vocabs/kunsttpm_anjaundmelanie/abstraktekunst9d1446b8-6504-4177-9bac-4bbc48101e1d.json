@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/abstraktekunst9d1446b8-6504-4177-9bac-4bbc48101e1d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fabstraktekunst9d1446b8-6504-4177-9bac-4bbc48101e1d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fabstraktekunst9d1446b8-6504-4177-9bac-4bbc48101e1d",
   "prefLabel": {
     "de": "abstrakte Kunst"
   },
@@ -13,6 +11,32 @@
       "Gegenstandslose Kunst",
       "Nichtfigurative Kunst",
       "Ungegenständliche Kunst"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Abstrahierung",
+      "Action Painting",
+      "Der Blaue Reiter",
+      "Emil Schuhmacher",
+      "Futurismus",
+      "Gerhard Richter",
+      "Informell",
+      "Jackson Pollock",
+      "Kandinsky",
+      "Konstruktivismus",
+      "Kubismus",
+      "Picasso",
+      "Piet Mondrian",
+      "Tachismus",
+      "Vereinfachung",
+      "expressiver Malstil",
+      "gegenstandslose Malerei",
+      "geometrische Abstraktion",
+      "informelle Kunst",
+      "informelle Malerei",
+      "konkrete Kunst",
+      "vereinfachte Kunst"
     ]
   },
   "broader": {
@@ -36,7 +60,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -68,6 +91,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -115,8 +144,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

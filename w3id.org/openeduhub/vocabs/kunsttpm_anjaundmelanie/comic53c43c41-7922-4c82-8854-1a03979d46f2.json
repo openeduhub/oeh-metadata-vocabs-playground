@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/comic53c43c41-7922-4c82-8854-1a03979d46f2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fcomic53c43c41-7922-4c82-8854-1a03979d46f2",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fcomic53c43c41-7922-4c82-8854-1a03979d46f2",
   "prefLabel": {
     "de": "Comic"
   },
@@ -12,6 +10,30 @@
       "comix",
       "ninth art",
       "sequential art"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Bildergeschichten",
+      "Actionlines",
+      "Anime",
+      "Comicstrip",
+      "Geschichten für Comics",
+      "Hintergrund und Bildraum",
+      "Karikatur",
+      "Köpfe und Gesichter im Comicstil",
+      "Lautmalerei und Action",
+      "Layout-eine Seite gestalten",
+      "Manga",
+      "Onomatopöie-Lautmalerei",
+      "Outlines",
+      "Scott McCloud-Comics richtig lesen",
+      "Speedlines",
+      "Splash-Panel",
+      "Zeichentrick",
+      "ein Comic entsteht",
+      "sequenzielle Kunst",
+      "von der Skizze zum Finish"
     ]
   },
   "broader": {
@@ -35,7 +57,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -67,6 +88,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -114,8 +141,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

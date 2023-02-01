@@ -1,15 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/kleidung087107e1-5b2a-4bbd-a5bd-bd4078c0ebe0",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkleidung087107e1-5b2a-4bbd-a5bd-bd4078c0ebe0",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkleidung087107e1-5b2a-4bbd-a5bd-bd4078c0ebe0",
   "prefLabel": {
     "de": "Kleidung"
   },
   "altLabel": {
     "de": [
-      "Bekleidung",
       "Accessoire",
+      "Bekleidung",
       "Einkleidung",
       "Kleidung",
       "trägt (Kleidung)"
@@ -29,6 +27,19 @@
       "wear",
       "wearing",
       "wore"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Deutsch als Fremdsprache",
+      "Deutsch als Zweitsprache",
+      "Kleidung",
+      "Accessoires",
+      "Anziehsachen",
+      "Fashion",
+      "Konfektionsgrößen",
+      "Mode",
+      "Schuhe"
     ]
   },
   "broader": {
@@ -52,7 +63,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -84,6 +94,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -131,8 +147,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

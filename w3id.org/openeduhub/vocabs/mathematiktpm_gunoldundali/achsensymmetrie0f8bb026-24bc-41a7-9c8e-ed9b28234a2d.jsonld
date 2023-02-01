@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/achsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fachsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fachsensymmetrie0f8bb026-24bc-41a7-9c8e-ed9b28234a2d",
   "prefLabel": {
     "de": "Achsensymmetrie"
   },
@@ -16,6 +14,11 @@
       "axisymmetry",
       "line symmetry",
       "reflection symmetry"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Spiegelsymmetrie"
     ]
   },
   "note": {
@@ -42,7 +45,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -74,6 +76,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -121,8 +129,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,17 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/klassik046f7aee-bff2-4451-ab34-dd2ed4a12ebf",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fklassik046f7aee-bff2-4451-ab34-dd2ed4a12ebf",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fklassik046f7aee-bff2-4451-ab34-dd2ed4a12ebf",
   "prefLabel": {
     "de": "Klassik"
   },
   "altLabel": {
     "de": [
-      "Klassik",
       "Deutsche Literatur",
       "Deutsche Klassik",
       "Hochklassik",
+      "Klassik",
       "Spätklassik",
       "Weimarer Frühklassik",
       "Weimarer Hochklassik",
@@ -28,6 +26,19 @@
     ],
     "en": [
       "Classical music period"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Goethe",
+      "Herder",
+      "Hölderlin",
+      "Idealistisch",
+      "Iphigenie auf Tauris ",
+      "Kleist",
+      "Maria Stuart",
+      "Schiller",
+      "Tugend"
     ]
   },
   "broader": {
@@ -51,7 +62,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -83,6 +93,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -130,8 +146,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

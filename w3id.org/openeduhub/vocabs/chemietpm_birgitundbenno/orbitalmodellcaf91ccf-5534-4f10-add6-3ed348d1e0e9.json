@@ -1,10 +1,26 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/orbitalmodellcaf91ccf-5534-4f10-add6-3ed348d1e0e9",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Forbitalmodellcaf91ccf-5534-4f10-add6-3ed348d1e0e9",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Forbitalmodellcaf91ccf-5534-4f10-add6-3ed348d1e0e9",
   "prefLabel": {
     "de": "Orbitalmodell"
+  },
+  "hiddenLabel": {
+    "de": [
+      "sp2-Hybridisierung",
+      "Aufenthaltswahrscheinlichkeit",
+      "Doppelspaltexperiment",
+      "Doppelspaltexperiment,",
+      "Hybridisierung",
+      "Orbital",
+      "Pi-Bindung",
+      "Schrödinger",
+      "Sigma-Bindung",
+      "Wellen",
+      "p-Orbital",
+      "s-Orbital",
+      "sp-Hybridisierung",
+      "sp3-Hybridisierung"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellec15e24a5-5b39-45f4-b953-ff5e849da672",
@@ -27,7 +43,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +74,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +127,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

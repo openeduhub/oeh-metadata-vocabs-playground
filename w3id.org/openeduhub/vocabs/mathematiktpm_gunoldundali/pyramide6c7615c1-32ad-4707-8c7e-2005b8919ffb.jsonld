@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/pyramide6c7615c1-32ad-4707-8c7e-2005b8919ffb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fpyramide6c7615c1-32ad-4707-8c7e-2005b8919ffb",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fpyramide6c7615c1-32ad-4707-8c7e-2005b8919ffb",
   "prefLabel": {
     "de": "Pyramide"
   },
@@ -13,6 +11,13 @@
     ],
     "en": [
       "Pyramid"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "1 Grundfläche",
+      "3 Dreiecksflächen",
+      "5 Einzelfächen"
     ]
   },
   "broader": {
@@ -36,7 +41,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -68,6 +72,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -115,8 +125,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/aufklaerung664fefe4-a8dd-455d-88c4-5bbfcacb66b4",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Faufklaerung664fefe4-a8dd-455d-88c4-5bbfcacb66b4",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Faufklaerung664fefe4-a8dd-455d-88c4-5bbfcacb66b4",
   "prefLabel": {
     "de": "Aufklärung"
   },
@@ -17,6 +15,18 @@
     "en": [
       "Enlightenment",
       "European Enlightenment"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Descartes",
+      "Emilia Galotti ",
+      "Fabel",
+      "Kant",
+      "Lessing",
+      "Nathan der Weiße",
+      "Vernunft",
+      "moralische Belehrung"
     ]
   },
   "broader": {
@@ -40,7 +50,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -72,6 +81,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -119,8 +134,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

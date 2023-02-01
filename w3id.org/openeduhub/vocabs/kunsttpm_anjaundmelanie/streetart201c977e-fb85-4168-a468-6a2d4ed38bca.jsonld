@@ -1,10 +1,33 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/streetart201c977e-fb85-4168-a468-6a2d4ed38bca",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fstreetart201c977e-fb85-4168-a468-6a2d4ed38bca",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fstreetart201c977e-fb85-4168-a468-6a2d4ed38bca",
   "prefLabel": {
     "de": "Street Art"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Banksy",
+      "Dieter Glasmacher",
+      "Gerard Zlotykamien",
+      "Graffiti-Schrift entwickeln",
+      "Installation mit Minifiguren",
+      "Joseph Kyselak",
+      "Keith Haring",
+      "Moos-Graffiti",
+      "Schablonen-Graffito",
+      "Shepard Fairy Obay",
+      "Stencil",
+      "Style-Writings",
+      "Swoon-Cutouts",
+      "Tagging",
+      "Tags",
+      "Tavar Zawacki",
+      "Tona",
+      "Urban Art",
+      "Werner Nöfer",
+      "nichtkommerzielle Formen von Kunst im öffentlichen Raum",
+      "the medium is the message Marshall McLuhan"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/",
@@ -27,7 +50,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +81,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +134,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

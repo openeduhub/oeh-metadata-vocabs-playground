@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eisen30c3282b-2466-4b13-adee-60fffe7c2bb2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feisen30c3282b-2466-4b13-adee-60fffe7c2bb2",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feisen30c3282b-2466-4b13-adee-60fffe7c2bb2",
   "prefLabel": {
     "de": "Eisen"
   },
@@ -20,6 +18,19 @@
       "Hierro",
       "element 26",
       "fer"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Eisenzeit",
+      "Gusseisen",
+      "Legierung",
+      "Magnetismus",
+      "Rennofen",
+      "Stahl",
+      "Windofen,",
+      "verformbar",
+      "weiches Metall"
     ]
   },
   "broader": {
@@ -43,7 +54,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -75,6 +85,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -122,8 +138,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/figurenrede9c7a1722-b126-408e-a4c3-1ff390082e0d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Ffigurenrede9c7a1722-b126-408e-a4c3-1ff390082e0d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Ffigurenrede9c7a1722-b126-408e-a4c3-1ff390082e0d",
   "prefLabel": {
     "de": "Figurenrede"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Bewusststeinsstrom",
+      "Gesprächsform",
+      "Personenrede",
+      "Redeform",
+      "direkte Rede",
+      "erlebte Rede",
+      "indirekte Rede",
+      "innerer Monolog"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/erzaehlendetextefaf12133-99f7-41ae-b848-8006bfef5b59",
@@ -27,7 +37,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +68,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +121,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

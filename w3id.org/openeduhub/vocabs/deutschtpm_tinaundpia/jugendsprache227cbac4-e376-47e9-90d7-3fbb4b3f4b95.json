@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/jugendsprache227cbac4-e376-47e9-90d7-3fbb4b3f4b95",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fjugendsprache227cbac4-e376-47e9-90d7-3fbb4b3f4b95",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fjugendsprache227cbac4-e376-47e9-90d7-3fbb4b3f4b95",
   "prefLabel": {
     "de": "Jugendsprache"
   },
@@ -12,6 +10,16 @@
     ],
     "en": [
       "youth slang"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Ausdrücke",
+      "Hochdeutsch",
+      "Jargons",
+      "Jugendwort",
+      "Sprachverfall",
+      "Sprachwandel"
     ]
   },
   "broader": {
@@ -35,7 +43,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -67,6 +74,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -114,8 +127,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

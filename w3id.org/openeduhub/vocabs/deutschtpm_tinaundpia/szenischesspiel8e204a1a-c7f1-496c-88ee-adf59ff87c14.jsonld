@@ -1,10 +1,19 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/szenischesspiel8e204a1a-c7f1-496c-88ee-adf59ff87c14",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fszenischesspiel8e204a1a-c7f1-496c-88ee-adf59ff87c14",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fszenischesspiel8e204a1a-c7f1-496c-88ee-adf59ff87c14",
   "prefLabel": {
     "de": "Szenisches Spiel"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Szene",
+      "Drama",
+      "Inszenierung eines Gedichts",
+      "Requisiten ",
+      "Rolle",
+      "Rollenspiel",
+      "Theater"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gespraechegestalten0ab2dcf6-6dbc-43ce-a902-19678dbc19e0",
@@ -27,7 +36,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +67,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +120,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

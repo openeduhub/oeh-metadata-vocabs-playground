@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/adverbien8ea7e74c-ff7d-4feb-a68d-c909a88c5e37",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fadverbien8ea7e74c-ff7d-4feb-a68d-c909a88c5e37",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fadverbien8ea7e74c-ff7d-4feb-a68d-c909a88c5e37",
   "prefLabel": {
     "de": "Adverbien"
   },
@@ -18,6 +16,21 @@
     "en": [
       "ad.",
       "adv."
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Ort",
+      "Umstandswort",
+      "Adjektivadverb ",
+      "Art und Weise",
+      "Grund",
+      "Kausaladverb",
+      "Lokaladverb",
+      "Modaladverb",
+      "Modalwort",
+      "Temporaladverb",
+      "Zeit"
     ]
   },
   "broader": {
@@ -41,7 +54,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -73,6 +85,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -120,8 +138,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,21 +1,19 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/foto39d748fc-c414-4245-9c0b-b8bd21e03c52",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffoto39d748fc-c414-4245-9c0b-b8bd21e03c52",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffoto39d748fc-c414-4245-9c0b-b8bd21e03c52",
   "prefLabel": {
     "de": "Foto"
   },
   "altLabel": {
     "de": [
-      "Foto",
-      "Grafik",
       "Bilder",
       "Bild",
       "Abbildung",
       "Diagram",
+      "Foto",
       "Fotografien",
       "Fotos",
+      "Grafik",
       "Lichtbild",
       "Lichtbilder",
       "Photo",
@@ -45,6 +43,60 @@
       "still"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Filter",
+      "Bildergeschichten",
+      "Komposition",
+      "Blickführung",
+      "Blickwinkel",
+      "Hintergrund",
+      "Vordergrund",
+      "Andreas Serrano",
+      "Architekturfotografie",
+      "Belichtung",
+      "Bernd & Hills Becher",
+      "Betonung der Vertikale/ Horizontale",
+      "Bewegung im Bild",
+      "Bewegung in Bildern",
+      "Bildausschnitt",
+      "Bildrahmen",
+      "Carte de visite",
+      "Chronofotografie",
+      "Cindy Hermann",
+      "Detailaufnahme",
+      "Diane Arbus",
+      "Dokumentarfotografie",
+      "Eadweard Muybridge;",
+      "Eliot Porter",
+      "Experimentelle Techniken",
+      "Gebäude",
+      "Geschichten erzählen mit Stillleben",
+      "High-Key- und Low-Key-Technik",
+      "Kontraste",
+      "Kriegsfotografie",
+      "Landschaftsfotografie",
+      "Linienführung",
+      "Modefotografie",
+      "Motivwahl",
+      "Neues Sehen",
+      "Oberflächenstrukturen",
+      "Perspektive",
+      "Piktorialismus",
+      "Portraits",
+      "Selfie",
+      "Spiegelungen",
+      "Straight Photography",
+      "Studiolicht",
+      "The family of man Robert Frank",
+      "Wolkenlandschaften",
+      "das entfremdete Auge",
+      "das manipulierte Bild",
+      "fotografische Experimente",
+      "inszenierte Fotografie",
+      "natürliches Licht"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/medialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
     "prefLabel": {
@@ -66,7 +118,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -98,6 +149,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -145,8 +202,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

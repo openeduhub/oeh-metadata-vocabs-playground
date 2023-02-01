@@ -1,16 +1,14 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/dichtef58bb558-d005-4f50-9e41-1ddaa543c930",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fdichtef58bb558-d005-4f50-9e41-1ddaa543c930",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fdichtef58bb558-d005-4f50-9e41-1ddaa543c930",
   "prefLabel": {
     "de": "Dichte"
   },
   "altLabel": {
     "de": [
-      "Dichte",
       "Densität",
       "Dicht",
+      "Dichte",
       "Dichtefunktion",
       "Dichtheit",
       "Gasdichte",
@@ -40,6 +38,20 @@
       "ρ"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Flüssigkeit",
+      "Dichte Formel",
+      "Feststoffe",
+      "Leichtmetall",
+      "Schwermetall,",
+      "Umstellen von einer Gleichung",
+      "Verdrängung",
+      "Verdrängungsmethode",
+      "Volumen bestimmen",
+      "Wiegen"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
     "prefLabel": {
@@ -61,7 +73,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -93,6 +104,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -140,8 +157,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

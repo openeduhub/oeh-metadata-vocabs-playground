@@ -1,10 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kraefte62d114e1-1e00-4863-bd24-be00daff98cb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fkraefte62d114e1-1e00-4863-bd24-be00daff98cb",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fkraefte62d114e1-1e00-4863-bd24-be00daff98cb",
   "prefLabel": {
     "de": "Kräfte"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Abbremsen",
+      "Physikalische Kräfte haben Wirkungen wie Beschleunigen",
+      "Ändern einer Bewegungsrichtung oder ein Verformen"
+    ]
   },
   "narrower": [
     {
@@ -47,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -79,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -126,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

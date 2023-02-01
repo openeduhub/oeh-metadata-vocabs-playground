@@ -1,10 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/gedichtformen65c1fc74-1043-4c05-9b2b-e187e878ab4e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgedichtformen65c1fc74-1043-4c05-9b2b-e187e878ab4e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fgedichtformen65c1fc74-1043-4c05-9b2b-e187e878ab4e",
   "prefLabel": {
     "de": "Gedichtformen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Ballade",
+      "Elegie",
+      "Elfchen",
+      "Epigramm",
+      "Hymne",
+      "Ode",
+      "Sonett",
+      "Volkslied"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/lyrischetexted15f6a90-ef09-4b8f-ac44-3db67c863e7f",
@@ -27,7 +37,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +68,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +121,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

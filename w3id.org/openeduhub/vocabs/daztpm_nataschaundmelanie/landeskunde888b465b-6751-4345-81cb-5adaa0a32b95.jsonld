@@ -1,23 +1,34 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/landeskunde888b465b-6751-4345-81cb-5adaa0a32b95",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Flandeskunde888b465b-6751-4345-81cb-5adaa0a32b95",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Flandeskunde888b465b-6751-4345-81cb-5adaa0a32b95",
   "prefLabel": {
     "de": "Landeskunde"
   },
   "altLabel": {
     "de": [
-      "Regionalforschung",
-      "Landeskunde",
       "Heimatforschung",
+      "Landeskunde",
       "Ortsgeschichte",
+      "Regionalforschung",
       "Regionalstudien"
     ],
     "en": [
       "area studies",
       "homeland research",
       "regionalistics"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Landeskunde",
+      "Deutschland",
+      "Geschichte",
+      "Gesellschaft",
+      "Integration",
+      "Migration",
+      "Politik",
+      "Städte und Regionen",
+      "soziokulturelles Orientierungswissen"
     ]
   },
   "broader": {
@@ -41,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -73,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -120,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

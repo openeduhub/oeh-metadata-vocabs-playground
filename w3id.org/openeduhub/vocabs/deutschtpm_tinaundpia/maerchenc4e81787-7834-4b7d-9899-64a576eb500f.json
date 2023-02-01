@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/maerchenc4e81787-7834-4b7d-9899-64a576eb500f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fmaerchenc4e81787-7834-4b7d-9899-64a576eb500f",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fmaerchenc4e81787-7834-4b7d-9899-64a576eb500f",
   "prefLabel": {
     "de": "Märchen"
   },
@@ -13,6 +11,23 @@
       "Marchen",
       "Pohadka",
       "fairy story"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Es war einmal",
+      "Gebrüder Grimm",
+      "Grimm",
+      "Gut und Böse",
+      "Hans Christian Andersen",
+      "König",
+      "Prinzessin",
+      "Rapunzel",
+      "Rotkäppchen",
+      "Stiefmutter",
+      "Tradion",
+      "Veränderte Märchen",
+      "Überlieferung"
     ]
   },
   "broader": {
@@ -36,7 +51,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -68,6 +82,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -115,8 +135,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

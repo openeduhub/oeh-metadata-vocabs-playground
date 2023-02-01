@@ -1,10 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/kreis-_drehbewegungen2efc22a6-741e-418d-b818-80451c9fed8b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fkreis-_drehbewegungen2efc22a6-741e-418d-b818-80451c9fed8b",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fkreis-_drehbewegungen2efc22a6-741e-418d-b818-80451c9fed8b",
   "prefLabel": {
     "de": "Kreis- / Drehbewegungen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Kreisbahn",
+      "Bahngeschwindigkeit",
+      "Drehimpuls",
+      "Drehmoment",
+      "Kreisbewegung",
+      "Rotationsenergie",
+      "Umlaufdauer",
+      "Winkelgeschwindigkeit",
+      "Zentripetalbeschleunigung",
+      "Zentripetalkraft"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/bewegungen8358bc93-1cdb-4352-a532-08e2e30fff8d",
@@ -27,7 +39,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +70,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +123,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

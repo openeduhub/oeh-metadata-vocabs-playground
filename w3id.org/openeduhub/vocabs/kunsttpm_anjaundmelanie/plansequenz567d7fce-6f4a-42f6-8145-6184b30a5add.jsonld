@@ -1,14 +1,26 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/plansequenz567d7fce-6f4a-42f6-8145-6184b30a5add",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fplansequenz567d7fce-6f4a-42f6-8145-6184b30a5add",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fplansequenz567d7fce-6f4a-42f6-8145-6184b30a5add",
   "prefLabel": {
     "de": "Plansequenz"
   },
   "altLabel": {
     "en": [
       "Sequence shot"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Kamerafahrt",
+      "One Shot",
+      "One Shot (2008)",
+      "One-Cut",
+      "One-Timer;",
+      "Russian Ark (2002)",
+      "Sebastian Schipper",
+      "Szene in Echtzeit",
+      "Timecode (2000)",
+      "Victoria"
     ]
   },
   "broader": {
@@ -32,7 +44,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -64,6 +75,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -111,8 +128,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

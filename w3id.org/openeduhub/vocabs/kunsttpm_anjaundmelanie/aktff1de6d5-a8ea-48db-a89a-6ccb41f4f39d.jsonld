@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/aktff1de6d5-a8ea-48db-a89a-6ccb41f4f39d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Faktff1de6d5-a8ea-48db-a89a-6ccb41f4f39d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Faktff1de6d5-a8ea-48db-a89a-6ccb41f4f39d",
   "prefLabel": {
     "de": "Akt"
   },
@@ -35,6 +33,21 @@
       "nude genre"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Halbakt",
+      "Abbildung eines unbekleideten Menschen",
+      "Allegorie",
+      "Bewegungsgesetze",
+      "Idealvorstellungen",
+      "Inszenierung und Körperdarstellung",
+      "Proportionsgesetze",
+      "Rückenakt",
+      "Schönheitsideal",
+      "liegender Akt",
+      "sinnliche Motive"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/genre_bildgattungen9e0af10a-93fd-4170-b339-91699d446a0e",
     "prefLabel": {
@@ -56,7 +69,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -88,6 +100,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -135,8 +153,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

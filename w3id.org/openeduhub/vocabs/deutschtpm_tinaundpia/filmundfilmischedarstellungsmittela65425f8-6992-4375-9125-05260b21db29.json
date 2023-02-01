@@ -1,10 +1,15 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/filmundfilmischedarstellungsmittela65425f8-6992-4375-9125-05260b21db29",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Ffilmundfilmischedarstellungsmittela65425f8-6992-4375-9125-05260b21db29",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Ffilmundfilmischedarstellungsmittela65425f8-6992-4375-9125-05260b21db29",
   "prefLabel": {
     "de": "Film und filmische Darstellungsmittel"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Buch-Film Vergleich",
+      "Filmanalyse",
+      "Kameraeinstellungen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/weiteremedienbda978e9-a197-462e-b511-2a14f11f2efc",
@@ -27,7 +32,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +63,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +116,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

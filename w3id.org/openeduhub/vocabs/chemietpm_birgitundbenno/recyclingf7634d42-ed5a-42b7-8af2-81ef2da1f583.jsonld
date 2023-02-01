@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/recyclingf7634d42-ed5a-42b7-8af2-81ef2da1f583",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Frecyclingf7634d42-ed5a-42b7-8af2-81ef2da1f583",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Frecyclingf7634d42-ed5a-42b7-8af2-81ef2da1f583",
   "prefLabel": {
     "de": "Recycling"
   },
@@ -39,6 +37,20 @@
       "xkcd 885"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Gelber Sack",
+      "Verpackungsmüll",
+      "Downcycling",
+      "Deponie,",
+      "Kunststoffabfälle",
+      "Rohstoff",
+      "Upcycling",
+      "Verpackung",
+      "Wiederverwendung",
+      "thermische Verwertung"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
     "prefLabel": {
@@ -60,7 +72,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -92,6 +103,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -139,8 +156,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,36 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/urheber-undnutzungsrechtsowiequellendokumentationc9fd587c-c98b-40d1-aa02-30533b4252a5",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Furheber-undnutzungsrechtsowiequellendokumentationc9fd587c-c98b-40d1-aa02-30533b4252a5",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Furheber-undnutzungsrechtsowiequellendokumentationc9fd587c-c98b-40d1-aa02-30533b4252a5",
   "prefLabel": {
     "de": "Urheber- und Nutzungsrecht sowie Quellendokumentation"
+  },
+  "hiddenLabel": {
+    "de": [
+      "OER",
+      "Open Educational Resources",
+      "Bildrecht",
+      "Bildrechte",
+      "Copyright",
+      "Creative Commons",
+      "GNU",
+      "Lizenz",
+      "Lizenzen",
+      "Lizenzrecht",
+      "Nutzungsrecht",
+      "Nutzungsrechte",
+      "Quellenangabe",
+      "Quellenverweis",
+      "Quellenverweise",
+      "Recht am eigenen Bild",
+      "Referenz",
+      "Urheber",
+      "Urheberrecht",
+      "Zitirerregeln",
+      "eigenes Material lizenzieren ",
+      "freie Bildungsmaterialien",
+      "geistiges Eigentum",
+      "lizenzieren"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
@@ -27,7 +53,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +84,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +137,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

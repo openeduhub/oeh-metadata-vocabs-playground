@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/interieur8c0f3f6a-3337-4d86-9ca1-99b748950cb6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Finterieur8c0f3f6a-3337-4d86-9ca1-99b748950cb6",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Finterieur8c0f3f6a-3337-4d86-9ca1-99b748950cb6",
   "prefLabel": {
     "de": "Interieur"
   },
@@ -17,6 +15,16 @@
     "en": [
       "View into the Apartment of Leopold and Marie Czihaczek",
       "inner part"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Darstellung eines Innenraums",
+      "Gestaltungsbereich Raum",
+      "Raumausstattung",
+      "Raumsituation",
+      "magischer Raum",
+      "menschenleeres Interieur"
     ]
   },
   "broader": {
@@ -40,7 +48,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -72,6 +79,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -119,8 +132,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

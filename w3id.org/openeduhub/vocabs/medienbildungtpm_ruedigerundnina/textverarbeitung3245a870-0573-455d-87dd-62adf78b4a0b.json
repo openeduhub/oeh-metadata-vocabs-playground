@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/textverarbeitung3245a870-0573-455d-87dd-62adf78b4a0b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Ftextverarbeitung3245a870-0573-455d-87dd-62adf78b4a0b",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Ftextverarbeitung3245a870-0573-455d-87dd-62adf78b4a0b",
   "prefLabel": {
     "de": "Textverarbeitung"
   },
@@ -16,6 +14,26 @@
     ],
     "en": [
       "text processor"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Brief",
+      "Textverarbeitungsprogramm",
+      "Briefe schreiben",
+      "Briefe verfassen",
+      "Email",
+      "Pages",
+      "Schülerzeitung",
+      "Steckbriefe erstellen",
+      "Text",
+      "Texte bewerten",
+      "Textverarbeitung",
+      "Textverarbeitungsprogramme",
+      "Word",
+      "Zeitung",
+      "Zeitungsartikel verfassen",
+      "digitale Schülerzeitung"
     ]
   },
   "broader": {
@@ -39,7 +57,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -71,6 +88,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -118,8 +141,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

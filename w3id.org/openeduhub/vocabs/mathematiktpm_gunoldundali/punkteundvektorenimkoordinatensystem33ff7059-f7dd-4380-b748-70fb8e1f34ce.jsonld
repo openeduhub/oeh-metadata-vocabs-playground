@@ -1,10 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/punkteundvektorenimkoordinatensystem33ff7059-f7dd-4380-b748-70fb8e1f34ce",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fpunkteundvektorenimkoordinatensystem33ff7059-f7dd-4380-b748-70fb8e1f34ce",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fpunkteundvektorenimkoordinatensystem33ff7059-f7dd-4380-b748-70fb8e1f34ce",
   "prefLabel": {
     "de": "Punkte und Vektoren im Koordinatensystem"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Dreidimensionale Punkte werden in der Form (x1 l x2 l x3) angegeben."
+    ]
   },
   "note": {
     "de": "Dreidimensionale Punkte werden in der Form (x1 l x2 l x3) angegeben."
@@ -30,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -62,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -109,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

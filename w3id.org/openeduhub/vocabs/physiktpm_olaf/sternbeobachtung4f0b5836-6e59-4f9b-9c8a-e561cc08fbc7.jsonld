@@ -1,10 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/sternbeobachtung4f0b5836-6e59-4f9b-9c8a-e561cc08fbc7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fsternbeobachtung4f0b5836-6e59-4f9b-9c8a-e561cc08fbc7",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fsternbeobachtung4f0b5836-6e59-4f9b-9c8a-e561cc08fbc7",
   "prefLabel": {
     "de": "Sternbeobachtung"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Fernrohr",
+      "Hemisphäre",
+      "Himmelskugel",
+      "Lauf der Gestirne",
+      "Nordstern",
+      "Orientierung",
+      "Orientierung mit Hilfe des Polarsterns",
+      "Polarstern",
+      "Sternbilder",
+      "Teleskop"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/astronomie027df173-4f0e-4a7b-a388-e71599c8959c",
@@ -27,7 +39,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +70,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +123,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

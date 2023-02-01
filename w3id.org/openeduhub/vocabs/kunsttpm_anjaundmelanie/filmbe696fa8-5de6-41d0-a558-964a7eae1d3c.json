@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/filmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffilmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ffilmbe696fa8-5de6-41d0-a558-964a7eae1d3c",
   "prefLabel": {
     "de": "Film"
   },
@@ -23,6 +21,104 @@
       "flick",
       "motion picture",
       "movie"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Zeit",
+      "Rückblende",
+      "Filmanalyse",
+      "Filmkritik",
+      "Froschperspektive",
+      "Untersicht",
+      "Vogelperspektive",
+      "Blickwinkel",
+      "Detailaufnahme",
+      "Animation",
+      "Amerikanisch",
+      "Close up",
+      "Einstellungsgrößen",
+      "Halbtotale",
+      "Medium Close up",
+      "Medium Shot",
+      "Normalansicht",
+      "Supertotale",
+      "Totale",
+      "Storyboard",
+      "Daumenkino",
+      "Tricktisch",
+      "Zirkulationskino",
+      "animierte Linie",
+      "Montage",
+      "Drehbuch",
+      "Erklärvideo",
+      "Casting",
+      "Effekte",
+      "Bildkomposition",
+      "Abspann",
+      "Assoziationsmontage",
+      "Atmosphäre",
+      "Bewegung",
+      "Bluescreen",
+      "Drehbuchstrukturen",
+      "Ellipse",
+      "Exposee",
+      "Exposition",
+      "Fahrt",
+      "Filmidee",
+      "Filmmusik",
+      "Filmplakat",
+      "Filmrezeption",
+      "Filmwissenschaft",
+      "Filmzitate",
+      "Inszenierungen",
+      "Kamerabewegung",
+      "Kameraperspektiven",
+      "Knet- und Puppenanimation",
+      "Kontinuitätsmontage",
+      "Kostümdesign",
+      "Kuleschow-Effekt",
+      "Lichtregie",
+      "Location Scouting",
+      "Loops",
+      "Manipulation",
+      "Maske",
+      "Nachvertonung",
+      "Papp- Animation",
+      "Parallelmontagen",
+      "Raum",
+      "Regiearbeit",
+      "Rezeption",
+      "Schauspielkunst",
+      "Schauspielschule",
+      "Schnitt",
+      "Schwenk",
+      "Schärfenverlagerung",
+      "Shooting Script",
+      "Sprache",
+      "Stimme",
+      "Stop motion- Software",
+      "Synchronisation",
+      "Szenen",
+      "Ton",
+      "Trailer",
+      "Treatment",
+      "Verfremdungseffekt",
+      "Video Kunst",
+      "Videoinstallation",
+      "Videoperformance",
+      "Vorspann",
+      "Werbespot",
+      "Zeichentrickfilm",
+      "Zoom",
+      "analytische Montage",
+      "animierte Zeichnung",
+      "entfesselte Kamera",
+      "filmischer Raum",
+      "found Footage",
+      "interaktives Video",
+      "la camera stylo",
+      "method acting"
     ]
   },
   "narrower": [
@@ -66,7 +162,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -98,6 +193,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -145,8 +246,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

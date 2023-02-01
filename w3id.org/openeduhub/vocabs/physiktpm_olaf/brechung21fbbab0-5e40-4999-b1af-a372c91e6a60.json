@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/brechung21fbbab0-5e40-4999-b1af-a372c91e6a60",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fbrechung21fbbab0-5e40-4999-b1af-a372c91e6a60",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fbrechung21fbbab0-5e40-4999-b1af-a372c91e6a60",
   "prefLabel": {
     "de": "Brechung"
   },
@@ -14,6 +12,24 @@
       "Refraktion",
       "Strahlenbrechung",
       "Wellenbrechung"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Lichtbrechung",
+      "\nÜbergang zwischen zwei Medien",
+      "Grenzfläche",
+      "Grenzwinkel der Totalreflexion",
+      "Medien unterschiedlicher optischer Dichte",
+      "Strahl wird gebrochen",
+      "Totalreflexion",
+      "optisch dichter",
+      "optisch dünner",
+      "reflektiert",
+      "vom Lot weg gebrochen",
+      "zum Lot hin gebrochen",
+      "Übergang vom optisch dichteren zum optisch dünneren Medium",
+      "Übergang vom optisch dünneren zum optisch dichteren Medium"
     ]
   },
   "broader": {
@@ -37,7 +53,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -69,6 +84,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -116,8 +137,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

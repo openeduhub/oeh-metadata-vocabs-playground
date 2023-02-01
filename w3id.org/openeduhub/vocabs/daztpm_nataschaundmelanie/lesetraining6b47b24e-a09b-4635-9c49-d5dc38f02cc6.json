@@ -1,10 +1,68 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/lesetraining6b47b24e-a09b-4635-9c49-d5dc38f02cc6",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Flesetraining6b47b24e-a09b-4635-9c49-d5dc38f02cc6",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Flesetraining6b47b24e-a09b-4635-9c49-d5dc38f02cc6",
   "prefLabel": {
     "de": "Lesetraining"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Wortschatz",
+      "Assoziationsbildung unterstützen",
+      "Aufbau eines Sichtwortschatzes",
+      "Basisgrammatik",
+      "Beschaffenheit der Welt (Allgemein- und Weltwissen",
+      "Bilddiktat",
+      "Buchstaben-",
+      "Buchtsabenkombinationen",
+      "Diktat mit Selbstkorrektur",
+      "Geschwisterlesen",
+      "Gitterrätesl",
+      "Grammatik",
+      "Hörverstehen",
+      "Komposita",
+      "Konsonantenverbindung im Deutschen",
+      "Lautleseverfahren",
+      "Leseanimation",
+      "Leseexperimente",
+      "Lesen und Malen",
+      "Leseschule-NRW",
+      "Lesestrategietraining",
+      "Literaturunterricht",
+      "Lückentexte",
+      "Phasen der Inhaltserschließung",
+      "Post-Reading Activities",
+      "Pre-Reading Activities",
+      "Redundanzfelder Westhoff",
+      "Satzanfänge vervollständigen",
+      "Satzlupe",
+      "Silben-",
+      "Silbenhäufigkeit",
+      "Sinnsignale",
+      "Strukturwortschatz",
+      "Textentlastung Paralleltexte",
+      "Training Leseflüssigkeit",
+      "Umgang mit Medien und Texten",
+      "Verlauf von Sätzen",
+      "Verstandenes und Wortbedeutungen erfragen",
+      "Vielleseverfahren",
+      "Vorenthaltung durch Bilder",
+      "Weltwissen",
+      "While-reading Activities",
+      "Wortbildungsmuster",
+      "Wortkombinationen",
+      "Wortsuchspiele",
+      "Wortsudokus",
+      "Wörter als Einheit erkennen",
+      "Wörterbuch",
+      "aktiver Wortschatz",
+      "bekannter/ unbekannter Kontext",
+      "gemeinsames Modellieren von Texten",
+      "komplexe Strukturen erschwert flüssiges Lesen",
+      "kulturspezifisches Wissen)",
+      "passiver Wortschatz",
+      "phonologisches Dekodieren",
+      "sprachliche Bedarfsanalysen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/leseverstehen01dc6c12-13bb-46ef-a618-2044a6d019c4",
@@ -27,7 +85,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +116,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +169,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

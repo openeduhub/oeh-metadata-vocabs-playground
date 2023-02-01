@@ -1,10 +1,23 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/algorithmenerkennen1224e72b-50c8-4368-9a2a-cd7c8745b072",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Falgorithmenerkennen1224e72b-50c8-4368-9a2a-cd7c8745b072",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Falgorithmenerkennen1224e72b-50c8-4368-9a2a-cd7c8745b072",
   "prefLabel": {
     "de": "Algorithmen erkennen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Befehlsfolge",
+      "Bezeichnungen",
+      "Grenzen der Berechenbarkeit",
+      "Handlungsanweisungen",
+      "Kriterien von Algorithmen",
+      "Schleife",
+      "Verzweigung",
+      "algorithmische Grundbausteine",
+      "algorithmische Verfahren",
+      "benennen und befolgen Handlungsvorschriften",
+      "komplexe Algorithmen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/problemloesen,handelnundmodellieren0557af3f-7d97-4c1c-8e28-b9b69a662f10",
@@ -27,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

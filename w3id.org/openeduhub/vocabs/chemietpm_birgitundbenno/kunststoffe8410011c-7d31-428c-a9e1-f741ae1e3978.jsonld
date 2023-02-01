@@ -1,24 +1,34 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/kunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fkunststoffe8410011c-7d31-428c-a9e1-f741ae1e3978",
   "prefLabel": {
     "de": "Kunststoffe"
   },
   "altLabel": {
     "de": [
-      "Kunststoffe",
-      "Kunststoff",
-      "Plastik",
       "Kunstkautschuk",
+      "Kunststoff",
+      "Kunststoffe",
       "Plaste",
+      "Plastik",
       "Polymerwerkstoff",
       "polymerer Werkstoff",
       "synthetische Polymere"
     ],
     "en": [
       "plastics"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Folien,",
+      "Klebstoff",
+      "Klebstoffe",
+      "Lack",
+      "Polymer",
+      "Textilien",
+      "Verpackungsmaterial",
+      "Werkstoff"
     ]
   },
   "narrower": [
@@ -92,7 +102,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -124,6 +133,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -171,8 +186,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

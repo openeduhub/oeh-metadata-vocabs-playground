@@ -1,10 +1,69 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/schriftlicherausdruck0f4acd73-0b76-4485-8f9a-72c268386004",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fschriftlicherausdruck0f4acd73-0b76-4485-8f9a-72c268386004",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fschriftlicherausdruck0f4acd73-0b76-4485-8f9a-72c268386004",
   "prefLabel": {
     "de": "Schriftlicher Ausdruck"
+  },
+  "hiddenLabel": {
+    "de": [
+      "berichten",
+      "beschreiben",
+      "erzählen",
+      "präsentieren",
+      "zusammenfassen",
+      "Alltagssprache BICS",
+      "Begriffsnetze",
+      "Berichte",
+      "Beschreibungen",
+      "Bewerbung",
+      "Bilder",
+      "Bildergeschichten",
+      "Bildungssprache CALP",
+      "Briefe",
+      "Comic",
+      "E-Mails",
+      "Fantasiegeschichten schreiben",
+      "Gedichte",
+      "Geschichten",
+      "Hintergrundwissen fördern",
+      "Inhaltsangaben",
+      "Jugendbücher",
+      "Kontext der Schreibaufgaben",
+      "Lernen ohne Aufgaben",
+      "Lerntagebuch",
+      "Lieder",
+      "Personen / Tiere / Bilder / Bücher / Gegenstände raten",
+      "Phasen Schreibprozess",
+      "Plakate",
+      "Portfolio",
+      "Poster",
+      "Protokoll",
+      "Präsentationsfolien",
+      "Sachtexte",
+      "Schreiben mit Bausteinen",
+      "Schreiben zu Bildern / Büchern / Gegenständen",
+      "Schreibprozesse planen",
+      "Segelboot / Papierflieger falten",
+      "Stellungsnahmen",
+      "Tagebucheinträge",
+      "Textsorten",
+      "Vater und Sohn Bildergeschichten",
+      "Vorgangsbeschreibung",
+      "Wortwolken",
+      "Writers Long-term-Memory",
+      "adressatenbezogen",
+      "argumentierendes Schreiben",
+      "generatives Schreiben",
+      "informierendes Schreiben",
+      "komplexe Beschreibung / Anleitung",
+      "kreatives Schreiben",
+      "scaffolding",
+      "vom Bild zum Wort zum Satz zum Text",
+      "vom einfachen Satz zum Satzgefüge",
+      "Opperatoren",
+      "Schreibaufgaben",
+      "reflexives Schrieben"
+    ]
   },
   "narrower": [
     {
@@ -41,7 +100,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -73,6 +131,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -120,8 +184,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

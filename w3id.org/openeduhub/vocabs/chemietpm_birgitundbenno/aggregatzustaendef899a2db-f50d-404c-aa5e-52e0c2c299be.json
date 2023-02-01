@@ -1,10 +1,39 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/aggregatzustaendef899a2db-f50d-404c-aa5e-52e0c2c299be",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Faggregatzustaendef899a2db-f50d-404c-aa5e-52e0c2c299be",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Faggregatzustaendef899a2db-f50d-404c-aa5e-52e0c2c299be",
   "prefLabel": {
     "de": "Aggregatzustände"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Anordnung der Teilchen",
+      "Brown'sche Bewegung",
+      "Brownsche Bewegung",
+      "Diffusion",
+      "Feststoff",
+      "Flüssigkeit",
+      "Gallilei-Thermometer",
+      "Gas",
+      "Komprimierbarkeit von Gasen",
+      "Plasma",
+      "Schmelzpunkt",
+      "Schmelztemperatur",
+      "Siedepunkt",
+      "Siedetemperatur",
+      "Teilchen Geschwindigkeit",
+      "Wärme",
+      "Wärmeenergie",
+      "absoluter Nullpunkt",
+      "erstarren",
+      "fest",
+      "flüssig",
+      "gasförmig",
+      "kondensieren",
+      "resublimieren",
+      "schmelzen",
+      "sieden",
+      "sublimieren"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/teilchenmodell836d2bed-61f6-418b-a169-77d9a42d3995",
@@ -27,7 +56,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +87,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +140,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

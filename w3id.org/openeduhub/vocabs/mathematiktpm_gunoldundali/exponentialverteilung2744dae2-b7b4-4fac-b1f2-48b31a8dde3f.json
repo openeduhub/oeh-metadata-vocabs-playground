@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/exponentialverteilung2744dae2-b7b4-4fac-b1f2-48b31a8dde3f",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fexponentialverteilung2744dae2-b7b4-4fac-b1f2-48b31a8dde3f",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fexponentialverteilung2744dae2-b7b4-4fac-b1f2-48b31a8dde3f",
   "prefLabel": {
     "de": "Exponentialverteilung"
   },
@@ -11,6 +9,11 @@
       "Exponential-Verteilung",
       "Exponentialverteilt",
       "Exponentielle Verteilung"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Warte- und Ausfallzeiten"
     ]
   },
   "note": {
@@ -37,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -69,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -116,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

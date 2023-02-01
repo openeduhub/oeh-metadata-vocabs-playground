@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/geometrischeoptikaa839a62-ee3d-41de-9656-e784dc5342ff",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fgeometrischeoptikaa839a62-ee3d-41de-9656-e784dc5342ff",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fgeometrischeoptikaa839a62-ee3d-41de-9656-e784dc5342ff",
   "prefLabel": {
     "de": "Geometrische Optik"
   },
@@ -11,6 +9,11 @@
       "Lichtstrahl",
       "Lichtstrahlen",
       "Strahlenoptik"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert."
     ]
   },
   "note": {
@@ -75,7 +78,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -107,6 +109,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -154,8 +162,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

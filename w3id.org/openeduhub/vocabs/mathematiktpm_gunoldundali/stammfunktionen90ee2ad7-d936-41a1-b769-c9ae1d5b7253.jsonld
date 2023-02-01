@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/stammfunktionen90ee2ad7-d936-41a1-b769-c9ae1d5b7253",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fstammfunktionen90ee2ad7-d936-41a1-b769-c9ae1d5b7253",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fstammfunktionen90ee2ad7-d936-41a1-b769-c9ae1d5b7253",
   "prefLabel": {
     "de": "Stammfunktionen"
   },
@@ -15,6 +13,14 @@
     "en": [
       "primitive function",
       "primitive integral"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "integrieren",
+      "Aufleiten",
+      "Integralrechung",
+      "Umkehroption des Ableitens"
     ]
   },
   "broader": {
@@ -38,7 +44,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -70,6 +75,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -117,8 +128,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,14 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/nebensaetzeimsatzgefuegeea5a2777-6322-4b67-9db4-a9930b1b6a8e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fnebensaetzeimsatzgefuegeea5a2777-6322-4b67-9db4-a9930b1b6a8e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fnebensaetzeimsatzgefuegeea5a2777-6322-4b67-9db4-a9930b1b6a8e",
   "prefLabel": {
     "de": "Nebensätze im Satzgefüge"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Satzgefüge",
+      "Nebensätze"
+    ]
   },
   "narrower": [
     {
@@ -119,7 +123,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -151,6 +154,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -198,8 +207,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

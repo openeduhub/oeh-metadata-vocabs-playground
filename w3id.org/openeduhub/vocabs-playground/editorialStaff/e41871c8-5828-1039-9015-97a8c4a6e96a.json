@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs-playground/editorialStaff/e41871c8-5828-1039-9015-97a8c4a6e96a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2Fe41871c8-5828-1039-9015-97a8c4a6e96a",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs-playground%2FeditorialStaff%2Fe41871c8-5828-1039-9015-97a8c4a6e96a",
   "prefLabel": {
     "de": "Redaktion Mathe Sek II"
   },
@@ -24,7 +22,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -56,6 +53,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -103,8 +106,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

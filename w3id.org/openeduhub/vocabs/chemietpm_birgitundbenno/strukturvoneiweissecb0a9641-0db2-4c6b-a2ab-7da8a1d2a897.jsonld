@@ -1,10 +1,27 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/strukturvoneiweissecb0a9641-0db2-4c6b-a2ab-7da8a1d2a897",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fstrukturvoneiweissecb0a9641-0db2-4c6b-a2ab-7da8a1d2a897",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fstrukturvoneiweissecb0a9641-0db2-4c6b-a2ab-7da8a1d2a897",
   "prefLabel": {
     "de": "Struktur von Eiweiße"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Wasserstoffbrückenbindung",
+      "Peptidbindung",
+      "Dipeptide",
+      "Faltblatt",
+      "Helix",
+      "Hämoglobin",
+      "Oligopeptide",
+      "Polypeptide",
+      "Primärstruktur",
+      "Quartärstruktur",
+      "Schleifen",
+      "Sekundärstruktur",
+      "Sulfidbrücke",
+      "Tertiärstruktur",
+      "Tripeptide"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
@@ -27,7 +44,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +75,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +128,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

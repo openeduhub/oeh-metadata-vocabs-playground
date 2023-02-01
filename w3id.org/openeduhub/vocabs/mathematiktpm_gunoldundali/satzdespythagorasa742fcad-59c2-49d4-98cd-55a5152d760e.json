@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/satzdespythagorasa742fcad-59c2-49d4-98cd-55a5152d760e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fsatzdespythagorasa742fcad-59c2-49d4-98cd-55a5152d760e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fsatzdespythagorasa742fcad-59c2-49d4-98cd-55a5152d760e",
   "prefLabel": {
     "de": "Satz des Pythagoras"
   },
@@ -23,6 +21,11 @@
     "en": [
       "Pythagoras' theorem",
       "Pythagorean proposition"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Mit dem Satz des Pythagoras kannst du Aussagen bezüglich der Seitenlängen und der Quadrate über den Seiten rechtwinkliger Dreiecke treffen."
     ]
   },
   "note": {
@@ -49,7 +52,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -81,6 +83,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -128,8 +136,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

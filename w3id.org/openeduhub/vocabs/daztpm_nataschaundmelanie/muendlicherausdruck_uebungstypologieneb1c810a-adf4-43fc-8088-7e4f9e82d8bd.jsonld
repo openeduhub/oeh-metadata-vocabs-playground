@@ -1,10 +1,25 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/muendlicherausdruck_uebungstypologieneb1c810a-adf4-43fc-8088-7e4f9e82d8bd",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fmuendlicherausdruck_uebungstypologieneb1c810a-adf4-43fc-8088-7e4f9e82d8bd",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fmuendlicherausdruck_uebungstypologieneb1c810a-adf4-43fc-8088-7e4f9e82d8bd",
   "prefLabel": {
     "de": "Mündlicher Ausdruck / Übungstypologien"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Dialoggeländer mit Stichworten / Sprechintentionen",
+      "Informationen austauschen",
+      "Informationen austauschen mit Grammatik",
+      "Kurzinterview",
+      "Meinungsäußerungen",
+      "Rollenspiele",
+      "Sprechimpulse",
+      "angeleitetes Sprechen",
+      "aufbauende und strukturierende Übungen",
+      "chorisches Sprechen",
+      "simulierende Übungen",
+      "vorbereiten Übungen",
+      "über Bilder / Texte sprechen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/sprachdidaktik1e9f432e-27e3-481b-97cb-3bb3dc708a7e",
@@ -27,7 +42,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +73,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +126,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

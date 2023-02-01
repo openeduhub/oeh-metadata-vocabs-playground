@@ -1,14 +1,22 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/perfekta8357544-0372-4ee9-b02f-a7fd90f42ca1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fperfekta8357544-0372-4ee9-b02f-a7fd90f42ca1",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fperfekta8357544-0372-4ee9-b02f-a7fd90f42ca1",
   "prefLabel": {
     "de": "Perfekt"
   },
   "altLabel": {
     "en": [
       "retrospective"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Zeitform",
+      "Imperfekt",
+      "Perfekt",
+      "Vergangenheit",
+      "Vergangenheitsform",
+      "vollendete Gegenwart"
     ]
   },
   "broader": {
@@ -32,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -64,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -111,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

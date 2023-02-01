@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/formd0b97967-52d6-401c-a720-4a99f9bd57f7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fformd0b97967-52d6-401c-a720-4a99f9bd57f7",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fformd0b97967-52d6-401c-a720-4a99f9bd57f7",
   "prefLabel": {
     "de": "Form"
   },
@@ -36,6 +34,27 @@
       "xkcd 608"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Vereinfachung",
+      "Abgleich mit der Wirklichkeit",
+      "Bedeutungsverlust",
+      "Flächenkante",
+      "Formbegrenzung",
+      "Formbereich",
+      "Formerkennung",
+      "Formgenauigkeit",
+      "Formkontrast;",
+      "Formqualität",
+      "Formrichtigkeit",
+      "Ikonizität",
+      "Verallgemeinerung",
+      "Wahrnehmung des Motivs",
+      "Wirklichkeitsanspruch",
+      "fotorealistische Darstellung",
+      "illusionsbild"
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/wahrnehmungsschulung01f2e26f-63fe-4f5a-abac-26d019e8fd42",
     "prefLabel": {
@@ -57,7 +76,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -89,6 +107,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -136,8 +160,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

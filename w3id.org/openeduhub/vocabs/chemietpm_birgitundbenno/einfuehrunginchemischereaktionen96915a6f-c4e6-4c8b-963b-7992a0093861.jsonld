@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/einfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feinfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feinfuehrunginchemischereaktionen96915a6f-c4e6-4c8b-963b-7992a0093861",
   "prefLabel": {
     "de": "Einführung in Chemische Reaktionen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Änderung der Stoffeigenschaften",
+      "Reaktion",
+      "Umsatz",
+      "chemische Reaktion"
+    ]
   },
   "narrower": [
     {
@@ -53,7 +59,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -85,6 +90,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -132,8 +143,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

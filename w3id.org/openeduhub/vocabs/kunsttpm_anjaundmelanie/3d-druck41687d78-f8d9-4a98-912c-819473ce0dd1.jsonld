@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/3d-druck41687d78-f8d9-4a98-912c-819473ce0dd1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2F3d-druck41687d78-f8d9-4a98-912c-819473ce0dd1",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2F3d-druck41687d78-f8d9-4a98-912c-819473ce0dd1",
   "prefLabel": {
     "de": "3D-Druck"
   },
@@ -14,6 +12,16 @@
     "en": [
       "3-D printing",
       "additive manufacturing"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "additive Fertigung",
+      "Entwerfen am Computer",
+      "Modellbau",
+      "Prototypen",
+      "Tinkercad",
+      "vom Entwurf zum Modell"
     ]
   },
   "broader": {
@@ -37,7 +45,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -69,6 +76,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -116,8 +129,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

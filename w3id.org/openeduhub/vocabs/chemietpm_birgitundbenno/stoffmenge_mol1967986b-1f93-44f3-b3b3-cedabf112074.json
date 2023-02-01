@@ -1,10 +1,30 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoffmenge_mol1967986b-1f93-44f3-b3b3-cedabf112074",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fstoffmenge_mol1967986b-1f93-44f3-b3b3-cedabf112074",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fstoffmenge_mol1967986b-1f93-44f3-b3b3-cedabf112074",
   "prefLabel": {
     "de": "Stoffmenge / Mol"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Konzentration",
+      "Wilhelm Ostwald",
+      "Stoffmenge",
+      "molare Masse",
+      " ideales Gas",
+      "Avogadro Konstante",
+      "Grammatom",
+      "Mol",
+      "Molekular Gewicht,",
+      "Molmasse",
+      "Molvolumen",
+      "SI",
+      "Teilchenzahl",
+      "atomare Masseneinheit",
+      "mol",
+      "molare Lösung",
+      "molares Volumen",
+      "u"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/stoechiometrie57254148-baca-403f-b457-8466f72301b7",
@@ -27,7 +47,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +78,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +131,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,20 +1,24 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/eiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Feiweissed8d4c52c-1ef0-4bfe-9bca-a05917c1794d",
   "prefLabel": {
     "de": "Eiweiße"
   },
   "altLabel": {
     "de": [
-      "Proteine",
       "Eiweiß",
       "Eiweiße",
-      "Protein"
+      "Protein",
+      "Proteine"
     ],
     "en": [
       "proteins"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Eiweiß",
+      "Protein,"
     ]
   },
   "narrower": [
@@ -70,7 +74,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -102,6 +105,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -149,8 +158,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

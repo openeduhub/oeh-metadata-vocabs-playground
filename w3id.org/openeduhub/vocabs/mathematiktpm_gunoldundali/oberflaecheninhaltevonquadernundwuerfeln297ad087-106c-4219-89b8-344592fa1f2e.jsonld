@@ -1,10 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/oberflaecheninhaltevonquadernundwuerfeln297ad087-106c-4219-89b8-344592fa1f2e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Foberflaecheninhaltevonquadernundwuerfeln297ad087-106c-4219-89b8-344592fa1f2e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Foberflaecheninhaltevonquadernundwuerfeln297ad087-106c-4219-89b8-344592fa1f2e",
   "prefLabel": {
     "de": "Oberflächeninhalte von Quadern und Würfeln"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Oberflächeninhalt "
+    ]
   },
   "note": {
     "de": "Oberflächeninhalt "
@@ -30,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -62,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -109,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

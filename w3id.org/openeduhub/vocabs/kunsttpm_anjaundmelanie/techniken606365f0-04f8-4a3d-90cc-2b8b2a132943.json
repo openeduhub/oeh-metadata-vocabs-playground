@@ -1,10 +1,55 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/techniken606365f0-04f8-4a3d-90cc-2b8b2a132943",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftechniken606365f0-04f8-4a3d-90cc-2b8b2a132943",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Ftechniken606365f0-04f8-4a3d-90cc-2b8b2a132943",
   "prefLabel": {
     "de": "Techniken"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Film",
+      "Action Painting",
+      "Fotografie",
+      "Collage",
+      "Drucken",
+      "Holzschnitt",
+      "Lithografie",
+      "Materialdruck",
+      "Radierung",
+      "Siebdruck",
+      "Stempeln",
+      "Gouache",
+      "Tempera",
+      "Stencil",
+      "Airbrush",
+      "Aquarell",
+      "Drahtfiguren",
+      "Enkaustik",
+      "Filzstift",
+      "Freskomalerei",
+      "Frottage",
+      "Grattage",
+      "Grisaille",
+      "Klecksografie",
+      "Lüftlmalerei",
+      "Malen",
+      "Maltechniken",
+      "Mixed media",
+      "Pappmaschée;",
+      "Pastellmalerei",
+      "Salzteig",
+      "Seccomalerei",
+      "Sgraffito",
+      "Spritztechnik",
+      "Tonarbeiten",
+      "Tupftechnik",
+      "Tuschemalerei",
+      "Verwischung",
+      "Zeichentechniken",
+      "Zeichnen",
+      "Zufallstechniken",
+      "naß-in-naß-Technik",
+      "Ölmalerei"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/",
@@ -27,7 +72,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +103,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +156,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

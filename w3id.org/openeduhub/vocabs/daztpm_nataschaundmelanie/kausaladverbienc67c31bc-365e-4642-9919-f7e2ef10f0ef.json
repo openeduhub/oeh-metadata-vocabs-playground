@@ -1,10 +1,45 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/kausaladverbienc67c31bc-365e-4642-9919-f7e2ef10f0ef",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkausaladverbienc67c31bc-365e-4642-9919-f7e2ef10f0ef",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fkausaladverbienc67c31bc-365e-4642-9919-f7e2ef10f0ef",
   "prefLabel": {
     "de": "Kausaladverbien"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Adverbien",
+      "Umstandswörter",
+      " finales Verhältnis",
+      "Bezeichnung der Bedingung",
+      "Bezeichnung der Einräumung",
+      "Bezeichnung der Folge",
+      "Bezeichnung des Grundes",
+      "Bezeichnung des Zwecks",
+      "also",
+      "andernfalls",
+      "ansonsten",
+      "daher",
+      "darum",
+      "dazu",
+      "demnach",
+      "dennoch",
+      "deshalb",
+      "dessen ungeachtet",
+      "deswegen",
+      "gleichwohl",
+      "infolgedessen",
+      "kausales Verhältnis",
+      "keinesfalls",
+      "konditionales Verhältnis",
+      "konsekutives Verhältnis",
+      "konzessives Verhältnis",
+      "notfalls",
+      "nämlich",
+      "nötigenfalls",
+      "schlimmstenfalls",
+      "somit",
+      "sonst",
+      "trotzdem"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/adverbien22760c05-49c1-46a0-b63f-6e6bf8f41839",
@@ -27,7 +62,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +93,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +146,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

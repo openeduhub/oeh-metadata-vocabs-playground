@@ -1,15 +1,12 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/gemische39ce5a03-a61a-4209-aee9-b5c6306d3da2",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fgemische39ce5a03-a61a-4209-aee9-b5c6306d3da2",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fgemische39ce5a03-a61a-4209-aee9-b5c6306d3da2",
   "prefLabel": {
     "de": "Gemische"
   },
   "altLabel": {
     "de": [
       "Gemisch",
-      "Stoffgemische",
       "Gemenge",
       "Gemengen",
       "Gemische",
@@ -17,6 +14,7 @@
       "Gemischtypen",
       "Stoffgemenge",
       "Stoffgemisch",
+      "Stoffgemische",
       "Stoffmengen",
       "Vermengen",
       "homogene Gemische",
@@ -26,6 +24,36 @@
       "chemical mixture",
       "chemical mixtures",
       "mixtures"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Legierung",
+      "Gemisch",
+      "Gemenge",
+      "Aerosole",
+      "Branntwein",
+      "Bronze",
+      "Emulsion",
+      "Essig",
+      "Feststoffgemisch",
+      "Gasgemisch",
+      "Gelber Sack",
+      "Granit",
+      "Heterogen",
+      "Homogen",
+      "Lösung",
+      "Matsch",
+      "Milch",
+      "Nebel",
+      "Rauch",
+      "Schaum",
+      "Sprudel",
+      "Suspension",
+      "Tinte",
+      "Trinkwasser",
+      "Trinkwasser-Gewinnung",
+      "Verpackungsmüll"
     ]
   },
   "broader": {
@@ -49,7 +77,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -81,6 +108,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -128,8 +161,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

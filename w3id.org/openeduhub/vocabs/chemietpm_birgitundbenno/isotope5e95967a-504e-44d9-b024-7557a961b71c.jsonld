@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/isotope5e95967a-504e-44d9-b024-7557a961b71c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fisotope5e95967a-504e-44d9-b024-7557a961b71c",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fisotope5e95967a-504e-44d9-b024-7557a961b71c",
   "prefLabel": {
     "de": "Isotope"
   },
@@ -16,6 +14,20 @@
       "Isotopes",
       "atomic isotope",
       "chemical isotope"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Altersbestimmung",
+      "C-14",
+      "C-14 Methode",
+      "Isotopen Schreibweise",
+      "Nuklid",
+      "Nuklidkarte",
+      "Radiocarbonmethode",
+      "Radioisotop",
+      "Radiokarbonmethode",
+      "Radon,"
     ]
   },
   "broader": {
@@ -39,7 +51,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -71,6 +82,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -118,8 +135,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

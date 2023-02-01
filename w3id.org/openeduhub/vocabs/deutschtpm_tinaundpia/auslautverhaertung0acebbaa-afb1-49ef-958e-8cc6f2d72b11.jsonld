@@ -1,14 +1,20 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/auslautverhaertung0acebbaa-afb1-49ef-958e-8cc6f2d72b11",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fauslautverhaertung0acebbaa-afb1-49ef-958e-8cc6f2d72b11",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fauslautverhaertung0acebbaa-afb1-49ef-958e-8cc6f2d72b11",
   "prefLabel": {
     "de": "Auslautverhärtung"
   },
   "altLabel": {
     "en": [
       "consonant softening"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Wortverlängerung ",
+      "b/p",
+      "d/t",
+      "g/k"
     ]
   },
   "broader": {
@@ -32,7 +38,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -64,6 +69,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -111,8 +122,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,17 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischewellens.wellenoptikcfbc1baa-e7bd-4d2c-81d0-88d04a210040",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felektromagnetischewellens.wellenoptikcfbc1baa-e7bd-4d2c-81d0-88d04a210040",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felektromagnetischewellens.wellenoptikcfbc1baa-e7bd-4d2c-81d0-88d04a210040",
   "prefLabel": {
     "de": "Elektromagnetische Wellen (s. Wellenoptik)"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Licht",
+      "Ausbreitung Elektromagnetischer Wellen",
+      "Dipolstrahlung",
+      "Elektromagnetische Wellen",
+      "Transversalwellen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/schwingungenundwellen9ca7cdff-91e3-4423-a546-d809d5df6a50",
@@ -27,7 +34,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +65,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +118,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

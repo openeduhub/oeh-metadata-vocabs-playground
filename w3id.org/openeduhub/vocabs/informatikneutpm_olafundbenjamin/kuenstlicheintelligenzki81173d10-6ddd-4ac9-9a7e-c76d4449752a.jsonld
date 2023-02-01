@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/informatikneutpm_olafundbenjamin/kuenstlicheintelligenzki81173d10-6ddd-4ac9-9a7e-c76d4449752a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fkuenstlicheintelligenzki81173d10-6ddd-4ac9-9a7e-c76d4449752a",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Finformatikneutpm_olafundbenjamin%2Fkuenstlicheintelligenzki81173d10-6ddd-4ac9-9a7e-c76d4449752a",
   "prefLabel": {
     "de": "Künstliche Intelligenz (KI)"
+  },
+  "hiddenLabel": {
+    "de": [
+      "KI",
+      "Künstliche Intelligenz",
+      "AI",
+      "Artificial Intelligence"
+    ]
   },
   "narrower": [
     {
@@ -53,7 +59,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -85,6 +90,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -132,8 +143,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

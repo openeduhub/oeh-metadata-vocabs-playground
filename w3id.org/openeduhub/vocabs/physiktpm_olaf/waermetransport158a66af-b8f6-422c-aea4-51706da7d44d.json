@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/waermetransport158a66af-b8f6-422c-aea4-51706da7d44d",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fwaermetransport158a66af-b8f6-422c-aea4-51706da7d44d",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fwaermetransport158a66af-b8f6-422c-aea4-51706da7d44d",
   "prefLabel": {
     "de": "Wärmetransport"
   },
@@ -18,6 +16,17 @@
     ],
     "en": [
       "heat exchange"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Wärmetransport",
+      "Konvektion",
+      "Temperaturstrahlung",
+      "Wärmeleitung",
+      "Wärmemitführung",
+      "Wärmestrahlung",
+      "Wärmeströmung"
     ]
   },
   "broader": {
@@ -41,7 +50,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -73,6 +81,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -120,8 +134,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

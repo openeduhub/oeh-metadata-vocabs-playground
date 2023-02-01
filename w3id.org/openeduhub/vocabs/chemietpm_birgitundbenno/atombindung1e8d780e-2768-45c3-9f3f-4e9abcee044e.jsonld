@@ -1,10 +1,23 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atombindung1e8d780e-2768-45c3-9f3f-4e9abcee044e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fatombindung1e8d780e-2768-45c3-9f3f-4e9abcee044e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fatombindung1e8d780e-2768-45c3-9f3f-4e9abcee044e",
   "prefLabel": {
     "de": "Atombindung"
+  },
+  "hiddenLabel": {
+    "de": [
+      " Molekülbaukasten",
+      "Elektronenpaare",
+      "Kovalente Bindung",
+      "Lewisschreibweise",
+      "Radikal",
+      "Strukturformel",
+      "Valenzelektronen",
+      "Valenzstrichformel",
+      "gemeinsame Elektronenpaare",
+      "gemeinsames Elektronenpaar",
+      "Überlappung von Elektronenwolken"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/bindungene48c5a9d-e04a-49e0-abd7-07a7a56f1bec",
@@ -27,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/partizip291989daa-0395-4734-9d2e-72328ee5c9b7",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpartizip291989daa-0395-4734-9d2e-72328ee5c9b7",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpartizip291989daa-0395-4734-9d2e-72328ee5c9b7",
   "prefLabel": {
     "de": "Partizip 2"
   },
@@ -13,6 +11,15 @@
       "Partizip II",
       "Partizip Perfekt",
       "Partizip der Vergangenheit"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Mittelwort",
+      "Partizip 2",
+      "Partizip II",
+      "Partizip Perfekt",
+      "passive Handlung"
     ]
   },
   "broader": {
@@ -36,7 +43,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -68,6 +74,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -115,8 +127,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

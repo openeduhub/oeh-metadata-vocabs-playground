@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/koordinatensystem530a7be6-73a2-43e4-aef3-38bf713f77ce",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fkoordinatensystem530a7be6-73a2-43e4-aef3-38bf713f77ce",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fkoordinatensystem530a7be6-73a2-43e4-aef3-38bf713f77ce",
   "prefLabel": {
     "de": "Koordinatensystem"
   },
@@ -13,6 +11,14 @@
     ],
     "en": [
       "system of coordinates"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Abszisse",
+      "Ordinate",
+      "Position von Punkten",
+      "geometrischer Raum"
     ]
   },
   "broader": {
@@ -36,7 +42,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -68,6 +73,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -115,8 +126,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

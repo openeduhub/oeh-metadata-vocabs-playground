@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/interferenz0ba47fee-672f-4dcd-8a00-c8f7482a5b83",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Finterferenz0ba47fee-672f-4dcd-8a00-c8f7482a5b83",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Finterferenz0ba47fee-672f-4dcd-8a00-c8f7482a5b83",
   "prefLabel": {
     "de": "Interferenz"
   },
@@ -21,6 +19,18 @@
       "L1 interference",
       "crosslinguistic influence",
       "linguistic interference"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "BRAGG-Reflexion",
+      "Beugungsgitter",
+      "Destruktive Interferenz",
+      "Einzelspalt",
+      "Gangunterschied",
+      "Konstruktive Interferenz",
+      "Vielfachspalt",
+      "Zwei-Quellen-Interferenz"
     ]
   },
   "broader": {
@@ -44,7 +54,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -76,6 +85,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -123,8 +138,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

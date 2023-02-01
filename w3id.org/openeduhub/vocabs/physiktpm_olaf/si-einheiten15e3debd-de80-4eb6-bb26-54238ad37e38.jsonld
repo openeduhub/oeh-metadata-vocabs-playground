@@ -1,10 +1,31 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/si-einheiten15e3debd-de80-4eb6-bb26-54238ad37e38",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fsi-einheiten15e3debd-de80-4eb6-bb26-54238ad37e38",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fsi-einheiten15e3debd-de80-4eb6-bb26-54238ad37e38",
   "prefLabel": {
     "de": "SI-Einheiten"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Stoffmenge",
+      "Mol",
+      "SI",
+      "Masse",
+      "Zeit",
+      "Ampere",
+      " Basiseinheit",
+      "Candela",
+      "Internationales Einheitensystem",
+      "Kelvin",
+      "Kilogramm",
+      "Lichtstärke",
+      "Länge",
+      "Meter",
+      "Sekunde",
+      "Stromstärke",
+      "Système international d’unités",
+      "Thermodynamische\nTemperatur",
+      "metrisches Einheitensystem"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/methoden9190b11c-efcc-4efb-bb8a-1c2343681544",
@@ -27,7 +48,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +79,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +132,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

@@ -1,10 +1,36 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/szenischesspiel82913ce4-d17d-4472-bd55-3071e9ce7bcd",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fszenischesspiel82913ce4-d17d-4472-bd55-3071e9ce7bcd",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fszenischesspiel82913ce4-d17d-4472-bd55-3071e9ce7bcd",
   "prefLabel": {
     "de": "Szenisches Spiel"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Bild und Plastiken nachstellen",
+      "Bildertheater",
+      "Erzähltheater",
+      "Figurentheater",
+      "Gipsmasken",
+      "Handpuppen",
+      "Handschattenspiel",
+      "Kamishibai",
+      "Marionetten",
+      "Maskentheater",
+      "Papierkaschée-Masken",
+      "Papiertheater",
+      "Pappmaschée-Masken",
+      "Puppenspiel",
+      "Schattenspielfiguren",
+      "Schattentheater",
+      "Scherenschnitt",
+      "Standbild",
+      "Standbilder bauen",
+      "Stefan Fichert",
+      "Stockpuppen",
+      "Tableau Vivant",
+      "Tellermasken",
+      "Verbindung von Kunst und Theater"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/ueberdentellerrandae918d0c-4996-4cae-b974-713b28359722",
@@ -27,7 +53,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +84,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +137,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

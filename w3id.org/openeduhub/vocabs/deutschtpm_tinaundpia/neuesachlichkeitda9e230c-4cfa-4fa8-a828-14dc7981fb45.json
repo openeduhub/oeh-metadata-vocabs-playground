@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/neuesachlichkeitda9e230c-4cfa-4fa8-a828-14dc7981fb45",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fneuesachlichkeitda9e230c-4cfa-4fa8-a828-14dc7981fb45",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fneuesachlichkeitda9e230c-4cfa-4fa8-a828-14dc7981fb45",
   "prefLabel": {
     "de": "Neue Sachlichkeit"
   },
@@ -11,6 +9,20 @@
       "Neue Sachlichkeit",
       "Neues Bauen",
       "New Sobriety"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Bertholt Brecht",
+      "Episches Theater",
+      "Erich Kästner",
+      "Fabian",
+      "Gebrauchslyrik",
+      "Im Westen nichts Neues",
+      "Joachim Ringelnatz",
+      "Kurt Tucholsky",
+      "Otto Dix",
+      "Weimarer Republik"
     ]
   },
   "broader": {
@@ -34,7 +46,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -66,6 +77,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -113,8 +130,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

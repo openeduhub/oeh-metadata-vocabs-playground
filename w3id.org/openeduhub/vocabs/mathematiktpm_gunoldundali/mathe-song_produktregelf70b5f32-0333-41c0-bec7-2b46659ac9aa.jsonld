@@ -1,10 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/mathe-song_produktregelf70b5f32-0333-41c0-bec7-2b46659ac9aa",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fmathe-song_produktregelf70b5f32-0333-41c0-bec7-2b46659ac9aa",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Fmathe-song_produktregelf70b5f32-0333-41c0-bec7-2b46659ac9aa",
   "prefLabel": {
     "de": "Mathe-Song: Produktregel"
+  },
+  "hiddenLabel": {
+    "de": [
+      "kleiner Ohrwurm zur Produktregel beim Ableiten"
+    ]
   },
   "note": {
     "de": "kleiner Ohrwurm zur Produktregel beim Ableiten"
@@ -30,7 +33,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -62,6 +64,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -109,8 +117,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

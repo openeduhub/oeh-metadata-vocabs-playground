@@ -1,16 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/komposition9e91a047-1e81-49cb-9556-40dbe3192b36",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkomposition9e91a047-1e81-49cb-9556-40dbe3192b36",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fkomposition9e91a047-1e81-49cb-9556-40dbe3192b36",
   "prefLabel": {
     "de": "Komposition"
   },
   "altLabel": {
     "de": [
-      "Musikstück",
-      "Komposition",
       "Wortzusammensetzung",
+      "Komposition",
       "Bestimmungswort",
       "Beziehung",
       "Bildkomposition",
@@ -26,6 +23,7 @@
       "Kompositum aus",
       "Kopulativkompositum",
       "Musikkompositionen",
+      "Musikstück",
       "Musikwerk",
       "Stück",
       "Verbindung von",
@@ -78,6 +76,47 @@
       "∘"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Blickführung",
+      "Bildformat",
+      "Aufbau des Kunstwerkes",
+      "Ausgewogenheit",
+      "Bögen",
+      "Detailanalyse",
+      "Farbkomposition",
+      "Flächenkomposition",
+      "Gliederung",
+      "Gliederungen",
+      "Hell-Dunkel-Komposition",
+      "Horizontale",
+      "Kompositionsskizze",
+      "Motivkomposition",
+      "Ordnung",
+      "Proportionen",
+      "Rhythmisierung",
+      "Richtungen",
+      "Schrägen",
+      "Stabilität",
+      "Teilung",
+      "Teilungen",
+      "Verteilung und Vernetzung der einzelnen Bildelemente auf der Bildfläche",
+      "Vertikale",
+      "anordnen der Bildgegenstände",
+      "arrangieren der Bildgegenstände",
+      "der Goldene Schnitt",
+      "der goldene Schnitt: die geometrische als harmonisch empfundene Teilung einer Linie oder Fläche",
+      "die Figura piramidale: die sich in ein gleichschenkliges oder gleichseitiges Dreieck einfügende Anordnung einer Figurengruppe",
+      "die Figura serpentinata: die sich um eine imaginäre Achse emporschraubende Kompositon einer Figur oder Figurengruppe",
+      "die Isokephalie: die Reihung einer Figurengruppe in gleichbleibender Kopfhöhe",
+      "die Struktur eines Werkes untergliedert sich in drei verschiedene Ebenen",
+      "freie Komposition",
+      "gebundene Komposition",
+      "geschlossene Komposition",
+      "offene Kompostion",
+      "sodass der kleinere Teil sich zum größeren verhält wie der größer zum Ganzen"
+    ]
+  },
   "narrower": [
     {
       "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/goldenerschnittd344a307-e519-4a06-a467-f73a43c234cb",
@@ -107,7 +146,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -139,6 +177,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -186,8 +230,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

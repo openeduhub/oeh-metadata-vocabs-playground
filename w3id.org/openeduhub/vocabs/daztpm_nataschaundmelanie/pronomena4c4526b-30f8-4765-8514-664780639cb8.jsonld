@@ -1,15 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/daztpm_nataschaundmelanie/pronomena4c4526b-30f8-4765-8514-664780639cb8",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpronomena4c4526b-30f8-4765-8514-664780639cb8",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdaztpm_nataschaundmelanie%2Fpronomena4c4526b-30f8-4765-8514-664780639cb8",
   "prefLabel": {
     "de": "Pronomen"
   },
   "altLabel": {
     "de": [
-      "Pronomen",
       "Personalpronomen",
+      "Pronomen",
       "Fürwort",
       "Pronomina",
       "Pronominal",
@@ -18,6 +16,12 @@
     "en": [
       "personal pronoun",
       "pronoun"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Pronomen",
+      "Fürwörter"
     ]
   },
   "narrower": [
@@ -79,7 +83,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -111,6 +114,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -158,8 +167,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

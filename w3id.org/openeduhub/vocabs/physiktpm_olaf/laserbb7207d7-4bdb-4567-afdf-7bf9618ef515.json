@@ -1,23 +1,21 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/laserbb7207d7-4bdb-4567-afdf-7bf9618ef515",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Flaserbb7207d7-4bdb-4567-afdf-7bf9618ef515",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Flaserbb7207d7-4bdb-4567-afdf-7bf9618ef515",
   "prefLabel": {
     "de": "Laser"
   },
   "altLabel": {
     "de": [
-      "Laserphysik",
-      "Lasertechnik",
       "Farbzentrenlaser",
       "Laser 4.7",
       "Laser radial",
       "Laserklassen",
       "Lasern",
+      "Laserphysik",
       "Laserschutz",
       "Laserschutzklasse",
       "Laserstrahlung",
+      "Lasertechnik",
       "Lichtverstärker",
       "Light Amplification by Stimulated Emission of Radiation"
     ],
@@ -28,6 +26,19 @@
       "lasers",
       "lasing",
       "light amplification by stimulated emission of radiation"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      " Laserresonator",
+      "Dauerstrichlaser",
+      "Helium-Neon-Laser",
+      "Laserdiode",
+      "Lasermedien",
+      "Licht-Verstärkung durch stimulierte Emission von Strahlung",
+      "Stimulierte Emission",
+      "light amplification by stimulated emission of radiation",
+      "optisches Punkten"
     ]
   },
   "broader": {
@@ -51,7 +62,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -83,6 +93,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -130,8 +146,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

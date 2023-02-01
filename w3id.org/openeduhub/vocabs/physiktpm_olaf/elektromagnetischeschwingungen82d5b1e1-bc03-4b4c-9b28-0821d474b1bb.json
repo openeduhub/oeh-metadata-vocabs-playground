@@ -1,10 +1,16 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felektromagnetischeschwingungen82d5b1e1-bc03-4b4c-9b28-0821d474b1bb",
   "prefLabel": {
     "de": "Elektromagnetische Schwingungen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Dipolschwingung",
+      "Hertzscher Dipol",
+      "MEISSNER'sche Rückkopplungsschaltung",
+      "Stabdipol"
+    ]
   },
   "narrower": [
     {
@@ -35,7 +41,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -67,6 +72,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -114,8 +125,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

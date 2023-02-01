@@ -1,8 +1,6 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/expressionismus83147912-be4b-49c0-8133-c831d609535e",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fexpressionismus83147912-be4b-49c0-8133-c831d609535e",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fexpressionismus83147912-be4b-49c0-8133-c831d609535e",
   "prefLabel": {
     "de": "Expressionismus"
   },
@@ -16,6 +14,20 @@
       "Expressionistischer Film",
       "Expressive Kunst",
       "Filmexpressionismus"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Anonymität",
+      "Ausdruck",
+      "Else Lasker-Schüler",
+      "Gefühle",
+      "Georg Heym",
+      "Georg Trakl",
+      "Gottfried Benn",
+      "Hesse",
+      "Hoddis",
+      "Steppenwolf"
     ]
   },
   "broader": {
@@ -39,7 +51,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -71,6 +82,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -118,8 +135,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

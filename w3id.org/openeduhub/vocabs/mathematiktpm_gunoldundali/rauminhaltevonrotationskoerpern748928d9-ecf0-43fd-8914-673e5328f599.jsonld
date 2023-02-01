@@ -1,10 +1,18 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/rauminhaltevonrotationskoerpern748928d9-ecf0-43fd-8914-673e5328f599",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Frauminhaltevonrotationskoerpern748928d9-ecf0-43fd-8914-673e5328f599",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmathematiktpm_gunoldundali%2Frauminhaltevonrotationskoerpern748928d9-ecf0-43fd-8914-673e5328f599",
   "prefLabel": {
     "de": "Rauminhalte von Rotationskörpern"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Drehung",
+      "Kreiskegel oder auch Zylinder",
+      "Kugel",
+      "Kurvenebene",
+      "Rotationskörper",
+      "Rotationsvolumen bei der Drehung"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/mathematiktpm_gunoldundali/integralrechnunge2e1f759-c3f7-4c1b-a640-6a83e587e5cb",
@@ -27,7 +35,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +66,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +119,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

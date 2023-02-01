@@ -1,10 +1,40 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/audiosundpodcasts6b72796e-350f-4f3b-8ae8-17b96e0f0629",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Faudiosundpodcasts6b72796e-350f-4f3b-8ae8-17b96e0f0629",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fmedienbildungtpm_ruedigerundnina%2Faudiosundpodcasts6b72796e-350f-4f3b-8ae8-17b96e0f0629",
   "prefLabel": {
     "de": "Audios und Podcasts"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Hörspiel",
+      "Radiobeitrag",
+      "Podcasts",
+      "Audacity",
+      "Audioaufnahme",
+      "Audioaufnahmen",
+      "Audioprojekt",
+      "Audioprojekte",
+      "Audioprojekte beurteilen",
+      "Audioprojekte bewerten",
+      "Audioprojekte durchführen",
+      "Hörspielaufnahme",
+      "Hörspielaufnahmen",
+      "Hörspiele",
+      "Hörspiele aufnehmen",
+      "Hörspiele erstellen",
+      "Hörspiele gestalten",
+      "Interview,Interviews",
+      "Interviews aufnehmen",
+      "Podcast",
+      "Podcasts aufnehmen",
+      "Podcasts erstellen",
+      "Radiobeiträge aufnehmen",
+      "Radiobeiträge. Garage Band",
+      "Radiosendung",
+      "Radiosendungen",
+      "Tonaufnahme",
+      "Vertonung"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/medienbildungtpm_ruedigerundnina/produzierenundpraesentieren63f85f07-847d-4d4e-b6ab-a080eb8affe3",
@@ -27,7 +57,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +88,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +141,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

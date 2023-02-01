@@ -1,10 +1,23 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/deterministischeschaosc191962c-335a-43fd-a895-2cfb25c83382",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fdeterministischeschaosc191962c-335a-43fd-a895-2cfb25c83382",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Fdeterministischeschaosc191962c-335a-43fd-a895-2cfb25c83382",
   "prefLabel": {
     "de": "Deterministisches Chaos"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Chaotheorie",
+      "Determinismus",
+      "Doppelpendel",
+      "Grenzen der NEWTONschen Mechanik",
+      "Kausalität",
+      "Kausalitätsprinzip",
+      "Lorenz-Attraktor",
+      "Rückkopplung",
+      "Schmetterlingseffekt",
+      "gekoppelte Systeme",
+      "seltsamer Attraktor"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/waermelehre_thermodynamik0b21a598-ae1b-41d1-a260-3e4747dbfa1d",
@@ -27,7 +40,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +71,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +124,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

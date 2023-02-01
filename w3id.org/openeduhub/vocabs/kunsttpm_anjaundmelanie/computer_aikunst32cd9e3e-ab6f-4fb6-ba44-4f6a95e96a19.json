@@ -1,10 +1,25 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/computer_aikunst32cd9e3e-ab6f-4fb6-ba44-4f6a95e96a19",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fcomputer_aikunst32cd9e3e-ab6f-4fb6-ba44-4f6a95e96a19",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fkunsttpm_anjaundmelanie%2Fcomputer_aikunst32cd9e3e-ab6f-4fb6-ba44-4f6a95e96a19",
   "prefLabel": {
     "de": "Computer / AI Kunst"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Apfelmännchen",
+      "Deep Dreaming",
+      "Frieder Nake",
+      "Gero Gries",
+      "Kunst mit dem Computer erzeugt",
+      "Manfred Mohr",
+      "Piotr Iwicki",
+      "Pixel-Ästhetik",
+      "Ryoji Ikeda",
+      "Vera Molnar",
+      "Yvaral",
+      "der Computer als Künstler",
+      "maschinelles Lernen"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/kunsttpm_anjaundmelanie/medialekunst23f4b7f7-3ef0-4a8c-9fee-6e7f4e15dd1f",
@@ -27,7 +42,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +73,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +126,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

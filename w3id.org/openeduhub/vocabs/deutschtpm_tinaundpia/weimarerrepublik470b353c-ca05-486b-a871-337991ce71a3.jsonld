@@ -1,19 +1,17 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/weimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fweimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fdeutschtpm_tinaundpia%2Fweimarerrepublik470b353c-ca05-486b-a871-337991ce71a3",
   "prefLabel": {
     "de": "Weimarer Republik"
   },
   "altLabel": {
     "de": [
-      "Deutsches Kaiserreich",
       "Weimarer Republik",
-      "Bundesrepublik Deutschland",
       "BR Deutschland",
       "BRD",
+      "Bundesrepublik Deutschland",
       "Deutsche Republik",
+      "Deutsches Kaiserreich",
       "Deutsches Reich",
       "Deutsches Reich 1919 bis 1933",
       "GER",
@@ -38,6 +36,16 @@
       "de"
     ]
   },
+  "hiddenLabel": {
+    "de": [
+      "Stefan Zweig",
+      "Thomas Mann",
+      "Reiner Maria Rilke",
+      "Stefan George",
+      "Gerhart Hauptmann",
+      "Neue Sachlichkeit "
+    ]
+  },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/deutschtpm_tinaundpia/literaturgeschichte7021920e-c3a6-4681-ba0c-69e55f8c8f47",
     "prefLabel": {
@@ -59,7 +67,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -91,6 +98,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -138,8 +151,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

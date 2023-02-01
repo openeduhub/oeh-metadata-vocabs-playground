@@ -1,10 +1,19 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/elektronencc5a4c65-a4b9-4e60-b74c-e97207c8b3eb",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felektronencc5a4c65-a4b9-4e60-b74c-e97207c8b3eb",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fphysiktpm_olaf%2Felektronencc5a4c65-a4b9-4e60-b74c-e97207c8b3eb",
   "prefLabel": {
     "de": "Elektronen"
+  },
+  "hiddenLabel": {
+    "de": [
+      "Beugung und Interferenz von Quantenobjekten",
+      "De Broglie Wellenlänge",
+      "Interferenz von Quantenobjekten",
+      "Quantenobjekte",
+      "Statistische Deutung",
+      "Unschärferelation",
+      "Welle - Teilchen - Dualismus"
+    ]
   },
   "broader": {
     "id": "http://w3id.org/openeduhub/vocabs/physiktpm_olaf/quantenphysikb7ba13f9-73ea-47de-9a61-94cb2e5adff1",
@@ -27,7 +36,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -59,6 +67,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -106,8 +120,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }

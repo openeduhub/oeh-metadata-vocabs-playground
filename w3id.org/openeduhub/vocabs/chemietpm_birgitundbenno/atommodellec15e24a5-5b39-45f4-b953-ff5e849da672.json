@@ -1,15 +1,13 @@
 {
   "id": "http://w3id.org/openeduhub/vocabs/chemietpm_birgitundbenno/atommodellec15e24a5-5b39-45f4-b953-ff5e849da672",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fatommodellec15e24a5-5b39-45f4-b953-ff5e849da672",
-  "inbox": "https://test.skohub.io/inbox?target=oeh-metadata-vocabs-playground%2Fw3id.org%2Fopeneduhub%2Fvocabs%2Fchemietpm_birgitundbenno%2Fatommodellec15e24a5-5b39-45f4-b953-ff5e849da672",
   "prefLabel": {
     "de": "Atommodelle"
   },
   "altLabel": {
     "de": [
-      "Atommodelle",
       "Atommodell",
+      "Atommodelle",
       "Atomtheorie",
       "Atomtheorien",
       "Liste der Atommodelle",
@@ -18,6 +16,13 @@
     "en": [
       "Model of atom",
       "atomic model"
+    ]
+  },
+  "hiddenLabel": {
+    "de": [
+      "Atomismus",
+      "Atommodell",
+      "Kontinuitätsprinzip"
     ]
   },
   "narrower": [
@@ -85,7 +90,6 @@
     "dct": "http://purl.org/dc/terms/",
     "schema": "http://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -117,6 +121,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -164,8 +174,6 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
       "@container": "@set"
     }
