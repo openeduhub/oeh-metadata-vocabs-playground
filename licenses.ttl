@@ -12,8 +12,8 @@
     dct:modified "2020-01-15"^^xsd:date;
     dct:issued "2020-01-15"^^xsd:date;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <CC_0>, <CC_BY_40>, <CC_BY_SA_40> ;
-     .
+    skos:hasTopConcept <CC_0>, <CC_BY_40>, <CC_BY_SA_40>, <CC_BY_NC_40>, <CC_BY_ND_40>, <CC_BY_NC_SA_40>, <CC_BY_NC_ND_40> ;
+    .
 
 <CC_0> a skos:Concept ;
     skos:prefLabel "CC 0"@de ;
