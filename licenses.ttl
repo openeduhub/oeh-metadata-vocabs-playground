@@ -12,7 +12,7 @@
     dct:modified "2020-01-15"^^xsd:date;
     dct:issued "2020-01-15"^^xsd:date;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept <CC_0>, <CC_BY_40>, <CC_BY_SA_40>, <CC_BY_NC_40>, <CC_BY_ND_40>, <CC_BY_NC_SA_40>, <CC_BY_NC_ND_40> ;
+    skos:hasTopConcept <CC_0>, <CC_BY_40>, <CC_BY_SA_40>, <CC_BY_NC_40>, <CC_BY_ND_40>, <CC_BY_NC_SA_40>, <CC_BY_NC_ND_40>, <OTHER> ;
     .
 
 <CC_0> a skos:Concept ;
@@ -47,5 +47,10 @@
 
 <CC_BY_NC_ND_40> a skos:Concept ;
     skos:prefLabel "CC-BY-NC-ND 4.0 (freie Nutzung bei Namensnennung, Keine kommerzielle Verwendung erlaubt, Keine Bearbeitung des Werks erlaubt)"@de ;
+    skos:inScheme <> ;
+    .
+
+<OTHER> a skos:Concept ;
+    skos:prefLabel "Sonstige Lizenzen (bitte teile uns die Lizenz im Feld Kurzbeschreibung mit, falls du sie kennst)"@de ;
     skos:inScheme <> ;
     .
