@@ -34,10 +34,10 @@ jobs:
       - run: git clone https://github.com/openeduhub/oeh-metadata-vocabs-playground.git data/
 
       - name: make .env.production file
-        run: echo "BASEURL=/oeh-metadata-vocabs-playground" > .env.production
+        run: echo "BASEURL=/oeh-metadata-vocabs-playground" > .env
 
       - name: build public dir with docker image
-        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data -v $(pwd)/.env.production:/app/.env.production skohub/skohub-vocabs-docker:latest
+        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data -v $(pwd)/.env:/app/.env skohub/skohub-vocabs-docker:latest
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
